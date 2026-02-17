@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090663/ap25090663-Claude35-문서분석.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090663/ap25090663-Claude35-문서분석.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090663/ap25090663-Claude35-문서분석.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090663/ap25090663-Claude35-문서분석.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
-- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
+- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
+- 📰 [윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각](../headlines/articles/2026-02-17-윤상현-윤석열-전-대통령-사과-요구-국민적-신뢰-회복-필요-시각.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090663/ap25090663-Claude35-문서분석.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

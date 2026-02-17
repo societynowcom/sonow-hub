@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021147/ai26021147-ai.html
 
 최근 정부가 발표한 새로운 식이 가이드라인은 단백질 섭취량을 증가시켜 논란이 되고 있다. 이에 따라 출시된 AI chatbot Grok 또한 다양한 의견을 제시하며, 그로 인해 시민들의 건강 정보 파악 어려움까지 야기하고 있는 것으로 드러났다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021147/ai26021147-ai.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021147/ai26021147-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Wired AI
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021147/ai26021147-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
 - 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021147/ai26021147-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

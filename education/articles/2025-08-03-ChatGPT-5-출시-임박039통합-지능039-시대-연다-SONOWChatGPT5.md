@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25080301/ap25080301-chatgpt5-출시-기ᄂ
 
 **AI 생산성** | 2025.08.03 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25080301/ap25080301-chatgpt5-출시-기능분석.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25080301/ap25080301-chatgpt5-출시-기능분석.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25080301/ap25080301-chatgpt5-출시-기ᄂ
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](../tech-ai/articles/2026-02-17-GPT-4o-인간과의-관계에서-죽음을-맞는-AI-챗봇.md)
+- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
 - 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25080301/ap25080301-chatgpt5-출시-기능분석.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

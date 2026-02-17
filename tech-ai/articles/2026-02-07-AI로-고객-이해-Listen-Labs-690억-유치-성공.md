@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020741/ai26020741-ai.html
 
 Listen Labs는 AI 기반 인터뷰 플랫폼으로 고객에 대한 빠른하고 정확한 이해 제공.  5천 달러의 광고로 100명 이상 인재 채용 성공. 최신 시리즈 B 투자 라운드에서 690억원 확보. 전통적인 설문 조사와 인터뷰의 한계를 뛰어넘는 새로운 접근 방식으로 큰 관심을 받고 있다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020741/ai26020741-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020741/ai26020741-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -30,9 +30,9 @@ Listen Labs는 AI 기반 인터뷰 플랫폼으로 고객에 대한 빠른하고
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
 - 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020741/ai26020741-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

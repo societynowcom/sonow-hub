@@ -15,7 +15,7 @@ url: "/sonow/article/hk/hk25090583/hk25090583-NodeulIsland-livemusic.html"
 
 **Hidden Korea** | 2025.09.05 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/hk/hk25090583/hk25090583-NodeulIsland-livemusic.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](/sonow/article/hk/hk25090583/hk25090583-NodeulIsland-livemusic.html)**
 
 ## 📌 관련 기사
 
@@ -30,4 +30,4 @@ url: "/sonow/article/hk/hk25090583/hk25090583-NodeulIsland-livemusic.html"
 
 ---
 
-*[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/hk/hk25090583/hk25090583-NodeulIsland-livemusic.html)** | *[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011502/an26011502-Google�
 
 Google's Gemini AI is getting what could prove to be a very big upgrade: To help answers from Gemini be more personalized, the company is going to let you conne...
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011502/an26011502-Google’s-Gemini-AI-will-use-what-it-knows-about-you-from-Gmail-Search-and-YouTube.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011502/an26011502-Google’s-Gemini-AI-will-use-what-it-knows-about-you-from-Gmail-Search-and-YouTube.html)**
 
 ## 📌 관련 기사
 
@@ -28,9 +28,9 @@ Google's Gemini AI is getting what could prove to be a very big upgrade: To help
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
 - 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011502/an26011502-Google’s-Gemini-AI-will-use-what-it-knows-about-you-from-Gmail-Search-and-YouTube.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

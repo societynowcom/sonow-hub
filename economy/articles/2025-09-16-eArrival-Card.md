@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091647/kn25091647-eArriva
 
 **경제** | 2025.09.16 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/kn/kn25091647/kn25091647-eArrival-Card.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/kn/kn25091647/kn25091647-eArrival-Card.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091647/kn25091647-eArriva
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
+- 📰 [윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각](../headlines/articles/2026-02-17-윤상현-윤석열-전-대통령-사과-요구-국민적-신뢰-회복-필요-시각.md)
 - 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/kn/kn25091647/kn25091647-eArrival-Card.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*

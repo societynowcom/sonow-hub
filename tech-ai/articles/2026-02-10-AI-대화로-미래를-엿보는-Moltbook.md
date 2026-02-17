@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021021/ai26021021-ai.html
 
 최근 기술계에서 AI 에이전트들이 상호 작용하는 온라인 플랫폼 'Moltbook'에 대한 관심이 집중되고 있습니다. Moltbook는 인공지능 발전의 가능성과 미래 사회를 엿볼 수 있는 창구로 주목받고 있습니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021021/ai26021021-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021021/ai26021021-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · MIT Technology Review AI
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021021/ai26021021-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021021/ai26021021-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

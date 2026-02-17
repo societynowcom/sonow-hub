@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021037/ai26021037-ai.html
 
 NVidia 창립자이자 CEO인 제슨 황과 Dassault Systèmes CEO 파스칼 달로즈는 가상쌍체와 물리 기반 AI를 결합한 공동 산업 AI 아키텍처 구축을 발표했다. 이번 파트너십은 디자인, 엔지니어링 및 제조 분야의 미래를 재정의할 전망이다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021037/ai26021037-ai.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021037/ai26021037-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · NVIDIA AI Blog
 
@@ -30,9 +30,9 @@ NVidia 창립자이자 CEO인 제슨 황과 Dassault Systèmes CEO 파스칼 달
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021037/ai26021037-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

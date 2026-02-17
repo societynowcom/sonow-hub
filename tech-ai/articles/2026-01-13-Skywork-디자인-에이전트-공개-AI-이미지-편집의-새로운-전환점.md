@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011308/an26011308-skywork
 
 Skywork가 포스터부터 로고까지 모든 비주얼 작업을 처리하는 디자인 에이전트를 공개했다. 내장 캔버스 에디터로 레이어 분리와 텍스트 수정이 가능해 AI 이미지 편집의 한계를 극복했다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011308/an26011308-skywork.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011308/an26011308-skywork.html)**
 
 **🏷️ 키워드:** Skywork · 디자인 에이전트 · AI 이미지 편집 · 캔버스 에디터 · 레이어 편집 · 자연어 처리 · 비주얼 디자인 · AI 도구 · 이미지 생성 · 디자인 자동화
 
@@ -30,9 +30,9 @@ Skywork가 포스터부터 로고까지 모든 비주얼 작업을 처리하는 
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011308/an26011308-skywork.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

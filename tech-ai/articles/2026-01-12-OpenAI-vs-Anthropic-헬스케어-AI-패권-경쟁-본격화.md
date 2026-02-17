@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011202/an26011202-헬스�
 
 Anthropic이 Claude for Healthcare를 공개하며 OpenAI ChatGPT Health와 정면 경쟁에 돌입했다. 두 회사 모두 의료 기록 연동 기능을 제공하지만 개인정보 보호 우려가 제기되고 있다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011202/an26011202-헬스케어-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011202/an26011202-헬스케어-ai.html)**
 
 **🏷️ 키워드:** 헬스케어 AI · OpenAI · Anthropic · Claude · ChatGPT Health · 의료 AI · 개인정보 보호 · HIPAA · 의료 기록 · AI 경쟁
 
@@ -30,9 +30,9 @@ Anthropic이 Claude for Healthcare를 공개하며 OpenAI ChatGPT Health와 정�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011202/an26011202-헬스케어-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

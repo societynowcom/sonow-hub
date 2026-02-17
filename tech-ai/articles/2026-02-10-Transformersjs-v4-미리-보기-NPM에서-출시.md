@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021031/ai26021031-ai.html
 
 Hugging Face는 트랜스포머 모델을 JavaScript로 사용하기 위한 open-source 라이브러리인 Transformers.js v4를 NPM에 공개했습니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021031/ai26021031-ai.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021031/ai26021031-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ Hugging Face는 트랜스포머 모델을 JavaScript로 사용하기 위한 open
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021031/ai26021031-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

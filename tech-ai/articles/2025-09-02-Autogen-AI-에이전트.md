@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen
 
 **TECH & AI** | 2025.09.02 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen-AI-에이전트.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen-AI-에이전트.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
 - 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen-AI-에이전트.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

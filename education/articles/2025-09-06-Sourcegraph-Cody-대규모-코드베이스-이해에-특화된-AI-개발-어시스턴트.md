@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090685/ap25090685-SourcegraphCody-대규모코드베
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090685/ap25090685-SourcegraphCody-대규모코드베이스.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090685/ap25090685-SourcegraphCody-대규모코드베이스.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090685/ap25090685-SourcegraphCody-대규모코드베
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
-- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
+- 🤖 [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](../tech-ai/articles/2026-02-17-GPT-4o-인간과의-관계에서-죽음을-맞는-AI-챗봇.md)
+- 📰 [충주맨 김선태, 내부 갈등 부정 / 사직 배경은 개인적 목표](../headlines/articles/2026-02-17-충주맨-김선태-내부-갈등-부정-사직-배경은-개인적-목표.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090685/ap25090685-SourcegraphCody-대규모코드베이스.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

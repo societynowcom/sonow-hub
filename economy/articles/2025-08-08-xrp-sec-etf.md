@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/st/st25080803/st25080803-xrp-sec
 
 **주식** | 2025.08.08 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/st/st25080803/st25080803-xrp-sec-etf.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/st/st25080803/st25080803-xrp-sec-etf.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/st/st25080803/st25080803-xrp-sec
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📰 [윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각](../headlines/articles/2026-02-17-윤상현-윤석열-전-대통령-사과-요구-국민적-신뢰-회복-필요-시각.md)
+- 📰 [충주맨 김선태, 내부 갈등 부정 / 사직 배경은 개인적 목표](../headlines/articles/2026-02-17-충주맨-김선태-내부-갈등-부정-사직-배경은-개인적-목표.md)
 - 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/st/st25080803/st25080803-xrp-sec-etf.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*

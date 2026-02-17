@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021144/ai26021144-ai.html
 
 Anthropic가 AI 에이전트 "Cowork"를 출시했습니다. 이는 기존의 Claude Code를 바탕으로 일반 사용자가 파일 관리, 문서 작성 등을 AI에 의해 자동화할 수 있도록 합니다. Cowork은 10일 만에 개발되었으며 개발자도구에서 비롯된 점이 특징입니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021144/ai26021144-ai.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021144/ai26021144-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -35,4 +35,4 @@ Anthropic가 AI 에이전트 "Cowork"를 출시했습니다. 이는 기존의 Cl
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021144/ai26021144-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

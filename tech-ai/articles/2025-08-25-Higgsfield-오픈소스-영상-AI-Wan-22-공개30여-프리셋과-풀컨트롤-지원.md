@@ -15,7 +15,7 @@ url: "/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html"
 
 **SONOW TECH** | 2025.08.25 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html)**
 
 ## 📌 관련 기사
 
@@ -30,4 +30,4 @@ url: "/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html"
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

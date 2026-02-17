@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021532/ai26021532-ai.html
 
 Hugging Face가 새로운 버전인 Transformers.js v4을 NPM에 공개했습니다. 이 버전은 성능 향상, 기능 확장 및 사용자 편의성 증대 등 다양한 개선 사항을 제공합니다. 자세한 내용은 다음 문단에서 살펴보세요.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021532/ai26021532-ai.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021532/ai26021532-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ Hugging Face가 새로운 버전인 Transformers.js v4을 NPM에 공개했습니
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021532/ai26021532-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090686/ap25090686-ClaudeforWork-기업용AI.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090686/ap25090686-ClaudeforWork-기업용AI.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090686/ap25090686-ClaudeforWork-기업용AI.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090686/ap25090686-ClaudeforWork-기업용AI.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](../tech-ai/articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md)
+- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
 - 📰 [충주맨 김선태, 내부 갈등 부정 / 사직 배경은 개인적 목표](../headlines/articles/2026-02-17-충주맨-김선태-내부-갈등-부정-사직-배경은-개인적-목표.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090686/ap25090686-ClaudeforWork-기업용AI.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

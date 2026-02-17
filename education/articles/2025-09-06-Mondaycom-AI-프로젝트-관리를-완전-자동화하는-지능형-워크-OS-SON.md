@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090699/ap25090699-MondaycomAI-프로젝트관리.htm
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090699/ap25090699-MondaycomAI-프로젝트관리.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090699/ap25090699-MondaycomAI-프로젝트관리.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090699/ap25090699-MondaycomAI-프로젝트관리.htm
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
-- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
+- 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
+- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090699/ap25090699-MondaycomAI-프로젝트관리.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

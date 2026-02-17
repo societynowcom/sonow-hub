@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090683/ap25090683-Tabnine-기업용AI코딩.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090683/ap25090683-Tabnine-기업용AI코딩.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090683/ap25090683-Tabnine-기업용AI코딩.html)**
 
 ## 📌 관련 기사
 
@@ -30,4 +30,4 @@ url: "/sonow/article/ap/ap25090683/ap25090683-Tabnine-기업용AI코딩.html"
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090683/ap25090683-Tabnine-기업용AI코딩.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

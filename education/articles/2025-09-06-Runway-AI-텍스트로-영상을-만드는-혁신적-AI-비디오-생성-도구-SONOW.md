@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090668/ap25090668-RunwayAI-AI영상제작.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090668/ap25090668-RunwayAI-AI영상제작.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090668/ap25090668-RunwayAI-AI영상제작.html)**
 
 ## 📌 관련 기사
 
@@ -30,4 +30,4 @@ url: "/sonow/article/ap/ap25090668/ap25090668-RunwayAI-AI영상제작.html"
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090668/ap25090668-RunwayAI-AI영상제작.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

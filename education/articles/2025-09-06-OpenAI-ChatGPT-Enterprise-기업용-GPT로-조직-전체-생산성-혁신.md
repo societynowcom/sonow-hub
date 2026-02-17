@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090687/ap25090687-기업용GPT.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090687/ap25090687-기업용GPT.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090687/ap25090687-기업용GPT.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090687/ap25090687-기업용GPT.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
+- 🤖 [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](../tech-ai/articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md)
 - 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090687/ap25090687-기업용GPT.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091640/kn25091640-Korea-v
 
 **경제** | 2025.09.16 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/kn/kn25091640/kn25091640-Korea-visa-immigration.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/kn/kn25091640/kn25091640-Korea-visa-immigration.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091640/kn25091640-Korea-v
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
+- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
 - 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/kn/kn25091640/kn25091640-Korea-visa-immigration.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*

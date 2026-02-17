@@ -204,6 +204,17 @@ function generateArticleMD(article, allArticles, groupedArticles, idToFilename) 
     };
     const groupDisplayName = GROUP_NAMES[catInfo.group] || catInfo.group;
 
+    // CTA 문구 배열 (기사마다 다른 문구 사용)
+    const ctaVariants = [
+        '이 기사의 전체 분석과 관련 보도를',
+        '더 자세한 내용과 관련 기사를',
+        '전문가 분석과 심층 보도를',
+        '실시간 업데이트와 전체 기사를',
+        '이 이슈의 전체 맥락과 배경을'
+    ];
+    const ctaIdx = Math.abs(article.article_id.split('').reduce((s, c) => s + c.charCodeAt(0), 0)) % ctaVariants.length;
+    const midCTA = `> **${ctaVariants[ctaIdx]} [Society-Now에서 확인하세요](${articleUrl})**`;
+
     return `${frontMatter}
 
 # ${article.title || '제목 없음'}
@@ -211,11 +222,11 @@ function generateArticleMD(article, allArticles, groupedArticles, idToFilename) 
 ${subtitle}
 **${catInfo.name}** | ${date} | SO,NOW
 ${description}
-**📰 [전체 기사 읽기 → society-now.com](${articleUrl})**
+${midCTA}
 ${keywordsLine}${relatedArticles}${crossLinks}
 ---
 
-*[🏠 홈](../../README.md) | [${GROUP_ICONS[catInfo.group] || '📂'} ${groupDisplayName}](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](${articleUrl})** | *[🏠 홈](../../README.md) | [${GROUP_ICONS[catInfo.group] || '📂'} ${groupDisplayName}](../README.md)*
 `;
 }
 
@@ -375,8 +386,9 @@ async function main() {
     console.log(`   → 충돌 감지: ${collisionCount}개 (article_id 접미사로 해결)\n`);
 
     // 4. MD 파일 생성
-    console.log('4. MD 파일 생성 중...');
-    let created = 0, skipped = 0;
+    const forceMode = process.argv.includes('--force');
+    console.log(`4. MD 파일 생성 중...${forceMode ? ' (--force: 기존 파일도 재생성)' : ''}`);
+    let created = 0, updated = 0, skipped = 0;
 
     for (const a of articles) {
         const code = a.article_id.slice(0, 2);
@@ -390,9 +402,14 @@ async function main() {
         const fileName = idToFilename.get(a.article_id) || makeFilename(a);
         const filePath = path.join(articlesDir, fileName);
 
-        // 이미 존재하면 스킵
         if (fs.existsSync(filePath)) {
-            skipped++;
+            if (forceMode) {
+                const md = generateArticleMD(a, articles, groupedArticles, idToFilename);
+                fs.writeFileSync(filePath, md, 'utf-8');
+                updated++;
+            } else {
+                skipped++;
+            }
             continue;
         }
 
@@ -400,7 +417,7 @@ async function main() {
         fs.writeFileSync(filePath, md, 'utf-8');
         created++;
     }
-    console.log(`   → 생성: ${created}개, 스킵(기존): ${skipped}개\n`);
+    console.log(`   → 신규: ${created}개, 업데이트: ${updated}개, 스킵: ${skipped}개\n`);
 
     // 5. README 업데이트
     console.log('5. README 파일 업데이트...');

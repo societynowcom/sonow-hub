@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021022/ai26021022-ai.html
 
 최근 온라인에서 화제가 된 'Moltbook'은  AI 기술을 이용한 새로운 소셜 네트워크로 주목받았다. 봇들이 활동하는 플랫폼으로서 사람들과의 상호 작용 가능성을 제시하며 AI 기술 발전에 대한 기대감을 높였다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021022/ai26021022-ai.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021022/ai26021022-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · MIT Technology Review AI
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021022/ai26021022-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드-kc25112312.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021022/ai26021022-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

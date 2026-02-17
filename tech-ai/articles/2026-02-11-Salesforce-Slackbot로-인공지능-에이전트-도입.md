@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021143/ai26021143-ai.html
 
 Salesforce는 새로운 Slackbot을 출시하며 인공지능(AI) 기반 작업 효율성 향상에 나섰습니다. 이번 업데이트를 통해 Slack은 단순 메신저에서 AI 에이전트 플랫폼으로 거듭나, 사용자들이 직접 명령을 내리면 해당 작업을 처리하는 혁신적인 기능을 제공합니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021143/ai26021143-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021143/ai26021143-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -30,9 +30,9 @@ Salesforce는 새로운 Slackbot을 출시하며 인공지능(AI) 기반 작업 
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021143/ai26021143-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

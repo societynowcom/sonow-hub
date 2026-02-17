@@ -15,7 +15,7 @@ url: "/sonow/article/hk/hk25090572/hk25090572-SeoulForest-HanRiver.html"
 
 **Hidden Korea** | 2025.09.05 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/hk/hk25090572/hk25090572-SeoulForest-HanRiver.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](/sonow/article/hk/hk25090572/hk25090572-SeoulForest-HanRiver.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/hk/hk25090572/hk25090572-SeoulForest-HanRiver.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📚 [의대 정원 확대 /  지역 의사 양성 목표](../education/articles/2026-02-11-의대-정원-확대-지역-의사-양성-목표.md)
+- 📚 [수단 내전, 알파시르 학살 / 유엔 보고서 공개](../education/articles/2026-02-16-수단-내전-알파시르-학살-유엔-보고서-공개.md)
 - 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/hk/hk25090572/hk25090572-SeoulForest-HanRiver.html)** | *[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md)*

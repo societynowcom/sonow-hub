@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021433/ai26021433-ai.html
 
 딥러닝 기반으로 개발된 'SyGra Studio'는 사용자가 자연어를 입력하면 코드를 자동 생성하는 AI 도구입니다. 다양한 프로그래밍 언어와 소프트웨어 라이브러리를 지원하며, 코딩 경험이 부족한 사람들도 쉽게 사용할 수 있습니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021433/ai26021433-ai.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021433/ai26021433-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021433/ai26021433-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
 - 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021433/ai26021433-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

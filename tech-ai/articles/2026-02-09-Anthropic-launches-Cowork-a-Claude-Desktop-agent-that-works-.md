@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020943/ai26020943-ai.html
 
 Anthropic, 'Cowork'으로 AI 에이전트 경쟁 시작  AI 업무 도구로서의 새로운 가능성 제시   Anthropic는 최근 개발자를 위한 툴인 Claude Code 성공에 이어 일반 사용자도 활용할 수 있는 AI 에이전트 기능 "Cowork"를 출시했습니다. Co
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020943/ai26020943-ai.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020943/ai26020943-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -30,9 +30,9 @@ Anthropic, 'Cowork'으로 AI 에이전트 경쟁 시작  AI 업무 도구로서�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020943/ai26020943-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020930/ai26020930-ai.html
 
 SyGra Studio는 Hugging Face에서 발표한 새롭게 개발된 그래픽 AI 플랫폼입니다. 사용자는 간단한 텍스트 입력만으로도 고품질의 이미지를 생성하고 자체적으로 디자인을 수정할 수 있습니다. 이는 디자인 업계에 큰 변화를 가져올 것으로 예상됩니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020930/ai26020930-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020930/ai26020930-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ SyGra Studio는 Hugging Face에서 발표한 새롭게 개발된 그래픽 AI �
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020930/ai26020930-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

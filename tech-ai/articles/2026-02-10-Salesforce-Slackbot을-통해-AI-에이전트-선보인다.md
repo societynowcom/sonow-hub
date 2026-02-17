@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021043/ai26021043-ai.html
 
 Salesforce는 새로운 AI 기반 슬랙 도구인 Slackbot을 출시하며 기업 내 AI 적용 전환을 가속화할 것으로 예상된다. Slackbot은 사용자의 작업 맥락을 파악하여 정보를 제공하고 업무 프로세스를 자동화하는 데 중점을 두고 있다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021043/ai26021043-ai.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021043/ai26021043-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -30,9 +30,9 @@ Salesforce는 새로운 AI 기반 슬랙 도구인 Slackbot을 출시하며 기�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021043/ai26021043-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

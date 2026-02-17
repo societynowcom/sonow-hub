@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020836/ai26020836-ai.html
 
 NVIDIA와 Dassault Systèmes, 공동 인공지능 아키텍처 구축  가상 이중체와 물리 기반 AI 결합  NVIDIA와 Dassault Systèmes이 가상 이중체 기술과 물리 기반 AI를 접목한 새로운 공동 인공지능 아키텍처를 구축하기로 합의했습니다. 두 회사
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020836/ai26020836-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020836/ai26020836-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · NVIDIA AI Blog
 
@@ -30,9 +30,9 @@ NVIDIA와 Dassault Systèmes, 공동 인공지능 아키텍처 구축  가상 �
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
 - 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020836/ai26020836-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

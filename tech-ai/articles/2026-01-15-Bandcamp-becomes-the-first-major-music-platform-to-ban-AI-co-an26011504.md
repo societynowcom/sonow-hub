@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011504/an26011504-Bandcam
 
 Bandcamp has built its entire brand around serving artists. And, with the artist furor over AI growing every day, it's no surprise that the company has decided...
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011504/an26011504-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011504/an26011504-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)**
 
 ## 📌 관련 기사
 
@@ -28,9 +28,9 @@ Bandcamp has built its entire brand around serving artists. And, with the artist
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011504/an26011504-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

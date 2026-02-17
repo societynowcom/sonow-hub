@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021350/ai26021350-ai.html
 
 RentAHuman은 인공지능 에이전트가 사람을 고용하는 플랫폼입니다. 기사는 RentAHuman의 운영 방식과 사용자 경험을 바탕으로 AI가 실제로 일자리를 제공할 수 있는지에 대한 의문을 제기합니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021350/ai26021350-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021350/ai26021350-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Wired AI
 
@@ -30,9 +30,9 @@ RentAHuman은 인공지능 에이전트가 사람을 고용하는 플랫폼입�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021350/ai26021350-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

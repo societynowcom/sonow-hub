@@ -15,7 +15,7 @@ url: "/sonow/article/co/co25100911/co25100911-CME.html"
 
 **코인** | 2025.10.09 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/co/co25100911/co25100911-CME.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/co/co25100911/co25100911-CME.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/co/co25100911/co25100911-CME.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📰 [충주맨 김선태, 내부 갈등 부정 / 사직 배경은 개인적 목표](../headlines/articles/2026-02-17-충주맨-김선태-내부-갈등-부정-사직-배경은-개인적-목표.md)
+- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
 - 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/co/co25100911/co25100911-CME.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*

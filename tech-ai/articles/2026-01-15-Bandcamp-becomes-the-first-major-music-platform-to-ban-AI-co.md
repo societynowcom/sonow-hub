@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011505/an26011505-Bandcam
 
 Bandcamp has built its entire brand around serving artists. And, with the artist furor over AI growing every day, it's no surprise that the company has decided...
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011505/an26011505-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011505/an26011505-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)**
 
 ## 📌 관련 기사
 
@@ -28,9 +28,9 @@ Bandcamp has built its entire brand around serving artists. And, with the artist
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
 - 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011505/an26011505-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

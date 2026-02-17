@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020842/ai26020842-ai.html
 
 Salesforce는 AI 기반 스랙봇을 통해 근무 환경 전환 목표. 사용자 편의를 위한 대화형 UI 및 데이터 분석 강점 부각. 경쟁사 Microsoft, Google과 맞서 AI-기반 업무 도구 시장 선점 노력.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020842/ai26020842-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020842/ai26020842-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -30,9 +30,9 @@ Salesforce는 AI 기반 스랙봇을 통해 근무 환경 전환 목표. 사용�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드-kc25112312.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020842/ai26020842-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

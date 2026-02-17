@@ -15,7 +15,7 @@ url: "/sonow/article/hk/hk25090573/hk25090573-Under-Stand.html"
 
 **Hidden Korea** | 2025.09.05 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/hk/hk25090573/hk25090573-Under-Stand.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](/sonow/article/hk/hk25090573/hk25090573-Under-Stand.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/hk/hk25090573/hk25090573-Under-Stand.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📚 [의대 정원 확대 /  지역 의사 양성 목표](../education/articles/2026-02-11-의대-정원-확대-지역-의사-양성-목표.md)
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 📚 [색동원 성폭력 의혹 / 실질적 자립 지원 필요성 대두](../education/articles/2026-02-16-색동원-성폭력-의혹-실질적-자립-지원-필요성-대두.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/hk/hk25090573/hk25090573-Under-Stand.html)** | *[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md)*

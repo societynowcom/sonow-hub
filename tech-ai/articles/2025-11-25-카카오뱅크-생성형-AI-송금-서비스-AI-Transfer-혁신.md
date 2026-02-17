@@ -18,7 +18,7 @@ url: "/sonow/article/ta/ta25112523/ta25112523-카카오뱅크.html"
 
 카카오뱅크, 생성형 AI 활용한 혁신적 송금 서비스 출시. 간단한 대화로 송금 가능, 사용자 경험 대폭 개선
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ta/ta25112523/ta25112523-카카오뱅크.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/ta/ta25112523/ta25112523-카카오뱅크.html)**
 
 **🏷️ 키워드:** 카카오뱅크 · AI 송금 · 생성형 AI · 핀테크 · 모바일 뱅킹
 
@@ -30,9 +30,9 @@ url: "/sonow/article/ta/ta25112523/ta25112523-카카오뱅크.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ta/ta25112523/ta25112523-카카오뱅크.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

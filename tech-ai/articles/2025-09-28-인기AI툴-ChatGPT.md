@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/ta/ta25092814/ta25092814-인기A
 
 **TECH & AI** | 2025.09.28 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ta/ta25092814/ta25092814-인기AI툴-ChatGPT.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ta/ta25092814/ta25092814-인기AI툴-ChatGPT.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/ta/ta25092814/ta25092814-인기A
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ta/ta25092814/ta25092814-인기AI툴-ChatGPT.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

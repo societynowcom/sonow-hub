@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020831/ai26020831-ai.html
 
 Nemotron이 새롭게 발표한 ColEmbed V2는 ViDoRe V3의 최상급 모델을 사용하여 다중 모달 검색 성능을 향상시켰습니다. 이 모델은 이미지와 텍스트를 동시에 처리하며 더욱 정확하고 효과적인 검색 결과를 제공합니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020831/ai26020831-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020831/ai26020831-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ Nemotron이 새롭게 발표한 ColEmbed V2는 ViDoRe V3의 최상급 모델을 
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020831/ai26020831-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

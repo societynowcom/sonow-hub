@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020827/ai26020827-ai.html
 
 구글이 2월 8일 개최되는 미국 국내 최대 축구 경기인 Super Bowl 기간에 새로운 광고를 게재할 예정이다. 이번 광고는 구글의 인공지능 기술을 강조하며,  사용자의 삶을 변화시킬 가능성을 제시한다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020827/ai26020827-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020827/ai26020827-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Google AI Blog
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020827/ai26020827-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
 - 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020827/ai26020827-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

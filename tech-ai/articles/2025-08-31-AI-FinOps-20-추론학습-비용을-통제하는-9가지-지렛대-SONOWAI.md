@@ -15,7 +15,7 @@ url: "/sonow/article/ax/ax25083145/ax25083145-AI-FinOps-TCO.html"
 
 **AX.DX** | 2025.08.31 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ax/ax25083145/ax25083145-AI-FinOps-TCO.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](/sonow/article/ax/ax25083145/ax25083145-AI-FinOps-TCO.html)**
 
 ## 📌 관련 기사
 
@@ -30,4 +30,4 @@ url: "/sonow/article/ax/ax25083145/ax25083145-AI-FinOps-TCO.html"
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ax/ax25083145/ax25083145-AI-FinOps-TCO.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

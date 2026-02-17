@@ -15,7 +15,7 @@ url: "/sonow/article/hk/hk25090571/hk25090571-Yeonmujanggil-sneakerlabs.html"
 
 **Hidden Korea** | 2025.09.05 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/hk/hk25090571/hk25090571-Yeonmujanggil-sneakerlabs.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](/sonow/article/hk/hk25090571/hk25090571-Yeonmujanggil-sneakerlabs.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/hk/hk25090571/hk25090571-Yeonmujanggil-sneakerlabs.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📚 [한국은행, 지방 인재 채용 목표 / 10년 만에 성공](../education/articles/2026-02-16-한국은행-지방-인재-채용-목표-10년-만에-성공.md)
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 📚 [의대 정원 확대 /  지역 의사 양성 목표](../education/articles/2026-02-11-의대-정원-확대-지역-의사-양성-목표.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/hk/hk25090571/hk25090571-Yeonmujanggil-sneakerlabs.html)** | *[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md)*

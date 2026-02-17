@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090711/ap25090711-ElevenLabs-음성복제.html"
 
 **AI 생산성** | 2025.09.07 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090711/ap25090711-ElevenLabs-음성복제.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090711/ap25090711-ElevenLabs-음성복제.html)**
 
 ## 📌 관련 기사
 
@@ -26,8 +26,8 @@ url: "/sonow/article/ap/ap25090711/ap25090711-ElevenLabs-음성복제.html"
 ## 🔗 다른 카테고리 최신 뉴스
 
 - 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
-- 📰 [윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각](../headlines/articles/2026-02-17-윤상현-윤석열-전-대통령-사과-요구-국민적-신뢰-회복-필요-시각.md)
+- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090711/ap25090711-ElevenLabs-음성복제.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011403/an26011403-openai.
 
 OpenAI가 조니 아이브와 협력해 혁신적 AI 이어버드 Sweetpea 개발 중. 2026년 9월 출시 예정
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011403/an26011403-openai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011403/an26011403-openai.html)**
 
 **🏷️ 키워드:** OpenAI · AI 이어버드 · Sweetpea · 조니 아이브 · 하드웨어 혁신
 
@@ -30,9 +30,9 @@ OpenAI가 조니 아이브와 협력해 혁신적 AI 이어버드 Sweetpea 개�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011403/an26011403-openai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

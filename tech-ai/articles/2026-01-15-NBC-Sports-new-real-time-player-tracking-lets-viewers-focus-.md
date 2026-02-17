@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011507/an26011507-NBC-Spo
 
 NBC Sports introduced a new AI-powered player tracking system that will let viewers on mobile devices zoom in and focus on their favorite athletes.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011507/an26011507-NBC-Sports’-new-real-time-player-tracking-lets-viewers-focus-on-their-favorite-athletes.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011507/an26011507-NBC-Sports’-new-real-time-player-tracking-lets-viewers-focus-on-their-favorite-athletes.html)**
 
 ## 📌 관련 기사
 
@@ -28,9 +28,9 @@ NBC Sports introduced a new AI-powered player tracking system that will let view
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
 - 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011507/an26011507-NBC-Sports’-new-real-time-player-tracking-lets-viewers-focus-on-their-favorite-athletes.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

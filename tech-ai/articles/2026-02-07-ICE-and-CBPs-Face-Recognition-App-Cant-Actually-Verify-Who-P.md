@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020748/ai26020748-ai.html
 
 미국 국제경비부가 얼굴 인식 앱 '모바일 포티파이'를 사용하면서  개인정보보호와 법적 규정을 위반하고 있다. 이 앱은 개인 식별에 효과적이지 않고, 비효율적인 데이터 수집과 불투명한 정보 활용으로 인해 민간 생활에도 영향을 미치고 있다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020748/ai26020748-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020748/ai26020748-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Wired AI
 
@@ -35,4 +35,4 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020748/ai26020748-ai.html
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020748/ai26020748-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

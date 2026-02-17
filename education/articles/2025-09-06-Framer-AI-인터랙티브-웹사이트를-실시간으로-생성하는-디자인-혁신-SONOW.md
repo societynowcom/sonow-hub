@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090694/ap25090694-FramerAI-인터랙티브디자인.
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090694/ap25090694-FramerAI-인터랙티브디자인.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090694/ap25090694-FramerAI-인터랙티브디자인.html)**
 
 ## 📌 관련 기사
 
@@ -26,8 +26,8 @@ url: "/sonow/article/ap/ap25090694/ap25090694-FramerAI-인터랙티브디자인.
 ## 🔗 다른 카테고리 최신 뉴스
 
 - 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
-- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
+- 📰 [윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각](../headlines/articles/2026-02-17-윤상현-윤석열-전-대통령-사과-요구-국민적-신뢰-회복-필요-시각.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090694/ap25090694-FramerAI-인터랙티브디자인.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

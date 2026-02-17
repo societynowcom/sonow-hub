@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020921/ai26020921-ai.html
 
 1월 28일, 매트 슐리히에 의해 출시된 Moltbook는 AI 에이전트들을 위한 소셜 네트워크입니다. 웹사이트 슬로건은 "AI 에이전트들이 공유하고 토론하며 추천하는 곳이며, 인간들은 관찰할 수 있습니다" 라고 하며 핵심 기능을 간략하게 설명합니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020921/ai26020921-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020921/ai26020921-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · MIT Technology Review AI
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020921/ai26020921-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
 - 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020921/ai26020921-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

@@ -15,7 +15,7 @@ url: "/sonow/article/th/th25090719/th25090719-피오나데이비스-TheStolenQue
 
 **생각의힘** | 2025.09.07 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/th/th25090719/th25090719-피오나데이비스-TheStolenQueen.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](/sonow/article/th/th25090719/th25090719-피오나데이비스-TheStolenQueen.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/th/th25090719/th25090719-피오나데이비스-TheStolenQue
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](../tech-ai/articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md)
-- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
+- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
+- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/th/th25090719/th25090719-피오나데이비스-TheStolenQueen.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

@@ -15,7 +15,7 @@ url: "/sonow/article/hk/hk25090588/hk25090588-EunpyeongHanok-Bukhansanviews.html
 
 **Hidden Korea** | 2025.09.05 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/hk/hk25090588/hk25090588-EunpyeongHanok-Bukhansanviews.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](/sonow/article/hk/hk25090588/hk25090588-EunpyeongHanok-Bukhansanviews.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/hk/hk25090588/hk25090588-EunpyeongHanok-Bukhansanviews.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📚 [한국은행, 지방 인재 채용 목표 / 10년 만에 성공](../education/articles/2026-02-16-한국은행-지방-인재-채용-목표-10년-만에-성공.md)
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 📚 [수단 내전, 알파시르 학살 / 유엔 보고서 공개](../education/articles/2026-02-16-수단-내전-알파시르-학살-유엔-보고서-공개.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/hk/hk25090588/hk25090588-EunpyeongHanok-Bukhansanviews.html)** | *[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md)*

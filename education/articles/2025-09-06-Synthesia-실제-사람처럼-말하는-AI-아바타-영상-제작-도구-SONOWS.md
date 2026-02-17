@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090676/ap25090676-Synthesia-AI아바타.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090676/ap25090676-Synthesia-AI아바타.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090676/ap25090676-Synthesia-AI아바타.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090676/ap25090676-Synthesia-AI아바타.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](../tech-ai/articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md)
-- 📰 [충주맨 김선태, 내부 갈등 부정 / 사직 배경은 개인적 목표](../headlines/articles/2026-02-17-충주맨-김선태-내부-갈등-부정-사직-배경은-개인적-목표.md)
+- 🤖 [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](../tech-ai/articles/2026-02-17-GPT-4o-인간과의-관계에서-죽음을-맞는-AI-챗봇.md)
+- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090676/ap25090676-Synthesia-AI아바타.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020931/ai26020931-ai.html
 
 Nemotron이 개발한 ColEmbed V2는 multimodal retrieval 성능을 향상시켰습니다. ViDoRe V3의 최고 모델을 사용하여 개선되었으며, 이미지와 텍스트를 효과적으로 연결합니다.  본 기술은 검색 엔진 및 관련 분야에 큰 영향을 미칠 것으로 예상됩니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020931/ai26020931-ai.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020931/ai26020931-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ Nemotron이 개발한 ColEmbed V2는 multimodal retrieval 성능을 향상시켰
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020931/ai26020931-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

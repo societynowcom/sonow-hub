@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090678/ap25090678-CursorAI-AI개발환경.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090678/ap25090678-CursorAI-AI개발환경.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090678/ap25090678-CursorAI-AI개발환경.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090678/ap25090678-CursorAI-AI개발환경.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](../tech-ai/articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md)
-- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
+- 🤖 [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](../tech-ai/articles/2026-02-17-GPT-4o-인간과의-관계에서-죽음을-맞는-AI-챗봇.md)
+- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090678/ap25090678-CursorAI-AI개발환경.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

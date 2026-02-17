@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021534/ai26021534-ai.html
 
 Nemotron ColEmbed V2: ViDoRe V3 모델 기반 다중 모달 검색 성능 향상  최신 다중 모달 검색 모델, ColEmbed V2 출시  Nemotron에서 새로운 다중 모달 검색 모델인 ColEmbed V2를 발표했습니다. 이 모델은 Hugging Face가
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021534/ai26021534-ai.html)**
+> **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021534/ai26021534-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
@@ -30,9 +30,9 @@ Nemotron ColEmbed V2: ViDoRe V3 모델 기반 다중 모달 검색 성능 향상
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021534/ai26021534-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

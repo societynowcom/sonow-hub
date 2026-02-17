@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338-ai.html
 
 NVIDIA의 DGX Spark는 세계 주요 기관에서 사용되는 휴대형 슈퍼컴퓨터입니다. 고성능 처리 성능을 자랑하는 DGX Spark는 연구실, 교수 사무실, 학생 시스템까지 AI 기술 접근성을 높이고 있습니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338-ai.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · NVIDIA AI Blog
 
@@ -30,9 +30,9 @@ NVIDIA의 DGX Spark는 세계 주요 기관에서 사용되는 휴대형 슈퍼�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
-- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드-kc25112312.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011203/an26011203-lg.html
 
 LG AI연구원이 K-EXAONE 모델로 글로벌 AI 리더보드 7위, 한국 1위를 기록했다고 발표했다. 하이브리드 어텐션 메커니즘으로 메모리·연산 부하를 70% 절약한 효율성 혁신이 특징이며, 정부 국산 AI 프로젝트에서 외국 기술 활용 논란 속에서도 독자 기술력을 강조했다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/an/an26011203/an26011203-lg.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011203/an26011203-lg.html)**
 
 **🏷️ 키워드:** LG · K-EXAONE · AI 모델 · 글로벌 7위 · 한국 1위 · 하이브리드 어텐션 · 국산 AI · 과기정통부 · 파운데이션 모델 · 효율성
 
@@ -30,9 +30,9 @@ LG AI연구원이 K-EXAONE 모델로 글로벌 AI 리더보드 7위, 한국 1위
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/an/an26011203/an26011203-lg.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091643/kn25091643-Korea-w
 
 **경제** | 2025.09.16 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/kn/kn25091643/kn25091643-Korea-workforce.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/kn/kn25091643/kn25091643-Korea-workforce.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091643/kn25091643-Korea-w
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📰 [충주맨 김선태, 내부 갈등 부정 / 사직 배경은 개인적 목표](../headlines/articles/2026-02-17-충주맨-김선태-내부-갈등-부정-사직-배경은-개인적-목표.md)
-- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
+- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
+- 🤖 [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](../tech-ai/articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/kn/kn25091643/kn25091643-Korea-workforce.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*

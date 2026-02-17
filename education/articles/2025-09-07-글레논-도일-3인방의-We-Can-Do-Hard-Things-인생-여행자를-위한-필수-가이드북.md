@@ -15,7 +15,7 @@ url: "/sonow/article/th/th25090717/th25090717-글레논도일.html"
 
 **생각의힘** | 2025.09.07 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/th/th25090717/th25090717-글레논도일.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](/sonow/article/th/th25090717/th25090717-글레논도일.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/th/th25090717/th25090717-글레논도일.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](../tech-ai/articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md)
-- 📰 [윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각](../headlines/articles/2026-02-17-윤상현-윤석열-전-대통령-사과-요구-국민적-신뢰-회복-필요-시각.md)
+- 🤖 [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](../tech-ai/articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md)
+- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/th/th25090717/th25090717-글레논도일.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021024/ai26021024-ai.html
 
 최근 온라인에서 인기를 얻고 있는 새로운 소셜 네트워크 Moltbook는 AI 에이전트 간의 상호 작용을 위한 플랫폼으로서 주목받고 있다. 'Moltbook'은 사용자들이 자신의 AI를 공유하고 토론하며 서로 봇을 평가하는 기능을 제공한다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021024/ai26021024-ai.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021024/ai26021024-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · MIT Technology Review AI
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021024/ai26021024-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021024/ai26021024-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020743/ai26020743-ai.html
 
 Anthropic는 개발자들을 위한 AI 코딩 도구 Claude Code의 성공을 바탕으로  AI 에이전트 "Cowork"를 출시했다. Cowork는 파일 관리, 문서 제작 등 다양한 작업을 수행하며 혁신적인 기능과 속도를 자랑한다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020743/ai26020743-ai.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020743/ai26020743-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
@@ -31,8 +31,8 @@ Anthropic는 개발자들을 위한 AI 코딩 도구 Claude Code의 성공을 �
 ## 🔗 다른 카테고리 최신 뉴스
 
 - 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020743/ai26020743-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

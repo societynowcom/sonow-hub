@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020844/ai26020844-ai.html
 
 OpenClaw는 강력한 기능을 가진 개인 AI 에이전트 플랫폼이지만, 이를 악용하는 공격자가 증가하고 있습니다. VirusTotal은 OpenClaw 스킬에 숨겨진 악성코드를 감지하며, 이러한 위협으로부터 사용자를 보호하기 위해 노력하고 있습니다.
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26020844/ai26020844-ai.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020844/ai26020844-ai.html)**
 
 **🏷️ 키워드:** AI · artificial intelligence · The Verge AI
 
@@ -30,9 +30,9 @@ OpenClaw는 강력한 기능을 가진 개인 AI 에이전트 플랫폼이지만
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드-kc25112312.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26020844/ai26020844-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

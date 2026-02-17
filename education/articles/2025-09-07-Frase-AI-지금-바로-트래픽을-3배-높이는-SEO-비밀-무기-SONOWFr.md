@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090705/ap25090705-FraseAI-검색의도분석.html"
 
 **AI 생산성** | 2025.09.07 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090705/ap25090705-FraseAI-검색의도분석.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090705/ap25090705-FraseAI-검색의도분석.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/ap/ap25090705/ap25090705-FraseAI-검색의도분석.html"
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 🤖 [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](../tech-ai/articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md)
-- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
+- 🤖 [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](../tech-ai/articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md)
+- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090705/ap25090705-FraseAI-검색의도분석.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

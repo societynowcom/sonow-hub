@@ -15,7 +15,7 @@ url: "/sonow/article/ap/ap25090698/ap25090698-생산성템플릿.html"
 
 **AI 생산성** | 2025.09.06 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/ap/ap25090698/ap25090698-생산성템플릿.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](/sonow/article/ap/ap25090698/ap25090698-생산성템플릿.html)**
 
 ## 📌 관련 기사
 
@@ -30,4 +30,4 @@ url: "/sonow/article/ap/ap25090698/ap25090698-생산성템플릿.html"
 
 ---
 
-*[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/ap/ap25090698/ap25090698-생산성템플릿.html)** | *[🏠 홈](../../README.md) | [📚 EDUCATION](../README.md)*

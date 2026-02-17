@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/st/st25091768/st25091768-target-
 
 **주식** | 2025.09.17 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/st/st25091768/st25091768-target-price.html)**
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/st/st25091768/st25091768-target-price.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "https://www.society-now.com/sonow/article/st/st25091768/st25091768-target-
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📰 [한국 여자쇼트트랙 3000m 계주 / 밀라노올림픽 결승 진출](../headlines/articles/2026-02-17-한국-여자쇼트트랙-3000m-계주-밀라노올림픽-결승-진출.md)
-- 🤖 [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](../tech-ai/articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md)
+- 📰 [윤석열, 설날 옥중 맞이 / 김건희도 함께](../headlines/articles/2026-02-17-윤석열-설날-옥중-맞이-김건희도-함께.md)
+- 🤖 [a16z, 글로벌 눈으로 투자 대상 발굴](../tech-ai/articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/st/st25091768/st25091768-target-price.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*

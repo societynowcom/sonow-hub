@@ -18,7 +18,7 @@ url: "https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912-가덕�
 
 국토교통부, 가덕도신공항 여객터미널 국제설계공모 결과 발표. 희림건축사사무소 'Rising Wings' 1등, H형 평면 계획으로 선정
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912-가덕도신공항.html)**
+> **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912-가덕도신공항.html)**
 
 **🏷️ 키워드:** 가덕도신공항 · 여객터미널 · 국제설계공모 · 희림건축 · 공항건축
 
@@ -30,9 +30,9 @@ url: "https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912-가덕�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
-- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912-가덕도신공항.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

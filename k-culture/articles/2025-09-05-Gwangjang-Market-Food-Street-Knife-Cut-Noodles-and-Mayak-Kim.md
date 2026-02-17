@@ -15,7 +15,7 @@ url: "/sonow/article/hk/hk25090587/hk25090587-GwangjangMarket-knifecutnoodles.ht
 
 **Hidden Korea** | 2025.09.05 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](/sonow/article/hk/hk25090587/hk25090587-GwangjangMarket-knifecutnoodles.html)**
+> **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](/sonow/article/hk/hk25090587/hk25090587-GwangjangMarket-knifecutnoodles.html)**
 
 ## 📌 관련 기사
 
@@ -25,9 +25,9 @@ url: "/sonow/article/hk/hk25090587/hk25090587-GwangjangMarket-knifecutnoodles.ht
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 📚 [색동원 성폭력 의혹 / 실질적 자립 지원 필요성 대두](../education/articles/2026-02-16-색동원-성폭력-의혹-실질적-자립-지원-필요성-대두.md)
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
+- 📚 [한국은행, 지방 인재 채용 목표 / 10년 만에 성공](../education/articles/2026-02-16-한국은행-지방-인재-채용-목표-10년-만에-성공.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](/sonow/article/hk/hk25090587/hk25090587-GwangjangMarket-knifecutnoodles.html)** | *[🏠 홈](../../README.md) | [🎭 K-CULTURE](../README.md)*

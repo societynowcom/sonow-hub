@@ -15,7 +15,7 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091642/kn25091642-TopTier
 
 **경제** | 2025.09.16 | SO,NOW
 
-**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/kn/kn25091642/kn25091642-TopTier-Visa.html)**
+> **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/kn/kn25091642/kn25091642-TopTier-Visa.html)**
 
 ## 📌 관련 기사
 
@@ -26,8 +26,8 @@ url: "https://www.society-now.com/sonow/article/kn/kn25091642/kn25091642-TopTier
 ## 🔗 다른 카테고리 최신 뉴스
 
 - 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
-- 🤖 [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](../tech-ai/articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md)
+- 🤖 [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](../tech-ai/articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/kn/kn25091642/kn25091642-TopTier-Visa.html)** | *[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md)*
