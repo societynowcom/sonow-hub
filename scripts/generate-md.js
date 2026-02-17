@@ -467,6 +467,39 @@ async function main() {
     fs.writeFileSync(path.join(dataDir, 'articles.json'), JSON.stringify(apiData, null, 2), 'utf-8');
     console.log('   → 완료\n');
 
+    // 7. sitemap.xml 생성
+    console.log('7. sitemap.xml 생성...');
+    const BASE_URL = 'https://github.com/societynowcom/sonow-hub/blob/main';
+    const today = new Date().toISOString().slice(0, 10);
+
+    let sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n`;
+    sitemap += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+
+    // 메인 README
+    sitemap += `  <url>\n    <loc>${BASE_URL}/README.md</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1.0</priority>\n  </url>\n`;
+
+    // 카테고리 README
+    for (const group of ['headlines', 'tech-ai', 'economy', 'education', 'k-culture']) {
+        sitemap += `  <url>\n    <loc>${BASE_URL}/${group}/README.md</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    }
+
+    // 개별 기사 MD
+    let sitemapCount = 0;
+    for (const a of articles) {
+        const code = a.article_id.slice(0, 2);
+        const cat = CATEGORY_MAP[code] || CATEGORY_MAP['nw'];
+        const fileName = idToFilename.get(a.article_id) || makeFilename(a);
+        const encodedName = encodeURIComponent(fileName).replace(/%2F/g, '/');
+        const articleDate = parseDate(a.article_id) || today;
+
+        sitemap += `  <url>\n    <loc>${BASE_URL}/${cat.folder}/articles/${encodedName}</loc>\n    <lastmod>${articleDate}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.6</priority>\n  </url>\n`;
+        sitemapCount++;
+    }
+
+    sitemap += `</urlset>\n`;
+    fs.writeFileSync(path.join(HUB_ROOT, 'sitemap.xml'), sitemap, 'utf-8');
+    console.log(`   → ${sitemapCount + 6}개 URL 등록 완료\n`);
+
     console.log('══════════════════════════════════════════════');
     console.log(`  완료! 신규 ${created}개 MD 생성`);
     console.log('══════════════════════════════════════════════');
