@@ -1,6 +1,6 @@
 ---
 title: "Transformers.js v4 미리보기, NPM에서 출시"
-description: "Hugging Face는 자체 개발한 딥러닝 프레임워크 'Transformers.js'의 새로운 버전인 v4를 npm 패���지 리포지토리에 미리보기로 출시했습니다. 이번 업데이트에서는 속도 향상, 기능 강화 및 사용자 경험 개선 등 주요 변경 사항을 포함하고 있습니다."
+description: "Hugging Face는 자체 개발한 딥러닝 프레임워크 'Transformers.js'의 새로운 버전인 v4를 npm 패키지 리포지토리에 미리보기로 출시했습니다. 이번 업데이트에서는 속도 향상, 기능 강화 및 사용자 경험 개선 등 주요 변경 사항을 포함하고 있습니다."
 date: "2026-02-14"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021432/ai26021432.png"
@@ -32,8 +32,8 @@ Transformers.js v4는 JavaScript 엔진 최적화를 통해 모델 실행 속도
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
 
 ---
 

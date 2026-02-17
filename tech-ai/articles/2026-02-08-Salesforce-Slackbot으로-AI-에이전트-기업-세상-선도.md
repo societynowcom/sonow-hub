@@ -12,7 +12,7 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020842/ai26020842-ai.html
 
 # Salesforce, Slackbot으로 'AI 에이전트' 기업 세상 선도
 
-> AI로 업무 자동화하고 효율성 극대화하는 새로운 Slackbot ���시
+> AI로 업무 자동화하고 효율성 극대화하는 새로운 Slackbot 출시
 
 **AI** | 2026.02.08 | SO,NOW
 
@@ -32,8 +32,8 @@ Salesforce는 Slack에 통합된 AI 기반 스랙봇을 출시했다. 이 스랙
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 
