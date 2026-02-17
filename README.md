@@ -2,7 +2,7 @@
 
 [![Daily Update](https://github.com/societynowcom/sonow-hub/actions/workflows/auto-update.yml/badge.svg)](https://github.com/societynowcom/sonow-hub/actions)
 [![Articles](https://img.shields.io/badge/articles-1800+-blue)](https://society-now.com/sonow/)
-[![YouTube](https://img.shields.io/badge/YouTube-3%20channels-red)](./youtube/)
+[![YouTube](https://img.shields.io/badge/YouTube-4%20channels-red)](./youtube/)
 
 > **매일 자동 업데이트** | 국내 뉴스 + 글로벌 AI 뉴스 + YouTube 숏츠
 
@@ -59,9 +59,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 
 | 채널 | 주제 | 링크 |
 |------|------|------|
-| **Just 코리아** | 정치/경제 이슈 | [바로가기](./youtube/just-korea/) |
-| **Kstock NOW** | 한국 주식/산업 | [바로가기](./youtube/kstock-now/) |
-| **AI NOW** | AI 기술/프롬프트 | [바로가기](./youtube/ai-now/) |
+| **SO,NOW** | 뉴스 & 미디어 | [바로가기](https://www.youtube.com/@sooonow) |
+| **boonow** | 콘텐츠 | [바로가기](https://www.youtube.com/@boonow) |
+| **AI NOW** | AI 기술/프롬프트 뉴스 | [바로가기](https://www.youtube.com/@sonow-ai) |
+| **just 코리아** | 매일 정치·경제 이슈 | [바로가기](https://www.youtube.com/@JustKoreaShorts) |
 | **🎬 Shorts 모아보기** | 전체 숏츠 | [바로가기](./youtube/shorts/) |
 
 ---
@@ -71,7 +72,7 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 70개 |
+| 전체 기사 | 91개 |
 | 카테고리 | 6개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-02-17 |
@@ -83,9 +84,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 ## 🔗 링크
 
 - 🌐 [SO,NOW 공식 사이트](https://society-now.com/sonow/)
-- 📺 [YouTube - Just 코리아](https://www.youtube.com/@JustKorea)
-- 📺 [YouTube - Kstock NOW](https://www.youtube.com/@KstockNOW)
-- 📺 [YouTube - AI NOW](https://www.youtube.com/@AINOW)
+- 📺 [YouTube - SO,NOW](https://www.youtube.com/@sooonow)
+- 📺 [YouTube - boonow](https://www.youtube.com/@boonow)
+- 📺 [YouTube - AI NOW](https://www.youtube.com/@sonow-ai)
+- 📺 [YouTube - just 코리아](https://www.youtube.com/@JustKoreaShorts)
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Nemotron ColEmbed V2, 다모달 검색 새로운 기준 세움"
-description: "딥러닝 기반 이미지와 텍스트 검색 기술 'Nemotron ColEmbed V2'가 출시되었습니다.  ViDoRe V3의 최고급 모델을 적용하여  전문가들은 다모달 검색 성능 향상을 예상합니다. Nemotron은 새로운 시대를 열 것으로 기대되며, 인공지능 기술 발전에 큰 영향을 미칠 수"
+description: "딥러닝 기반 이미지와 텍스트 검색 기술 'Nemotron ColEmbed V2'가 출시되었습니다.  ViDoRe V3의 최고급 모델을 적용하여  전문가들은 다모달 검색 성능 향상을 예상합니다."
 date: "2026-02-17"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021734/ai26021734.png"
-keywords: "AI, artificial intelligence, Hugging Face Blog, ai"
+keywords: "AI, artificial intelligence, Hugging Face Blog"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021734/ai26021734-ai.html"
@@ -16,11 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021734/ai26021734-ai.html
 
 **AI** | 2026.02.17 | SO,NOW
 
-딥러닝 기반 이미지와 텍스트 검색 기술 'Nemotron ColEmbed V2'가 출시되었습니다.  ViDoRe V3의 최고급 모델을 적용하여  전문가들은 다모달 검색 성능 향상을 예상합니다. Nemotron은 새로운 시대를 열 것으로 기대되며, 인공지능 기술 발전에 큰 영향을 미칠 수 있습니다.
+딥러닝 기반 이미지와 텍스트 검색 기술 'Nemotron ColEmbed V2'가 출시되었습니다.  ViDoRe V3의 최고급 모델을 적용하여  전문가들은 다모달 검색 성능 향상을 예상합니다.
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021734/ai26021734-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog · ai
+**🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
 ## 📌 관련 기사
 
@@ -30,8 +30,8 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021734/ai26021734-ai.html
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

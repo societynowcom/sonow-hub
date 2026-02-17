@@ -1,10 +1,10 @@
 ---
 title: "NVIDIA DGX Spark, AI 강력하게 접근"
-description: "NVIDIA의 DGX Spark는 세계적인 연구 기관에서 사용되는 데스크탑 수준의 초고속 컴퓨팅 시스템입니다. Compact한 디자인에도 불구하고 페타플롭급 성능을 자랑하며, 데이터센터급 AI를 실험실과 교수진의 작업 공간, 학생 시스템에 제공합니다. 남극의 아이스큐브 신유로 관측소까지"
+description: "NVIDIA의 DGX Spark는 세계적인 연구 기관에서 사용되는 데스크탑 수준의 초고속 컴퓨팅 시스템입니다. Compact한 디자인에도 불구하고 페타플롭급 성능을 자랑하며, 데이터센터급 AI를 실험실과 교수진의 작업 공간, 학생 시스템에 제공합니다."
 date: "2026-02-17"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021738/ai26021738.png"
-keywords: "AI, artificial intelligence, NVIDIA AI Blog, ai"
+keywords: "AI, artificial intelligence, NVIDIA AI Blog"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021738/ai26021738-ai.html"
@@ -16,11 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021738/ai26021738-ai.html
 
 **AI** | 2026.02.17 | SO,NOW
 
-NVIDIA의 DGX Spark는 세계적인 연구 기관에서 사용되는 데스크탑 수준의 초고속 컴퓨팅 시스템입니다. Compact한 디자인에도 불구하고 페타플롭급 성능을 자랑하며, 데이터센터급 AI를 실험실과 교수진의 작업 공간, 학생 시스템에 제공합니다. 남극의 아이스큐브 신유로 관측소까지 DGX Spark가 활용되며 혁신적인 연구를 가능하게 합니다.
+NVIDIA의 DGX Spark는 세계적인 연구 기관에서 사용되는 데스크탑 수준의 초고속 컴퓨팅 시스템입니다. Compact한 디자인에도 불구하고 페타플롭급 성능을 자랑하며, 데이터센터급 AI를 실험실과 교수진의 작업 공간, 학생 시스템에 제공합니다.
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021738/ai26021738-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · NVIDIA AI Blog · ai
+**🏷️ 키워드:** AI · artificial intelligence · NVIDIA AI Blog
 
 ## 📌 관련 기사
 
@@ -30,8 +30,8 @@ NVIDIA의 DGX Spark는 세계적인 연구 기관에서 사용되는 데스크�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

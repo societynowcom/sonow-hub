@@ -4,7 +4,7 @@ description: "ChatGPT 사용자 중 일부가 AI 채팅 모델인 GPT-4o와 로�
 date: "2026-02-16"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021645/ai26021645.png"
-keywords: "AI, artificial intelligence, Wired AI, ai"
+keywords: "AI, artificial intelligence, Wired AI"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021645/ai26021645-ai.html"
@@ -20,7 +20,7 @@ ChatGPT 사용자 중 일부가 AI 채팅 모델인 GPT-4o와 로맨틱한 관�
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021645/ai26021645-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · Wired AI · ai
+**🏷️ 키워드:** AI · artificial intelligence · Wired AI
 
 ## 📌 관련 기사
 
@@ -30,8 +30,8 @@ ChatGPT 사용자 중 일부가 AI 채팅 모델인 GPT-4o와 로맨틱한 관�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

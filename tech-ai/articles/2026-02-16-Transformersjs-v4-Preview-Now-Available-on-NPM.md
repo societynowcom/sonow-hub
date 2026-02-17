@@ -1,0 +1,37 @@
+---
+title: "Transformers.js v4 Preview: Now Available on NPM!"
+description: "Transformers.js v4 미리보기 출시!  NPM에서 사용 가능  Transformers.js는 자연어 처리 모델을 활용하는 JavaScript 라이브러리입니다. Hugging Face가 발표한 Transformers.js v4는 강력한 기능과 향상된 성능을 제공합니"
+date: "2026-02-16"
+category: "AI"
+image: "https://www.society-now.com/sonow/article/ai/ai26021632/ai26021632.png"
+keywords: "AI, artificial intelligence, Hugging Face Blog"
+tags: ""
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ai/ai26021632/ai26021632-ai.html"
+---
+
+# Transformers.js v4 Preview: Now Available on NPM!
+
+> Transformers.js v4 미리보기 출시!  ## NPM에서 사용 가능  Transformers.js는 자연어 처리 모델을 활용하는 JavaScript 라이브러리입니다
+
+**AI** | 2026.02.16 | SO,NOW
+
+Transformers.js v4 미리보기 출시!  NPM에서 사용 가능  Transformers.js는 자연어 처리 모델을 활용하는 JavaScript 라이브러리입니다. Hugging Face가 발표한 Transformers.js v4는 강력한 기능과 향상된 성능을 제공합니
+
+**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021632/ai26021632-ai.html)**
+
+**🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
+
+## 📌 관련 기사
+
+- [a16z, 글로벌 눈으로 투자 대상 발굴](./2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md) (2026.02.17)
+- [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](./2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md) (2026.02.17)
+- [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](./2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md) (2026.02.17)
+
+## 🔗 다른 카테고리 최신 뉴스
+
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+
+---
+
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

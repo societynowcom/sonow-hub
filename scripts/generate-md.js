@@ -15,7 +15,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const API_URL = 'https://www.society-now.com/sonow/api/articles.json';
+const API_URL = 'https://www.society-now.com/sonow/article/list.json';
 const HUB_ROOT = path.join(__dirname, '..');
 
 // 카테고리 매핑
@@ -106,11 +106,31 @@ function makeFilename(article) {
     return `${date}-${title}.md`;
 }
 
+// ─── description 정제 (마크다운 제거 + 문장 단위 자르기) ───
+function cleanDescription(raw) {
+    if (!raw) return '';
+    // 마크다운 기호 제거
+    let clean = raw.replace(/^#{1,6}\s*/gm, '').replace(/\*\*/g, '').replace(/\*/g, '').replace(/\n/g, ' ').trim();
+    // 160자 이내, 문장 단위로 자르기
+    if (clean.length <= 160) return clean;
+    const truncated = clean.slice(0, 160);
+    const lastPeriod = Math.max(truncated.lastIndexOf('.'), truncated.lastIndexOf('다.'), truncated.lastIndexOf('다 '));
+    if (lastPeriod > 80) return truncated.slice(0, lastPeriod + 1).trim();
+    return truncated.trim() + '...';
+}
+
+// ─── keywords 정제 (소스명/카테고리코드 제거) ───
+function cleanKeywords(keywords) {
+    if (!Array.isArray(keywords)) return '';
+    const EXCLUDE = new Set([...Object.keys(CATEGORY_MAP), '경향신문', '조선일보', '중앙일보', '한겨레', '동아일보', 'SBS', 'KBS', 'MBC', 'JTBC', 'YTN', '연합뉴스', '뉴시스', '뉴스1', '한국경제', '매일경제']);
+    return keywords.filter(k => !EXCLUDE.has(k) && k.length > 1).join(', ');
+}
+
 // ─── [제미나이 3] Front-matter 메타데이터 생성 ───
 function generateFrontMatter(article, catInfo) {
     const date = parseDate(article.article_id) || '';
-    const desc = (article.description || article.subtitle || '').slice(0, 160);
-    const keywords = Array.isArray(article.keywords) ? article.keywords.join(', ') : '';
+    const desc = cleanDescription(article.description || article.subtitle || '');
+    const keywords = cleanKeywords(article.keywords);
     const tags = Array.isArray(article.tags) ? article.tags.join(', ') : '';
     const image = article.image_url || '';
 
@@ -172,11 +192,17 @@ function generateArticleMD(article, allArticles, groupedArticles) {
 
     const frontMatter = generateFrontMatter(article, catInfo);
     const subtitle = article.subtitle ? `> ${article.subtitle}\n` : '';
-    const description = article.description ? `\n${article.description}\n` : '';
+    const description = article.description ? `\n${cleanDescription(article.description)}\n` : '';
     const relatedArticles = getRelatedArticles(article, allArticles, catInfo);
     const crossLinks = getCrossLinks(article, groupedArticles, catInfo);
-    const keywordsLine = Array.isArray(article.keywords) && article.keywords.length > 0
-        ? `\n**🏷️ 키워드:** ${article.keywords.join(' · ')}\n` : '';
+    const cleanedKw = cleanKeywords(article.keywords);
+    const keywordsLine = cleanedKw ? `\n**🏷️ 키워드:** ${cleanedKw.replace(/, /g, ' · ')}\n` : '';
+
+    const GROUP_NAMES = {
+        'headlines': 'HEADLINES', 'tech-ai': 'TECH & AI', 'economy': 'ECONOMY',
+        'education': 'EDUCATION', 'k-culture': 'K-CULTURE'
+    };
+    const groupDisplayName = GROUP_NAMES[catInfo.group] || catInfo.group;
 
     return `${frontMatter}
 
@@ -189,7 +215,7 @@ ${description}
 ${keywordsLine}${relatedArticles}${crossLinks}
 ---
 
-*[🏠 홈](../../README.md) | [${GROUP_ICONS[catInfo.group] || '📂'} ${catInfo.group}](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [${GROUP_ICONS[catInfo.group] || '📂'} ${groupDisplayName}](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
 `;
 }
 

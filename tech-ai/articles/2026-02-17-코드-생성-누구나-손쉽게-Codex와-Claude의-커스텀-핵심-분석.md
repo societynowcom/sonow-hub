@@ -1,10 +1,10 @@
 ---
 title: "코드 생성, 누구나 손쉽게: Codex와 Claude의 커스텀 핵심 분석"
-description: "Hugging Face 블로그에서 발표된 '코드 생성, 누구나 손쉽게: Codex와 Claude의 커스텀 핵심 분석'은 개방형 오픈소스 플랫폼을 통한 AI 코드 생성의 진화를 보여줍니다.  Codex와 Claude는 사용자가 필요에 따라 모델을 조정하여 특정 작업에 최적화할 수 있도록 "
+description: "Hugging Face 블로그에서 발표된 '코드 생성, 누구나 손쉽게: Codex와 Claude의 커스텀 핵심 분석'은 개방형 오픈소스 플랫폼을 통한 AI 코드 생성의 진화를 보여줍니다."
 date: "2026-02-17"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021730/ai26021730.png"
-keywords: "AI, artificial intelligence, Hugging Face Blog, ai"
+keywords: "AI, artificial intelligence, Hugging Face Blog"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021730/ai26021730-ai.html"
@@ -16,11 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021730/ai26021730-ai.html
 
 **AI** | 2026.02.17 | SO,NOW
 
-Hugging Face 블로그에서 발표된 '코드 생성, 누구나 손쉽게: Codex와 Claude의 커스텀 핵심 분석'은 개방형 오픈소스 플랫폼을 통한 AI 코드 생성의 진화를 보여줍니다.  Codex와 Claude는 사용자가 필요에 따라 모델을 조정하여 특정 작업에 최적화할 수 있도록 지원합니다. 이러한 커스터마이징 가능성은 개인 개발자부터 기업까지 다양한 분야에서 AI 기술 활용의 새로운 문을 열어줍니다.
+Hugging Face 블로그에서 발표된 '코드 생성, 누구나 손쉽게: Codex와 Claude의 커스텀 핵심 분석'은 개방형 오픈소스 플랫폼을 통한 AI 코드 생성의 진화를 보여줍니다.
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021730/ai26021730-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog · ai
+**🏷️ 키워드:** AI · artificial intelligence · Hugging Face Blog
 
 ## 📌 관련 기사
 
@@ -30,8 +30,8 @@ Hugging Face 블로그에서 발표된 '코드 생성, 누구나 손쉽게: Code
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다��택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

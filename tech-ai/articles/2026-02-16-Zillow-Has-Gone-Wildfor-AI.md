@@ -1,14 +1,10 @@
 ---
 title: "Zillow Has Gone Wild—for AI"
-description: "Zillow: AI 변화 속에서 살아남을 수 있을까?
-
-## 지속적인 성장의 어려움, AI 기반 경쟁 환경에 대응
-
-Zillow는 급격한 주택 가격 상승과 금리 인상으로 실적이 저조해졌다.  기업 CEO Jeremy Wacksman은 지난 해에 비해 2026년까지 시장 회복 가능성"
+description: "Zillow: AI 변화 속에서 살아남을 수 있을까?  지속적인 성장의 어려움, AI 기반 경쟁 환경에 대응  Zillow는 급격한 주택 가격 상승과 금리 인상으로 실적이 저조해졌다.  기업 CEO Jeremy Wacksman은 지난 해에 비해 2026년까지 시장 회복 가능성"
 date: "2026-02-16"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021646/ai26021646.png"
-keywords: "AI, artificial intelligence, Wired AI, ai"
+keywords: "AI, artificial intelligence, Wired AI"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021646/ai26021646-ai.html"
@@ -20,15 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021646/ai26021646-ai.html
 
 **AI** | 2026.02.16 | SO,NOW
 
-Zillow: AI 변화 속에서 살아남을 수 있을까?
-
-## 지속적인 성장의 어려움, AI 기반 경쟁 환경에 대응
-
-Zillow는 급격한 주택 가격 상승과 금리 인상으로 실적이 저조해졌다.  기업 CEO Jeremy Wacksman은 지난 해에 비해 2026년까지 시장 회복 가능성
+Zillow: AI 변화 속에서 살아남을 수 있을까?  지속적인 성장의 어려움, AI 기반 경쟁 환경에 대응  Zillow는 급격한 주택 가격 상승과 금리 인상으로 실적이 저조해졌다.  기업 CEO Jeremy Wacksman은 지난 해에 비해 2026년까지 시장 회복 가능성
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021646/ai26021646-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · Wired AI · ai
+**🏷️ 키워드:** AI · artificial intelligence · Wired AI
 
 ## 📌 관련 기사
 
@@ -38,8 +30,8 @@ Zillow는 급격한 주택 가격 상승과 금리 인상으로 실적이 저조
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

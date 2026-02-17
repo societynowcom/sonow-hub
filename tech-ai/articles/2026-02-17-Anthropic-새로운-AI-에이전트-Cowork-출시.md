@@ -1,10 +1,10 @@
 ---
 title: "Anthropic, 새로운 AI 에이전트 'Cowork' 출시"
-description: "Anthropic가 최근 AI 에이전트 \"Cowork\"를 출시했습니다. 이는 Claude Code의 기능을 일반 사용자에게 제공하며, 파일 관리, 보고서 작성 등 다양한 업무 자동화 가능합니다. 'Cowork' 개발은 크게 10일 만에 달성되었으며,  AI 기술이 AI 기술 자체를 개발"
+description: "Anthropic가 최근 AI 에이전트 \"Cowork\"를 출시했습니다. 이는 Claude Code의 기능을 일반 사용자에게 제공하며, 파일 관리, 보고서 작성 등 다양한 업무 자동화 가능합니다."
 date: "2026-02-17"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021743/ai26021743.png"
-keywords: "AI, artificial intelligence, VentureBeat AI, ai"
+keywords: "AI, artificial intelligence, VentureBeat AI"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021743/ai26021743-ai.html"
@@ -16,11 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021743/ai26021743-ai.html
 
 **AI** | 2026.02.17 | SO,NOW
 
-Anthropic가 최근 AI 에이전트 "Cowork"를 출시했습니다. 이는 Claude Code의 기능을 일반 사용자에게 제공하며, 파일 관리, 보고서 작성 등 다양한 업무 자동화 가능합니다. 'Cowork' 개발은 크게 10일 만에 달성되었으며,  AI 기술이 AI 기술 자체를 개발하는 순환 구조를 보여줍니다. 이는 Microsoft Copilot과 같은 경쟁 제품과의 치열한 경쟁을 예고하며 미래 업무 방식 변화를 가속화할 수 있습니다.
+Anthropic가 최근 AI 에이전트 "Cowork"를 출시했습니다. 이는 Claude Code의 기능을 일반 사용자에게 제공하며, 파일 관리, 보고서 작성 등 다양한 업무 자동화 가능합니다.
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021743/ai26021743-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI · ai
+**🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
 ## 📌 관련 기사
 
@@ -34,4 +34,4 @@ Anthropic가 최근 AI 에이전트 "Cowork"를 출시했습니다. 이는 Claud
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

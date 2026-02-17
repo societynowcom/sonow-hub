@@ -6,9 +6,10 @@
 
 | 채널 | 주제 | 구독 |
 |------|------|------|
-| **Just 코리아** | 정치/경제 핫이슈 숏츠 | [YouTube 바로가기](https://www.youtube.com/@JustKorea) |
-| **Kstock NOW** | 한국 주식/산업 분석 | [YouTube 바로가기](https://www.youtube.com/@KstockNOW) |
-| **AI NOW** | AI 기술/프롬프트 뉴스 | [YouTube 바로가기](https://www.youtube.com/@AINOW) |
+| **SO,NOW** | 뉴스 & 미디어 | [YouTube 바로가기](https://www.youtube.com/@sooonow) |
+| **boonow** | 콘텐츠 | [YouTube 바로가기](https://www.youtube.com/@boonow) |
+| **AI NOW** | AI 기술/프롬프트 뉴스 | [YouTube 바로가기](https://www.youtube.com/@sonow-ai) |
+| **just 코리아** | 매일 정치·경제 이슈 | [YouTube 바로가기](https://www.youtube.com/@JustKoreaShorts) |
 
 ## 🎬 [Shorts 모아보기](./shorts/)
 

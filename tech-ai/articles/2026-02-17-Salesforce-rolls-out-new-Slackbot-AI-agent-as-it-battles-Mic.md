@@ -1,15 +1,10 @@
 ---
 title: "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI"
-description: "Salesforce, Slackbot AI로 \"agentic AI\" 주도 선언
-
-## Slack의 새로운 얼굴, 강력한 AI 능력으로 기업 운영 변화
-
-
-Salesforce는  Slack 내에 통합된 강력한 AI 인 'Slackbot'을 발표하며 ‘agentic AI’ 시대의 시작"
+description: "Salesforce, Slackbot AI로 \"agentic AI\" 주도 선언  Slack의 새로운 얼굴, 강력한 AI 능력으로 기업 운영 변화   Salesforce는  Slack 내에 통합된 강력한 AI 인 'Slackbot'을 발표하며 ‘agentic AI’ 시대의 시작"
 date: "2026-02-17"
 category: "AI"
 image: "https://www.society-now.com/sonow/article/ai/ai26021742/ai26021742.png"
-keywords: "AI, artificial intelligence, VentureBeat AI, ai"
+keywords: "AI, artificial intelligence, VentureBeat AI"
 tags: ""
 source: "SO,NOW"
 url: "https://www.society-now.com/sonow/article/ai/ai26021742/ai26021742-ai.html"
@@ -21,16 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021742/ai26021742-ai.html
 
 **AI** | 2026.02.17 | SO,NOW
 
-Salesforce, Slackbot AI로 "agentic AI" 주도 선언
-
-## Slack의 새로운 얼굴, 강력한 AI 능력으로 기업 운영 변화
-
-
-Salesforce는  Slack 내에 통합된 강력한 AI 인 'Slackbot'을 발표하며 ‘agentic AI’ 시대의 시작
+Salesforce, Slackbot AI로 "agentic AI" 주도 선언  Slack의 새로운 얼굴, 강력한 AI 능력으로 기업 운영 변화   Salesforce는  Slack 내에 통합된 강력한 AI 인 'Slackbot'을 발표하며 ‘agentic AI’ 시대의 시작
 
 **📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021742/ai26021742-ai.html)**
 
-**🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI · ai
+**🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
 
 ## 📌 관련 기사
 
@@ -40,8 +30,8 @@ Salesforce는  Slack 내에 통합된 강력한 AI 인 'Slackbot'을 발표하�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 '다��택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
 
 ---
 
-*[🏠 홈](../../README.md) | [🤖 tech-ai](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
