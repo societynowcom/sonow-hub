@@ -148,7 +148,7 @@ url: "${article.url || ''}"
 }
 
 // ─── [제미나이 1] 관련 기사 TOP 3 ───
-function getRelatedArticles(article, allArticles, catInfo) {
+function getRelatedArticles(article, allArticles, catInfo, idToFilename) {
     const code = article.article_id.slice(0, 2);
     const sameCategory = allArticles.filter(a =>
         a.article_id.slice(0, 2) === code && a.article_id !== article.article_id
@@ -159,14 +159,14 @@ function getRelatedArticles(article, allArticles, catInfo) {
     let md = '\n## 📌 관련 기사\n\n';
     for (const rel of sameCategory) {
         const date = formatDate(parseDate(rel.article_id));
-        const relFile = makeFilename(rel);
+        const relFile = (idToFilename && idToFilename.get(rel.article_id)) || makeFilename(rel);
         md += `- [${rel.title}](./${relFile}) (${date})\n`;
     }
     return md;
 }
 
 // ─── [제미나이 4] 타 카테고리 교차 링크 ───
-function getCrossLinks(article, groupedArticles, catInfo) {
+function getCrossLinks(article, groupedArticles, catInfo, idToFilename) {
     const crossGroups = CROSS_LINKS[catInfo.group] || [];
     let md = '\n## 🔗 다른 카테고리 최신 뉴스\n\n';
 
@@ -176,7 +176,7 @@ function getCrossLinks(article, groupedArticles, catInfo) {
             const pick = articles[Math.floor(Math.random() * Math.min(5, articles.length))];
             const icon = GROUP_ICONS[crossGroup] || '📄';
             const crossFolder = crossGroup;
-            const pickFile = makeFilename(pick);
+            const pickFile = (idToFilename && idToFilename.get(pick.article_id)) || makeFilename(pick);
             md += `- ${icon} [${pick.title}](../${crossFolder}/articles/${pickFile})\n`;
         }
     }
@@ -184,7 +184,7 @@ function getCrossLinks(article, groupedArticles, catInfo) {
 }
 
 // ─── 개별 기사 MD 파일 생성 ───
-function generateArticleMD(article, allArticles, groupedArticles) {
+function generateArticleMD(article, allArticles, groupedArticles, idToFilename) {
     const code = article.article_id.slice(0, 2);
     const catInfo = CATEGORY_MAP[code] || CATEGORY_MAP['nw'];
     const date = formatDate(parseDate(article.article_id));
@@ -193,8 +193,8 @@ function generateArticleMD(article, allArticles, groupedArticles) {
     const frontMatter = generateFrontMatter(article, catInfo);
     const subtitle = article.subtitle ? `> ${article.subtitle}\n` : '';
     const description = article.description ? `\n${cleanDescription(article.description)}\n` : '';
-    const relatedArticles = getRelatedArticles(article, allArticles, catInfo);
-    const crossLinks = getCrossLinks(article, groupedArticles, catInfo);
+    const relatedArticles = getRelatedArticles(article, allArticles, catInfo, idToFilename);
+    const crossLinks = getCrossLinks(article, groupedArticles, catInfo, idToFilename);
     const cleanedKw = cleanKeywords(article.keywords);
     const keywordsLine = cleanedKw ? `\n**🏷️ 키워드:** ${cleanedKw.replace(/, /g, ' · ')}\n` : '';
 
@@ -261,7 +261,7 @@ function updateMainReadme(articles) {
 }
 
 // ─── 카테고리 README 업데이트 ───
-function updateCategoryReadmes(groupedArticles) {
+function updateCategoryReadmes(groupedArticles, idToFilename) {
     const markerMap = {
         'headlines': 'HEADLINES_LATEST',
         'tech-ai': 'TECH_LATEST',
@@ -277,7 +277,7 @@ function updateCategoryReadmes(groupedArticles) {
         let table = '| 제목 | 날짜 |\n|------|------|\n';
         for (const a of articles) {
             const date = formatDate(parseDate(a.article_id));
-            const fileName = makeFilename(a);
+            const fileName = (idToFilename && idToFilename.get(a.article_id)) || makeFilename(a);
             table += `| [${(a.title || '').slice(0, 60)}](./articles/${fileName}) | ${date} |\n`;
         }
         updateReadme(readmePath, marker, table);
@@ -316,8 +316,66 @@ async function main() {
     }
     console.log('');
 
-    // 3. MD 파일 생성
-    console.log('3. MD 파일 생성 중...');
+    // 3. 파일명 충돌 감지 및 매핑
+    console.log('3. 파일명 충돌 감지 중...');
+
+    // 같은 파일명을 만드는 기사끼리 그룹화
+    const filenameGroups = new Map(); // "folder/filename" → [article, ...]
+    for (const a of articles) {
+        const code = a.article_id.slice(0, 2);
+        const cat = CATEGORY_MAP[code] || CATEGORY_MAP['nw'];
+        const baseName = makeFilename(a);
+        const key = `${cat.folder}/${baseName}`;
+        if (!filenameGroups.has(key)) filenameGroups.set(key, []);
+        filenameGroups.get(key).push(a);
+    }
+
+    // 충돌 해결: article_id → 실제 파일명
+    const idToFilename = new Map();
+    let collisionCount = 0;
+
+    for (const [key, group] of filenameGroups) {
+        const folder = key.split('/')[0];
+        const baseName = key.slice(folder.length + 1);
+
+        if (group.length === 1) {
+            // 충돌 없음
+            idToFilename.set(group[0].article_id, baseName);
+        } else {
+            // 충돌 발생! 기존 파일의 소유자 확인
+            const filePath = path.join(HUB_ROOT, folder, 'articles', baseName);
+            let ownerArticleId = null;
+
+            if (fs.existsSync(filePath)) {
+                const content = fs.readFileSync(filePath, 'utf-8');
+                for (const a of group) {
+                    if (content.includes(a.article_id)) {
+                        ownerArticleId = a.article_id;
+                        break;
+                    }
+                }
+            }
+
+            for (const a of group) {
+                if (a.article_id === ownerArticleId) {
+                    // 기존 파일 소유자 → 기본 파일명 유지
+                    idToFilename.set(a.article_id, baseName);
+                } else if (!ownerArticleId && a === group[0]) {
+                    // 기존 파일 없으면 첫 번째가 기본 파일명
+                    idToFilename.set(a.article_id, baseName);
+                } else {
+                    // 충돌 기사 → article_id 접미사 붙임
+                    const altName = baseName.replace('.md', `-${a.article_id}.md`);
+                    idToFilename.set(a.article_id, altName);
+                    collisionCount++;
+                }
+            }
+        }
+    }
+    console.log(`   → 충돌 감지: ${collisionCount}개 (article_id 접미사로 해결)\n`);
+
+    // 4. MD 파일 생성
+    console.log('4. MD 파일 생성 중...');
     let created = 0, skipped = 0;
 
     for (const a of articles) {
@@ -329,7 +387,7 @@ async function main() {
             fs.mkdirSync(articlesDir, { recursive: true });
         }
 
-        const fileName = makeFilename(a);
+        const fileName = idToFilename.get(a.article_id) || makeFilename(a);
         const filePath = path.join(articlesDir, fileName);
 
         // 이미 존재하면 스킵
@@ -338,20 +396,20 @@ async function main() {
             continue;
         }
 
-        const md = generateArticleMD(a, articles, groupedArticles);
+        const md = generateArticleMD(a, articles, groupedArticles, idToFilename);
         fs.writeFileSync(filePath, md, 'utf-8');
         created++;
     }
     console.log(`   → 생성: ${created}개, 스킵(기존): ${skipped}개\n`);
 
-    // 4. README 업데이트
-    console.log('4. README 파일 업데이트...');
+    // 5. README 업데이트
+    console.log('5. README 파일 업데이트...');
     updateMainReadme(articles);
-    updateCategoryReadmes(groupedArticles);
+    updateCategoryReadmes(groupedArticles, idToFilename);
     console.log('   → 완료\n');
 
-    // 5. data/ 에 JSON 저장
-    console.log('5. data/articles.json 저장...');
+    // 6. data/ 에 JSON 저장
+    console.log('6. data/articles.json 저장...');
     const dataDir = path.join(HUB_ROOT, 'data');
     if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
     fs.writeFileSync(path.join(dataDir, 'articles.json'), JSON.stringify(apiData, null, 2), 'utf-8');
