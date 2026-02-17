@@ -1,0 +1,38 @@
+---
+title: "DGX Spark, AI 강력히 국제대학으로 확산"
+description: "NVIDIA의 DGX Spark는 세계 주요 기관에서 사용되는 휴대형 슈퍼컴퓨터입니다. 고성능 처리 성능을 자랑하는 DGX Spark는 연구실, 교수 사무실, 학생 시스템까지 AI 기술 접근성을 높이고 있습니다."
+date: "2026-02-13"
+category: "AI"
+image: "https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338.png"
+keywords: "AI, artificial intelligence, NVIDIA AI Blog"
+tags: ""
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338-ai.html"
+---
+
+# DGX Spark, AI 강력히 국제대학으로 확산
+
+> 휴대용 슈퍼컴퓨터로 데이터센터급 AI 접근성 확대
+
+**AI** | 2026.02.13 | SO,NOW
+
+NVIDIA의 DGX Spark는 세계 주요 기관에서 사용되는 휴대형 슈퍼컴퓨터입니다. 고성능 처리 성능을 자랑하는 DGX Spark는 연구실, 교수 사무실, 학생 시스템까지 AI 기술 접근성을 높이고 있습니다.
+
+**📰 [전체 기사 읽기 → society-now.com](https://www.society-now.com/sonow/article/ai/ai26021338/ai26021338-ai.html)**
+
+**🏷️ 키워드:** AI · artificial intelligence · NVIDIA AI Blog
+
+## 📌 관련 기사
+
+- [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](./2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md) (2026.02.17)
+- [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants](./2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md) (2026.02.17)
+- [a16z, 글로벌 눈으로 투자 대상 발굴](./2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md) (2026.02.17)
+
+## 🔗 다른 카테고리 최신 뉴스
+
+- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
+
+---
+
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

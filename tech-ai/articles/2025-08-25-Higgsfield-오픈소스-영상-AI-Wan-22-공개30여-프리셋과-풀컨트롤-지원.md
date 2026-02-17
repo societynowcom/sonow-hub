@@ -1,0 +1,33 @@
+---
+title: "Higgsfield, 오픈소스 영상 AI Wan 2.2 공개…30여 프리셋과 풀컨트롤 지원"
+description: ""
+date: "2025-08-25"
+category: "SONOW TECH"
+image: "/sonow/article/sn/sn25082504/sn25082504.png"
+keywords: ""
+tags: ""
+source: "SO,NOW"
+url: "/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html"
+---
+
+# Higgsfield, 오픈소스 영상 AI Wan 2.2 공개…30여 프리셋과 풀컨트롤 지원
+
+
+**SONOW TECH** | 2025.08.25 | SO,NOW
+
+**📰 [전체 기사 읽기 → society-now.com](/sonow/article/sn/sn25082504/sn25082504-Higgsfield-Wan-22.html)**
+
+## 📌 관련 기사
+
+- [cesium](./2025-08-03-cesium.md) (2025.08.03)
+- [&quot;테슬라 타이니 하우스는 없다&quot;…머스크가 사는 집은 박서블 &#039;카시타&#039;](./2025-08-18-quot테슬라-타이니-하우스는-없다quot머스크가-사는-집은-박서블-039카시타039.md) (2025.08.18)
+- [테슬라, 삼성 ‘AI6 칩’ 동맹으로 로봇·무인택시 올인](./2025-08-04-테슬라-삼성-AI6-칩-동맹으로-로봇무인택시-올인.md) (2025.08.04)
+
+## 🔗 다른 카테고리 최신 뉴스
+
+- 💰 [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](../economy/articles/2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md)
+- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
+
+---
+
+*[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md) | [SO,NOW](https://society-now.com/sonow/)*

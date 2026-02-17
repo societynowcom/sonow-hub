@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [a16z, 글로벌 눈으로 투자 대상 발굴](https://www.society-now.com/sonow/article/ai/ai26021750/ai26021750-ai.html) | AI | 2026.02.17 |
-| [Uncanny Valley: ICE’s Secret Expansion Plans, Pala](https://www.society-now.com/sonow/article/ai/ai26021749/ai26021749-ai.html) | AI | 2026.02.17 |
 | [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](https://www.society-now.com/sonow/article/ai/ai26021748/ai26021748-ai.html) | AI | 2026.02.17 |
-| [Zillow Has Gone Wild—for AI](https://www.society-now.com/sonow/article/ai/ai26021747/ai26021747-ai.html) | AI | 2026.02.17 |
-| [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](https://www.society-now.com/sonow/article/ai/ai26021746/ai26021746-ai.html) | AI | 2026.02.17 |
+| [Uncanny Valley: ICE’s Secret Expansion Plans, Pala](https://www.society-now.com/sonow/article/ai/ai26021749/ai26021749-ai.html) | AI | 2026.02.17 |
+| [a16z, 글로벌 눈으로 투자 대상 발굴](https://www.society-now.com/sonow/article/ai/ai26021750/ai26021750-ai.html) | AI | 2026.02.17 |
 | [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](https://www.society-now.com/sonow/article/ai/ai26021745/ai26021745-ai.html) | AI | 2026.02.17 |
-| [구글 AI, 기자 목소리 사용?](https://www.society-now.com/sonow/article/ai/ai26021744/ai26021744-ai.html) | AI | 2026.02.17 |
-| [Anthropic, 새로운 AI 에이전트 'Cowork' 출시](https://www.society-now.com/sonow/article/ai/ai26021743/ai26021743-ai.html) | AI | 2026.02.17 |
+| [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](https://www.society-now.com/sonow/article/ai/ai26021746/ai26021746-ai.html) | AI | 2026.02.17 |
+| [Zillow Has Gone Wild—for AI](https://www.society-now.com/sonow/article/ai/ai26021747/ai26021747-ai.html) | AI | 2026.02.17 |
 | [Salesforce rolls out new Slackbot AI agent as it b](https://www.society-now.com/sonow/article/ai/ai26021742/ai26021742-ai.html) | AI | 2026.02.17 |
-| [Listen Labs, AI로 고객 이해 빠르게!](https://www.society-now.com/sonow/article/ai/ai26021741/ai26021741-ai.html) | AI | 2026.02.17 |
+| [Anthropic, 새로운 AI 에이전트 'Cowork' 출시](https://www.society-now.com/sonow/article/ai/ai26021743/ai26021743-ai.html) | AI | 2026.02.17 |
+| [구글 AI, 기자 목소리 사용?](https://www.society-now.com/sonow/article/ai/ai26021744/ai26021744-ai.html) | AI | 2026.02.17 |
+| [NVIDIA DGX Spark, AI 강력하게 접근](https://www.society-now.com/sonow/article/ai/ai26021738/ai26021738-ai.html) | AI | 2026.02.17 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 91개 |
-| 카테고리 | 6개 |
+| 전체 기사 | 3750개 |
+| 카테고리 | 31개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-02-17 |
 

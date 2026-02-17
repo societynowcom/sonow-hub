@@ -1,0 +1,33 @@
+---
+title: "동자동에서 사라진 생명들 (The Disappearing Lives of Dongja-dong)"
+description: ""
+date: "2025-12-31"
+category: "부동산"
+image: "/sonow/article/re/re25123121/re25123121.png"
+keywords: ""
+tags: ""
+source: "SO,NOW"
+url: "/sonow/article/re/re25123121/re25123121-한겨레.html"
+---
+
+# 동자동에서 사라진 생명들 (The Disappearing Lives of Dongja-dong)
+
+
+**부동산** | 2025.12.31 | SO,NOW
+
+**📰 [전체 기사 읽기 → society-now.com](/sonow/article/re/re25123121/re25123121-한겨레.html)**
+
+## 📌 관련 기사
+
+- [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](./2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md) (2026.02.17)
+- [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](./2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md) (2026.02.17)
+- [이재명, 장동혁 콕 지적 / 다주택자 특혜 논란](./2026-02-16-이재명-장동혁-콕-지적-다주택자-특혜-논란.md) (2026.02.16)
+
+## 🔗 다른 카테고리 최신 뉴스
+
+- 📰 [한국 피겨, 올림픽 첫 승 / 신지아·이해인 등장](../headlines/articles/2026-02-17-한국-피겨-올림픽-첫-승-신지아이해인-등장.md)
+- 🤖 [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](../tech-ai/articles/2026-02-17-GPT-4o-인간과의-관계에서-죽음을-맞는-AI-챗봇.md)
+
+---
+
+*[🏠 홈](../../README.md) | [💰 ECONOMY](../README.md) | [SO,NOW](https://society-now.com/sonow/)*
