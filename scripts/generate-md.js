@@ -469,7 +469,7 @@ async function main() {
 
     // 7. sitemap.xml 생성
     console.log('7. sitemap.xml 생성...');
-    const BASE_URL = 'https://github.com/societynowcom/sonow-hub/blob/main';
+    const BASE_URL = 'https://societynowcom.github.io/sonow-hub';
     const today = new Date().toISOString().slice(0, 10);
 
     let sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n`;
