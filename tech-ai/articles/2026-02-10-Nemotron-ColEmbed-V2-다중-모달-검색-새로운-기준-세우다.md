@@ -16,7 +16,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021033/ai26021033-ai.html
 
 **AI** | 2026.02.10 | SO,NOW
 
-Nemotron이 새로운 multimodal retrieval 모델 ColEmbed V2를 발표했다. 이 모델은 ViDoRe V3의 최고 성능을 가진 모델을 활용하여 이미지 및 텍스트 데이터 검색 능력을 향상시켰다.
+Nemotron은 AI 모델 개발 전문 기업으로서 최첨단 기술을 활용하여 시장에 새로운 가치를 창출하고 있다. 특히 multimodal retrieval 분야에서 뛰어난 성과를 보이며 주목받고 있다. ColEmbed V2는 이러한 Nemotron의 노력의 결과물로, 다중 모달 데이터 검색 효율성을 높이는 데 초점을 맞춘 모델이다.
+
+ColEmbed V2는 ViDoRe V3의 최고 성능을 가진 모델을 기반으로 개발되었다. 이를 통해 이미지 및 텍스트 데이터를 동시에 이해하고 연관성을 찾아낼 수 있는 강력한 능력을 확보했다. 또한, 새로운 학습 알고리즘과 데이터셋 활용을 통해 검색 결과의 정확도와 효율성을 향상시켰다. Nemotron은 ColEmbed V2를 오픈소스로 제공하여 연구자 및 개발자가 이 모델을 자유롭게 사용하고 개선할 수 있도록 했다.
 
 > **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021033/ai26021033-ai.html)**
 
@@ -30,8 +32,8 @@ Nemotron이 새로운 multimodal retrieval 모델 ColEmbed V2를 발표했다. �
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
+- 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---
 

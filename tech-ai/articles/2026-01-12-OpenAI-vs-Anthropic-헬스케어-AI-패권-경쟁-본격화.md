@@ -16,7 +16,9 @@ url: "https://www.society-now.com/sonow/article/an/an26011202/an26011202-헬스�
 
 **AI NOW** | 2026.01.12 | SO,NOW
 
-Anthropic이 Claude for Healthcare를 공개하며 OpenAI ChatGPT Health와 정면 경쟁에 돌입했다. 두 회사 모두 의료 기록 연동 기능을 제공하지만 개인정보 보호 우려가 제기되고 있다.
+Anthropic이 1월 12일 Claude for Healthcare를 공개하며 OpenAI와의 헬스케어 AI 경쟁이 본격화됐다. 이는 OpenAI가 1월 7일 ChatGPT Health를 출시한 지 불과 며칠 만으로, 경제에서 가장 민감한 분야 중 하나인 의료 영역에서 AI 기술 기업 간 경쟁이 심화되고 있음을 보여준다. 샌프란시스코 JPMorgan 헬스케어 컨퍼런스에 맞춰 발표된 Claude for Healthcare는 Pro 및 Max 플랜 미국 구독자들이 개인 건강 기록을 Claude 챗봇에 연동할 수 있도록 한다. OpenAI의 ChatGPT Health는 이미 매주 2억 3천만 명 이상의 사용자가 건강 관련 질문을 하고 있어, 거대한 시장 잠재력을 입증하고 있다.
+
+두 AI 기업은 의료 기록에 대한 안전한 접근을 위해 각기 다른 헬스 데이터 인프라 기업과 협력했다. Anthropic은 50,000개 이상의 의료 시스템에서 기록을 통합하는 스타트업 HealthEx와 파트너십을 체결했다. 반면 OpenAI는 220만 개의 의료 제공자와 320개의 건강 보험에 연결되는 b.well을 선택했다. Claude for Healthcare는 Claude Opus 4.5 모델을 기반으로 Centers for Medicare & Medicaid Services Coverage Database, ICD-10 의료 코딩 데이터, National Provider Identifier Registry, PubMed 등 업계 데이터베이스와 연결된다. 또한 AstraZeneca, Sanofi, Banner Health, Flatiron Health 등 주요 의료 및 제약 회사들과 협력하여 임상 가이드라인 매칭, 사전 승인 요청, 보험 이의 신청 간소화 기능을 제공한다.
 
 > **이 기사의 전체 분석과 관련 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011202/an26011202-헬스케어-ai.html)**
 
@@ -30,8 +32,8 @@ Anthropic이 Claude for Healthcare를 공개하며 OpenAI ChatGPT Health와 정�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [장동혁, 이재명 "다주택자 특혜 유지" 질문에 / "대통령 때문에 불효자 운다"](../economy/articles/2026-02-17-장동혁-이재명-다주택자-특혜-유지-질문에-대통령-때문에-불효자-운다.md)
-- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
+- 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
+- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
 
 ---
 

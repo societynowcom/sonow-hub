@@ -119,6 +119,40 @@ function cleanDescription(raw) {
     return truncated.trim() + '...';
 }
 
+// ─── 본문 50% 요약 생성 (Track A: article_sections 있는 기사) ───
+function generateBodySummary(article) {
+    const sections = article.article_sections || [];
+    if (sections.length === 0) {
+        // Track B: description 있으면 전문 사용, 없으면 빈 문자열
+        return (article.description || '').trim();
+    }
+
+    // Track A: 섹션 본문 합산 후 50%
+    const fullBodies = sections.map(s => (s.body || '').trim()).filter(b => b.length > 0);
+    const fullText = fullBodies.join(' ');
+    const targetLen = Math.round(fullText.length * 0.50);
+
+    // 섹션 단위로 채우기
+    let result = '';
+    for (const body of fullBodies) {
+        if (result.length >= targetLen) break;
+        result += (result ? '\n\n' : '') + body;
+    }
+
+    // 1개 섹션이 목표를 크게 넘으면 문장 단위로 자르기
+    if (result.length > targetLen * 1.3) {
+        const sentences = result.match(/[^.!?다]+[.!?다]+/g) || [result];
+        let trimmed = '';
+        for (const sent of sentences) {
+            if (trimmed.length + sent.length > targetLen) break;
+            trimmed += sent;
+        }
+        result = trimmed || sentences[0];
+    }
+
+    return result.trim();
+}
+
 // ─── keywords 정제 (소스명/카테고리코드 제거) ───
 function cleanKeywords(keywords) {
     if (!Array.isArray(keywords)) return '';
@@ -192,7 +226,8 @@ function generateArticleMD(article, allArticles, groupedArticles, idToFilename) 
 
     const frontMatter = generateFrontMatter(article, catInfo);
     const subtitle = article.subtitle ? `> ${article.subtitle}\n` : '';
-    const description = article.description ? `\n${cleanDescription(article.description)}\n` : '';
+    const bodySummary = generateBodySummary(article);
+    const description = bodySummary ? `\n${bodySummary}\n` : '';
     const relatedArticles = getRelatedArticles(article, allArticles, catInfo, idToFilename);
     const crossLinks = getCrossLinks(article, groupedArticles, catInfo, idToFilename);
     const cleanedKw = cleanKeywords(article.keywords);

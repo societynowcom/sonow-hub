@@ -16,7 +16,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011512/an26011512-How-Tol
 
 **AI NOW** | 2026.01.15 | SO,NOW
 
-Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natu...
+Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.
 
 > **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011512/an26011512-How-Tolan-builds-voice-first-AI-with-GPT-51.html)**
 

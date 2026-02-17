@@ -16,7 +16,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011508/an26011508-NBC-Spo
 
 **AI NOW** | 2026.01.15 | SO,NOW
 
-NBC Sports introduced a new AI-powered player tracking system that will let viewers on mobile devices zoom in and focus on their favorite athletes.
+NBC Sports introduced a new AI-powered player tracking system that will let viewers on mobile devices zoom in and focus on their favorite athletes. It's the first time the viztrick
 
 > **이 이슈의 전체 맥락과 배경을 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011508/an26011508-NBC-Sports’-new-real-time-player-tracking-lets-viewers-focus-on-their-favorite-athletes.html)**
 
@@ -29,7 +29,7 @@ NBC Sports introduced a new AI-powered player tracking system that will let view
 ## 🔗 다른 카테고리 최신 뉴스
 
 - 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
-- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드.md)
+- 🎭 [일본 D.O.N, 세계 최초 벨트형 웨어러블 'Vital Belt' CES 2026 공개](../k-culture/articles/2026-01-05-일본-DON-세계-최초-벨트형-웨어러블-Vital-Belt-CES-2026-공개.md)
 
 ---
 

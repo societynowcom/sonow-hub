@@ -16,7 +16,11 @@ url: "https://www.society-now.com/sonow/article/ai/ai26021532/ai26021532-ai.html
 
 **AI** | 2026.02.15 | SO,NOW
 
-Hugging Face가 새로운 버전인 Transformers.js v4을 NPM에 공개했습니다. 이 버전은 성능 향상, 기능 확장 및 사용자 편의성 증대 등 다양한 개선 사항을 제공합니다. 자세한 내용은 다음 문단에서 살펴보세요.
+Hugging Face는 오픈 소스 자연어 처리(NLP) 도구인 Transformers.js에 새로운 버전인 v4를 출시했습니다. 이 버전은 널리 사용되는 Transformers 모델을 JavaScript 환경에서 실행하기 위한 강력한 라이브러리로, 개발자들이 NLP 응용 프로그램을 더욱 효율적으로 구축할 수 있도록 지원합니다.  
+
+Transformers.js v4는 NPM (Node Package Manager)에 공개되어 언제든지 사용 가능하며, 다양한 모델과 플랫폼에서 작동하는 높은 호환성을 제공합니다. 이 라이브러리는 웹 개발자와 데이터 과학자에게 유용한 도구이며,  NLP 기반 솔루션을 빠르고 효율적으로 구현할 수 있도록 지원합니다.
+
+Transformers.js v4는 성능 향상, 기능 확장, 사용자 편의성 증대에 중점을 두고 개발되었습니다. 모델 트레이닝 시간이 단축되고, 새로운 모델 유형을 지원하며, API가 더욱 간편해졌습니다. 이러한 개선 사항은 Transformers.js의 사용 경험을 향상시키고, 다양한 NLP 작업 수행 능력을 강화합니다.
 
 > **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021532/ai26021532-ai.html)**
 

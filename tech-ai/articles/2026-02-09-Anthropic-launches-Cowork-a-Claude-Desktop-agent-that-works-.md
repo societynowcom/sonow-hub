@@ -16,7 +16,9 @@ url: "https://www.society-now.com/sonow/article/ai/ai26020943/ai26020943-ai.html
 
 **AI** | 2026.02.09 | SO,NOW
 
-Anthropic, 'Cowork'으로 AI 에이전트 경쟁 시작  AI 업무 도구로서의 새로운 가능성 제시   Anthropic는 최근 개발자를 위한 툴인 Claude Code 성공에 이어 일반 사용자도 활용할 수 있는 AI 에이전트 기능 "Cowork"를 출시했습니다. Co
+Anthropic는 최근 개발자를 위한 툴인 Claude Code 성공에 이어 일반 사용자도 활용할 수 있는 AI 에이전트 기능 "Cowork"를 출시했습니다. Cowork는 특정 폴더 접근 권한을 부여받아 파일을 읽고 수정, 새로운 파일을 생성하는 등 다양한 작업을 처리합니다. 이를 통해 Anthropic은 OpenAI, Google과 같은 대표 AI 개발사들뿐 아니라 Microsoft의 Copilot과도 경쟁할 수 있습니다.
+
+Cowork는 10일 만에 개발되었다고 합니다. 이 과정에서 Claude Code가 자체적으로 Cowork를 구축하는 데 기여했을 가능성이 높습니다. 이는 AI 시스템 간의 상호 작용과 학습으로 인한 급속한 발전을 보여줍니다. 또한, 사용자에게 "동료와 같은 역할"을 하는 AI 에이전트를 제공함으로써 업무 효율성 향상에 기여할 수 있습니다.
 
 > **전문가 분석과 심층 보도를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26020943/ai26020943-ai.html)**
 
@@ -30,7 +32,7 @@ Anthropic, 'Cowork'으로 AI 에이전트 경쟁 시작  AI 업무 도구로서�
 
 ## 🔗 다른 카테고리 최신 뉴스
 
-- 💰 [이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음](../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.md)
+- 💰 [장동혁, 이재명 '다주택자 특혜' 질문에 / "대통령 때문에 불효자는 운다"](../economy/articles/2026-02-16-장동혁-이재명-다주택자-특혜-질문에-대통령-때문에-불효자는-운다.md)
 - 🎭 [미세플라스틱 뇌 침투 연구, 과학자들 '위양성' 의혹 제기](../k-culture/articles/2026-01-15-미세플라스틱-뇌-침투-연구-과학자들-위양성-의혹-제기.md)
 
 ---

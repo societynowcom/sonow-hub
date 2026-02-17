@@ -16,7 +16,7 @@ url: "https://www.society-now.com/sonow/article/an/an26011505/an26011505-Bandcam
 
 **AI NOW** | 2026.01.15 | SO,NOW
 
-Bandcamp has built its entire brand around serving artists. And, with the artist furor over AI growing every day, it's no surprise that the company has decided...
+Bandcamp has built its entire brand around serving artists. And, with the artist furor over AI growing every day, it's no surprise that the company has decided to take a stand agai
 
 > **더 자세한 내용과 관련 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/an/an26011505/an26011505-Bandcamp-becomes-the-first-major-music-platform-to-ban-AI-content.html)**
 
@@ -29,7 +29,7 @@ Bandcamp has built its entire brand around serving artists. And, with the artist
 ## 🔗 다른 카테고리 최신 뉴스
 
 - 💰 [이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판](../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.md)
-- 🎭 [문체부, K-콘텐츠 인재 3400명 양성 나선다](../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.md)
+- 🎭 [문화누리카드](../k-culture/articles/2025-11-23-문화누리카드-kc25112312.md)
 
 ---
 
