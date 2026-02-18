@@ -2,9 +2,9 @@ name: Daily Update - SO,NOW Hub
 
 on:
   schedule:
-    # 매일 07:30 KST (22:30 UTC 전날), 08:30 KST (23:30 UTC 전날)
-    - cron: '30 22 * * *'
-    - cron: '30 23 * * *'
+    # 매일 07:45 KST (22:45 UTC 전날), 08:45 KST (23:45 UTC 전날)
+    - cron: '45 22 * * *'
+    - cron: '45 23 * * *'
   workflow_dispatch: # 수동 실행 가능
 
 jobs:

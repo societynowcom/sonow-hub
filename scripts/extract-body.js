@@ -7,7 +7,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const BACKUP_DIR = 'C:/Users/82105/Desktop/sonow_system/article_backup';
+const BACKUP_DIR = path.resolve(__dirname, '..', '..', 'article_backup');
 const HUB_ROOT = path.join(__dirname, '..');
 const DATA_FILE = path.join(HUB_ROOT, 'data', 'articles.json');
 
