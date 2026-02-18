@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SO,NOW Hub - News Archive</title>
+<meta name="description" content="SO,NOW 뉴스 아카이브 - AI, 경제, 교육, K-Culture 등 카테고리별 뉴스 허브">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#fafafa;color:#222;font-family:-apple-system,'Segoe UI',sans-serif;min-height:100vh}
+header{background:#fff;border-bottom:2px solid #e94560;padding:16px 24px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100;box-shadow:0 1px 4px rgba(0,0,0,.06)}
+.logo{font-size:16px;font-weight:800;color:#e94560;letter-spacing:1px}
+.logo span{color:#999;font-weight:400;font-size:12px;margin-left:6px}
+.meta{font-size:11px;color:#999}
+.meta b{color:#e94560}
+
+.toolbar{background:#fff;padding:10px 24px;border-bottom:1px solid #eee;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.search{flex:1;min-width:200px;max-width:400px;padding:8px 14px;border:1px solid #ddd;border-radius:20px;font-size:13px;outline:none;transition:border .15s}
+.search:focus{border-color:#e94560}
+.filter-btn{padding:7px 14px;border:1px solid #ddd;background:#fff;border-radius:16px;font-size:12px;cursor:pointer;transition:all .15s;color:#666}
+.filter-btn:hover{border-color:#e94560;color:#e94560}
+.filter-btn.active{background:#e94560;color:#fff;border-color:#e94560}
+.filter-btn .cnt{font-size:10px;margin-left:2px;opacity:.6}
+
+.content{max-width:960px;margin:0 auto;padding:20px 24px}
+
+.stat-row{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}
+@media(max-width:600px){.stat-row{grid-template-columns:repeat(2,1fr)}}
+.stat-box{background:#fff;border:1px solid #eee;border-radius:10px;padding:16px;text-align:center}
+.stat-num{font-size:1.6rem;font-weight:800;color:#e94560}
+.stat-label{font-size:11px;color:#999;margin-top:2px}
+
+.article-list{background:#fff;border:1px solid #eee;border-radius:10px;overflow:hidden}
+.article-item{display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid #f5f5f5;text-decoration:none;color:#222;transition:background .1s}
+.article-item:hover{background:#fef5f7}
+.article-item:last-child{border-bottom:none}
+.article-cat{font-size:10px;padding:3px 8px;border-radius:10px;font-weight:700;white-space:nowrap;flex-shrink:0}
+.cat-ai{background:#f0e6ff;color:#7c3aed}
+.cat-economy{background:#fef3c7;color:#d97706}
+.cat-headlines{background:#fee2e2;color:#dc2626}
+.cat-tech{background:#e0f2fe;color:#0284c7}
+.cat-education{background:#d1fae5;color:#059669}
+.cat-culture{background:#fce7f3;color:#db2777}
+.cat-youtube{background:#ffedd5;color:#ea580c}
+.cat-default{background:#f3f4f6;color:#6b7280}
+.article-body{flex:1;min-width:0}
+.article-title{font-size:14px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.article-desc{font-size:12px;color:#999;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.article-date{font-size:11px;color:#ccc;white-space:nowrap;flex-shrink:0}
+
+.load-more{display:block;width:100%;padding:14px;background:#fff;border:1px solid #eee;border-radius:10px;margin-top:12px;font-size:13px;color:#e94560;cursor:pointer;font-weight:600;text-align:center;transition:background .15s}
+.load-more:hover{background:#fef5f7}
+
+.empty{text-align:center;padding:40px;color:#ccc;font-size:13px}
+.footer{text-align:center;padding:30px;font-size:11px;color:#ccc}
+.footer a{color:#e94560;text-decoration:none}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">SO,NOW <span>News Hub</span></div>
+  <div class="meta">총 <b id="total">-</b>건 · <b id="cat-count">-</b>개 카테고리</div>
+</header>
+
+<div class="toolbar">
+  <input class="search" type="text" id="search" placeholder="기사 검색..." oninput="filterArticles()">
+  <div id="filters"></div>
+</div>
+
+<div class="content">
+  <div class="stat-row" id="stats"></div>
+  <div class="article-list" id="list"><div class="empty">불러오는 중...</div></div>
+  <button class="load-more" id="load-more" style="display:none" onclick="showMore()">더 보기</button>
+</div>
+
+<div class="footer">
+  <a href="https://www.society-now.com" target="_blank">society-now.com</a> · Powered by SO,NOW
+</div>
+
+<script>
+let allArticles = [];
+let filtered = [];
+let shown = 0;
+const PER_PAGE = 30;
+let activeFilter = '';
+
+const CAT_MAP = {
+  'ai':'AI','AI':'AI','an':'AI NOW','AI NOW':'AI NOW',
+  'st':'주식','주식':'주식','hl':'헤드라인','헤드라인':'헤드라인',
+  're':'부동산','부동산':'부동산','ed':'교육','교육':'교육',
+  'ta':'TECH & AI','TECH & AI':'TECH & AI','dt':'디지털트윈',
+  'co':'K-Culture','K-Culture':'K-Culture','kc':'K-Culture',
+  'kh':'경제','경제':'경제','pb':'정책브리핑','정책브리핑':'정책브리핑',
+  'mh':'헤드라인','hk':'헤드라인','wr':'세계','lr':'부동산',
+  'ap':'정책','eg':'경제','td':'기술','kn':'한국','it':'IT',
+  'th':'기술','ex':'기타','kp':'정치','kb':'경제','pi':'정치',
+  'sn':'사회','ax':'AI','in':'산업','di':'디지털'
+};
+
+const CAT_STYLE = {
+  'AI':'cat-ai','AI NOW':'cat-ai','TECH & AI':'cat-tech',
+  '헤드라인':'cat-headlines','경제':'cat-economy','주식':'cat-economy',
+  '부동산':'cat-economy','교육':'cat-education','K-Culture':'cat-culture',
+  '정책브리핑':'cat-default','정책':'cat-default'
+};
+
+function getCatLabel(cat) { return CAT_MAP[cat] || cat; }
+function getCatClass(label) { return CAT_STYLE[label] || 'cat-default'; }
+function escHtml(t) { const d=document.createElement('div'); d.textContent=t; return d.innerHTML; }
+
+function formatDate(d) {
+  try {
+    const dt = new Date(d);
+    return dt.toLocaleDateString('ko-KR', {year:'numeric',month:'2-digit',day:'2-digit'});
+  } catch { return ''; }
+}
+
+async function init() {
+  try {
+    const r = await fetch('data/articles.json?t=' + Date.now());
+    allArticles = await r.json();
+    // 최신순 정렬
+    allArticles.sort((a,b) => (b.created_at||'').localeCompare(a.created_at||''));
+    renderStats();
+    renderFilters();
+    filterArticles();
+  } catch(e) {
+    document.getElementById('list').innerHTML = '<div class="empty">로드 실패: '+e.message+'</div>';
+  }
+}
+
+function renderStats() {
+  const cats = {};
+  allArticles.forEach(a => {
+    const l = getCatLabel(a.category);
+    cats[l] = (cats[l]||0) + 1;
+  });
+  const sorted = Object.entries(cats).sort((a,b) => b[1]-a[1]);
+
+  document.getElementById('total').textContent = allArticles.length.toLocaleString();
+  document.getElementById('cat-count').textContent = sorted.length;
+
+  const top4 = sorted.slice(0, 4);
+  document.getElementById('stats').innerHTML = top4.map(([name, cnt]) =>
+    '<div class="stat-box"><div class="stat-num">' + cnt + '</div><div class="stat-label">' + escHtml(name) + '</div></div>'
+  ).join('');
+}
+
+function renderFilters() {
+  const cats = {};
+  allArticles.forEach(a => {
+    const l = getCatLabel(a.category);
+    cats[l] = (cats[l]||0) + 1;
+  });
+  const sorted = Object.entries(cats).sort((a,b) => b[1]-a[1]);
+
+  document.getElementById('filters').innerHTML =
+    '<button class="filter-btn active" onclick="setFilter(\'\',this)">전체 <span class="cnt">' + allArticles.length + '</span></button>' +
+    sorted.map(([name, cnt]) =>
+      '<button class="filter-btn" onclick="setFilter(\'' + escHtml(name) + '\',this)">' +
+      escHtml(name) + ' <span class="cnt">' + cnt + '</span></button>'
+    ).join('');
+}
+
+function setFilter(cat, el) {
+  activeFilter = cat;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  filterArticles();
+}
+
+function filterArticles() {
+  const q = document.getElementById('search').value.toLowerCase();
+  filtered = allArticles.filter(a => {
+    if (activeFilter && getCatLabel(a.category) !== activeFilter) return false;
+    if (q && !(a.title||'').toLowerCase().includes(q) && !(a.description||'').toLowerCase().includes(q)) return false;
+    return true;
+  });
+  shown = 0;
+  document.getElementById('list').innerHTML = '';
+  showMore();
+}
+
+function showMore() {
+  const el = document.getElementById('list');
+  const batch = filtered.slice(shown, shown + PER_PAGE);
+
+  if (!batch.length && !shown) {
+    el.innerHTML = '<div class="empty">검색 결과가 없습니다</div>';
+    document.getElementById('load-more').style.display = 'none';
+    return;
+  }
+
+  batch.forEach(a => {
+    const catLabel = getCatLabel(a.category);
+    const catClass = getCatClass(catLabel);
+    const url = 'https://www.society-now.com/sonow/article/' + (a.category||'') + '/' + (a.article_id||'') + '/';
+    const item = document.createElement('a');
+    item.href = url;
+    item.target = '_blank';
+    item.className = 'article-item';
+    item.innerHTML =
+      '<span class="article-cat ' + catClass + '">' + escHtml(catLabel) + '</span>' +
+      '<div class="article-body">' +
+        '<div class="article-title">' + escHtml(a.title||'제목없음') + '</div>' +
+        '<div class="article-desc">' + escHtml(a.description||a.subtitle||'') + '</div>' +
+      '</div>' +
+      '<span class="article-date">' + formatDate(a.created_at) + '</span>';
+    el.appendChild(item);
+  });
+
+  shown += batch.length;
+  document.getElementById('load-more').style.display =
+    shown < filtered.length ? 'block' : 'none';
+}
+
+init();
+</script>
+</body>
+</html>
