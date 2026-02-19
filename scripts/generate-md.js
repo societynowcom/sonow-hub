@@ -475,12 +475,12 @@ async function main() {
     let sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n`;
     sitemap += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
 
-    // 메인 README
-    sitemap += `  <url>\n    <loc>${BASE_URL}/README.md</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1.0</priority>\n  </url>\n`;
+    // 메인 페이지
+    sitemap += `  <url>\n    <loc>${BASE_URL}/</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1.0</priority>\n  </url>\n`;
 
-    // 카테고리 README
+    // 카테고리 페이지
     for (const group of ['headlines', 'tech-ai', 'economy', 'education', 'k-culture']) {
-        sitemap += `  <url>\n    <loc>${BASE_URL}/${group}/README.md</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+        sitemap += `  <url>\n    <loc>${BASE_URL}/${group}/</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
     }
 
     // 개별 기사 MD
