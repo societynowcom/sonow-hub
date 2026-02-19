@@ -1,0 +1,38 @@
+---
+title: "Salesforce, Slackbot AI 업그레이드로 'agentic AI' 도약"
+description: "Salesforce가 Slackbot AI를 완전히 새롭게 디자인하여 작업자의 생산성을 향상시키려 합니다. ChatGPT와 유사한 경험을 제공하며, 사용자의 기존 슬랙 데이터를 활용하여 정보 전달 및 업무 자동화에 초점을 맞춥니다."
+date: "2026-02-19"
+category: "AI"
+image: "https://www.society-now.com/sonow/article/ai/ai26021943/ai26021943.png"
+keywords: "AI, artificial intelligence, VentureBeat AI"
+tags: ""
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ai/ai26021943/ai26021943-ai.html"
+---
+
+# Salesforce, Slackbot AI 업그레이드로 'agentic AI' 도약
+
+> 대화형 AI 통해 업무 효율성 극대화 목표
+
+**AI** | 2026.02.19 | SO,NOW
+
+Salesforce는 새로운 버전의 Slackbot AI를 출시했습니다. 이 버전은 기존 버전보다 훨씬 강력하고, ChatGPT와 같은 경험을 제공하며 사용자의 작업 효율성을 높입니다. Salesforce CEO는 Slackbot이 "사용자가 사랑하는" 업무 수행 도구가 될 것이라고 말했습니다. 새로운 Slackbot은 대화형 방식으로 사용자가 기존 Slack 데이터를 활용하여 정보를 얻고, 업무를 자동화할 수 있도록 지원합니다.
+
+Salesforce는 이러한 업데이트를 통해 기업이 AI 기술을 더욱 효율적으로 적극 활용할 수 있도록 도와주기 위한 의지를 보여줍니다. Slackbot은 Salesforce의 주요 제품인 Slack 플랫폼 내에 통합되어 사용자에게 직접적인 도움을 제공하며, 이는 Salesforce가 다른 경쟁사들과 차별화되는 중요한 전략적 요소가 됩니다.  Slackbot의 강점은 기존 Slack 데이터를 활용하여 개인 맞춤형 작업 지원을 제공하는 점입니다.
+
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26021943/ai26021943-ai.html)**
+
+**🏷️ 키워드:** AI · artificial intelligence · VentureBeat AI
+
+## 📌 관련 기사
+
+- [AI 군 사격, 스cout AI의 실전력 증명](./2026-02-20-AI-군-사격-스cout-AI의-실전력-증명.md) (2026.02.20)
+- [AI가 당신을 집중시켜줄까?](./2026-02-20-AI가-당신을-집중시켜줄까.md) (2026.02.20)
+- [플러텍시티, 광고 포기… 정확성 중심 AI 경쟁](./2026-02-20-플러텍시티-광고-포기-정확성-중심-AI-경쟁.md) (2026.02.20)
+
+## 🔗 다른 카테고리 최신 뉴스
+
+
+---
+
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26021943/ai26021943-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*

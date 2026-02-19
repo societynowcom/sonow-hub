@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [The Rise of RentAHuman, the Marketplace Where Bots](https://www.society-now.com/sonow/article/ai/ai26021950/ai26021950-ai.html) | AI | 2026.02.19 |
-| [Big Tech Says Generative AI Will Save the Planet. ](https://www.society-now.com/sonow/article/ai/ai26021949/ai26021949-ai.html) | AI | 2026.02.19 |
-| [Nvidia, AI 시장 확대를 위한 CPU 공략](https://www.society-now.com/sonow/article/ai/ai26021948/ai26021948-ai.html) | AI | 2026.02.19 |
-| [스카우트 AI, 드론으로 '전장'에 AI 투입](https://www.society-now.com/sonow/article/ai/ai26021947/ai26021947-ai.html) | AI | 2026.02.19 |
-| [xAI, 미시시피 공동체 오염 논란](https://www.society-now.com/sonow/article/ai/ai26021946/ai26021946-ai.html) | AI | 2026.02.19 |
-| [Anthropic, AI 에이전트 'Cowork' 출시](https://www.society-now.com/sonow/article/ai/ai26021944/ai26021944-ai.html) | AI | 2026.02.19 |
-| [Netflix Threatens ByteDance With ‘Immediate Litiga](https://www.society-now.com/sonow/article/ai/ai26021945/ai26021945-ai.html) | AI | 2026.02.19 |
-| [Salesforce, Slackbot으로 'AI 기반 작업 환경' 구축](https://www.society-now.com/sonow/article/ai/ai26021943/ai26021943-ai.html) | AI | 2026.02.19 |
-| [AI로 고객 이해, Listen Labs의 놀라운 변화](https://www.society-now.com/sonow/article/ai/ai26021942/ai26021942-ai.html) | AI | 2026.02.19 |
-| [Claude Code costs up to $200 a month. Goose does t](https://www.society-now.com/sonow/article/ai/ai26021941/ai26021941-ai.html) | AI | 2026.02.19 |
+| [AI 군 사격, 스cout AI의 실전력 증명](https://www.society-now.com/sonow/article/ai/ai26022050/ai26022050-ai.html) | AI | 2026.02.20 |
+| [AI가 당신을 집중시켜줄까?](https://www.society-now.com/sonow/article/ai/ai26022049/ai26022049-ai.html) | AI | 2026.02.20 |
+| [플러텍시티, 광고 포기… 정확성 중심 AI 경쟁](https://www.society-now.com/sonow/article/ai/ai26022048/ai26022048-ai.html) | AI | 2026.02.20 |
+| [��드 번역 AI 스타트업 Code Metal, 1250억 달러 유치](https://www.society-now.com/sonow/article/ai/ai26022047/ai26022047-ai.html) | AI | 2026.02.20 |
+| [xAI, 미시시피 지역 데이터센터에 위한 불법 발전소 건설 논란](https://www.society-now.com/sonow/article/ai/ai26022046/ai26022046-ai.html) | AI | 2026.02.20 |
+| [넷플릭스, 바이댄스 AI 서비스 ‘씨드앤스’ 저작권 침해 주장](https://www.society-now.com/sonow/article/ai/ai26022045/ai26022045-ai.html) | AI | 2026.02.20 |
+| [Anthropic launches Cowork, a Claude Desktop agent ](https://www.society-now.com/sonow/article/ai/ai26022044/ai26022044-ai.html) | AI | 2026.02.20 |
+| [Salesforce, Slackbot을 AI 중심 기업 변화의 상징으로 거듭난다.](https://www.society-now.com/sonow/article/ai/ai26022043/ai26022043-ai.html) | AI | 2026.02.20 |
+| [Listen Labs raises $69M after viral billboard hiri](https://www.society-now.com/sonow/article/ai/ai26022042/ai26022042-ai.html) | AI | 2026.02.20 |
+| [Claude Code costs up to $200 a month. Goose does t](https://www.society-now.com/sonow/article/ai/ai26022041/ai26022041-ai.html) | AI | 2026.02.20 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 3846개 |
-| 카테고리 | 31개 |
+| 전체 기사 | 98개 |
+| 카테고리 | 4개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-02-19 |
 
