@@ -18,21 +18,21 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
-| [인공지능, 새로운 연인?  AI 데이트 열풍 촉발](./articles/2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.md) | 2026.02.17 |
-| [Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Worke](./articles/2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.md) | 2026.02.17 |
-| [a16z, 글로벌 눈으로 투자 대상 발굴](./articles/2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.md) | 2026.02.17 |
-| [구글 AI 오버뷰, 가짜 전화번호 위험성 알림](./articles/2026-02-17-구글-AI-오버뷰-가짜-전화번호-위험성-알림.md) | 2026.02.17 |
-| [GPT-4o, 인간과의 관계에서 "죽음"을 맞는 AI 챗봇](./articles/2026-02-17-GPT-4o-인간과의-관계에서-죽음을-맞는-AI-챗봇.md) | 2026.02.17 |
-| [Zillow Has Gone Wild—for AI](./articles/2026-02-17-Zillow-Has-Gone-Wildfor-AI.md) | 2026.02.17 |
-| [Salesforce rolls out new Slackbot AI agent as it battles Mic](./articles/2026-02-17-Salesforce-rolls-out-new-Slackbot-AI-agent-as-it-battles-Mic.md) | 2026.02.17 |
-| [Anthropic, 새로운 AI 에이전트 'Cowork' 출시](./articles/2026-02-17-Anthropic-새로운-AI-에이전트-Cowork-출시.md) | 2026.02.17 |
-| [구글 AI, 기자 목소리 사용?](./articles/2026-02-17-구글-AI-기자-목소리-사용.md) | 2026.02.17 |
-| [NVIDIA DGX Spark, AI 강력하게 접근](./articles/2026-02-17-NVIDIA-DGX-Spark-AI-강력하게-접근.md) | 2026.02.17 |
-| [Railway, AI 개발 환경을 위한 새로운 플랫폼 등장](./articles/2026-02-17-Railway-AI-개발-환경을-위한-새로운-플랫폼-등장.md) | 2026.02.17 |
-| [무료 오픈소스 AI 코드 도구 'Goose'가 등장](./articles/2026-02-17-무료-오픈소스-AI-코드-도구-Goose가-등장.md) | 2026.02.17 |
-| [Listen Labs, AI로 고객 이해 빠르게!](./articles/2026-02-17-Listen-Labs-AI로-고객-이해-빠르게.md) | 2026.02.17 |
-| [NVIDIA Blackwell Ultra, 에이전시 AI 비용 절감 선도](./articles/2026-02-17-NVIDIA-Blackwell-Ultra-에이전시-AI-비용-절감-선도.md) | 2026.02.17 |
-| [엔비디아 AI데이, 브라질 상파울루에서 열려](./articles/2026-02-17-엔비디아-AI데이-브라질-상파울루에서-열려.md) | 2026.02.17 |
+| [The Rise of RentAHuman, the Marketplace Where Bots Put Peopl](./articles/2026-02-19-The-Rise-of-RentAHuman-the-Marketplace-Where-Bots-Put-People.md) | 2026.02.19 |
+| [Big Tech Says Generative AI Will Save the Planet. It Doesn’t](./articles/2026-02-19-Big-Tech-Says-Generative-AI-Will-Save-the-Planet-It-Doesnt-O.md) | 2026.02.19 |
+| [Nvidia, AI 시장 확대를 위한 CPU 공략](./articles/2026-02-19-Nvidia-AI-시장-확대를-위한-CPU-공략.md) | 2026.02.19 |
+| [스카우트 AI, 드론으로 '전장'에 AI 투입](./articles/2026-02-19-스카우트-AI-드론으로-전장에-AI-투입.md) | 2026.02.19 |
+| [xAI, 미시시피 공동체 오염 논란](./articles/2026-02-19-xAI-미시시피-공동체-오염-논란.md) | 2026.02.19 |
+| [Anthropic, AI 에이전트 'Cowork' 출시](./articles/2026-02-19-Anthropic-AI-에이전트-Cowork-출시.md) | 2026.02.19 |
+| [Netflix Threatens ByteDance With ‘Immediate Litigation’ Over](./articles/2026-02-19-Netflix-Threatens-ByteDance-With-Immediate-Litigation-Over-S.md) | 2026.02.19 |
+| [Salesforce, Slackbot으로 'AI 기반 작업 환경' 구축](./articles/2026-02-19-Salesforce-Slackbot으로-AI-기반-작업-환경-구축.md) | 2026.02.19 |
+| [AI로 고객 이해, Listen Labs의 놀라운 변화](./articles/2026-02-19-AI로-고객-이해-Listen-Labs의-놀라운-변화.md) | 2026.02.19 |
+| [Claude Code costs up to $200 a month. Goose does the same th](./articles/2026-02-19-Claude-Code-costs-up-to-200-a-month-Goose-does-the-same-thin.md) | 2026.02.19 |
+| [Railway secures $100 million to challenge AWS with AI-native](./articles/2026-02-19-Railway-secures-100-million-to-challenge-AWS-with-AI-native-.md) | 2026.02.19 |
+| [엔비디아, 브라질에서 AI Days 열려](./articles/2026-02-19-엔비디아-브라질에서-AI-Days-열려.md) | 2026.02.19 |
+| [NVIDIA, 에이전시 AI를 위한 블랙웰 얼트라 출시](./articles/2026-02-19-NVIDIA-에이전시-AI를-위한-블랙웰-얼트라-출시.md) | 2026.02.19 |
+| [인공지능, 인도 IT 산업을 혁신한다](./articles/2026-02-19-인공지능-인도-IT-산업을-혁신한다.md) | 2026.02.19 |
+| [NVIDIA and Global Industrial Software Leaders Partner With I](./articles/2026-02-19-NVIDIA-and-Global-Industrial-Software-Leaders-Partner-With-I.md) | 2026.02.19 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 
