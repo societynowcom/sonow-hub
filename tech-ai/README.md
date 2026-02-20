@@ -18,21 +18,21 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
-| [AI 군 사격, 스cout AI의 실전력 증명](./articles/2026-02-20-AI-군-사격-스cout-AI의-실전력-증명.md) | 2026.02.20 |
-| [AI가 당신을 집중시켜줄까?](./articles/2026-02-20-AI가-당신을-집중시켜줄까.md) | 2026.02.20 |
-| [플러텍시티, 광고 포기… 정확성 중심 AI 경쟁](./articles/2026-02-20-플러텍시티-광고-포기-정확성-중심-AI-경쟁.md) | 2026.02.20 |
-| [코드 번역 AI 스타트업 Code Metal, 1250억 달러 유치](./articles/2026-02-20-코드-번역-AI-스타트업-Code-Metal-1250억-달러-유치.md) | 2026.02.20 |
-| [xAI, 미시시피 지역 데이터센터에 위한 불법 발전소 건설 논란](./articles/2026-02-20-xAI-미시시피-지역-데이터센터에-위한-불법-발전소-건설-논란.md) | 2026.02.20 |
-| [넷플릭스, 바이댄스 AI 서비스 ‘씨드앤스’ 저작권 침해 주장](./articles/2026-02-20-넷플릭스-바이댄스-AI-서비스-씨드앤스-저작권-침해-주장.md) | 2026.02.20 |
-| [Anthropic launches Cowork, a Claude Desktop agent that works](./articles/2026-02-20-Anthropic-launches-Cowork-a-Claude-Desktop-agent-that-works-.md) | 2026.02.20 |
-| [Salesforce, Slackbot을 AI 중심 기업 변화의 상징으로 거듭난다.](./articles/2026-02-20-Salesforce-Slackbot을-AI-중심-기업-변화의-상징으로-거듭난다.md) | 2026.02.20 |
-| [Listen Labs raises $69M after viral billboard hiring stunt t](./articles/2026-02-20-Listen-Labs-raises-69M-after-viral-billboard-hiring-stunt-to.md) | 2026.02.20 |
-| [Claude Code costs up to $200 a month. Goose does the same th](./articles/2026-02-20-Claude-Code-costs-up-to-200-a-month-Goose-does-the-same-thin.md) | 2026.02.20 |
-| [Railway, AI 개발 트렌드에 맞춘 클라우드 플랫폼 성장](./articles/2026-02-20-Railway-AI-개발-트렌드에-맞춘-클라우드-플랫폼-성장.md) | 2026.02.20 |
-| [인공지능, 한국 산업계에 변화의 불씨를 심다](./articles/2026-02-20-인공지능-한국-산업계에-변화의-불씨를-심다.md) | 2026.02.20 |
-| [인공지능, 인도 IT 산업 변화 주도](./articles/2026-02-20-인공지능-인도-IT-산업-변화-주도.md) | 2026.02.20 |
-| [인공지능 변화, 인도와 NVIDIA 손잡고](./articles/2026-02-20-인공지능-변화-인도와-NVIDIA-손잡고.md) | 2026.02.20 |
-| [인공지능, 통신 산업의 변혁 주도](./articles/2026-02-20-인공지능-통신-산업의-변혁-주도.md) | 2026.02.20 |
+| [인공지능 윤리, 뉴욕 의원 선거에 치열한 대립](./articles/2026-02-21-인공지능-윤리-뉴욕-의원-선거에-치열한-대립.md) | 2026.02.21 |
+| [Perplexity, 광고 포기하며 구독 모델 강화](./articles/2026-02-21-Perplexity-광고-포기하며-구독-모델-강화.md) | 2026.02.21 |
+| [AI 코드 번역 스타트업 Code Metal, 1250억 달러 자금 확보](./articles/2026-02-21-AI-코드-번역-스타트업-Code-Metal-1250억-달러-자금-확보.md) | 2026.02.21 |
+| [The Search Engine for OnlyFans Models Who Look Like Your Cru](./articles/2026-02-21-The-Search-Engine-for-OnlyFans-Models-Who-Look-Like-Your-Cru.md) | 2026.02.21 |
+| [우주 데이터센터, 과학적 가능성은?](./articles/2026-02-21-우주-데이터센터-과학적-가능성은.md) | 2026.02.21 |
+| [국방부, 안전주의 AI 개발 기업과 갈등](./articles/2026-02-21-국방부-안전주의-AI-개발-기업과-갈등.md) | 2026.02.21 |
+| [xAI, 미시시피 주민 오염 문제 악화 논란](./articles/2026-02-21-xAI-미시시피-주민-오염-문제-악화-논란.md) | 2026.02.21 |
+| [Netflix Threatens ByteDance With ‘Immediate Litigation’ Over](./articles/2026-02-21-Netflix-Threatens-ByteDance-With-Immediate-Litigation-Over-S.md) | 2026.02.21 |
+| [Anthropic, AI 에이전트 'Cowork' 출시…코딩 작업 넘어 일반 사용자 대상으로 확대](./articles/2026-02-21-Anthropic-AI-에이전트-Cowork-출시코딩-작업-넘어-일반-사용자-대상으로-확대.md) | 2026.02.21 |
+| [Salesforce, 새 Slackbot로 'AI 에이전트' 시대 열어](./articles/2026-02-21-Salesforce-새-Slackbot로-AI-에이전트-시대-열어.md) | 2026.02.21 |
+| [AI로 고객 이해, Listen Labs가 새로운 비전 제시](./articles/2026-02-21-AI로-고객-이해-Listen-Labs가-새로운-비전-제시.md) | 2026.02.21 |
+| [무료 오픈소스 AI 코딩 도구 'Goose'  뜨거운 반응](./articles/2026-02-21-무료-오픈소스-AI-코딩-도구-Goose-뜨거운-반응.md) | 2026.02.21 |
+| [Railway, AI 시대에 개발자를 위한 맞춤형 클라우드 플랫폼으로 부상](./articles/2026-02-21-Railway-AI-시대에-개발자를-위한-맞춤형-클라우드-플랫폼으로-부상.md) | 2026.02.21 |
+| [인공지능, 한국 산업의 새로운 도약 이끌다](./articles/2026-02-21-인공지능-한국-산업의-새로운-도약-이끌다.md) | 2026.02.21 |
+| [인공지능, 인도 IT 산업에 혁신을 가져온다](./articles/2026-02-21-인공지능-인도-IT-산업에-혁신을-가져온다.md) | 2026.02.21 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 
