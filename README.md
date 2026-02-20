@@ -16,7 +16,7 @@
 | [AI 군 사격, 스cout AI의 실전력 증명](https://www.society-now.com/sonow/article/ai/ai26022050/ai26022050-ai.html) | AI | 2026.02.20 |
 | [AI가 당신을 집중시켜줄까?](https://www.society-now.com/sonow/article/ai/ai26022049/ai26022049-ai.html) | AI | 2026.02.20 |
 | [플러텍시티, 광고 포기… 정확성 중심 AI 경쟁](https://www.society-now.com/sonow/article/ai/ai26022048/ai26022048-ai.html) | AI | 2026.02.20 |
-| [��드 번역 AI 스타트업 Code Metal, 1250억 달러 유치](https://www.society-now.com/sonow/article/ai/ai26022047/ai26022047-ai.html) | AI | 2026.02.20 |
+| [코드 번역 AI 스타트업 Code Metal, 1250억 달러 유치](https://www.society-now.com/sonow/article/ai/ai26022047/ai26022047-ai.html) | AI | 2026.02.20 |
 | [xAI, 미시시피 지역 데이터센터에 위한 불법 발전소 건설 논란](https://www.society-now.com/sonow/article/ai/ai26022046/ai26022046-ai.html) | AI | 2026.02.20 |
 | [넷플릭스, 바이댄스 AI 서비스 ‘씨드앤스’ 저작권 침해 주장](https://www.society-now.com/sonow/article/ai/ai26022045/ai26022045-ai.html) | AI | 2026.02.20 |
 | [Anthropic launches Cowork, a Claude Desktop agent ](https://www.society-now.com/sonow/article/ai/ai26022044/ai26022044-ai.html) | AI | 2026.02.20 |
@@ -75,7 +75,7 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 | 전체 기사 | 98개 |
 | 카테고리 | 4개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-19 |
+| 마지막 업데이트 | 2026-02-20 |
 
 <!-- /AUTO-UPDATE:STATS -->
 

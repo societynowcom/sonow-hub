@@ -21,7 +21,7 @@
 | [AI 군 사격, 스cout AI의 실전력 증명](./articles/2026-02-20-AI-군-사격-스cout-AI의-실전력-증명.md) | 2026.02.20 |
 | [AI가 당신을 집중시켜줄까?](./articles/2026-02-20-AI가-당신을-집중시켜줄까.md) | 2026.02.20 |
 | [플러텍시티, 광고 포기… 정확성 중심 AI 경쟁](./articles/2026-02-20-플러텍시티-광고-포기-정확성-중심-AI-경쟁.md) | 2026.02.20 |
-| [��드 번역 AI 스타트업 Code Metal, 1250억 달러 유치](./articles/2026-02-20-드-번역-AI-스타트업-Code-Metal-1250억-달러-유치.md) | 2026.02.20 |
+| [코드 번역 AI 스타트업 Code Metal, 1250억 달러 유치](./articles/2026-02-20-코드-번역-AI-스타트업-Code-Metal-1250억-달러-유치.md) | 2026.02.20 |
 | [xAI, 미시시피 지역 데이터센터에 위한 불법 발전소 건설 논란](./articles/2026-02-20-xAI-미시시피-지역-데이터센터에-위한-불법-발전소-건설-논란.md) | 2026.02.20 |
 | [넷플릭스, 바이댄스 AI 서비스 ‘씨드앤스’ 저작권 침해 주장](./articles/2026-02-20-넷플릭스-바이댄스-AI-서비스-씨드앤스-저작권-침해-주장.md) | 2026.02.20 |
 | [Anthropic launches Cowork, a Claude Desktop agent that works](./articles/2026-02-20-Anthropic-launches-Cowork-a-Claude-Desktop-agent-that-works-.md) | 2026.02.20 |
