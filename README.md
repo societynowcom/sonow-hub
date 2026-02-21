@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [인공지능 윤리, 뉴욕 의원 선거에 치열한 대립](https://www.society-now.com/sonow/article/ai/ai26022150/ai26022150-ai.html) | AI | 2026.02.21 |
-| [Perplexity, 광고 포기하며 구독 모델 강화](https://www.society-now.com/sonow/article/ai/ai26022149/ai26022149-ai.html) | AI | 2026.02.21 |
-| [AI 코드 번역 스타트업 Code Metal, 1250억 달러 자금 확보](https://www.society-now.com/sonow/article/ai/ai26022148/ai26022148-ai.html) | AI | 2026.02.21 |
-| [The Search Engine for OnlyFans Models Who Look Lik](https://www.society-now.com/sonow/article/ai/ai26022147/ai26022147-ai.html) | AI | 2026.02.21 |
-| [우주 데이터센터, 과학적 가능성은?](https://www.society-now.com/sonow/article/ai/ai26022146/ai26022146-ai.html) | AI | 2026.02.21 |
-| [국방부, 안전주의 AI 개발 기업과 갈등](https://www.society-now.com/sonow/article/ai/ai26022145/ai26022145-ai.html) | AI | 2026.02.21 |
-| [xAI, 미시시피 주민 오염 문제 악화 논란](https://www.society-now.com/sonow/article/ai/ai26022144/ai26022144-ai.html) | AI | 2026.02.21 |
-| [Netflix Threatens ByteDance With ‘Immediate Litiga](https://www.society-now.com/sonow/article/ai/ai26022143/ai26022143-ai.html) | AI | 2026.02.21 |
-| [Anthropic, AI 에이전트 'Cowork' 출시…코딩 작업 넘어 일반 사용자 대상으](https://www.society-now.com/sonow/article/ai/ai26022142/ai26022142-ai.html) | AI | 2026.02.21 |
-| [Salesforce, 새 Slackbot로 'AI 에이전트' 시대 열어](https://www.society-now.com/sonow/article/ai/ai26022141/ai26022141-ai.html) | AI | 2026.02.21 |
+| [트럼프, 글로벌 관세 부과 / 무역 법 122조 활용](https://www.society-now.com/sonow/article/ta/ta26022222/ta26022222-경향신문.html) | TECH & AI | 2026.02.22 |
+| [트럼프 관세 무효 판결 / 250조원 환급 논란 발생](https://www.society-now.com/sonow/article/ta/ta26022221/ta26022221-경향신문.html) | TECH & AI | 2026.02.22 |
+| [경찰, '셋방살이' 증가 / 노후 관서로 인한 임대료 부담 가중](https://www.society-now.com/sonow/article/re/re26022221/re26022221-연합뉴스.html) | 부동산 | 2026.02.22 |
+| [단종 유배, 관객 500만 돌파 / '왕과 사는 남자' 흥행 지속세](https://www.society-now.com/sonow/article/hl/hl26022233/hl26022233-경향신문.html) | HEADLINES | 2026.02.22 |
+| [올림픽 하프파이프 결선 진출 / 이승훈 부상에 아쉬움](https://www.society-now.com/sonow/article/hl/hl26022232/hl26022232-경향신문.html) | HEADLINES | 2026.02.22 |
+| [미국 상호관세 무효 판결 / 한국 반응은?](https://www.society-now.com/sonow/article/hl/hl26022231/hl26022231-경향신문.html) | HEADLINES | 2026.02.22 |
+| [장동혁, '윤어게인' 절연 거부 / 당권 강화 최우선 전략](https://www.society-now.com/sonow/article/hl/hl26022230/hl26022230-한겨레.html) | HEADLINES | 2026.02.22 |
+| [국민의힘, 장동혁 사퇴론 강하게 / '국민들의 선택' 주장하며 당 분열 심화](https://www.society-now.com/sonow/article/hl/hl26022229/hl26022229-한겨레.html) | HEADLINES | 2026.02.22 |
+| [한미 관세협상, 변화 가능성 / 트럼프 법원 판결 영향](https://www.society-now.com/sonow/article/hl/hl26022228/hl26022228-한겨레.html) | HEADLINES | 2026.02.22 |
+| [트럼프, 10% 관세 부과 서명 / 세계 무역 불확실성 확산](https://www.society-now.com/sonow/article/hl/hl26022227/hl26022227-한겨레.html) | HEADLINES | 2026.02.22 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 47개 |
-| 카테고리 | 5개 |
+| 전체 기사 | 69개 |
+| 카테고리 | 8개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-02-21 |
 

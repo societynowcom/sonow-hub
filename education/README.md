@@ -18,6 +18,7 @@
 <!-- AUTO-UPDATE:EDUCATION_LATEST -->
 | 제목 | 날짜 |
 |------|------|
+| [김수태 별세 / 시인 출신 사회 인물](./articles/2026-02-21-김수태-별세-시인-출신-사회-인물.md) | 2026.02.21 |
 
 <!-- /AUTO-UPDATE:EDUCATION_LATEST -->
 
