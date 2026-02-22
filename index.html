@@ -1,220 +1,124 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SO,NOW Hub - News Archive</title>
-<meta name="description" content="SO,NOW 뉴스 아카이브 - AI, 경제, 교육, K-Culture 등 카테고리별 뉴스 허브">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SO,NOW Hub | SO,NOW Hub</title>
+  <meta property="og:title"     content="SO,NOW Hub">
+  <meta property="og:url"       content="https://societynowcom.github.io/sonow-hub/">
+  <meta property="og:locale"    content="ko_KR">
+  <meta property="og:site_name" content="SO,NOW">
+  <link rel="canonical" href="https://societynowcom.github.io/sonow-hub/">
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:#0a0a0a;color:#e0e0e0;font-family:'Segoe UI',sans-serif;min-height:100vh}
-header{background:#111;border-bottom:2px solid #e94560;padding:14px 24px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
-.logo{font-size:14px;font-weight:700;color:#e94560;letter-spacing:2px}
-.logo span{color:#555}
-.meta{font-size:11px;color:#555}
-.meta b{color:#e94560}
-
-.toolbar{background:#111;padding:10px 24px;border-bottom:1px solid #222;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
-.search{flex:1;min-width:200px;max-width:400px;padding:8px 14px;background:#1a1a1a;border:1px solid #333;border-radius:20px;font-size:13px;color:#e0e0e0;outline:none;transition:border .15s}
-.search:focus{border-color:#e94560}
-.search::placeholder{color:#555}
-.filter-btn{padding:7px 14px;border:1px solid #333;background:transparent;border-radius:16px;font-size:12px;cursor:pointer;transition:all .15s;color:#888}
-.filter-btn:hover{border-color:#e94560;color:#e94560}
-.filter-btn.active{background:#e94560;color:#fff;border-color:#e94560}
-.filter-btn .cnt{font-size:10px;margin-left:2px;opacity:.6}
-
-.content{max-width:960px;margin:0 auto;padding:20px 24px}
-
-.stat-row{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}
-@media(max-width:600px){.stat-row{grid-template-columns:repeat(2,1fr)}}
-.stat-box{background:#111;border:1px solid #222;border-radius:10px;padding:16px;text-align:center}
-.stat-num{font-size:1.6rem;font-weight:800;color:#e94560}
-.stat-label{font-size:11px;color:#555;margin-top:2px}
-
-.article-list{background:#111;border:1px solid #222;border-radius:10px;overflow:hidden}
-.article-item{display:flex;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid #1a1a1a;text-decoration:none;color:#e0e0e0;transition:background .1s}
-.article-item:hover{background:#1a1a1a}
-.article-item:last-child{border-bottom:none}
-.article-cat{font-size:10px;padding:3px 8px;border-radius:10px;font-weight:700;white-space:nowrap;flex-shrink:0}
-.cat-ai{background:#2d1b69;color:#a78bfa}
-.cat-economy{background:#422006;color:#fbbf24}
-.cat-headlines{background:#450a0a;color:#f87171}
-.cat-tech{background:#0c2d48;color:#38bdf8}
-.cat-education{background:#052e16;color:#34d399}
-.cat-culture{background:#4a0d2e;color:#f472b6}
-.cat-default{background:#1f1f1f;color:#888}
-.article-body{flex:1;min-width:0}
-.article-title{font-size:14px;font-weight:600;color:#fff;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.article-desc{font-size:12px;color:#555;margin-top:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.article-date{font-size:11px;color:#333;white-space:nowrap;flex-shrink:0}
-
-.load-more{display:block;width:100%;padding:14px;background:#111;border:1px solid #222;border-radius:10px;margin-top:12px;font-size:13px;color:#e94560;cursor:pointer;font-weight:600;text-align:center;transition:background .15s}
-.load-more:hover{background:#1a1a1a}
-
-.empty{text-align:center;padding:40px;color:#333;font-size:13px}
-.footer{text-align:center;padding:30px;font-size:11px;color:#333}
-.footer a{color:#e94560;text-decoration:none}
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
 </style>
 </head>
 <body>
+  <main>
+<h1>SO,NOW - 대한민국 뉴스 & AI 미디어 허브</h1>
 
-<header>
-  <div class="logo">SO,NOW <span>/ HUB</span></div>
-  <div class="meta">총 <b id="total">-</b>건 · <b id="cat-count">-</b>개 카테고리</div>
-</header>
+<p><a href="https://github.com/societynowcom/sonow-hub/actions/workflows/auto-update.yml/badge.svg">![Daily Update</a>](https://github.com/societynowcom/sonow-hub/actions)</p>
+<p><a href="https://img.shields.io/badge/articles-1800+-blue">![Articles</a>](https://society-now.com/sonow/)</p>
+<p><a href="https://img.shields.io/badge/YouTube-4%20channels-red">![YouTube</a>](./youtube/)</p>
 
-<div class="toolbar">
-  <input class="search" type="text" id="search" placeholder="기사 검색..." oninput="filterArticles()">
-  <div id="filters"></div>
-</div>
+<blockquote><strong>매일 자동 업데이트</strong> | 국내 뉴스 + 글로벌 AI 뉴스 + YouTube 숏츠</blockquote>
 
-<div class="content">
-  <div class="stat-row" id="stats"></div>
-  <div class="article-list" id="list"><div class="empty">불러오는 중...</div></div>
-  <button class="load-more" id="load-more" style="display:none" onclick="showMore()">더 보기</button>
-</div>
+<hr>
 
-<div class="footer">
-  <a href="https://www.society-now.com" target="_blank">society-now.com</a> · Powered by SO,NOW
-</div>
+<h2>🔥 오늘의 주요 뉴스</h2>
 
-<script>
-let allArticles = [];
-let filtered = [];
-let shown = 0;
-const PER_PAGE = 30;
-let activeFilter = '';
+<table>
+  <tr><th>제목</th><th>카테고리</th><th>날짜</th></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022250/ai26022250-ai.html">인공지능 학습, 에너지 소비도 문제?</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022249/ai26022249-ai.html">페플렉시티, 광고 포기… 정확성 중심 전략 수립</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022248/ai26022248-ai.html">코드 번역 AI 스타트업 '코드메탈', 1250억 추가 투자 획득</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022247/ai26022247-ai.html">OnlyFans 크리에이터, 이미지 기반 검색으로 발굴될까?</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022246/ai26022246-ai.html">우주 데이터센터, 현실 가능할까?</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022245/ai26022245-ai.html">AI Safety Meets the War Machine</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022244/ai26022244-ai.html">xAI, 미시시피 지역 오염으로 데이터센터 운영?</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022243/ai26022243-ai.html">네플릭스, 바이댄스 상대로 법적 조치 예고</a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022242/ai26022242-ai.html">Anthropic launches Cowork, a Claude Desktop agent </a></td><td>AI</td><td>2026.02.22</td></tr>
+  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022241/ai26022241-ai.html">Salesforce, Slackbot을 통해 'AI 기반 업무 환경' 구축</a></td><td>AI</td><td>2026.02.22</td></tr>
+</table>
 
-const CAT_MAP = {
-  'ai':'AI','AI':'AI','an':'AI NOW','AI NOW':'AI NOW',
-  'st':'주식','주식':'주식','hl':'헤드라인','헤드라인':'헤드라인',
-  're':'부동산','부동산':'부동산','ed':'교육','교육':'교육',
-  'ta':'TECH & AI','TECH & AI':'TECH & AI','dt':'디지털트윈',
-  'co':'K-Culture','K-Culture':'K-Culture','kc':'K-Culture',
-  'kh':'경제','경제':'경제','pb':'정책브리핑','정책브리핑':'정책브리핑',
-  'mh':'헤드라인','hk':'헤드라인','wr':'세계','lr':'부동산',
-  'ap':'정책','eg':'경제','td':'기술','kn':'한국','it':'IT',
-  'th':'기술','ex':'기타','kp':'정치','kb':'경제','pi':'정치',
-  'sn':'사회','ax':'AI','in':'산업','di':'디지털'
-};
+<h2>📺 최신 YouTube 영상</h2>
 
-const CAT_STYLE = {
-  'AI':'cat-ai','AI NOW':'cat-ai','TECH & AI':'cat-tech',
-  '헤드라인':'cat-headlines','경제':'cat-economy','주식':'cat-economy',
-  '부동산':'cat-economy','교육':'cat-education','K-Culture':'cat-culture',
-  '정책브리핑':'cat-default','정책':'cat-default'
-};
+<table>
+  <tr><th>영상</th><th>채널</th></tr>
+  <tr><td>업데이트 대기 중...</td><td>-</td></tr>
+</table>
 
-function getCatLabel(cat) { return CAT_MAP[cat] || cat; }
-function getCatClass(label) { return CAT_STYLE[label] || 'cat-default'; }
-function escHtml(t) { const d=document.createElement('div'); d.textContent=t; return d.innerHTML; }
+<hr>
 
-function formatDate(d) {
-  try {
-    const dt = new Date(d);
-    return dt.toLocaleDateString('ko-KR',{year:'numeric',month:'2-digit',day:'2-digit'});
-  } catch { return ''; }
-}
+<h2>📂 카테고리</h2>
 
-function getArticleUrl(a) {
-  const id = a.article_id || '';
-  const cat = id.slice(0, 2);
-  return 'https://www.society-now.com/sonow/article/' + cat + '/' + id + '/';
-}
+<h3>📰 <a href="./headlines/">HEADLINES</a> - 헤드라인</h3>
+<p>정책브리핑 · 정치NOW · 지역NOW · 인물탐구 · 진실프로파일링</p>
 
-async function init() {
-  try {
-    const r = await fetch('data/articles.json?t=' + Date.now());
-    allArticles = await r.json();
-    allArticles.sort((a,b) => (b.created_at||'').localeCompare(a.created_at||''));
-    renderStats();
-    renderFilters();
-    filterArticles();
-  } catch(e) {
-    document.getElementById('list').innerHTML = '<div class="empty">로드 실패: '+e.message+'</div>';
-  }
-}
+<h3>🤖 <a href="./tech-ai/">TECH & AI</a> - 기술 & 인공지능</h3>
+<p>AI NOW · 디지털트윈 · SONOW TECH · AX.DX · 공공데이터</p>
 
-function renderStats() {
-  const cats = {};
-  allArticles.forEach(a => {
-    const l = getCatLabel(a.category);
-    cats[l] = (cats[l]||0) + 1;
-  });
-  const sorted = Object.entries(cats).sort((a,b) => b[1]-a[1]);
-  document.getElementById('total').textContent = allArticles.length.toLocaleString();
-  document.getElementById('cat-count').textContent = sorted.length;
-  const top4 = sorted.slice(0, 4);
-  document.getElementById('stats').innerHTML = top4.map(([name, cnt]) =>
-    '<div class="stat-box"><div class="stat-num">' + cnt + '</div><div class="stat-label">' + escHtml(name) + '</div></div>'
-  ).join('');
-}
+<h3>💰 <a href="./economy/">ECONOMY</a> - 경제</h3>
+<p>주식 · 코인 · 부동산 · Data&Insight · 보험NOW</p>
 
-function renderFilters() {
-  const cats = {};
-  allArticles.forEach(a => {
-    const l = getCatLabel(a.category);
-    cats[l] = (cats[l]||0) + 1;
-  });
-  const sorted = Object.entries(cats).sort((a,b) => b[1]-a[1]);
-  document.getElementById('filters').innerHTML =
-    '<button class="filter-btn active" onclick="setFilter(\'\',this)">전체 <span class="cnt">' + allArticles.length + '</span></button>' +
-    sorted.map(([name, cnt]) =>
-      '<button class="filter-btn" onclick="setFilter(\'' + escHtml(name) + '\',this)">' +
-      escHtml(name) + ' <span class="cnt">' + cnt + '</span></button>'
-    ).join('');
-}
+<h3>📚 <a href="./education/">EDUCATION</a> - 교육</h3>
+<p>ESG · AI생산성 · 생각의힘 · 마음건강 · 세미나</p>
 
-function setFilter(cat, el) {
-  activeFilter = cat;
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  el.classList.add('active');
-  filterArticles();
-}
+<h3>🎭 <a href="./k-culture/">K-CULTURE</a> - 한국문화</h3>
+<p>Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH</p>
 
-function filterArticles() {
-  const q = document.getElementById('search').value.toLowerCase();
-  filtered = allArticles.filter(a => {
-    if (activeFilter && getCatLabel(a.category) !== activeFilter) return false;
-    if (q && !(a.title||'').toLowerCase().includes(q) && !(a.description||'').toLowerCase().includes(q)) return false;
-    return true;
-  });
-  shown = 0;
-  document.getElementById('list').innerHTML = '';
-  showMore();
-}
+<hr>
 
-function showMore() {
-  const el = document.getElementById('list');
-  const batch = filtered.slice(shown, shown + PER_PAGE);
-  if (!batch.length && !shown) {
-    el.innerHTML = '<div class="empty">검색 결과가 없습니다</div>';
-    document.getElementById('load-more').style.display = 'none';
-    return;
-  }
-  batch.forEach(a => {
-    const catLabel = getCatLabel(a.category);
-    const catClass = getCatClass(catLabel);
-    const url = getArticleUrl(a);
-    const item = document.createElement('a');
-    item.href = url;
-    item.target = '_blank';
-    item.className = 'article-item';
-    item.innerHTML =
-      '<span class="article-cat ' + catClass + '">' + escHtml(catLabel) + '</span>' +
-      '<div class="article-body">' +
-        '<div class="article-title">' + escHtml(a.title||'제목없음') + '</div>' +
-        '<div class="article-desc">' + escHtml(a.description||a.subtitle||'') + '</div>' +
-      '</div>' +
-      '<span class="article-date">' + formatDate(a.created_at) + '</span>';
-    el.appendChild(item);
-  });
-  shown += batch.length;
-  document.getElementById('load-more').style.display =
-    shown < filtered.length ? 'block' : 'none';
-}
+<h2>📺 YouTube 채널</h2>
 
-init();
-</script>
+<table>
+  <tr><th>채널</th><th>주제</th><th>링크</th></tr>
+  <tr><td><strong>SO,NOW</strong></td><td>뉴스 & 미디어</td><td><a href="https://www.youtube.com/@sooonow">바로가기</a></td></tr>
+  <tr><td><strong>boonow</strong></td><td>콘텐츠</td><td><a href="https://www.youtube.com/@boonow">바로가기</a></td></tr>
+  <tr><td><strong>AI NOW</strong></td><td>AI 기술/프롬프트 뉴스</td><td><a href="https://www.youtube.com/@sonow-ai">바로가기</a></td></tr>
+  <tr><td><strong>just 코리아</strong></td><td>매일 정치·경제 이슈</td><td><a href="https://www.youtube.com/@JustKoreaShorts">바로가기</a></td></tr>
+  <tr><td><strong>🎬 Shorts 모아보기</strong></td><td>전체 숏츠</td><td><a href="./youtube/shorts/">바로가기</a></td></tr>
+</table>
+
+<hr>
+
+<h2>📊 통계</h2>
+
+<table>
+  <tr><th>항목</th><th>수치</th></tr>
+  <tr><td>전체 기사</td><td>99개</td></tr>
+  <tr><td>카테고리</td><td>8개</td></tr>
+  <tr><td>YouTube 채널</td><td>3개</td></tr>
+  <tr><td>마지막 업데이트</td><td>2026-02-21</td></tr>
+</table>
+
+<hr>
+
+<h2>🔗 링크</h2>
+
+<ul><li>🌐 <a href="https://society-now.com/sonow/">SO,NOW 공식 사이트</a></li><li>📺 <a href="https://www.youtube.com/@sooonow">YouTube - SO,NOW</a></li><li>📺 <a href="https://www.youtube.com/@boonow">YouTube - boonow</a></li><li>📺 <a href="https://www.youtube.com/@sonow-ai">YouTube - AI NOW</a></li><li>📺 <a href="https://www.youtube.com/@JustKoreaShorts">YouTube - just 코리아</a></li></ul>
+
+<hr>
+
+<p><sub>이 저장소는 매일 자동 업데이트됩니다. 데이터 소스: <a href="https://society-now.com">society-now.com</a></sub></p>
+
+  </main>
+  <footer>
+    <p><a href="https://societynowcom.github.io/sonow-hub/">SO,NOW Hub 홈</a></p>
+  </footer>
 </body>
 </html>
