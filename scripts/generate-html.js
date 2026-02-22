@@ -89,6 +89,13 @@ function rewriteHref(href) {
 // ─── 인라인 Markdown → HTML ─────────────────────────────────
 function inlineToHtml(text) {
     return text
+        // 배지형 이미지 링크 제거: [![alt](img)](link) → 링크 텍스트만
+        .replace(/\[!\[[^\]]*\]\([^)]+\)\]\(([^)]+)\)/g, (_, href) => {
+            return '<a href="' + rewriteHref(href) + '">[링크]</a>';
+        })
+        // 인라인 이미지 제거: ![alt](url) → alt 텍스트만
+        .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
+        // 일반 링크: [text](url)
         .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label, href) => {
             return '<a href="' + rewriteHref(href) + '">' + label + '</a>';
         })
@@ -116,6 +123,10 @@ function convertTable(rows) {
 function mdToHtml(md) {
     // HTML 주석 제거 (AUTO-UPDATE 마커)
     md = md.replace(/<!--[\s\S]*?-->/g, '');
+    // 배지 줄 제거: [![...](...)(...) 단독 줄
+    md = md.replace(/^\[!\[.*?\]\(.*?\)\]\(.*?\)\s*$/gm, '');
+    // 이미지 단독 줄 제거: ![...](...)
+    md = md.replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
 
     const lines  = md.split('\n');
     const output = [];
@@ -309,12 +320,8 @@ async function main() {
         economy: 'ECONOMY', education: 'EDUCATION', 'k-culture': 'K-CULTURE'
     };
 
-    // 루트
-    if (convertReadme(
-        path.join(HUB_ROOT, 'README.md'),
-        path.join(HUB_ROOT, 'index.html'),
-        'SO,NOW Hub', BASE_URL + '/'
-    )) console.log('      → index.html (루트) 생성');
+    // 루트 index.html은 커스텀 디자인 파일 사용 — 덮어쓰지 않음
+    // (동적으로 data/articles.json 로드하는 허브 페이지)
 
     // 카테고리
     for (const group of GROUPS) {

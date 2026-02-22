@@ -1,124 +1,490 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SO,NOW Hub | SO,NOW Hub</title>
-  <meta property="og:title"     content="SO,NOW Hub">
-  <meta property="og:url"       content="https://societynowcom.github.io/sonow-hub/">
-  <meta property="og:locale"    content="ko_KR">
-  <meta property="og:site_name" content="SO,NOW">
-  <link rel="canonical" href="https://societynowcom.github.io/sonow-hub/">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SO,NOW Hub | 대한민국 뉴스 & AI 미디어</title>
+<meta property="og:title" content="SO,NOW Hub">
+<meta property="og:url" content="https://societynowcom.github.io/sonow-hub/">
+<meta property="og:locale" content="ko_KR">
+<meta property="og:site_name" content="SO,NOW">
+<link rel="canonical" href="https://societynowcom.github.io/sonow-hub/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 <style>
-*{box-sizing:border-box}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
-h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
-h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
-h3{font-size:1rem;margin-top:1.5rem}
-a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
-blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
-blockquote p{margin:0}
-ul{padding-left:1.4rem}li{margin:.3rem 0}
-hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
-table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
-th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
-th{background:#f5f5f5;font-weight:600}
-tr:nth-child(even) td{background:#fafafa}
-footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+:root {
+  --bg: #0a0a0f;
+  --surface: #111118;
+  --surface2: #1a1a24;
+  --border: #2a2a3a;
+  --accent: #e8ff00;
+  --accent2: #ff4060;
+  --text: #e8e8f0;
+  --muted: #6b6b80;
+  --card-hover: #1e1e2c;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+body::before {
+  content: '';
+  position: fixed; inset: 0;
+  background-image:
+    linear-gradient(rgba(232,255,0,.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(232,255,0,.025) 1px, transparent 1px);
+  background-size: 60px 60px;
+  pointer-events: none; z-index: 0;
+}
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; position: relative; z-index: 1; }
+
+/* HEADER */
+header {
+  border-bottom: 1px solid var(--border);
+  padding: 0 24px;
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(10,10,15,.88);
+  backdrop-filter: blur(14px);
+}
+.header-inner {
+  max-width: 960px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between; height: 56px;
+}
+.logo { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 3px; color: var(--accent); text-decoration: none; }
+.logo span { color: var(--text); }
+nav { display: flex; gap: 24px; }
+nav a { color: var(--muted); text-decoration: none; font-size: 12px; font-weight: 500; letter-spacing: 1px; text-transform: uppercase; transition: color .2s; }
+nav a:hover { color: var(--accent); }
+
+/* HERO */
+.hero { padding: 72px 0 56px; }
+.hero-tag {
+  display: inline-flex; align-items: center; gap: 8px;
+  background: rgba(232,255,0,.08); border: 1px solid rgba(232,255,0,.2);
+  color: var(--accent); font-size: 11px; font-weight: 700; letter-spacing: 2px;
+  text-transform: uppercase; padding: 5px 14px; border-radius: 2px; margin-bottom: 24px;
+}
+.hero-tag::before {
+  content: ''; width: 6px; height: 6px; background: var(--accent);
+  border-radius: 50%; animation: blink 1.2s ease infinite;
+}
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
+.hero h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: clamp(52px, 9vw, 96px); line-height: .92;
+  letter-spacing: -1px; color: #fff; margin-bottom: 20px;
+}
+.hero h1 em { font-style: normal; color: var(--accent); display: block; }
+.hero-desc { color: var(--muted); font-size: 15px; max-width: 480px; margin-bottom: 32px; font-weight: 300; }
+.badge-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 32px; }
+.badge {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: var(--surface2); border: 1px solid var(--border);
+  color: var(--muted); font-size: 11px; padding: 4px 12px;
+  border-radius: 2px; text-decoration: none; transition: border-color .2s, color .2s;
+}
+.badge:hover { border-color: var(--accent); color: var(--accent); }
+.badge strong { color: var(--text); }
+.hero-stats { display: flex; gap: 40px; flex-wrap: wrap; }
+.stat { display: flex; flex-direction: column; }
+.stat-num { font-family: 'Bebas Neue', sans-serif; font-size: 36px; color: #fff; letter-spacing: 1px; line-height: 1; }
+.stat-label { font-size: 11px; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; margin-top: 4px; }
+
+/* SECTION */
+.section { padding: 52px 0; border-top: 1px solid var(--border); }
+.section-header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 28px; }
+.section-title { font-family: 'Bebas Neue', sans-serif; font-size: 32px; letter-spacing: 2px; color: #fff; }
+.section-sub { font-size: 11px; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; }
+
+/* 날짜 필터 */
+.date-filter { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
+.date-btn {
+  background: var(--surface2); border: 1px solid var(--border);
+  color: var(--muted); font-size: 11px; padding: 5px 14px;
+  border-radius: 2px; cursor: pointer; font-family: inherit;
+  transition: all .2s; letter-spacing: .5px;
+}
+.date-btn:hover, .date-btn.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 700; }
+
+/* 카테고리 필터 */
+.cat-filter { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
+.cat-btn {
+  background: transparent; border: 1px solid var(--border);
+  color: var(--muted); font-size: 11px; padding: 4px 12px;
+  border-radius: 2px; cursor: pointer; font-family: inherit;
+  transition: all .2s; letter-spacing: .5px; text-transform: uppercase;
+}
+.cat-btn:hover, .cat-btn.active { border-color: var(--accent); color: var(--accent); }
+
+/* NEWS TABLE */
+.news-table { width: 100%; border-collapse: collapse; }
+.news-table thead th {
+  font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--muted); padding: 0 0 12px; border-bottom: 1px solid var(--border); text-align: left;
+}
+.news-table thead th:last-child { text-align: right; }
+.news-table tbody tr { border-bottom: 1px solid rgba(255,255,255,.04); transition: background .15s; }
+.news-table tbody tr:hover { background: var(--card-hover); }
+.news-table td { padding: 13px 8px 13px 0; vertical-align: middle; }
+.news-table td:last-child { text-align: right; white-space: nowrap; }
+.news-idx { font-family: 'Bebas Neue', sans-serif; font-size: 18px; color: var(--border); width: 36px; padding-right: 16px !important; }
+.news-cat {
+  display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 1px;
+  text-transform: uppercase; padding: 2px 8px; border-radius: 2px;
+  background: rgba(232,255,0,.1); color: var(--accent); white-space: nowrap; margin-right: 10px;
+}
+.news-title { color: var(--text); text-decoration: none; font-size: 14px; transition: color .2s; }
+.news-title:hover { color: var(--accent); }
+.news-date { font-size: 11px; color: var(--muted); }
+
+/* 로딩/에러 */
+.loading { text-align: center; padding: 48px 0; color: var(--muted); }
+.loading-spinner {
+  width: 32px; height: 32px; border: 2px solid var(--border);
+  border-top-color: var(--accent); border-radius: 50%;
+  animation: spin .8s linear infinite; margin: 0 auto 16px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.error-msg { text-align: center; padding: 32px; color: var(--accent2); font-size: 13px; }
+
+/* 더보기 버튼 */
+.more-btn {
+  display: block; margin: 24px auto 0;
+  background: transparent; border: 1px solid var(--border);
+  color: var(--muted); font-size: 12px; padding: 10px 32px;
+  border-radius: 2px; cursor: pointer; font-family: inherit;
+  letter-spacing: 1px; text-transform: uppercase; transition: all .2s;
+}
+.more-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* CATEGORY GRID */
+.cat-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1px; background: var(--border); border: 1px solid var(--border);
+}
+.cat-card {
+  background: var(--surface); padding: 28px 24px;
+  text-decoration: none; display: block; transition: background .2s;
+  position: relative; overflow: hidden;
+}
+.cat-card::after {
+  content: ''; position: absolute; bottom: 0; left: 0;
+  width: 0; height: 2px; background: var(--accent); transition: width .3s ease;
+}
+.cat-card:hover { background: var(--card-hover); }
+.cat-card:hover::after { width: 100%; }
+.cat-icon { font-size: 28px; margin-bottom: 14px; display: block; }
+.cat-name { font-family: 'Bebas Neue', sans-serif; font-size: 20px; letter-spacing: 2px; color: #fff; margin-bottom: 6px; }
+.cat-desc { font-size: 12px; color: var(--muted); line-height: 1.6; }
+
+/* YOUTUBE */
+.yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+.yt-card {
+  background: var(--surface); border: 1px solid var(--border);
+  padding: 20px; text-decoration: none; display: flex;
+  flex-direction: column; gap: 10px;
+  transition: border-color .2s, background .2s; border-radius: 4px;
+}
+.yt-card:hover { border-color: var(--accent2); background: var(--card-hover); }
+.yt-icon { width: 36px; height: 36px; background: var(--accent2); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 16px; }
+.yt-name { font-weight: 700; font-size: 13px; color: #fff; }
+.yt-desc { font-size: 11px; color: var(--muted); line-height: 1.5; }
+.yt-link { font-size: 11px; color: var(--accent2); font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-top: auto; }
+
+/* FOOTER */
+footer { border-top: 1px solid var(--border); padding: 36px 24px; }
+.footer-inner {
+  max-width: 960px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;
+}
+.footer-logo { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 3px; color: var(--muted); }
+.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
+.footer-links a { color: var(--muted); text-decoration: none; font-size: 12px; transition: color .2s; }
+.footer-links a:hover { color: var(--accent); }
+.footer-copy { font-size: 11px; color: #3a3a4a; width: 100%; text-align: center; margin-top: 16px; }
+
+@media (max-width: 600px) {
+  nav { display: none; }
+  .hero h1 { font-size: 52px; }
+  .hero-stats { gap: 24px; }
+  .cat-grid { grid-template-columns: 1fr 1fr; }
+  .yt-grid { grid-template-columns: 1fr 1fr; }
+  .footer-inner { justify-content: center; text-align: center; }
+}
 </style>
 </head>
 <body>
-  <main>
-<h1>SO,NOW - 대한민국 뉴스 & AI 미디어 허브</h1>
 
-<p><a href="https://github.com/societynowcom/sonow-hub/actions/workflows/auto-update.yml/badge.svg">![Daily Update</a>](https://github.com/societynowcom/sonow-hub/actions)</p>
-<p><a href="https://img.shields.io/badge/articles-1800+-blue">![Articles</a>](https://society-now.com/sonow/)</p>
-<p><a href="https://img.shields.io/badge/YouTube-4%20channels-red">![YouTube</a>](./youtube/)</p>
+<header>
+  <div class="header-inner">
+    <a href="https://societynowcom.github.io/sonow-hub/" class="logo">SO<span>,</span>NOW</a>
+    <nav>
+      <a href="https://society-now.com/sonow/">사이트</a>
+      <a href="#news">뉴스</a>
+      <a href="#categories">카테고리</a>
+      <a href="#youtube">유튜브</a>
+    </nav>
+  </div>
+</header>
 
-<blockquote><strong>매일 자동 업데이트</strong> | 국내 뉴스 + 글로벌 AI 뉴스 + YouTube 숏츠</blockquote>
+<div class="wrap">
+  <section class="hero">
+    <div class="hero-tag">매일 자동 업데이트</div>
+    <h1>대한민국<em>뉴스 & AI</em>미디어 허브</h1>
+    <p class="hero-desc">국내 뉴스 · 글로벌 AI 뉴스 · YouTube 숏츠를 한 곳에서. 매일 자동 수집·발행됩니다.</p>
+    <div class="badge-row">
+      <a href="https://github.com/societynowcom/sonow-hub/actions" class="badge">⚡ <strong>Daily Auto Update</strong></a>
+      <span class="badge" id="badge-count">📰 로딩 중...</span>
+      <a href="#youtube" class="badge">📺 <strong>4</strong> YouTube 채널</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num" id="stat-total">—</span><span class="stat-label">최신 기사</span></div>
+      <div class="stat"><span class="stat-num" id="stat-today">—</span><span class="stat-label">오늘 기사</span></div>
+      <div class="stat"><span class="stat-num">5</span><span class="stat-label">카테고리</span></div>
+      <div class="stat"><span class="stat-num" id="stat-updated">—</span><span class="stat-label">마지막 업데이트</span></div>
+    </div>
+  </section>
 
-<hr>
+  <!-- NEWS -->
+  <section class="section" id="news">
+    <div class="section-header">
+      <h2 class="section-title">최신 뉴스</h2>
+      <span class="section-sub" id="news-count-label"></span>
+    </div>
 
-<h2>🔥 오늘의 주요 뉴스</h2>
+    <!-- 날짜 필터 -->
+    <div class="date-filter" id="date-filter"></div>
 
-<table>
-  <tr><th>제목</th><th>카테고리</th><th>날짜</th></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022250/ai26022250-ai.html">인공지능 학습, 에너지 소비도 문제?</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022249/ai26022249-ai.html">페플렉시티, 광고 포기… 정확성 중심 전략 수립</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022248/ai26022248-ai.html">코드 번역 AI 스타트업 '코드메탈', 1250억 추가 투자 획득</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022247/ai26022247-ai.html">OnlyFans 크리에이터, 이미지 기반 검색으로 발굴될까?</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022246/ai26022246-ai.html">우주 데이터센터, 현실 가능할까?</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022245/ai26022245-ai.html">AI Safety Meets the War Machine</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022244/ai26022244-ai.html">xAI, 미시시피 지역 오염으로 데이터센터 운영?</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022243/ai26022243-ai.html">네플릭스, 바이댄스 상대로 법적 조치 예고</a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022242/ai26022242-ai.html">Anthropic launches Cowork, a Claude Desktop agent </a></td><td>AI</td><td>2026.02.22</td></tr>
-  <tr><td><a href="https://www.society-now.com/sonow/article/ai/ai26022241/ai26022241-ai.html">Salesforce, Slackbot을 통해 'AI 기반 업무 환경' 구축</a></td><td>AI</td><td>2026.02.22</td></tr>
-</table>
+    <!-- 카테고리 필터 -->
+    <div class="cat-filter" id="cat-filter"></div>
 
-<h2>📺 최신 YouTube 영상</h2>
+    <!-- 뉴스 테이블 -->
+    <div id="news-container">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <div>뉴스 불러오는 중...</div>
+      </div>
+    </div>
+    <button class="more-btn" id="more-btn" style="display:none" onclick="showMore()">더 보기</button>
+  </section>
 
-<table>
-  <tr><th>영상</th><th>채널</th></tr>
-  <tr><td>업데이트 대기 중...</td><td>-</td></tr>
-</table>
+  <!-- CATEGORIES -->
+  <section class="section" id="categories">
+    <div class="section-header">
+      <h2 class="section-title">카테고리</h2>
+      <span class="section-sub">Categories</span>
+    </div>
+    <div class="cat-grid">
+      <a href="./headlines/" class="cat-card"><span class="cat-icon">📰</span><div class="cat-name">Headlines</div><div class="cat-desc">정책브리핑 · 정치NOW · 지역NOW · 인물탐구 · 진실프로파일링</div></a>
+      <a href="./tech-ai/" class="cat-card"><span class="cat-icon">🤖</span><div class="cat-name">Tech & AI</div><div class="cat-desc">AI NOW · 디지털트윈 · SONOW TECH · AX.DX · 공공데이터</div></a>
+      <a href="./economy/" class="cat-card"><span class="cat-icon">💰</span><div class="cat-name">Economy</div><div class="cat-desc">주식 · 코인 · 부동산 · Data&Insight · 보험NOW</div></a>
+      <a href="./education/" class="cat-card"><span class="cat-icon">📚</span><div class="cat-name">Education</div><div class="cat-desc">ESG · AI생산성 · 생각의힘 · 마음건강 · 세미나</div></a>
+      <a href="./k-culture/" class="cat-card"><span class="cat-icon">🎭</span><div class="cat-name">K-Culture</div><div class="cat-desc">Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH</div></a>
+      <a href="https://society-now.com/sonow/" class="cat-card"><span class="cat-icon">🌐</span><div class="cat-name">전체 보기</div><div class="cat-desc">society-now.com에서 모든 기사를 확인하세요.</div></a>
+    </div>
+  </section>
 
-<hr>
+  <!-- YOUTUBE -->
+  <section class="section" id="youtube">
+    <div class="section-header">
+      <h2 class="section-title">YouTube 채널</h2>
+      <span class="section-sub">Channels</span>
+    </div>
+    <div class="yt-grid">
+      <a href="https://www.youtube.com/@sooonow" class="yt-card"><div class="yt-icon">📺</div><div class="yt-name">SO,NOW</div><div class="yt-desc">뉴스 & 미디어 메인 채널</div><span class="yt-link">바로가기 →</span></a>
+      <a href="https://www.youtube.com/@boonow" class="yt-card"><div class="yt-icon">🎬</div><div class="yt-name">boonow</div><div class="yt-desc">숏츠 & 콘텐츠</div><span class="yt-link">바로가기 →</span></a>
+      <a href="https://www.youtube.com/@sonow-ai" class="yt-card"><div class="yt-icon">🤖</div><div class="yt-name">AI NOW</div><div class="yt-desc">AI 기술 · 프롬프트 뉴스</div><span class="yt-link">바로가기 →</span></a>
+      <a href="https://www.youtube.com/@JustKoreaShorts" class="yt-card"><div class="yt-icon">🇰🇷</div><div class="yt-name">just 코리아</div><div class="yt-desc">매일 정치 · 경제 이슈</div><span class="yt-link">바로가기 →</span></a>
+    </div>
+  </section>
+</div>
 
-<h2>📂 카테고리</h2>
+<footer>
+  <div class="footer-inner">
+    <div class="footer-logo">SO,NOW</div>
+    <div class="footer-links">
+      <a href="https://society-now.com/sonow/">공식 사이트</a>
+      <a href="https://societynowcom.github.io/sonow-hub/">허브</a>
+      <a href="https://www.youtube.com/@sooonow">YouTube</a>
+      <a href="https://github.com/societynowcom/sonow-hub">GitHub</a>
+    </div>
+    <div class="footer-copy">© 2026 SO,NOW · 매일 자동 업데이트 · society-now.com</div>
+  </div>
+</footer>
 
-<h3>📰 <a href="./headlines/">HEADLINES</a> - 헤드라인</h3>
-<p>정책브리핑 · 정치NOW · 지역NOW · 인물탐구 · 진실프로파일링</p>
+<script>
+// ── 설정 ──────────────────────────────────
+// GitHub Pages에 저장된 articles.json을 사용
+// generate-md.js가 매일 자동으로 갱신
+const DATA_URL  = 'data/articles.json';
+const PAGE_SIZE = 20;
 
-<h3>🤖 <a href="./tech-ai/">TECH & AI</a> - 기술 & 인공지능</h3>
-<p>AI NOW · 디지털트윈 · SONOW TECH · AX.DX · 공공데이터</p>
+// 카테고리 코드 → 표시명
+const CAT_NAMES = {
+  ai: 'AI', ta: 'Tech', an: 'Tech', dt: 'Tech', sn: 'Tech', ax: 'Tech', it: 'Tech',
+  hl: '헤드라인', pb: '정책', wr: '정치', lr: '지역', pi: '인물', td: '탐구', nw: '뉴스',
+  kn: '경제', st: '주식', co: '코인', re: '부동산', di: '데이터', ins: '보험',
+  ed: '교육', eg: 'ESG', ap: 'AI생산성', th: '생각', mh: '마음', ex: '세미나',
+  kc: 'K-문화', hk: '코리아', kt: 'K-콘텐츠', kp: 'K-POP', kb: 'K-뷰티', kh: 'K-헬스'
+};
 
-<h3>💰 <a href="./economy/">ECONOMY</a> - 경제</h3>
-<p>주식 · 코인 · 부동산 · Data&Insight · 보험NOW</p>
+// 카테고리 → 색상
+const CAT_COLORS = {
+  ai: '#a78bfa', ta: '#a78bfa', an: '#a78bfa', dt: '#a78bfa', sn: '#a78bfa', ax: '#a78bfa',
+  hl: '#60a5fa', pb: '#60a5fa', wr: '#60a5fa', lr: '#60a5fa', pi: '#60a5fa',
+  kn: '#34d399', st: '#34d399', co: '#34d399', re: '#34d399', di: '#34d399',
+  ed: '#818cf8', eg: '#818cf8', ap: '#818cf8', th: '#818cf8', mh: '#818cf8',
+  kc: '#f472b6', hk: '#f472b6', kt: '#f472b6', kp: '#f472b6', kb: '#f472b6', kh: '#f472b6'
+};
 
-<h3>📚 <a href="./education/">EDUCATION</a> - 교육</h3>
-<p>ESG · AI생산성 · 생각의힘 · 마음건강 · 세미나</p>
+function catName(c) { return CAT_NAMES[c] || c.toUpperCase(); }
+function catColor(c) { return CAT_COLORS[c] || '#e8ff00'; }
 
-<h3>🎭 <a href="./k-culture/">K-CULTURE</a> - 한국문화</h3>
-<p>Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH</p>
+// ── 상태 ──────────────────────────────────
+let allArticles  = [];
+let filtered     = [];
+let displayCount = PAGE_SIZE;
+let activeDate   = 'all';
+let activeCat    = 'all';
 
-<hr>
+function fmtDate(str) {
+  if (!str) return '';
+  return str.slice(0, 10).replace(/-/g, '.');
+}
+function toDateKey(str) { return str ? str.slice(0, 10) : ''; }
 
-<h2>📺 YouTube 채널</h2>
+// ── 데이터 로드 ───────────────────────────
+async function loadArticles() {
+  try {
+    const res  = await fetch(DATA_URL + '?_=' + Date.now());
+    const data = await res.json();
 
-<table>
-  <tr><th>채널</th><th>주제</th><th>링크</th></tr>
-  <tr><td><strong>SO,NOW</strong></td><td>뉴스 & 미디어</td><td><a href="https://www.youtube.com/@sooonow">바로가기</a></td></tr>
-  <tr><td><strong>boonow</strong></td><td>콘텐츠</td><td><a href="https://www.youtube.com/@boonow">바로가기</a></td></tr>
-  <tr><td><strong>AI NOW</strong></td><td>AI 기술/프롬프트 뉴스</td><td><a href="https://www.youtube.com/@sonow-ai">바로가기</a></td></tr>
-  <tr><td><strong>just 코리아</strong></td><td>매일 정치·경제 이슈</td><td><a href="https://www.youtube.com/@JustKoreaShorts">바로가기</a></td></tr>
-  <tr><td><strong>🎬 Shorts 모아보기</strong></td><td>전체 숏츠</td><td><a href="./youtube/shorts/">바로가기</a></td></tr>
-</table>
+    // 배열 or 객체 대응
+    allArticles = Array.isArray(data)
+      ? data
+      : (data.articles || data.data || data.list || data.items || []);
 
-<hr>
+    // 날짜 내림차순 정렬
+    allArticles.sort((a, b) => {
+      const da = a.published_date || a.created_at || '';
+      const db = b.published_date || b.created_at || '';
+      return db.localeCompare(da);
+    });
 
-<h2>📊 통계</h2>
+    updateStats();
+    buildFilters();
+    applyFilter();
 
-<table>
-  <tr><th>항목</th><th>수치</th></tr>
-  <tr><td>전체 기사</td><td>99개</td></tr>
-  <tr><td>카테고리</td><td>8개</td></tr>
-  <tr><td>YouTube 채널</td><td>3개</td></tr>
-  <tr><td>마지막 업데이트</td><td>2026-02-21</td></tr>
-</table>
+  } catch (e) {
+    document.getElementById('news-container').innerHTML =
+      '<div class="error-msg">⚠ 뉴스를 불러오지 못했습니다.<br><small>' + e.message + '</small></div>';
+  }
+}
 
-<hr>
+// ── 통계 업데이트 ─────────────────────────
+function updateStats() {
+  const today      = new Date().toISOString().slice(0, 10);
+  const todayCount = allArticles.filter(a => toDateKey(a.published_date || a.created_at) === today).length;
+  const lastDate   = allArticles[0] ? fmtDate(allArticles[0].published_date || allArticles[0].created_at) : '-';
 
-<h2>🔗 링크</h2>
+  document.getElementById('stat-total').textContent   = allArticles.length.toLocaleString();
+  document.getElementById('stat-today').textContent   = todayCount || '-';
+  document.getElementById('stat-updated').textContent = lastDate;
+  document.getElementById('badge-count').innerHTML    = '📰 <strong>' + allArticles.length.toLocaleString() + '</strong>개 기사';
+}
 
-<ul><li>🌐 <a href="https://society-now.com/sonow/">SO,NOW 공식 사이트</a></li><li>📺 <a href="https://www.youtube.com/@sooonow">YouTube - SO,NOW</a></li><li>📺 <a href="https://www.youtube.com/@boonow">YouTube - boonow</a></li><li>📺 <a href="https://www.youtube.com/@sonow-ai">YouTube - AI NOW</a></li><li>📺 <a href="https://www.youtube.com/@JustKoreaShorts">YouTube - just 코리아</a></li></ul>
+// ── 필터 빌드 ─────────────────────────────
+function buildFilters() {
+  // 날짜 목록 (최근 7일치)
+  const dates = [...new Set(allArticles.map(a => toDateKey(a.published_date || a.created_at)))].slice(0, 7);
+  const dateEl = document.getElementById('date-filter');
+  dateEl.innerHTML =
+    '<button class="date-btn active" onclick="filterDate(\'all\',this)">전체</button>' +
+    dates.map(d => '<button class="date-btn" onclick="filterDate(\'' + d + '\',this)">' + fmtDate(d) + '</button>').join('');
 
-<hr>
+  // 카테고리 목록
+  const cats = [...new Set(allArticles.map(a => a.category).filter(Boolean))];
+  const catEl = document.getElementById('cat-filter');
+  catEl.innerHTML =
+    '<button class="cat-btn active" onclick="filterCat(\'all\',this)">전체</button>' +
+    cats.map(c => '<button class="cat-btn" onclick="filterCat(\'' + c + '\',this)">' + catName(c) + '</button>').join('');
+}
 
-<p><sub>이 저장소는 매일 자동 업데이트됩니다. 데이터 소스: <a href="https://society-now.com">society-now.com</a></sub></p>
+// ── 필터 ──────────────────────────────────
+function filterDate(date, btn) {
+  activeDate = date; displayCount = PAGE_SIZE;
+  document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active'); applyFilter();
+}
+function filterCat(cat, btn) {
+  activeCat = cat; displayCount = PAGE_SIZE;
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active'); applyFilter();
+}
 
-  </main>
-  <footer>
-    <p><a href="https://societynowcom.github.io/sonow-hub/">SO,NOW Hub 홈</a></p>
-  </footer>
+// ── 필터 적용 ─────────────────────────────
+function applyFilter() {
+  filtered = allArticles.filter(a => {
+    const dateMatch = activeDate === 'all' || toDateKey(a.published_date || a.created_at) === activeDate;
+    const catMatch  = activeCat  === 'all' || (a.category || '') === activeCat;
+    return dateMatch && catMatch;
+  });
+  document.getElementById('news-count-label').textContent = filtered.length.toLocaleString() + '개';
+  renderNews();
+}
+
+// ── 뉴스 렌더 ─────────────────────────────
+function renderNews() {
+  const show      = filtered.slice(0, displayCount);
+  const container = document.getElementById('news-container');
+
+  if (show.length === 0) {
+    container.innerHTML = '<div class="error-msg" style="color:var(--muted)">해당 조건의 기사가 없습니다.</div>';
+    document.getElementById('more-btn').style.display = 'none';
+    return;
+  }
+
+  const rows = show.map((a, i) => {
+    const url   = a.url || '#';
+    const title = a.title || '제목 없음';
+    const cat   = a.category || '';
+    const date  = fmtDate(a.published_date || a.created_at);
+    const color = catColor(cat);
+    return '<tr>' +
+      '<td class="news-idx">' + String(i + 1).padStart(2, '0') + '</td>' +
+      '<td>' +
+        '<span class="news-cat" style="background:' + color + '18;color:' + color + '">' + catName(cat) + '</span>' +
+        '<a href="' + url + '" target="_blank" class="news-title">' + title + '</a>' +
+      '</td>' +
+      '<td class="news-date">' + date + '</td>' +
+    '</tr>';
+  }).join('');
+
+  container.innerHTML =
+    '<table class="news-table">' +
+    '<thead><tr><th style="width:36px">#</th><th>제목</th><th style="text-align:right">날짜</th></tr></thead>' +
+    '<tbody>' + rows + '</tbody>' +
+    '</table>';
+
+  const moreBtn = document.getElementById('more-btn');
+  if (filtered.length > displayCount) {
+    moreBtn.style.display = 'block';
+    moreBtn.textContent   = '더 보기 (' + (filtered.length - displayCount).toLocaleString() + '개 남음)';
+  } else {
+    moreBtn.style.display = 'none';
+  }
+}
+
+function showMore() { displayCount += PAGE_SIZE; renderNews(); }
+
+loadArticles();
+</script>
 </body>
 </html>
