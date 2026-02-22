@@ -176,13 +176,19 @@ function mdToHtml(md) {
 }
 
 // ─── 기사 HTML 페이지 ────────────────────────────────────────
-function buildArticleHtml(meta, bodyHtml, canonicalUrl) {
+function buildArticleHtml(meta, bodyHtml, githubUrl) {
     const title       = meta.title       || 'SO,NOW 뉴스';
     const description = meta.description || '';
     const keywords    = meta.keywords    || '';
     const image       = meta.image       || '';
     const date        = meta.date        || '';
     const category    = meta.category    || '';
+
+    // canonical = society-now.com 원본 URL
+    // → GitHub DA 95 링크파워가 society-now.com으로 전달됨 (중복 콘텐츠 방지)
+    let sourceUrl = meta.url || '';
+    if (sourceUrl.startsWith('/')) sourceUrl = 'https://society-now.com' + sourceUrl;
+    if (!sourceUrl) sourceUrl = githubUrl;  // fallback: URL 없는 경우만
 
     const structuredData = JSON.stringify({
         '@context':         'https://schema.org',
@@ -198,8 +204,8 @@ function buildArticleHtml(meta, bodyHtml, canonicalUrl) {
             'name':  'SO,NOW',
             'url':   'https://society-now.com'
         },
-        'url':              canonicalUrl,
-        'mainEntityOfPage': canonicalUrl,
+        'url':              sourceUrl,
+        'mainEntityOfPage': sourceUrl,
         'articleSection':   category
     });
 
@@ -215,14 +221,14 @@ function buildArticleHtml(meta, bodyHtml, canonicalUrl) {
         '  <meta property="og:title"       content="' + esc(title) + '">\n' +
         '  <meta property="og:description" content="' + esc(description) + '">\n' +
         (image ? '  <meta property="og:image" content="' + image + '">\n' : '') +
-        '  <meta property="og:url"         content="' + canonicalUrl + '">\n' +
+        '  <meta property="og:url"         content="' + sourceUrl + '">\n' +
         '  <meta property="og:locale"      content="ko_KR">\n' +
         '  <meta property="og:site_name"   content="SO,NOW">\n' +
         '  <meta name="twitter:card"        content="summary_large_image">\n' +
         '  <meta name="twitter:title"       content="' + esc(title) + '">\n' +
         '  <meta name="twitter:description" content="' + esc(description) + '">\n' +
         (image ? '  <meta name="twitter:image" content="' + image + '">\n' : '') +
-        '  <link rel="canonical" href="' + canonicalUrl + '">\n' +
+        '  <link rel="canonical" href="' + sourceUrl + '">\n' +
         '  <script type="application/ld+json">' + structuredData + '</script>\n' +
         CSS + '\n' +
         '</head>\n' +
