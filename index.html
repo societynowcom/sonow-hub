@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SO,NOW Hub | 대한민국 뉴스 & AI 미디어</title>
+<meta name="description" content="대한민국 뉴스 & AI 미디어 허브. 매일 자동 업데이트. 국내뉴스·AI뉴스·YouTube.">
 <meta property="og:title" content="SO,NOW Hub">
 <meta property="og:url" content="https://societynowcom.github.io/sonow-hub/">
 <meta property="og:locale" content="ko_KR">
@@ -12,218 +13,84 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
 <style>
-:root {
-  --bg: #0a0a0f;
-  --surface: #111118;
-  --surface2: #1a1a24;
-  --border: #2a2a3a;
-  --accent: #e8ff00;
-  --accent2: #ff4060;
-  --text: #e8e8f0;
-  --muted: #6b6b80;
-  --card-hover: #1e1e2c;
-}
-* { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'Noto Sans KR', sans-serif;
-  font-size: 14px;
-  line-height: 1.7;
-  min-height: 100vh;
-  overflow-x: hidden;
-}
-body::before {
-  content: '';
-  position: fixed; inset: 0;
-  background-image:
-    linear-gradient(rgba(232,255,0,.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(232,255,0,.025) 1px, transparent 1px);
-  background-size: 60px 60px;
-  pointer-events: none; z-index: 0;
-}
-.wrap { max-width: 960px; margin: 0 auto; padding: 0 24px; position: relative; z-index: 1; }
-
-/* HEADER */
-header {
-  border-bottom: 1px solid var(--border);
-  padding: 0 24px;
-  position: sticky; top: 0; z-index: 100;
-  background: rgba(10,10,15,.88);
-  backdrop-filter: blur(14px);
-}
-.header-inner {
-  max-width: 960px; margin: 0 auto;
-  display: flex; align-items: center; justify-content: space-between; height: 56px;
-}
-.logo { font-family: 'Bebas Neue', sans-serif; font-size: 28px; letter-spacing: 3px; color: var(--accent); text-decoration: none; }
-.logo span { color: var(--text); }
-nav { display: flex; gap: 24px; }
-nav a { color: var(--muted); text-decoration: none; font-size: 12px; font-weight: 500; letter-spacing: 1px; text-transform: uppercase; transition: color .2s; }
-nav a:hover { color: var(--accent); }
-
-/* HERO */
-.hero { padding: 72px 0 56px; }
-.hero-tag {
-  display: inline-flex; align-items: center; gap: 8px;
-  background: rgba(232,255,0,.08); border: 1px solid rgba(232,255,0,.2);
-  color: var(--accent); font-size: 11px; font-weight: 700; letter-spacing: 2px;
-  text-transform: uppercase; padding: 5px 14px; border-radius: 2px; margin-bottom: 24px;
-}
-.hero-tag::before {
-  content: ''; width: 6px; height: 6px; background: var(--accent);
-  border-radius: 50%; animation: blink 1.2s ease infinite;
-}
-@keyframes blink { 0%,100%{opacity:1} 50%{opacity:.2} }
-.hero h1 {
-  font-family: 'Bebas Neue', sans-serif;
-  font-size: clamp(52px, 9vw, 96px); line-height: .92;
-  letter-spacing: -1px; color: #fff; margin-bottom: 20px;
-}
-.hero h1 em { font-style: normal; color: var(--accent); display: block; }
-.hero-desc { color: var(--muted); font-size: 15px; max-width: 480px; margin-bottom: 32px; font-weight: 300; }
-.badge-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 32px; }
-.badge {
-  display: inline-flex; align-items: center; gap: 6px;
-  background: var(--surface2); border: 1px solid var(--border);
-  color: var(--muted); font-size: 11px; padding: 4px 12px;
-  border-radius: 2px; text-decoration: none; transition: border-color .2s, color .2s;
-}
-.badge:hover { border-color: var(--accent); color: var(--accent); }
-.badge strong { color: var(--text); }
-.hero-stats { display: flex; gap: 40px; flex-wrap: wrap; }
-.stat { display: flex; flex-direction: column; }
-.stat-num { font-family: 'Bebas Neue', sans-serif; font-size: 36px; color: #fff; letter-spacing: 1px; line-height: 1; }
-.stat-label { font-size: 11px; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; margin-top: 4px; }
-
-/* SECTION */
-.section { padding: 52px 0; border-top: 1px solid var(--border); }
-.section-header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 28px; }
-.section-title { font-family: 'Bebas Neue', sans-serif; font-size: 32px; letter-spacing: 2px; color: #fff; }
-.section-sub { font-size: 11px; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; }
-
-/* 날짜 필터 */
-.date-filter { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 20px; }
-.date-btn {
-  background: var(--surface2); border: 1px solid var(--border);
-  color: var(--muted); font-size: 11px; padding: 5px 14px;
-  border-radius: 2px; cursor: pointer; font-family: inherit;
-  transition: all .2s; letter-spacing: .5px;
-}
-.date-btn:hover, .date-btn.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight: 700; }
-
-/* 카테고리 필터 */
-.cat-filter { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
-.cat-btn {
-  background: transparent; border: 1px solid var(--border);
-  color: var(--muted); font-size: 11px; padding: 4px 12px;
-  border-radius: 2px; cursor: pointer; font-family: inherit;
-  transition: all .2s; letter-spacing: .5px; text-transform: uppercase;
-}
-.cat-btn:hover, .cat-btn.active { border-color: var(--accent); color: var(--accent); }
-
-/* NEWS TABLE */
-.news-table { width: 100%; border-collapse: collapse; }
-.news-table thead th {
-  font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;
-  color: var(--muted); padding: 0 0 12px; border-bottom: 1px solid var(--border); text-align: left;
-}
-.news-table thead th:last-child { text-align: right; }
-.news-table tbody tr { border-bottom: 1px solid rgba(255,255,255,.04); transition: background .15s; }
-.news-table tbody tr:hover { background: var(--card-hover); }
-.news-table td { padding: 13px 8px 13px 0; vertical-align: middle; }
-.news-table td:last-child { text-align: right; white-space: nowrap; }
-.news-idx { font-family: 'Bebas Neue', sans-serif; font-size: 18px; color: var(--border); width: 36px; padding-right: 16px !important; }
-.news-cat {
-  display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 1px;
-  text-transform: uppercase; padding: 2px 8px; border-radius: 2px;
-  background: rgba(232,255,0,.1); color: var(--accent); white-space: nowrap; margin-right: 10px;
-}
-.news-title { color: var(--text); text-decoration: none; font-size: 14px; transition: color .2s; }
-.news-title:hover { color: var(--accent); }
-.news-date { font-size: 11px; color: var(--muted); }
-
-/* 로딩/에러 */
-.loading { text-align: center; padding: 48px 0; color: var(--muted); }
-.loading-spinner {
-  width: 32px; height: 32px; border: 2px solid var(--border);
-  border-top-color: var(--accent); border-radius: 50%;
-  animation: spin .8s linear infinite; margin: 0 auto 16px;
-}
-@keyframes spin { to { transform: rotate(360deg); } }
-.error-msg { text-align: center; padding: 32px; color: var(--accent2); font-size: 13px; }
-
-/* 더보기 버튼 */
-.more-btn {
-  display: block; margin: 24px auto 0;
-  background: transparent; border: 1px solid var(--border);
-  color: var(--muted); font-size: 12px; padding: 10px 32px;
-  border-radius: 2px; cursor: pointer; font-family: inherit;
-  letter-spacing: 1px; text-transform: uppercase; transition: all .2s;
-}
-.more-btn:hover { border-color: var(--accent); color: var(--accent); }
-
-/* CATEGORY GRID */
-.cat-grid {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 1px; background: var(--border); border: 1px solid var(--border);
-}
-.cat-card {
-  background: var(--surface); padding: 28px 24px;
-  text-decoration: none; display: block; transition: background .2s;
-  position: relative; overflow: hidden;
-}
-.cat-card::after {
-  content: ''; position: absolute; bottom: 0; left: 0;
-  width: 0; height: 2px; background: var(--accent); transition: width .3s ease;
-}
-.cat-card:hover { background: var(--card-hover); }
-.cat-card:hover::after { width: 100%; }
-.cat-icon { font-size: 28px; margin-bottom: 14px; display: block; }
-.cat-name { font-family: 'Bebas Neue', sans-serif; font-size: 20px; letter-spacing: 2px; color: #fff; margin-bottom: 6px; }
-.cat-desc { font-size: 12px; color: var(--muted); line-height: 1.6; }
-
-/* YOUTUBE */
-.yt-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
-.yt-card {
-  background: var(--surface); border: 1px solid var(--border);
-  padding: 20px; text-decoration: none; display: flex;
-  flex-direction: column; gap: 10px;
-  transition: border-color .2s, background .2s; border-radius: 4px;
-}
-.yt-card:hover { border-color: var(--accent2); background: var(--card-hover); }
-.yt-icon { width: 36px; height: 36px; background: var(--accent2); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 16px; }
-.yt-name { font-weight: 700; font-size: 13px; color: #fff; }
-.yt-desc { font-size: 11px; color: var(--muted); line-height: 1.5; }
-.yt-link { font-size: 11px; color: var(--accent2); font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-top: auto; }
-
-/* FOOTER */
-footer { border-top: 1px solid var(--border); padding: 36px 24px; }
-.footer-inner {
-  max-width: 960px; margin: 0 auto;
-  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;
-}
-.footer-logo { font-family: 'Bebas Neue', sans-serif; font-size: 22px; letter-spacing: 3px; color: var(--muted); }
-.footer-links { display: flex; gap: 20px; flex-wrap: wrap; }
-.footer-links a { color: var(--muted); text-decoration: none; font-size: 12px; transition: color .2s; }
-.footer-links a:hover { color: var(--accent); }
-.footer-copy { font-size: 11px; color: #3a3a4a; width: 100%; text-align: center; margin-top: 16px; }
-
-@media (max-width: 600px) {
-  nav { display: none; }
-  .hero h1 { font-size: 52px; }
-  .hero-stats { gap: 24px; }
-  .cat-grid { grid-template-columns: 1fr 1fr; }
-  .yt-grid { grid-template-columns: 1fr 1fr; }
-  .footer-inner { justify-content: center; text-align: center; }
-}
+:root{--bg:#0a0a0f;--sf:#111118;--sf2:#1a1a24;--bd:#2a2a3a;--ac:#e8ff00;--ac2:#ff4060;--tx:#e8e8f0;--mu:#6b6b80;--ch:#1e1e2c}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--tx);font-family:'Noto Sans KR',sans-serif;font-size:14px;line-height:1.7;min-height:100vh;overflow-x:hidden}
+body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(232,255,0,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(232,255,0,.025) 1px,transparent 1px);background-size:60px 60px;pointer-events:none;z-index:0}
+.w{max-width:960px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
+header{border-bottom:1px solid var(--bd);padding:0 24px;position:sticky;top:0;z-index:100;background:rgba(10,10,15,.88);backdrop-filter:blur(14px)}
+.hi{max-width:960px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:56px}
+.logo{font-family:'Bebas Neue',sans-serif;font-size:28px;letter-spacing:3px;color:var(--ac);text-decoration:none}
+.logo span{color:var(--tx)}
+nav{display:flex;gap:24px}
+nav a{color:var(--mu);text-decoration:none;font-size:12px;font-weight:500;letter-spacing:1px;text-transform:uppercase;transition:color .2s}
+nav a:hover{color:var(--ac)}
+.hero{padding:72px 0 56px}
+.htag{display:inline-flex;align-items:center;gap:8px;background:rgba(232,255,0,.08);border:1px solid rgba(232,255,0,.2);color:var(--ac);font-size:11px;font-weight:700;letter-spacing:2px;text-transform:uppercase;padding:5px 14px;border-radius:2px;margin-bottom:24px}
+.htag::before{content:'';width:6px;height:6px;background:var(--ac);border-radius:50%;animation:blink 1.2s ease infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.2}}
+.hero h1{font-family:'Bebas Neue',sans-serif;font-size:clamp(52px,9vw,96px);line-height:.92;letter-spacing:-1px;color:#fff;margin-bottom:20px}
+.hero h1 em{font-style:normal;color:var(--ac);display:block}
+.hdesc{color:var(--mu);font-size:15px;max-width:480px;margin-bottom:32px;font-weight:300}
+.brow{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:32px}
+.badge{display:inline-flex;align-items:center;gap:6px;background:var(--sf2);border:1px solid var(--bd);color:var(--mu);font-size:11px;padding:4px 12px;border-radius:2px;text-decoration:none;transition:border-color .2s,color .2s}
+.badge:hover{border-color:var(--ac);color:var(--ac)}
+.badge strong{color:var(--tx)}
+.hstats{display:flex;gap:40px;flex-wrap:wrap}
+.stat{display:flex;flex-direction:column}
+.snum{font-family:'Bebas Neue',sans-serif;font-size:36px;color:#fff;letter-spacing:1px;line-height:1}
+.slbl{font-size:11px;color:var(--mu);letter-spacing:1px;text-transform:uppercase;margin-top:4px}
+.sec{padding:52px 0;border-top:1px solid var(--bd)}
+.sh{display:flex;align-items:baseline;gap:16px;margin-bottom:28px}
+.st{font-family:'Bebas Neue',sans-serif;font-size:32px;letter-spacing:2px;color:#fff}
+.ss{font-size:11px;color:var(--mu);letter-spacing:1px;text-transform:uppercase}
+.dfilt{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.db{background:var(--sf2);border:1px solid var(--bd);color:var(--mu);font-size:11px;padding:5px 14px;border-radius:2px;cursor:pointer;font-family:inherit;transition:all .2s;letter-spacing:.5px}
+.db:hover,.db.active{background:var(--ac);border-color:var(--ac);color:#000;font-weight:700}
+.cfilt{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:20px}
+.cb{background:transparent;border:1px solid var(--bd);color:var(--mu);font-size:11px;padding:4px 12px;border-radius:2px;cursor:pointer;font-family:inherit;transition:all .2s;letter-spacing:.5px;text-transform:uppercase}
+.cb:hover,.cb.active{border-color:var(--ac);color:var(--ac)}
+#cnt{font-size:11px;color:var(--mu);margin-bottom:12px}
+table{width:100%;border-collapse:collapse}
+thead th{font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--mu);padding:0 0 12px;border-bottom:1px solid var(--bd);text-align:left}
+thead th:last-child{text-align:right}
+tbody tr{border-bottom:1px solid rgba(255,255,255,.04);transition:background .15s}
+tbody tr:hover{background:var(--ch)}
+td{padding:13px 8px 13px 0;vertical-align:middle}
+td:last-child{text-align:right;white-space:nowrap}
+.ni{font-family:'Bebas Neue',sans-serif;font-size:18px;color:var(--bd);width:36px;padding-right:16px!important}
+.nc{display:inline-block;font-size:10px;font-weight:700;letter-spacing:1px;text-transform:uppercase;padding:2px 8px;border-radius:2px;background:rgba(232,255,0,.1);color:var(--ac);white-space:nowrap;margin-right:10px}
+.nt{color:var(--tx);text-decoration:none;font-size:14px;transition:color .2s}
+.nt:hover{color:var(--ac)}
+.nd{font-size:11px;color:var(--mu)}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1px;background:var(--bd);border:1px solid var(--bd)}
+.cc{background:var(--sf);padding:28px 24px;text-decoration:none;display:block;transition:background .2s;position:relative;overflow:hidden}
+.cc::after{content:'';position:absolute;bottom:0;left:0;width:0;height:2px;background:var(--ac);transition:width .3s ease}
+.cc:hover{background:var(--ch)}.cc:hover::after{width:100%}
+.ci{font-size:28px;margin-bottom:14px;display:block}
+.cn{font-family:'Bebas Neue',sans-serif;font-size:20px;letter-spacing:2px;color:#fff;margin-bottom:6px}
+.cd{font-size:12px;color:var(--mu);line-height:1.6}
+.ytg{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.yc{background:var(--sf);border:1px solid var(--bd);padding:20px;text-decoration:none;display:flex;flex-direction:column;gap:10px;transition:border-color .2s,background .2s;border-radius:4px}
+.yc:hover{border-color:var(--ac2);background:var(--ch)}
+.yi{width:36px;height:36px;background:var(--ac2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:16px}
+.yn{font-weight:700;font-size:13px;color:#fff}
+.yd{font-size:11px;color:var(--mu);line-height:1.5}
+.yl{font-size:11px;color:var(--ac2);font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-top:auto}
+footer{border-top:1px solid var(--bd);padding:36px 24px}
+.fi{max-width:960px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
+.fl{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:3px;color:var(--mu)}
+.fls{display:flex;gap:20px;flex-wrap:wrap}
+.fls a{color:var(--mu);text-decoration:none;font-size:12px;transition:color .2s}
+.fls a:hover{color:var(--ac)}
+.fc{font-size:11px;color:#3a3a4a;width:100%;text-align:center;margin-top:16px}
+@media(max-width:600px){nav{display:none}.hero h1{font-size:52px}.hstats{gap:24px}.cgrid{grid-template-columns:1fr 1fr}.ytg{grid-template-columns:1fr 1fr}.fi{justify-content:center;text-align:center}}
 </style>
 </head>
 <body>
-
 <header>
-  <div class="header-inner">
+  <div class="hi">
     <a href="https://societynowcom.github.io/sonow-hub/" class="logo">SO<span>,</span>NOW</a>
     <nav>
       <a href="https://society-now.com/sonow/">사이트</a>
@@ -233,258 +100,187 @@ footer { border-top: 1px solid var(--border); padding: 36px 24px; }
     </nav>
   </div>
 </header>
-
-<div class="wrap">
+<div class="w">
   <section class="hero">
-    <div class="hero-tag">매일 자동 업데이트</div>
+    <div class="htag">매일 자동 업데이트</div>
     <h1>대한민국<em>뉴스 & AI</em>미디어 허브</h1>
-    <p class="hero-desc">국내 뉴스 · 글로벌 AI 뉴스 · YouTube 숏츠를 한 곳에서. 매일 자동 수집·발행됩니다.</p>
-    <div class="badge-row">
+    <p class="hdesc">국내 뉴스 · 글로벌 AI 뉴스 · YouTube 숏츠를 한 곳에서. 매일 자동 수집·발행됩니다.</p>
+    <div class="brow">
       <a href="https://github.com/societynowcom/sonow-hub/actions" class="badge">⚡ <strong>Daily Auto Update</strong></a>
-      <span class="badge" id="badge-count">📰 로딩 중...</span>
+      <span class="badge">📰 <strong>99</strong>개 기사</span>
       <a href="#youtube" class="badge">📺 <strong>4</strong> YouTube 채널</a>
     </div>
-    <div class="hero-stats">
-      <div class="stat"><span class="stat-num" id="stat-total">—</span><span class="stat-label">최신 기사</span></div>
-      <div class="stat"><span class="stat-num" id="stat-today">—</span><span class="stat-label">오늘 기사</span></div>
-      <div class="stat"><span class="stat-num">5</span><span class="stat-label">카테고리</span></div>
-      <div class="stat"><span class="stat-num" id="stat-updated">—</span><span class="stat-label">마지막 업데이트</span></div>
+    <div class="hstats">
+      <div class="stat"><span class="snum">99</span><span class="slbl">최신 기사</span></div>
+      <div class="stat"><span class="snum">5</span><span class="slbl">카테고리</span></div>
+      <div class="stat"><span class="snum" id="vis-cnt">99</span><span class="slbl">표시 중</span></div>
+      <div class="stat"><span class="snum">2026.02.21</span><span class="slbl">마지막 업데이트</span></div>
     </div>
   </section>
 
-  <!-- NEWS -->
-  <section class="section" id="news">
-    <div class="section-header">
-      <h2 class="section-title">최신 뉴스</h2>
-      <span class="section-sub" id="news-count-label"></span>
+  <section class="sec" id="news">
+    <div class="sh">
+      <h2 class="st">최신 뉴스</h2>
+      <span class="ss" id="cnt">99개</span>
     </div>
-
-    <!-- 날짜 필터 -->
-    <div class="date-filter" id="date-filter"></div>
-
-    <!-- 카테고리 필터 -->
-    <div class="cat-filter" id="cat-filter"></div>
-
-    <!-- 뉴스 테이블 -->
-    <div id="news-container">
-      <div class="loading">
-        <div class="loading-spinner"></div>
-        <div>뉴스 불러오는 중...</div>
-      </div>
-    </div>
-    <button class="more-btn" id="more-btn" style="display:none" onclick="showMore()">더 보기</button>
+    <div class="dfilt"><button class="db active" onclick="fd('all',this)">전체</button><button class="db" onclick="fd('2026-02-21',this)">2026.02.21</button></div>
+    <div class="cfilt"><button class="cb active" onclick="fc('all',this)">전체</button><button class="cb" onclick="fc('ai',this)">AI</button><button class="cb" onclick="fc('ta',this)">Tech</button><button class="cb" onclick="fc('re',this)">부동산</button><button class="cb" onclick="fc('hl',this)">헤드라인</button><button class="cb" onclick="fc('an',this)">Tech</button><button class="cb" onclick="fc('st',this)">주식</button><button class="cb" onclick="fc('ed',this)">교육</button><button class="cb" onclick="fc('co',this)">코인</button></div>
+    <table>
+      <thead><tr><th style="width:36px">#</th><th>제목</th><th style="text-align:right">날짜</th></tr></thead>
+      <tbody id="tbody">
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">01</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022250/ai26022250-ai.html" target="_blank" rel="noopener" class="nt">인공지능 학습, 에너지 소비도 문제?</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">02</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022249/ai26022249-ai.html" target="_blank" rel="noopener" class="nt">페플렉시티, 광고 포기… 정확성 중심 전략 수립</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">03</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022248/ai26022248-ai.html" target="_blank" rel="noopener" class="nt">코드 번역 AI 스타트업 '코드메탈', 1250억 추가 투자 획득</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">04</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022247/ai26022247-ai.html" target="_blank" rel="noopener" class="nt">OnlyFans 크리에이터, 이미지 기반 검색으로 발굴될까?</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">05</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022246/ai26022246-ai.html" target="_blank" rel="noopener" class="nt">우주 데이터센터, 현실 가능할까?</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">06</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022245/ai26022245-ai.html" target="_blank" rel="noopener" class="nt">AI Safety Meets the War Machine</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">07</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022244/ai26022244-ai.html" target="_blank" rel="noopener" class="nt">xAI, 미시시피 지역 오염으로 데이터센터 운영?</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">08</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022243/ai26022243-ai.html" target="_blank" rel="noopener" class="nt">네플릭스, 바이댄스 상대로 법적 조치 예고</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">09</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022242/ai26022242-ai.html" target="_blank" rel="noopener" class="nt">Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">10</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022241/ai26022241-ai.html" target="_blank" rel="noopener" class="nt">Salesforce, Slackbot을 통해 'AI 기반 업무 환경' 구축</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">11</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022240/ai26022240-ai.html" target="_blank" rel="noopener" class="nt">Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">12</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022239/ai26022239-ai.html" target="_blank" rel="noopener" class="nt">무료로 AI 코딩, Goose가 주도하는 새로운 패러다임</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">13</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022238/ai26022238-ai.html" target="_blank" rel="noopener" class="nt">Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">14</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022237/ai26022237-ai.html" target="_blank" rel="noopener" class="nt">인공지능, 한국 산업의 새로운 변화를 가져온다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">15</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022236/ai26022236-ai.html" target="_blank" rel="noopener" class="nt">인공지능, 인도 IT 산업을 이끌다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">16</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022235/ai26022235-ai.html" target="_blank" rel="noopener" class="nt">인공지능 변화 선도, 인도와 NVIDIA 손잡다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">17</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022234/ai26022234-ai.html" target="_blank" rel="noopener" class="nt">인공지능, 통신 산업을 변화시키는 주역</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">18</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html" target="_blank" rel="noopener" class="nt">Gradio로 웹 애플리케이션, 한 번에 만드세요</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">19</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022232/ai26022232-ai.html" target="_blank" rel="noopener" class="nt">IBM·UC Berkeley, 기업용 에이전트 실패 원인 분석</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">20</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022231/ai26022231-ai.html" target="_blank" rel="noopener" class="nt">합성인공지능, 일본 AI 개발 가속화 선도</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">21</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022230/ai26022230-ai.html" target="_blank" rel="noopener" class="nt">무료로 AI 모델 학습, Unsloth와 Hugging Face Jobs 활용</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">22</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022229/ai26022229-ai.html" target="_blank" rel="noopener" class="nt">오픈소스 AI, 휴킹페이스에 합류</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">23</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022228/ai26022228-ai.html" target="_blank" rel="noopener" class="nt">구글 AI, 2026년 책임감 있는 AI 진행 보고서 발표</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">24</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022227/ai26022227-ai.html" target="_blank" rel="noopener" class="nt">AI Impact Summit 2026: How we’re partnering to make AI work for everyone</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">25</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022226/ai26022226-ai.html" target="_blank" rel="noopener" class="nt">글로 텍스트, 이미지로 음악 만들기 가능해졌다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">26</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022225/ai26022225-ai.html" target="_blank" rel="noopener" class="nt">AI Impact Summit 2026</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">27</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022224/ai26022224-ai.html" target="_blank" rel="noopener" class="nt">구글 CEO, AI의 윤리적 발전 강조</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">28</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022223/ai26022223-ai.html" target="_blank" rel="noopener" class="nt">20년간 찾는 '과학적'  Bras, Joanna Wakefield-Scurr</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">29</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022222/ai26022222-ai.html" target="_blank" rel="noopener" class="nt">마이크로소프트, AI 진실 확인 계획 발표</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">30</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022221/ai26022221-ai.html" target="_blank" rel="noopener" class="nt">과장된 AI 기대치, 2025년의 진실</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ta"><td class="ni">31</td><td><span class="nc" data-cat="ta">Tech</span><a href="https://www.society-now.com/sonow/article/ta/ta26022222/ta26022222-경향신문.html" target="_blank" rel="noopener" class="nt">트럼프, 글로벌 관세 부과 / 무역 법 122조 활용</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ta"><td class="ni">32</td><td><span class="nc" data-cat="ta">Tech</span><a href="https://www.society-now.com/sonow/article/ta/ta26022221/ta26022221-경향신문.html" target="_blank" rel="noopener" class="nt">트럼프 관세 무효 판결 / 250조원 환급 논란 발생</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="re"><td class="ni">33</td><td><span class="nc" data-cat="re">부동산</span><a href="https://www.society-now.com/sonow/article/re/re26022221/re26022221-연합뉴스.html" target="_blank" rel="noopener" class="nt">경찰, '셋방살이' 증가 / 노후 관서로 인한 임대료 부담 가중</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">34</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022233/hl26022233-경향신문.html" target="_blank" rel="noopener" class="nt">단종 유배, 관객 500만 돌파 / '왕과 사는 남자' 흥행 지속세</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">35</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022232/hl26022232-경향신문.html" target="_blank" rel="noopener" class="nt">올림픽 하프파이프 결선 진출 / 이승훈 부상에 아쉬움</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">36</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022231/hl26022231-경향신문.html" target="_blank" rel="noopener" class="nt">미국 상호관세 무효 판결 / 한국 반응은?</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">37</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022230/hl26022230-한겨레.html" target="_blank" rel="noopener" class="nt">장동혁, '윤어게인' 절연 거부 / 당권 강화 최우선 전략</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">38</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022229/hl26022229-한겨레.html" target="_blank" rel="noopener" class="nt">국민의힘, 장동혁 사퇴론 강하게 / '국민들의 선택' 주장하며 당 분열 심화</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">39</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022228/hl26022228-한겨레.html" target="_blank" rel="noopener" class="nt">한미 관세협상, 변화 가능성 / 트럼프 법원 판결 영향</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">40</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022227/hl26022227-한겨레.html" target="_blank" rel="noopener" class="nt">트럼프, 10% 관세 부과 서명 / 세계 무역 불확실성 확산</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">41</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022224/hl26022224-연합뉴스.html" target="_blank" rel="noopener" class="nt">부산·울산, 강풍·미세먼지 주시 / 건조특보 발효</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">42</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022221/hl26022221-연합뉴스.html" target="_blank" rel="noopener" class="nt">혼술바, 청년들의 사회적 소통 공간 / 대화 나누며 새로운 유대감 형성</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">43</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022224/an26022224-ai.html" target="_blank" rel="noopener" class="nt">금은방 주인, 고객 귀금속 도난 / 수십억원 피해 의혹</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">44</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022223/an26022223-ai.html" target="_blank" rel="noopener" class="nt">최민정, 쇼트트랙 은퇴 선언 / 통산 7개 메달 신기록</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">45</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022222/an26022222-ai.html" target="_blank" rel="noopener" class="nt">이재명-김혜경부인 / 브라질 영부인과 국립민속박물관 방문</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">46</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022221/an26022221-연합뉴스.html" target="_blank" rel="noopener" class="nt">서울 서남권 첫 'AI·드론 순찰차' / 치안 강화 위해 전국 유일 차량 배치</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">47</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022150/ai26022150-ai.html" target="_blank" rel="noopener" class="nt">인도 대상 채팅앱 '인더스' 베타 출시</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">48</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022148/ai26022148-ai.html" target="_blank" rel="noopener" class="nt">인공지능 코드 번역 스타트업 Code Metal, 1250억 달러 자금 확보</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">49</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022149/ai26022149-ai.html" target="_blank" rel="noopener" class="nt">Perplexity, 광고 포기하며 구독 사업 강화</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">50</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022146/ai26022146-ai.html" target="_blank" rel="noopener" class="nt">🚀 우주 데이터센터? 기술의 한계와 위험성</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">51</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022147/ai26022147-ai.html" target="_blank" rel="noopener" class="nt">OnlyFans 유명인 찾기 AI, 'Doppelgänger' 출시</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">52</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022144/ai26022144-ai.html" target="_blank" rel="noopener" class="nt">xAI, 미시시피 공동체 오염으로 데이터센터 가동?</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">53</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022145/ai26022145-ai.html" target="_blank" rel="noopener" class="nt">AI Safety Meets the War Machine</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">54</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022143/ai26022143-ai.html" target="_blank" rel="noopener" class="nt">네플릭��, 바이댄스 AI 서비스 Copyright 침해 고소 예고</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">55</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022141/ai26022141-ai.html" target="_blank" rel="noopener" class="nt">Salesforce, Slackbot 업그레이드로 'AI 기반 애저먼트' 강조</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">56</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022142/ai26022142-ai.html" target="_blank" rel="noopener" class="nt">Anthropic, AI 에이전트 'Cowork' 출시… 개발자로부터 일반 사용자까지</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">57</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022139/ai26022139-ai.html" target="_blank" rel="noopener" class="nt">Claude Code costs up to $200 a month. Goose does the same thing for free.</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">58</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022140/ai26022140-ai.html" target="_blank" rel="noopener" class="nt">Listen Labs, AI로 혁신하는 고객 조사 시장</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">59</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022137/ai26022137-ai.html" target="_blank" rel="noopener" class="nt">인공지능, 인도 산업혁명의 새로운 주역</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">60</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022138/ai26022138-ai.html" target="_blank" rel="noopener" class="nt">Railway, AI 개발 트렌드에 힘입어 1억달러 자금 확보</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">61</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022135/ai26022135-ai.html" target="_blank" rel="noopener" class="nt">인공지능 기술, 인도에 새로운 변화 가져온다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">62</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022136/ai26022136-ai.html" target="_blank" rel="noopener" class="nt">인공지능, 인도 IT산업 변화 주도</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">63</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022133/ai26022133-ai.html" target="_blank" rel="noopener" class="nt">Gradio로 웹 어플 개발 간소화</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">64</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022134/ai26022134-ai.html" target="_blank" rel="noopener" class="nt">AI, 통신 산업 변화의 주도자로 자리매김</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">65</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022131/ai26022131-ai.html" target="_blank" rel="noopener" class="nt">합성 인공지능, 일본 AI 개발 가속화</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">66</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022132/ai26022132-ai.html" target="_blank" rel="noopener" class="nt">IBM, UC Berkeley, 기업 에이전트 실패 원인 분석</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">67</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022129/ai26022129-ai.html" target="_blank" rel="noopener" class="nt">GGML and llama.cpp join HF to ensure the long-term progress of Local AI</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">68</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022130/ai26022130-ai.html" target="_blank" rel="noopener" class="nt">무료로 AI 모델 학습 가능, Unsloth와 Hugging Face Jobs 활용</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">69</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022128/ai26022128-ai.html" target="_blank" rel="noopener" class="nt">Our 2026 Responsible AI Progress Report</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">70</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022125/ai26022125-ai.html" target="_blank" rel="noopener" class="nt">구글 AI summit, 새로운 파트너십과 투자 발표</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">71</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022126/ai26022126-ai.html" target="_blank" rel="noopener" class="nt">지미 애플리에 Lyria3 출시, 텍스트·이미지로 음악 생성 가능</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">72</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022127/ai26022127-ai.html" target="_blank" rel="noopener" class="nt">구글, 인공지능 활용 파트너십 확대</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">73</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022123/ai26022123-ai.html" target="_blank" rel="noopener" class="nt">20년간 찾아온 '과학적' 브라의 진실</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">74</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022124/ai26022124-ai.html" target="_blank" rel="noopener" class="nt">구글 CEO, 인공지능 윤리 강조</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">75</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022121/ai26022121-ai.html" target="_blank" rel="noopener" class="nt">AI 회사들, 과도한 약속에서 다시 고민한다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ai"><td class="ni">76</td><td><span class="nc" data-cat="ai">AI</span><a href="https://www.society-now.com/sonow/article/ai/ai26022122/ai26022122-ai.html" target="_blank" rel="noopener" class="nt">마이크로소프트, AI 인위적 정보 판별 계획 발표</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ta"><td class="ni">77</td><td><span class="nc" data-cat="ta">Tech</span><a href="https://www.society-now.com/sonow/article/ta/ta26022122/ta26022122-경향신문.html" target="_blank" rel="noopener" class="nt">트럼프, 글로벌 관세 시행 / 무역법 122조 근거로</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">78</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022134/hl26022134-경향신문.html" target="_blank" rel="noopener" class="nt">동계올림픽 태극기 오류 / 대회 조직위원회 사과</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="st"><td class="ni">79</td><td><span class="nc" data-cat="st">주식</span><a href="https://www.society-now.com/sonow/article/st/st26022121/st26022121-연합뉴스.html" target="_blank" rel="noopener" class="nt">뉴욕증시, 트럼프 관세 판결에 반등 / 대법원 판결 불확실성 해소</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="st"><td class="ni">80</td><td><span class="nc" data-cat="st">주식</span><a href="https://www.society-now.com/sonow/article/st/st26022122/st26022122-연합뉴스.html" target="_blank" rel="noopener" class="nt">미 연방대법원 관세 판결 / 기업 비용 부담 감소</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">81</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022132/hl26022132-경향신문.html" target="_blank" rel="noopener" class="nt">국내 논란! 내란 선고 / 재판부별 판단 갈림길</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">82</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022133/hl26022133-경향신문.html" target="_blank" rel="noopener" class="nt">통일교 논란 / 총재 구속 집행정지 연장 신청 거부</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">83</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022130/hl26022130-경향신문.html" target="_blank" rel="noopener" class="nt">트럼프 상호관세 위법 판결 / 글로벌 무역 질서 흔들림</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">84</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022131/hl26022131-경향신문.html" target="_blank" rel="noopener" class="nt">장동혁, 윤석열 절연 거부 / 국민의힘 내란 논쟁 확산</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">85</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022128/hl26022128-한겨레.html" target="_blank" rel="noopener" class="nt">트럼프, 관세 서명 선언 / 전 세계에 10% 부과</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">86</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022129/hl26022129-한겨레.html" target="_blank" rel="noopener" class="nt">미 연방대법원, 상호관세 무효 판결 /  수출 기업 숨통 가쁘다</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">87</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022126/hl26022126-연합뉴스.html" target="_blank" rel="noopener" class="nt">상호관세 무효 판결 / 중소기업계 영향 점검</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">88</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022127/hl26022127-연합뉴스.html" target="_blank" rel="noopener" class="nt">슈퍼컵 완패, 대전 / 황선홍 감독 &quot;반성 시간 필요해&quot;</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">89</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022122/hl26022122-연합뉴스.html" target="_blank" rel="noopener" class="nt">산불 강풍에 확산 / 윤호중 장관 &quot;조기 진화 전력!&quot;</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">90</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022123/hl26022123-연합뉴스.html" target="_blank" rel="noopener" class="nt">류현진, WBC 첫 등판 / 완벽한 귀환 퍼포먼스</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">91</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022125/hl26022125-연합뉴스.html" target="_blank" rel="noopener" class="nt">삼성생명, BNK꺾고 단독 3위 / 역전 승리 거둔 '용병' 배혜윤</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="ed"><td class="ni">92</td><td><span class="nc" data-cat="ed">교육</span><a href="https://www.society-now.com/sonow/article/ed/ed26022121/ed26022121-연합뉴스.html" target="_blank" rel="noopener" class="nt">김수태 별세 / 시인 출신 사회 인물</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">93</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022121/hl26022121-연합뉴스.html" target="_blank" rel="noopener" class="nt">우리카드 '코트 반란' / 상위팀에 이어 4연승</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">94</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022124/an26022124-ai.html" target="_blank" rel="noopener" class="nt">왕위 계승권 박탈 조치 / 앤드루 공격 논란</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="co"><td class="ni">95</td><td><span class="nc" data-cat="co">코인</span><a href="https://www.society-now.com/sonow/article/co/co26022121/co26022121-연합뉴스.html" target="_blank" rel="noopener" class="nt">탁구 '황금콤비' WTT 스매시 / 톱시드로 대회 진출</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">96</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022122/an26022122-ai.html" target="_blank" rel="noopener" class="nt">금은방 주인, 고객 귀금속 도취 / 수십억원 피해</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">97</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022123/an26022123-ai.html" target="_blank" rel="noopener" class="nt">테슬라 오토파일럿 사망사고 / 배상액 확정</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="an"><td class="ni">98</td><td><span class="nc" data-cat="an">Tech</span><a href="https://www.society-now.com/sonow/article/an/an26022121/an26022121-ai.html" target="_blank" rel="noopener" class="nt">이재명, 밀라노·코르티나 동계 올림픽 메달 획득 선수들 축하 /  정부 지원 약속</a></td><td class="nd">2026.02.21</td></tr>
+<tr data-date="2026-02-21" data-cat="hl"><td class="ni">99</td><td><span class="nc" data-cat="hl">헤드라인</span><a href="https://www.society-now.com/sonow/article/hl/hl26022124/hl26022124-연합뉴스.html" target="_blank" rel="noopener" class="nt">강원 홍천 산불 / 집중진화 속 해상화 추정</a></td><td class="nd">2026.02.21</td></tr>
+      </tbody>
+    </table>
   </section>
 
-  <!-- CATEGORIES -->
-  <section class="section" id="categories">
-    <div class="section-header">
-      <h2 class="section-title">카테고리</h2>
-      <span class="section-sub">Categories</span>
-    </div>
-    <div class="cat-grid">
-      <a href="./headlines/" class="cat-card"><span class="cat-icon">📰</span><div class="cat-name">Headlines</div><div class="cat-desc">정책브리핑 · 정치NOW · 지역NOW · 인물탐구 · 진실프로파일링</div></a>
-      <a href="./tech-ai/" class="cat-card"><span class="cat-icon">🤖</span><div class="cat-name">Tech & AI</div><div class="cat-desc">AI NOW · 디지털트윈 · SONOW TECH · AX.DX · 공공데이터</div></a>
-      <a href="./economy/" class="cat-card"><span class="cat-icon">💰</span><div class="cat-name">Economy</div><div class="cat-desc">주식 · 코인 · 부동산 · Data&Insight · 보험NOW</div></a>
-      <a href="./education/" class="cat-card"><span class="cat-icon">📚</span><div class="cat-name">Education</div><div class="cat-desc">ESG · AI생산성 · 생각의힘 · 마음건강 · 세미나</div></a>
-      <a href="./k-culture/" class="cat-card"><span class="cat-icon">🎭</span><div class="cat-name">K-Culture</div><div class="cat-desc">Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH</div></a>
-      <a href="https://society-now.com/sonow/" class="cat-card"><span class="cat-icon">🌐</span><div class="cat-name">전체 보기</div><div class="cat-desc">society-now.com에서 모든 기사를 확인하세요.</div></a>
+  <section class="sec" id="categories">
+    <div class="sh"><h2 class="st">카테고리</h2><span class="ss">Categories</span></div>
+    <div class="cgrid">
+      <a href="./headlines/" class="cc"><span class="ci">📰</span><div class="cn">Headlines</div><div class="cd">정책브리핑 · 정치NOW · 지역NOW · 인물탐구 · 진실프로파일링</div></a>
+      <a href="./tech-ai/" class="cc"><span class="ci">🤖</span><div class="cn">Tech &amp; AI</div><div class="cd">AI NOW · 디지털트윈 · SONOW TECH · AX.DX · 공공데이터</div></a>
+      <a href="./economy/" class="cc"><span class="ci">💰</span><div class="cn">Economy</div><div class="cd">주식 · 코인 · 부동산 · Data&amp;Insight · 보험NOW</div></a>
+      <a href="./education/" class="cc"><span class="ci">📚</span><div class="cn">Education</div><div class="cd">ESG · AI생산성 · 생각의힘 · 마음건강 · 세미나</div></a>
+      <a href="./k-culture/" class="cc"><span class="ci">🎭</span><div class="cn">K-Culture</div><div class="cd">Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH</div></a>
+      <a href="https://society-now.com/sonow/" class="cc"><span class="ci">🌐</span><div class="cn">전체 보기</div><div class="cd">society-now.com에서 모든 기사를 확인하세요.</div></a>
     </div>
   </section>
 
-  <!-- YOUTUBE -->
-  <section class="section" id="youtube">
-    <div class="section-header">
-      <h2 class="section-title">YouTube 채널</h2>
-      <span class="section-sub">Channels</span>
-    </div>
-    <div class="yt-grid">
-      <a href="https://www.youtube.com/@sooonow" class="yt-card"><div class="yt-icon">📺</div><div class="yt-name">SO,NOW</div><div class="yt-desc">뉴스 & 미디어 메인 채널</div><span class="yt-link">바로가기 →</span></a>
-      <a href="https://www.youtube.com/@boonow" class="yt-card"><div class="yt-icon">🎬</div><div class="yt-name">boonow</div><div class="yt-desc">숏츠 & 콘텐츠</div><span class="yt-link">바로가기 →</span></a>
-      <a href="https://www.youtube.com/@sonow-ai" class="yt-card"><div class="yt-icon">🤖</div><div class="yt-name">AI NOW</div><div class="yt-desc">AI 기술 · 프롬프트 뉴스</div><span class="yt-link">바로가기 →</span></a>
-      <a href="https://www.youtube.com/@JustKoreaShorts" class="yt-card"><div class="yt-icon">🇰🇷</div><div class="yt-name">just 코리아</div><div class="yt-desc">매일 정치 · 경제 이슈</div><span class="yt-link">바로가기 →</span></a>
+  <section class="sec" id="youtube">
+    <div class="sh"><h2 class="st">YouTube 채널</h2><span class="ss">Channels</span></div>
+    <div class="ytg">
+      <a href="https://www.youtube.com/@sooonow" class="yc"><div class="yi">📺</div><div class="yn">SO,NOW</div><div class="yd">뉴스 &amp; 미디어 메인 채널</div><span class="yl">바로가기 →</span></a>
+      <a href="https://www.youtube.com/@boonow" class="yc"><div class="yi">🎬</div><div class="yn">boonow</div><div class="yd">숏츠 &amp; 콘텐츠</div><span class="yl">바로가기 →</span></a>
+      <a href="https://www.youtube.com/@sonow-ai" class="yc"><div class="yi">🤖</div><div class="yn">AI NOW</div><div class="yd">AI 기술 · 프롬프트 뉴스</div><span class="yl">바로가기 →</span></a>
+      <a href="https://www.youtube.com/@JustKoreaShorts" class="yc"><div class="yi">🇰🇷</div><div class="yn">just 코리아</div><div class="yd">매일 정치 · 경제 이슈</div><span class="yl">바로가기 →</span></a>
     </div>
   </section>
 </div>
-
 <footer>
-  <div class="footer-inner">
-    <div class="footer-logo">SO,NOW</div>
-    <div class="footer-links">
+  <div class="fi">
+    <div class="fl">SO,NOW</div>
+    <div class="fls">
       <a href="https://society-now.com/sonow/">공식 사이트</a>
       <a href="https://societynowcom.github.io/sonow-hub/">허브</a>
       <a href="https://www.youtube.com/@sooonow">YouTube</a>
       <a href="https://github.com/societynowcom/sonow-hub">GitHub</a>
     </div>
-    <div class="footer-copy">© 2026 SO,NOW · 매일 자동 업데이트 · society-now.com</div>
+    <div class="fc">© 2026 SO,NOW · 매일 자동 업데이트 · society-now.com</div>
   </div>
 </footer>
-
 <script>
-// ── 설정 ──────────────────────────────────
-// GitHub Pages에 저장된 articles.json을 사용
-// generate-md.js가 매일 자동으로 갱신
-const DATA_URL  = 'data/articles.json';
-const PAGE_SIZE = 20;
-
-// 카테고리 코드 → 표시명
-const CAT_NAMES = {
-  ai: 'AI', ta: 'Tech', an: 'Tech', dt: 'Tech', sn: 'Tech', ax: 'Tech', it: 'Tech',
-  hl: '헤드라인', pb: '정책', wr: '정치', lr: '지역', pi: '인물', td: '탐구', nw: '뉴스',
-  kn: '경제', st: '주식', co: '코인', re: '부동산', di: '데이터', ins: '보험',
-  ed: '교육', eg: 'ESG', ap: 'AI생산성', th: '생각', mh: '마음', ex: '세미나',
-  kc: 'K-문화', hk: '코리아', kt: 'K-콘텐츠', kp: 'K-POP', kb: 'K-뷰티', kh: 'K-헬스'
-};
-
-// 카테고리 → 색상
-const CAT_COLORS = {
-  ai: '#a78bfa', ta: '#a78bfa', an: '#a78bfa', dt: '#a78bfa', sn: '#a78bfa', ax: '#a78bfa',
-  hl: '#60a5fa', pb: '#60a5fa', wr: '#60a5fa', lr: '#60a5fa', pi: '#60a5fa',
-  kn: '#34d399', st: '#34d399', co: '#34d399', re: '#34d399', di: '#34d399',
-  ed: '#818cf8', eg: '#818cf8', ap: '#818cf8', th: '#818cf8', mh: '#818cf8',
-  kc: '#f472b6', hk: '#f472b6', kt: '#f472b6', kp: '#f472b6', kb: '#f472b6', kh: '#f472b6'
-};
-
-function catName(c) { return CAT_NAMES[c] || c.toUpperCase(); }
-function catColor(c) { return CAT_COLORS[c] || '#e8ff00'; }
-
-// ── 상태 ──────────────────────────────────
-let allArticles  = [];
-let filtered     = [];
-let displayCount = PAGE_SIZE;
-let activeDate   = 'all';
-let activeCat    = 'all';
-
-function fmtDate(str) {
-  if (!str) return '';
-  return str.slice(0, 10).replace(/-/g, '.');
-}
-function toDateKey(str) { return str ? str.slice(0, 10) : ''; }
-
-// ── 데이터 로드 ───────────────────────────
-async function loadArticles() {
-  try {
-    const res  = await fetch(DATA_URL + '?_=' + Date.now());
-    const data = await res.json();
-
-    // 배열 or 객체 대응
-    allArticles = Array.isArray(data)
-      ? data
-      : (data.articles || data.data || data.list || data.items || []);
-
-    // 날짜 내림차순 정렬
-    allArticles.sort((a, b) => {
-      const da = a.published_date || a.created_at || '';
-      const db = b.published_date || b.created_at || '';
-      return db.localeCompare(da);
-    });
-
-    updateStats();
-    buildFilters();
-    applyFilter();
-
-  } catch (e) {
-    document.getElementById('news-container').innerHTML =
-      '<div class="error-msg">⚠ 뉴스를 불러오지 못했습니다.<br><small>' + e.message + '</small></div>';
-  }
-}
-
-// ── 통계 업데이트 ─────────────────────────
-function updateStats() {
-  const today      = new Date().toISOString().slice(0, 10);
-  const todayCount = allArticles.filter(a => toDateKey(a.published_date || a.created_at) === today).length;
-  const lastDate   = allArticles[0] ? fmtDate(allArticles[0].published_date || allArticles[0].created_at) : '-';
-
-  document.getElementById('stat-total').textContent   = allArticles.length.toLocaleString();
-  document.getElementById('stat-today').textContent   = todayCount || '-';
-  document.getElementById('stat-updated').textContent = lastDate;
-  document.getElementById('badge-count').innerHTML    = '📰 <strong>' + allArticles.length.toLocaleString() + '</strong>개 기사';
-}
-
-// ── 필터 빌드 ─────────────────────────────
-function buildFilters() {
-  // 날짜 목록 (최근 7일치)
-  const dates = [...new Set(allArticles.map(a => toDateKey(a.published_date || a.created_at)))].slice(0, 7);
-  const dateEl = document.getElementById('date-filter');
-  dateEl.innerHTML =
-    '<button class="date-btn active" onclick="filterDate(\'all\',this)">전체</button>' +
-    dates.map(d => '<button class="date-btn" onclick="filterDate(\'' + d + '\',this)">' + fmtDate(d) + '</button>').join('');
-
-  // 카테고리 목록
-  const cats = [...new Set(allArticles.map(a => a.category).filter(Boolean))];
-  const catEl = document.getElementById('cat-filter');
-  catEl.innerHTML =
-    '<button class="cat-btn active" onclick="filterCat(\'all\',this)">전체</button>' +
-    cats.map(c => '<button class="cat-btn" onclick="filterCat(\'' + c + '\',this)">' + catName(c) + '</button>').join('');
-}
-
-// ── 필터 ──────────────────────────────────
-function filterDate(date, btn) {
-  activeDate = date; displayCount = PAGE_SIZE;
-  document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active'); applyFilter();
-}
-function filterCat(cat, btn) {
-  activeCat = cat; displayCount = PAGE_SIZE;
-  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active'); applyFilter();
-}
-
-// ── 필터 적용 ─────────────────────────────
-function applyFilter() {
-  filtered = allArticles.filter(a => {
-    const dateMatch = activeDate === 'all' || toDateKey(a.published_date || a.created_at) === activeDate;
-    const catMatch  = activeCat  === 'all' || (a.category || '') === activeCat;
-    return dateMatch && catMatch;
+// 날짜·카테고리 필터 (DOM에 이미 있는 행을 show/hide — JS 없이도 구글이 전체 링크 읽음)
+let ad='all', ac='all';
+const rows=document.querySelectorAll('#tbody tr');
+function upd(){
+  let v=0;
+  rows.forEach(r=>{
+    const ok=(ad==='all'||r.dataset.date===ad)&&(ac==='all'||r.dataset.cat===ac);
+    r.style.display=ok?'':'none';
+    if(ok)v++;
   });
-  document.getElementById('news-count-label').textContent = filtered.length.toLocaleString() + '개';
-  renderNews();
+  document.getElementById('cnt').textContent=v+'개';
+  document.getElementById('vis-cnt').textContent=v;
 }
-
-// ── 뉴스 렌더 ─────────────────────────────
-function renderNews() {
-  const show      = filtered.slice(0, displayCount);
-  const container = document.getElementById('news-container');
-
-  if (show.length === 0) {
-    container.innerHTML = '<div class="error-msg" style="color:var(--muted)">해당 조건의 기사가 없습니다.</div>';
-    document.getElementById('more-btn').style.display = 'none';
-    return;
-  }
-
-  const rows = show.map((a, i) => {
-    const url   = a.url || '#';
-    const title = a.title || '제목 없음';
-    const cat   = a.category || '';
-    const date  = fmtDate(a.published_date || a.created_at);
-    const color = catColor(cat);
-    return '<tr>' +
-      '<td class="news-idx">' + String(i + 1).padStart(2, '0') + '</td>' +
-      '<td>' +
-        '<span class="news-cat" style="background:' + color + '18;color:' + color + '">' + catName(cat) + '</span>' +
-        '<a href="' + url + '" target="_blank" class="news-title">' + title + '</a>' +
-      '</td>' +
-      '<td class="news-date">' + date + '</td>' +
-    '</tr>';
-  }).join('');
-
-  container.innerHTML =
-    '<table class="news-table">' +
-    '<thead><tr><th style="width:36px">#</th><th>제목</th><th style="text-align:right">날짜</th></tr></thead>' +
-    '<tbody>' + rows + '</tbody>' +
-    '</table>';
-
-  const moreBtn = document.getElementById('more-btn');
-  if (filtered.length > displayCount) {
-    moreBtn.style.display = 'block';
-    moreBtn.textContent   = '더 보기 (' + (filtered.length - displayCount).toLocaleString() + '개 남음)';
-  } else {
-    moreBtn.style.display = 'none';
-  }
-}
-
-function showMore() { displayCount += PAGE_SIZE; renderNews(); }
-
-loadArticles();
+function fd(d,b){ad=d;document.querySelectorAll('.db').forEach(x=>x.classList.remove('active'));b.classList.add('active');upd();}
+function fc(c,b){ac=c;document.querySelectorAll('.cb').forEach(x=>x.classList.remove('active'));b.classList.add('active');upd();}
 </script>
 </body>
 </html>
