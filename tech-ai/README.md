@@ -18,21 +18,21 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
-| [인공지능 학습, 에너지 소비도 문제?](./articles/2026-02-22-인공지능-학습-에너지-소비도-문제.md) | 2026.02.22 |
-| [페플렉시티, 광고 포기… 정확성 중심 전략 수립](./articles/2026-02-22-페플렉시티-광고-포기-정확성-중심-전략-수립.md) | 2026.02.22 |
-| [코드 번역 AI 스타트업 '코드메탈', 1250억 추가 투자 획득](./articles/2026-02-22-코드-번역-AI-스타트업-코드메탈-1250억-추가-투자-획득.md) | 2026.02.22 |
-| [OnlyFans 크리에이터, 이미지 기반 검색으로 발굴될까?](./articles/2026-02-22-OnlyFans-크리에이터-이미지-기반-검색으로-발굴될까.md) | 2026.02.22 |
-| [우주 데이터센터, 현실 가능할까?](./articles/2026-02-22-우주-데이터센터-현실-가능할까.md) | 2026.02.22 |
-| [AI Safety Meets the War Machine](./articles/2026-02-22-AI-Safety-Meets-the-War-Machine.md) | 2026.02.22 |
-| [xAI, 미시시피 지역 오염으로 데이터센터 운영?](./articles/2026-02-22-xAI-미시시피-지역-오염으로-데이터센터-운영.md) | 2026.02.22 |
-| [네플릭스, 바이댄스 상대로 법적 조치 예고](./articles/2026-02-22-네플릭스-바이댄스-상대로-법적-조치-예고.md) | 2026.02.22 |
-| [Anthropic launches Cowork, a Claude Desktop agent that works](./articles/2026-02-22-Anthropic-launches-Cowork-a-Claude-Desktop-agent-that-works-.md) | 2026.02.22 |
-| [Salesforce, Slackbot을 통해 'AI 기반 업무 환경' 구축](./articles/2026-02-22-Salesforce-Slackbot을-통해-AI-기반-업무-환경-구축.md) | 2026.02.22 |
-| [Listen Labs raises $69M after viral billboard hiring stunt t](./articles/2026-02-22-Listen-Labs-raises-69M-after-viral-billboard-hiring-stunt-to.md) | 2026.02.22 |
-| [무료로 AI 코딩, Goose가 주도하는 새로운 패러다임](./articles/2026-02-22-무료로-AI-코딩-Goose가-주도하는-새로운-패러다임.md) | 2026.02.22 |
-| [Railway secures $100 million to challenge AWS with AI-native](./articles/2026-02-22-Railway-secures-100-million-to-challenge-AWS-with-AI-native-.md) | 2026.02.22 |
-| [인공지능, 한국 산업의 새로운 변화를 가져온다](./articles/2026-02-22-인공지능-한국-산업의-새로운-변화를-가져온다.md) | 2026.02.22 |
-| [인공지능, 인도 IT 산업을 이끌다](./articles/2026-02-22-인공지능-인도-IT-산업을-이끌다.md) | 2026.02.22 |
+| [TechCrunch Disrupt 2026 티켓, 최저가 확보 마지막 기회!](./articles/2026-02-23-TechCrunch-Disrupt-2026-티켓-최저가-확보-마지막-기회.md) | 2026.02.23 |
+| [우주 데이터센터, 현실 가능할까?](./articles/2026-02-23-우주-데이터센터-현실-가능할까.md) | 2026.02.23 |
+| [OnlyFans 성인 콘텐츠 검색, 이미지 기반 도구로 새로운 관점](./articles/2026-02-23-OnlyFans-성인-콘텐츠-검색-이미지-기반-도구로-새로운-관점.md) | 2026.02.23 |
+| [AI 코드 번역 스타트업 Code Metal, 1250억 달러 B 라운드 유치](./articles/2026-02-23-AI-코드-번역-스타트업-Code-Metal-1250억-달러-B-라운드-유치.md) | 2026.02.23 |
+| [xAI, 미시시피 지역 오염 논란에 휩싸인다](./articles/2026-02-23-xAI-미시시피-지역-오염-논란에-휩싸인다.md) | 2026.02.23 |
+| [구글 검색, AI 요약 '–ai' 입력으로 비활성화 가능](./articles/2026-02-23-구글-검색-AI-요약-ai-입력으로-비활성화-가능.md) | 2026.02.23 |
+| [AI, 군부의 무기로?: 안트로픽 논란 속 국가 간 AI 경쟁 심화](./articles/2026-02-23-AI-군부의-무기로-안트로픽-논란-속-국가-간-AI-경쟁-심화.md) | 2026.02.23 |
+| [Salesforce, Slackbot을 통한 AI '수퍼 에이전트' 시대 도래 예고](./articles/2026-02-23-Salesforce-Slackbot을-통한-AI-수퍼-에이전트-시대-도래-예고.md) | 2026.02.23 |
+| [Anthropic, AI 에이전트 'Cowork' 출시](./articles/2026-02-23-Anthropic-AI-에이전트-Cowork-출시.md) | 2026.02.23 |
+| [넷플릭스, 바이댄스 AI 비디오 제작 서비스 '씨드앤스'에 법적 대응 예고](./articles/2026-02-23-넷플릭스-바이댄스-AI-비디오-제작-서비스-씨드앤스에-법적-대응-예고.md) | 2026.02.23 |
+| [Railway, AI 도약에 맞춰 개발자 기반 확장](./articles/2026-02-23-Railway-AI-도약에-맞춰-개발자-기반-확장.md) | 2026.02.23 |
+| [Claude Code costs up to $200 a month. Goose does the same th](./articles/2026-02-23-Claude-Code-costs-up-to-200-a-month-Goose-does-the-same-thin.md) | 2026.02.23 |
+| [AI로 고객 이해, Listen Labs $69m 유치 성공](./articles/2026-02-23-AI로-고객-이해-Listen-Labs-69m-유치-성공.md) | 2026.02.23 |
+| [인공지능 혁신, 인도와 엔비디아의 손잡음](./articles/2026-02-23-인공지능-혁신-인도와-엔비디아의-손잡음.md) | 2026.02.23 |
+| [인공지능, 인도 IT 산업을 혁신한다](./articles/2026-02-23-인공지능-인도-IT-산업을-혁신한다.md) | 2026.02.23 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 

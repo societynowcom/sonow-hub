@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [인공지능 학습, 에너지 소비도 문제?](https://www.society-now.com/sonow/article/ai/ai26022250/ai26022250-ai.html) | AI | 2026.02.22 |
-| [페플렉시티, 광고 포기… 정확성 중심 전략 수립](https://www.society-now.com/sonow/article/ai/ai26022249/ai26022249-ai.html) | AI | 2026.02.22 |
-| [코드 번역 AI 스타트업 '코드메탈', 1250억 추가 투자 획득](https://www.society-now.com/sonow/article/ai/ai26022248/ai26022248-ai.html) | AI | 2026.02.22 |
-| [OnlyFans 크리에이터, 이미지 기반 검색으로 발굴될까?](https://www.society-now.com/sonow/article/ai/ai26022247/ai26022247-ai.html) | AI | 2026.02.22 |
-| [우주 데이터센터, 현실 가능할까?](https://www.society-now.com/sonow/article/ai/ai26022246/ai26022246-ai.html) | AI | 2026.02.22 |
-| [AI Safety Meets the War Machine](https://www.society-now.com/sonow/article/ai/ai26022245/ai26022245-ai.html) | AI | 2026.02.22 |
-| [xAI, 미시시피 지역 오염으로 데이터센터 운영?](https://www.society-now.com/sonow/article/ai/ai26022244/ai26022244-ai.html) | AI | 2026.02.22 |
-| [네플릭스, 바이댄스 상대로 법적 조치 예고](https://www.society-now.com/sonow/article/ai/ai26022243/ai26022243-ai.html) | AI | 2026.02.22 |
-| [Anthropic launches Cowork, a Claude Desktop agent ](https://www.society-now.com/sonow/article/ai/ai26022242/ai26022242-ai.html) | AI | 2026.02.22 |
-| [Salesforce, Slackbot을 통해 'AI 기반 업무 환경' 구축](https://www.society-now.com/sonow/article/ai/ai26022241/ai26022241-ai.html) | AI | 2026.02.22 |
+| [TechCrunch Disrupt 2026 티켓, 최저가 확보 마지막 기회!](https://www.society-now.com/sonow/article/ai/ai26022350/ai26022350-ai.html) | AI | 2026.02.23 |
+| [우주 데이터센터, 현실 가능할까?](https://www.society-now.com/sonow/article/ai/ai26022347/ai26022347-ai.html) | AI | 2026.02.23 |
+| [OnlyFans 성인 콘텐츠 검색, 이미지 기반 도구로 새로운 관점](https://www.society-now.com/sonow/article/ai/ai26022348/ai26022348-ai.html) | AI | 2026.02.23 |
+| [AI 코드 번역 스타트업 Code Metal, 1250억 달러 B 라운드 유치](https://www.society-now.com/sonow/article/ai/ai26022349/ai26022349-ai.html) | AI | 2026.02.23 |
+| [xAI, 미시시피 지역 오염 논란에 휩싸인다](https://www.society-now.com/sonow/article/ai/ai26022344/ai26022344-ai.html) | AI | 2026.02.23 |
+| [구글 검색, AI 요약 '–ai' 입력으로 비활성화 가능](https://www.society-now.com/sonow/article/ai/ai26022345/ai26022345-ai.html) | AI | 2026.02.23 |
+| [AI, 군부의 무기로?: 안트로픽 논란 속 국가 간 AI 경쟁 심화](https://www.society-now.com/sonow/article/ai/ai26022346/ai26022346-ai.html) | AI | 2026.02.23 |
+| [Salesforce, Slackbot을 통한 AI '수퍼 에이전트' 시대 도래 예고](https://www.society-now.com/sonow/article/ai/ai26022341/ai26022341-ai.html) | AI | 2026.02.23 |
+| [Anthropic, AI 에이전트 'Cowork' 출시](https://www.society-now.com/sonow/article/ai/ai26022342/ai26022342-ai.html) | AI | 2026.02.23 |
+| [넷플릭스, 바이댄스 AI 비디오 제작 서비스 '씨드앤스'에 법적 대응 예고](https://www.society-now.com/sonow/article/ai/ai26022343/ai26022343-ai.html) | AI | 2026.02.23 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 99개 |
+| 전체 기사 | 129개 |
 | 카테고리 | 8개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-21 |
+| 마지막 업데이트 | 2026-02-22 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
