@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ViDoRe V3 최고 모델 활��한 새로운 멀티모달 검색 기준 제시 | SO,NOW</title>
+  <meta name="description" content="Nemotron이 새롭게 개발한 ColEmbed V2는 ViDoRe V3의 최상위 모델을 활용하여 멀티모달 검색 성능을 크게 향상시켰습니다. 이는 이미지와 텍스트를 동시에 처리하는 새로운 방식을 제시하며, 다양한 분야에서 지대한 영향을 미칠 것으로 전망됩니다.">
+  <meta name="keywords" content="AI, artificial intelligence, Hugging Face Blog">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="ViDoRe V3 최고 모델 활��한 새로운 멀티모달 검색 기준 제시">
+  <meta property="og:description" content="Nemotron이 새롭게 개발한 ColEmbed V2는 ViDoRe V3의 최상위 모델을 활용하여 멀티모달 검색 성능을 크게 향상시켰습니다. 이는 이미지와 텍스트를 동시에 처리하는 새로운 방식을 제시하며, 다양한 분야에서 지대한 영향을 미칠 것으로 전망됩니다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai26021334/ai26021334.png">
+  <meta property="og:url"         content="https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-13-ViDoRe-V3-%EC%B5%9C%EA%B3%A0-%EB%AA%A8%EB%8D%B8-%ED%99%9C%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EA%B8%B0%EC%A4%80-%EC%A0%9C%EC%8B%9C.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="ViDoRe V3 최고 모델 활��한 새로운 멀티모달 검색 기준 제시">
+  <meta name="twitter:description" content="Nemotron이 새롭게 개발한 ColEmbed V2는 ViDoRe V3의 최상위 모델을 활용하여 멀티모달 검색 성능을 크게 향상시켰습니다. 이는 이미지와 텍스트를 동시에 처리하는 새로운 방식을 제시하며, 다양한 분야에서 지대한 영향을 미칠 것으로 전망됩니다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai26021334/ai26021334.png">
+  <link rel="canonical" href="https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-13-ViDoRe-V3-%EC%B5%9C%EA%B3%A0-%EB%AA%A8%EB%8D%B8-%ED%99%9C%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EA%B8%B0%EC%A4%80-%EC%A0%9C%EC%8B%9C.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"ViDoRe V3 최고 모델 활��한 새로운 멀티모달 검색 기준 제시","description":"Nemotron이 새롭게 개발한 ColEmbed V2는 ViDoRe V3의 최상위 모델을 활용하여 멀티모달 검색 성능을 크게 향상시켰습니다. 이는 이미지와 텍스트를 동시에 처리하는 새로운 방식을 제시하며, 다양한 분야에서 지대한 영향을 미칠 것으로 전망됩니다.","datePublished":"2026-02-13","dateModified":"2026-02-13","image":["https://www.society-now.com/sonow/article/ai/ai26021334/ai26021334.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-13-ViDoRe-V3-%EC%B5%9C%EA%B3%A0-%EB%AA%A8%EB%8D%B8-%ED%99%9C%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EA%B8%B0%EC%A4%80-%EC%A0%9C%EC%8B%9C.html","mainEntityOfPage":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-13-ViDoRe-V3-%EC%B5%9C%EA%B3%A0-%EB%AA%A8%EB%8D%B8-%ED%99%9C%ED%95%9C-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EA%B8%B0%EC%A4%80-%EC%A0%9C%EC%8B%9C.html","articleSection":"AI"}</script>
+  <style>
+    *{box-sizing:border-box}
+    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+    h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+    h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+    h3{font-size:1rem;margin-top:1.5rem}
+    a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+    blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+    blockquote p{margin:0}
+    ul{padding-left:1.4rem}li{margin:.3rem 0}
+    hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+    pre{background:#f6f8fa;padding:1rem;border-radius:6px;overflow-x:auto}
+    code{font-size:.88em}
+    .meta{color:#666;font-size:.88rem;margin-bottom:1.2rem}
+    footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+  </style>
+</head>
+<body>
+  <article>
+<h1>ViDoRe V3 최고 모델 활��한 새로운 멀티모달 검색 기준 제시</h1>
+
+<blockquote>Nemotron ColEmbed V2, 차세대 multimodal retrieval 솔루션 선보임</blockquote>
+
+<p><strong>AI</strong> | 2026.02.13 | SO,NOW</p>
+
+<p>Nemotron은 최근 멀티모달 검색 분야에서 새로운 기준을 제시하는 ColEmbed V2를 출시했습니다. 이 모델은 이미지와 텍스트를 동시에 이해하고 연결하여 사용자의 요청에 가장 적합한 정보를 빠르게 제공합니다. Nemotron은 이전 버전과 비교하여 성능이 크게 향상된 ColEmbed V2를 개발하는 데 중점을 두었습니다.</p>
+
+<p>ColEmbed V2는 ViDoRe V3의 최고 모델을 활용하여 학습되었습니다. ViDoRe V3는 이미지와 텍스트 데이터를 처리하는 데 매우 강력한 성능을 보여주는 기술입니다. Nemotron은 ViDoRe V3의 우수한 기능을 ColEmbed V2에 적용하여 멀티모달 검색 성능을 더욱 향상시켰습니다. 또한, ColEmbed V2는 다양한 데이터 세트를 통해 학습되어 폭넓은 분야에서 활용될 수 있습니다.</p>
+
+<blockquote><strong>전문가 분석과 심층 보도를 <a href="https://www.society-now.com/sonow/article/ai/ai26021334/ai26021334-ai.html">Society-Now에서 확인하세요</a></strong></blockquote>
+
+<p><strong>🏷️ 키워드:</strong> AI · artificial intelligence · Hugging Face Blog</p>
+
+<h2>📌 관련 기사</h2>
+
+<ul><li><a href="./2026-02-17-인공지능-새로운-연인-AI-데이트-열풍-촉발.html">인공지능, 새로운 연인?  AI 데이트 열풍 촉발</a> (2026.02.17)</li><li><a href="./2026-02-17-Uncanny-Valley-ICEs-Secret-Expansion-Plans-Palantir-Workers-.html">Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants</a> (2026.02.17)</li><li><a href="./2026-02-17-a16z-글로벌-눈으로-투자-대상-발굴.html">a16z, 글로벌 눈으로 투자 대상 발굴</a> (2026.02.17)</li></ul>
+
+<h2>🔗 다른 카테고리 최신 뉴스</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-02-17-이재명-다주택자-규제-논란-장동혁에-특혜-유지해야-물음.html">이재명, 다주택자 규제 논란 / 장동혁에 "특혜 유지해야" 물음</a></li><li>🎭 <a href="../k-culture/articles/2026-01-14-문체부-K-콘텐츠-인재-3400명-양성-나선다.html">문체부, K-콘텐츠 인재 3400명 양성 나선다</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai26021334/ai26021334-ai.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../README.html">🏠 홈</a> | <a href="../README.html">🤖 TECH & AI</a></em></p>
+  </article>
+  <footer>
+    <p>
+      <a href="https://www.society-now.com/sonow/article/ai/ai26021334/ai26021334-ai.html">→ 전체 기사: Society-Now</a>
+      &nbsp;|&nbsp;
+      <a href="https://societynowcom.github.io/sonow-hub/">SO,NOW Hub 홈</a>
+    </p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>광주교통공사 지하철 역별 맵 데이터, 내부 구조 완벽 가이드 | SO,NOW</title>
+  <meta name="description" content="광주교통공사의 지하철 역별 맵 데이터로 각 역의 승강장, 대합실, 출입구 구조를 상세히 파악할 수 있는 PNG 이미지 자료">
+  <meta name="keywords" content="지하철, 역사 맵, PNG 도면, 광주교통공사, 내부구조">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="광주교통공사 지하철 역별 맵 데이터, 내부 구조 완벽 가이드">
+  <meta property="og:description" content="광주교통공사의 지하철 역별 맵 데이터로 각 역의 승강장, 대합실, 출입구 구조를 상세히 파악할 수 있는 PNG 이미지 자료">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/dt/dt26011901/dt26011901.png">
+  <meta property="og:url"         content="https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-19-%EA%B4%91%EC%A3%BC%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%97%AD%EB%B3%84-%EB%A7%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="광주교통공사 지하철 역별 맵 데이터, 내부 구조 완벽 가이드">
+  <meta name="twitter:description" content="광주교통공사의 지하철 역별 맵 데이터로 각 역의 승강장, 대합실, 출입구 구조를 상세히 파악할 수 있는 PNG 이미지 자료">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/dt/dt26011901/dt26011901.png">
+  <link rel="canonical" href="https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-19-%EA%B4%91%EC%A3%BC%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%97%AD%EB%B3%84-%EB%A7%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"광주교통공사 지하철 역별 맵 데이터, 내부 구조 완벽 가이드","description":"광주교통공사의 지하철 역별 맵 데이터로 각 역의 승강장, 대합실, 출입구 구조를 상세히 파악할 수 있는 PNG 이미지 자료","datePublished":"2026-01-19","dateModified":"2026-01-19","image":["https://www.society-now.com/sonow/article/dt/dt26011901/dt26011901.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-19-%EA%B4%91%EC%A3%BC%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%97%AD%EB%B3%84-%EB%A7%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C.html","mainEntityOfPage":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-19-%EA%B4%91%EC%A3%BC%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%97%AD%EB%B3%84-%EB%A7%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C.html","articleSection":"디지털트윈"}</script>
+  <style>
+    *{box-sizing:border-box}
+    body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+    h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+    h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+    h3{font-size:1rem;margin-top:1.5rem}
+    a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+    blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+    blockquote p{margin:0}
+    ul{padding-left:1.4rem}li{margin:.3rem 0}
+    hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+    pre{background:#f6f8fa;padding:1rem;border-radius:6px;overflow-x:auto}
+    code{font-size:.88em}
+    .meta{color:#666;font-size:.88rem;margin-bottom:1.2rem}
+    footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+  </style>
+</head>
+<body>
+  <article>
+<h1>광주교통공사 지하철 역별 맵 데이터, 내부 구조 완벽 가이드</h1>
+
+<blockquote>PNG 기반 역사 평면도 상세 분석</blockquote>
+
+<p><strong>디지털트윈</strong> | 2026.01.19 | SO,NOW</p>
+
+<p>광주교통공사의 지하철 역별 맵 데이터는 ZIP 형식으로 제공되며, 각 역의 구조와 배치도를 PNG 이미지로 포함하고 있다. 역별로 폴더가 분류되어 있으며, 각 폴더에는 승강장, 대합실, 지상 출입구 등 다양한 구역의 평면도 이미지가 저장되어 있어 역사 내부 구조를 쉽게 파악할 수 있다.</p>
+
+<p>각 이미지 파일명에는 층수(f1 = 1층, b1 = 지하 1층)와 구역 정보가 포함되어 있어, 사용자가 쉽게 원하는 정보를 찾을 수 있다. 일부 역은 여러 층과 구역의 세부 배치도를 제공하여 더욱 상세한 정보를 얻을 수 있으며, 이는 역 내부 구조 파악에 매우 유용하다.</p>
+
+<blockquote><strong>이 기사의 전체 분석과 관련 보도를 <a href="https://www.society-now.com/sonow/article/dt/dt26011901/dt26011901-지하철.html">Society-Now에서 확인하세요</a></strong></blockquote>
+
+<p><strong>🏷️ 키워드:</strong> 지하철 · 역사 맵 · PNG 도면 · 광주교통공사 · 내부구조</p>
+
+<h2>📌 관련 기사</h2>
+
+<ul><li><a href="./2026-01-19-하얏트-호텔-입점-좌절-안전-기준-충돌의-이면.html">하얏트 호텔 입점 좌절, 안전 기준 충돌의 이면</a> (2026.01.19)</li><li><a href="./2026-01-19-네이버-우크라이나-재건에-생성형-AI와-디지털트윈-기술-투입.html">네이버, 우크라이나 재건에 생성형 AI와 디지털트윈 기술 투입</a> (2026.01.19)</li><li><a href="./2026-01-19-유오케이-대우건설다공에스앤티와-스마트도시-기술-협력.html">유오케이, 대우건설·다공에스앤티와 스마트도시 기술 협력</a> (2026.01.19)</li></ul>
+
+<h2>🔗 다른 카테고리 최신 뉴스</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-02-17-이재명-장동혁-콕-집어-주택-규제-논란-다주택자-특혜-유지-주장-비판.html">이재명, 장동혁 콕 집어  주택 규제 논란 / "다주택자 특혜 유지" 주장 비판</a></li><li>🎭 <a href="../k-culture/articles/2025-11-23-문화누리카드.html">문화누리카드</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/dt/dt26011901/dt26011901-지하철.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../README.html">🏠 홈</a> | <a href="../README.html">🤖 TECH & AI</a></em></p>
+  </article>
+  <footer>
+    <p>
+      <a href="https://www.society-now.com/sonow/article/dt/dt26011901/dt26011901-지하철.html">→ 전체 기사: Society-Now</a>
+      &nbsp;|&nbsp;
+      <a href="https://societynowcom.github.io/sonow-hub/">SO,NOW Hub 홈</a>
+    </p>
+  </footer>
+</body>
+</html>
