@@ -10,6 +10,9 @@ on:
 permissions:
   contents: write
 
+env:
+  TZ: Asia/Seoul  # KST 기준 날짜 적용
+
 jobs:
   update-hub:
     runs-on: ubuntu-latest
@@ -24,7 +27,10 @@ jobs:
           node-version: '20'
 
       - name: Generate MD files from articles.json
-        run: node scripts/generate-md.js
+        run: TZ=Asia/Seoul node scripts/generate-md.js
+
+      - name: Generate HTML from MD files
+        run: TZ=Asia/Seoul node scripts/generate-html.js
 
       - name: Check for changes
         id: check
@@ -42,5 +48,5 @@ jobs:
           git config user.name "sonow-bot"
           git config user.email "societynowcom@gmail.com"
           git add -A
-          git commit -m "auto: $(date +%Y-%m-%d) 기사 업데이트"
+          git commit -m "auto: $(TZ=Asia/Seoul date +%Y-%m-%d) 기사 업데이트"
           git push
