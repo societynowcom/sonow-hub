@@ -201,6 +201,10 @@ function buildArticleHtml(meta, bodyHtml, githubUrl) {
     if (sourceUrl.startsWith('/')) sourceUrl = 'https://society-now.com' + sourceUrl;
     if (!sourceUrl) sourceUrl = githubUrl;  // fallback: URL 없는 경우만
 
+    // og:image 상대경로 → 절대경로 (GitHub Pages에서 깨지지 않도록)
+    let absImage = image;
+    if (absImage && absImage.startsWith('/')) absImage = 'https://society-now.com' + absImage;
+
     const structuredData = JSON.stringify({
         '@context':         'https://schema.org',
         '@type':            'NewsArticle',
@@ -208,7 +212,7 @@ function buildArticleHtml(meta, bodyHtml, githubUrl) {
         'description':      description,
         'datePublished':    date,
         'dateModified':     date,
-        'image':            image ? [image] : [],
+        'image':            absImage ? [absImage] : [],
         'author':           { '@type': 'Organization', 'name': 'SO,NOW' },
         'publisher': {
             '@type': 'Organization',
@@ -231,14 +235,14 @@ function buildArticleHtml(meta, bodyHtml, githubUrl) {
         '  <meta property="og:type"        content="article">\n' +
         '  <meta property="og:title"       content="' + esc(title) + '">\n' +
         '  <meta property="og:description" content="' + esc(description) + '">\n' +
-        (image ? '  <meta property="og:image" content="' + image + '">\n' : '') +
+        (absImage ? '  <meta property="og:image" content="' + absImage + '">\n' : '') +
         '  <meta property="og:url"         content="' + sourceUrl + '">\n' +
         '  <meta property="og:locale"      content="ko_KR">\n' +
         '  <meta property="og:site_name"   content="SO,NOW">\n' +
         '  <meta name="twitter:card"        content="summary_large_image">\n' +
         '  <meta name="twitter:title"       content="' + esc(title) + '">\n' +
         '  <meta name="twitter:description" content="' + esc(description) + '">\n' +
-        (image ? '  <meta name="twitter:image" content="' + image + '">\n' : '') +
+        (absImage ? '  <meta name="twitter:image" content="' + absImage + '">\n' : '') +
         '  <link rel="canonical" href="' + sourceUrl + '">\n' +
         '  <script type="application/ld+json">' + structuredData + '</script>\n' +
         CSS + '\n' +
@@ -608,10 +612,14 @@ async function main() {
             sitemapUrls.push({ url: canonicalUrl, lastmod: articleDate, changefreq: 'monthly', priority: '0.6' });
 
             // 스킵: HTML이 MD보다 최신이고 --force 없음
+            // 단, canonical이 github.io를 가리키면 반드시 재생성 (잘못된 canonical 방지)
             if (!FORCE && fs.existsSync(htmlPath)) {
                 if (fs.statSync(htmlPath).mtimeMs >= fs.statSync(mdPath).mtimeMs) {
-                    htmlSkipped++;
-                    continue;
+                    const existingHtml = fs.readFileSync(htmlPath, 'utf-8');
+                    if (!existingHtml.includes('canonical" href="https://societynowcom.github.io')) {
+                        htmlSkipped++;
+                        continue;
+                    }
                 }
             }
 
