@@ -235,12 +235,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-08-06-hl25080612-%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84-%EB%A7%88%EC%95%BD-%EC%88%98%EC%82%AC%EC%9D%80%ED%8F%90-%EA%B5%AD%EA%B8%B0%EB%AC%B8%EB%9E%80.html</loc>
-    <lastmod>2025-08-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-08-06-_--50-.html</loc>
     <lastmod>2025-08-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -248,6 +242,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-08-06-_AI--.html</loc>
+    <lastmod>2025-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-08-06-hl25080612-%EB%A7%90%EB%A0%88%EC%9D%B4%EC%8B%9C%EC%95%84-%EB%A7%88%EC%95%BD-%EC%88%98%EC%82%AC%EC%9D%80%ED%8F%90-%EA%B5%AD%EA%B8%B0%EB%AC%B8%EB%9E%80.html</loc>
     <lastmod>2025-08-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2317,12 +2317,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-12-29-hl25122977.html</loc>
-    <lastmod>2025-12-29</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-12-29-SBS-hl25122933.html</loc>
     <lastmod>2025-12-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -2348,6 +2342,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-12-29-SBS.html</loc>
+    <lastmod>2025-12-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2025-12-29-hl25122977.html</loc>
     <lastmod>2025-12-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7423,13 +7423,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-07-31-google-%EC%A7%80%EB%8F%84.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-07-31-LG%EC%97%94%EC%86%94-4680.html</loc>
     <lastmod>2025-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-07-31-LG%EC%97%94%EC%86%94-4680.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-07-31-google-%EC%A7%80%EB%8F%84.html</loc>
     <lastmod>2025-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7513,13 +7513,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-04-ai.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-04-APEC-%EB%94%94%EC%A7%80%ED%84%B8-AI-%EC%9E%A5%EA%B4%80%ED%9A%8C%EC%9D%98.html</loc>
     <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-04-APEC-%EB%94%94%EC%A7%80%ED%84%B8-AI-%EC%9E%A5%EA%B4%80%ED%9A%8C%EC%9D%98.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-04-ai.html</loc>
     <lastmod>2025-08-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7825,13 +7825,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-20-ChatGPT-5-Claude-35.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-20-CU-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B2%9F%EC%BB%A4%ED%94%BC%EA%B1%B4%EA%B8%B0%EC%8B%9D%ED%94%BC%EB%B9%85%EC%9C%BC%EB%A1%9C-%EC%8A%B9%EB%B6%80%EC%88%98-%EB%8B%A4%EC%9D%B4%EC%86%8C%EC%97%90-%EB%92%A4%EC%A7%80%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%B0%A8%EB%B3%84%ED%99%94-%EC%A0%84%EB%9E%B5-%EA%B3%B5%EA%B0%9C.html</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-20-CU-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B2%9F%EC%BB%A4%ED%94%BC%EA%B1%B4%EA%B8%B0%EC%8B%9D%ED%94%BC%EB%B9%85%EC%9C%BC%EB%A1%9C-%EC%8A%B9%EB%B6%80%EC%88%98-%EB%8B%A4%EC%9D%B4%EC%86%8C%EC%97%90-%EB%92%A4%EC%A7%80%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%B0%A8%EB%B3%84%ED%99%94-%EC%A0%84%EB%9E%B5-%EA%B3%B5%EA%B0%9C.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-20-ChatGPT-5-Claude-35.html</loc>
     <lastmod>2025-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7915,12 +7915,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-21-Adobe-Illustrator.html</loc>
-    <lastmod>2025-08-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-21-AI-%EB%B2%94%EC%9A%A9%EB%AA%A9%EC%A0%81%EA%B8%B0%EC%88%A0.html</loc>
     <lastmod>2025-08-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -7934,6 +7928,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-21-AI%ED%88%AC%EC%9E%90-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.html</loc>
+    <lastmod>2025-08-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-21-Adobe-Illustrator.html</loc>
     <lastmod>2025-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8293,12 +8293,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-31-an.html</loc>
-    <lastmod>2025-08-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-31-Gemini-25-%EA%B8%B4-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.html</loc>
     <lastmod>2025-08-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -8342,6 +8336,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-31-SK%EA%B7%B8%EB%A3%B9-AWS.html</loc>
+    <lastmod>2025-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-08-31-an.html</loc>
     <lastmod>2025-08-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -9853,12 +9853,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-09-18-googlemaps-koreasecurity.html</loc>
-    <lastmod>2025-09-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-09-18-KT%ED%95%B4%ED%82%B9-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%9C%A0%EC%B6%9C.html</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -9866,6 +9860,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-09-18-K%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%A7%84%EB%8B%A8%ED%82%A4%ED%8A%B8.html</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-09-18-googlemaps-koreasecurity.html</loc>
     <lastmod>2025-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11623,13 +11623,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-11-25-ai-%EA%B3%B5%EA%B3%B5%EC%84%9C%EB%B9%84%EC%8A%A4.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-11-25-AI%EA%B0%80-%EB%B0%94%EA%BE%B8%EB%8A%94-%EA%B5%AD%EB%AF%BC-%EC%83%9D%ED%99%9C-24%EC%8B%9C%EA%B0%84-%EB%A7%9E%EC%B6%A4%ED%98%95-%ED%98%81%EC%8B%A0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%EB%8C%80.html</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-11-25-AI%EA%B0%80-%EB%B0%94%EA%BE%B8%EB%8A%94-%EA%B5%AD%EB%AF%BC-%EC%83%9D%ED%99%9C-24%EC%8B%9C%EA%B0%84-%EB%A7%9E%EC%B6%A4%ED%98%95-%ED%98%81%EC%8B%A0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%8B%9C%EB%8C%80.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2025-11-25-ai-%EA%B3%B5%EA%B3%B5%EC%84%9C%EB%B9%84%EC%8A%A4.html</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12589,13 +12589,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-13-Skywork-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B3%B5%EA%B0%9C-AI-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%A0%84%ED%99%98%EC%A0%90.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-13-SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%B2%AD%EC%A3%BC%EC%97%90-19%EC%A1%B0%EC%9B%90-AI-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B3%B5%EC%9E%A5-%EC%8B%A0%EC%84%A4.html</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-13-SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4-%EC%B2%AD%EC%A3%BC%EC%97%90-19%EC%A1%B0%EC%9B%90-AI-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B3%B5%EC%9E%A5-%EC%8B%A0%EC%84%A4.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-13-Skywork-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B3%B5%EA%B0%9C-AI-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%A0%84%ED%99%98%EC%A0%90.html</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13159,6 +13159,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-26-OCR-%ED%98%81%EB%AA%85-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EB%86%80%EB%9D%BC%EC%9A%B4-%EB%93%B1%EC%9E%A5.html</loc>
+    <lastmod>2026-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-26-ai-ai26012622.html</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -13334,12 +13340,6 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-26-ai.html</loc>
-    <lastmod>2026-01-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-26-OCR-%ED%98%81%EB%AA%85-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EB%86%80%EB%9D%BC%EC%9A%B4-%EB%93%B1%EC%9E%A5.html</loc>
     <lastmod>2026-01-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13579,6 +13579,36 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AI-%EC%8B%9C%EB%8C%80-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AF%B8%EB%9E%98-2026%EB%85%84-%ED%98%81%EC%8B%A0-%ED%8A%B8%EB%A0%8C%EB%93%9C.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AI-%ED%98%81%EB%AA%85%EC%9D%98-%EC%83%88-%EC%A7%80%ED%8F%89-%EC%A0%95%EB%B6%80%EC%9D%98-%EB%8C%80%EB%8B%B4%ED%95%9C-%EB%8F%84%EC%A0%84-AX-Sprint-300.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AX-Sprin-%EA%B8%B0%EC%88%A0-%ED%98%81%EC%8B%A0-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%93%B1%EC%9E%A5.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AX-Sprin-%ED%98%81%EC%8B%A0-%EA%B8%B0%EC%88%A0-%EB%AF%B8%EB%9E%98-%EC%82%B0%EC%97%85%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-EU-%EB%B2%A0%ED%8A%B8%EB%82%A8-%EC%B5%9C%EA%B3%A0-%EC%88%98%EC%A4%80-%EC%99%B8%EA%B5%90-%EA%B4%80%EA%B3%84-%EB%AC%B4%EC%97%AD%ED%88%AC%EC%9E%90-%EA%B0%95%ED%99%94-%ED%98%91%EC%9D%98.html</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-ai-ai26012822.html</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
@@ -13753,37 +13783,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AI-%EC%8B%9C%EB%8C%80-%EC%BD%94%EB%94%A9%EC%9D%98-%EB%AF%B8%EB%9E%98-2026%EB%85%84-%ED%98%81%EC%8B%A0-%ED%8A%B8%EB%A0%8C%EB%93%9C.html</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AI-%ED%98%81%EB%AA%85%EC%9D%98-%EC%83%88-%EC%A7%80%ED%8F%89-%EC%A0%95%EB%B6%80%EC%9D%98-%EB%8C%80%EB%8B%B4%ED%95%9C-%EB%8F%84%EC%A0%84-AX-Sprint-300.html</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-ai.html</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AX-Sprin-%EA%B8%B0%EC%88%A0-%ED%98%81%EC%8B%A0-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%93%B1%EC%9E%A5.html</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-AX-Sprin-%ED%98%81%EC%8B%A0-%EA%B8%B0%EC%88%A0-%EB%AF%B8%EB%9E%98-%EC%82%B0%EC%97%85%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84.html</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-28-EU-%EB%B2%A0%ED%8A%B8%EB%82%A8-%EC%B5%9C%EA%B3%A0-%EC%88%98%EC%A4%80-%EC%99%B8%EA%B5%90-%EA%B4%80%EA%B3%84-%EB%AC%B4%EC%97%AD%ED%88%AC%EC%9E%90-%EA%B0%95%ED%99%94-%ED%98%91%EC%9D%98.html</loc>
     <lastmod>2026-01-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -14269,6 +14269,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-31-AI-%ED%95%99%EC%8A%B5%EC%9D%98-%EC%97%AD%EC%84%A4-%EB%8B%A8%EA%B8%B0-%EC%84%B1%EC%B7%A8-%ED%96%A5%EC%83%81-%EC%9E%A5%EA%B8%B0-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EB%A0%A5-%EC%A0%80%ED%95%98.html</loc>
+    <lastmod>2026-01-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-31-ai-ai26013122.html</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -14282,12 +14288,6 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-31-ai-ai26013124.html</loc>
-    <lastmod>2026-01-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-01-31-AI-%ED%95%99%EC%8A%B5%EC%9D%98-%EC%97%AD%EC%84%A4-%EB%8B%A8%EA%B8%B0-%EC%84%B1%EC%B7%A8-%ED%96%A5%EC%83%81-%EC%9E%A5%EA%B8%B0-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%EB%A0%A5-%EC%A0%80%ED%95%98.html</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -14953,6 +14953,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-04-AI-%EA%B1%B0%ED%92%88-%EC%9A%B0%EB%A0%A4-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%98%A4%ED%94%88AI-%ED%88%AC%EC%9E%90-%ED%9D%90%EB%A6%84-%EA%B7%9C%EB%AA%85-%ED%95%84%EC%9A%94.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-04-K%ED%8C%9D-%EC%8A%A4%ED%83%80-%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EB%8B%A4%EC%8B%9C-%ED%95%9C%EB%B2%88-%EC%9D%B8%EC%A2%85%EC%B0%A8%EB%B3%84-%EA%B5%AD%EB%82%B4%EC%99%B8-%EB%85%BC%EB%9E%80-%EB%B6%88%EA%B1%B0%EC%A7%90.html</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-04-ai-ai26020422.html</loc>
     <lastmod>2026-02-04</lastmod>
     <changefreq>monthly</changefreq>
@@ -15127,19 +15139,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-04-AI-%EA%B1%B0%ED%92%88-%EC%9A%B0%EB%A0%A4-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%98%A4%ED%94%88AI-%ED%88%AC%EC%9E%90-%ED%9D%90%EB%A6%84-%EA%B7%9C%EB%AA%85-%ED%95%84%EC%9A%94.html</loc>
-    <lastmod>2026-02-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-04-ai.html</loc>
-    <lastmod>2026-02-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-04-K%ED%8C%9D-%EC%8A%A4%ED%83%80-%ED%95%B4%EC%99%B8%EC%97%90%EC%84%9C-%EB%8B%A4%EC%8B%9C-%ED%95%9C%EB%B2%88-%EC%9D%B8%EC%A2%85%EC%B0%A8%EB%B3%84-%EA%B5%AD%EB%82%B4%EC%99%B8-%EB%85%BC%EB%9E%80-%EB%B6%88%EA%B1%B0%EC%A7%90.html</loc>
     <lastmod>2026-02-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -15391,6 +15391,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-06-NBCTV-%EC%95%B5%EC%BB%A4-%EC%96%B4%EB%A8%B8%EB%8B%88-%EC%8B%A4%EC%A2%85-%EB%82%A9%EC%B9%98-%EC%9D%98%EC%8B%AC.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-06-ai-ai26020622.html</loc>
     <lastmod>2026-02-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -15566,12 +15572,6 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-06-ai.html</loc>
-    <lastmod>2026-02-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-06-NBCTV-%EC%95%B5%EC%BB%A4-%EC%96%B4%EB%A8%B8%EB%8B%88-%EC%8B%A4%EC%A2%85-%EB%82%A9%EC%B9%98-%EC%9D%98%EC%8B%AC.html</loc>
     <lastmod>2026-02-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -15871,13 +15871,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-08-Nemotron-ColEmbed-V2-%EB%8B%A4%EC%A4%91-%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-08-NVIDIA-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%A1%9C%EB%B4%87%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%ED%98%81%EC%8B%A0-%EA%B0%80%EC%86%8D%ED%99%94.html</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-08-NVIDIA-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%A1%9C%EB%B4%87%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%ED%98%81%EC%8B%A0-%EA%B0%80%EC%86%8D%ED%99%94.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-08-Nemotron-ColEmbed-V2-%EB%8B%A4%EC%A4%91-%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C.html</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -16279,13 +16279,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-10-Nemotron-ColEmbed-V2-%EB%8B%A4%EC%A4%91-%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EC%A4%80-%EC%84%B8%EC%9A%B0%EB%8B%A4.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-10-NVIDIA-Dassault-Systmes-%ED%95%A9%EB%8F%99-%EC%82%B0%EC%97%85-AI-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%B6%95.html</loc>
     <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-10-NVIDIA-Dassault-Systmes-%ED%95%A9%EB%8F%99-%EC%82%B0%EC%97%85-AI-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B5%AC%EC%B6%95.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-10-Nemotron-ColEmbed-V2-%EB%8B%A4%EC%A4%91-%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EC%A4%80-%EC%84%B8%EC%9A%B0%EB%8B%A4.html</loc>
     <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -16885,12 +16885,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-14-ai.html</loc>
-    <lastmod>2026-02-14</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-14-AI%EB%A1%9C-%EC%9D%B8%ED%95%9C-%EC%B7%A8%EC%97%85-%EB%B6%88%EC%95%88-%EC%B2%AD%EB%85%84-%EC%A0%84%EC%97%85%EC%9E%90%EB%85%80-%EC%84%A0%ED%83%9D-%EC%A6%9D%EA%B0%80.html</loc>
     <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -16898,6 +16892,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-14-Transformersjs-v4-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-NPM%EC%97%90%EC%84%9C-%EC%B6%9C%EC%8B%9C.html</loc>
+    <lastmod>2026-02-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-14-ai.html</loc>
     <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -16993,12 +16993,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-15-ai.html</loc>
-    <lastmod>2026-02-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-15-Nemotron-ColEmbed-V2-Raising-the-Bar-for-Multimodal-Retrieva.html</loc>
     <lastmod>2026-02-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -17012,6 +17006,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-15-Transformersjs-v4-%EB%AF%B8%EB%A6%AC-%EB%B3%B4%EA%B8%B0-%EC%B6%9C%EC%8B%9C.html</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-15-ai.html</loc>
     <lastmod>2026-02-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -17131,12 +17131,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-16-Nemotron-ColEmbed-V2-ViDoRe-%EB%AA%A8%EB%8D%B8-%EA%B8%B0%EB%B0%98-%EA%B2%80%EC%83%89-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81.html</loc>
-    <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-16-NPR-%EC%95%84%EC%B9%A8%EB%B0%A9%EC%86%A1-DJ-%EA%B5%AC%EA%B8%80%EC%97%90-%EC%86%8C%EC%86%A1-%EC%A0%9C%EA%B8%B0.html</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -17144,6 +17138,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-16-NVIDIA-DGX-Spark-AI-%EA%B0%95%EB%A0%A5%ED%95%9C-%ED%9E%98%EC%9D%84-%EC%97%B0%EA%B5%AC%EC%8B%A4%EB%A1%9C-%EA%B0%80%EC%A0%B8%EC%98%A8%EB%8B%A4.html</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-16-Nemotron-ColEmbed-V2-ViDoRe-%EB%AA%A8%EB%8D%B8-%EA%B8%B0%EB%B0%98-%EA%B2%80%EC%83%89-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81.html</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -17329,12 +17329,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-a16z-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%88%88%EC%9C%BC%EB%A1%9C-%ED%88%AC%EC%9E%90-%EB%8C%80%EC%83%81-%EB%B0%9C%EA%B5%B4.html</loc>
-    <lastmod>2026-02-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-Anthropic-%EC%83%88%EB%A1%9C%EC%9A%B4-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-Cowork-%EC%B6%9C%EC%8B%9C.html</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -17353,18 +17347,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-Natively-Adaptive-Interfaces-A-new-framework-for-AI-accessib.html</loc>
-    <lastmod>2026-02-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-Nemotron-ColEmbed-V2-%EB%8B%A4%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EC%A4%80-%EC%84%B8%EC%9B%80.html</loc>
-    <lastmod>2026-02-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-NVIDIA-Blackwell-Ultra-%EC%97%90%EC%9D%B4%EC%A0%84%EC%8B%9C-AI-%EB%B9%84%EC%9A%A9-%EC%A0%88%EA%B0%90-%EC%84%A0%EB%8F%84.html</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
@@ -17372,6 +17354,18 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-NVIDIA-DGX-Spark-AI-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-%EC%A0%91%EA%B7%BC.html</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-Natively-Adaptive-Interfaces-A-new-framework-for-AI-accessib.html</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-Nemotron-ColEmbed-V2-%EB%8B%A4%EB%AA%A8%EB%8B%AC-%EA%B2%80%EC%83%89-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EC%A4%80-%EC%84%B8%EC%9B%80.html</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -17408,6 +17402,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-Zillow-Has-Gone-Wildfor-AI.html</loc>
+    <lastmod>2026-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-17-a16z-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%88%88%EC%9C%BC%EB%A1%9C-%ED%88%AC%EC%9E%90-%EB%8C%80%EC%83%81-%EB%B0%9C%EA%B5%B4.html</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -17545,6 +17545,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-18-GPT-4o-%ED%8C%AC%EB%93%A4-AI-%EA%B2%B0%ED%98%BC-%EC%83%9D%ED%99%9C%EC%9D%B4-%EB%81%9D%EB%82%9C%EB%8B%A4%EB%8A%94-%EC%86%8C%EC%8B%9D%EC%97%90-%EC%A0%88%EB%A7%9D.html</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-18-Google-AI-%EC%9D%8C%EC%84%B1-%EA%B8%B0%EC%9E%90-%EC%84%B1%EA%B2%A9-%EC%9B%83%EC%9D%8C-%EC%9C%A0%EB%B0%9C-%EC%82%AC%EA%B1%B4-%EB%B0%9C%EC%83%9D.html</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -17552,12 +17558,6 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-18-Google-AI-%EC%B1%85%EC%9E%84%EA%B0%90-%EC%9E%88%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B0%9C%EC%A0%84-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%9C%ED%91%9C.html</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-18-GPT-4o-%ED%8C%AC%EB%93%A4-AI-%EA%B2%B0%ED%98%BC-%EC%83%9D%ED%99%9C%EC%9D%B4-%EB%81%9D%EB%82%9C%EB%8B%A4%EB%8A%94-%EC%86%8C%EC%8B%9D%EC%97%90-%EC%A0%88%EB%A7%9D.html</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -17827,24 +17827,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-Netflix-Threatens-ByteDance-With-Immediate-Litigation-Over-S.html</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-No-technology-has-me-dreaming-bigger-than-AI.html</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-Nvidia-AI-%EC%8B%9C%EC%9E%A5-%ED%99%95%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-CPU-%EA%B3%B5%EB%9E%B5.html</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-NVIDIA-and-Global-Industrial-Software-Leaders-Partner-With-I.html</loc>
     <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -17864,6 +17846,24 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-NVIDIA-%EC%9D%BC%EB%B3%B8-%EC%86%8C%EA%B7%9C%EB%AA%A8-AI-%EC%84%B1%EC%9E%A5-%EC%A7%80%EC%9B%90.html</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-Netflix-Threatens-ByteDance-With-Immediate-Litigation-Over-S.html</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-No-technology-has-me-dreaming-bigger-than-AI.html</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-19-Nvidia-AI-%EC%8B%9C%EC%9E%A5-%ED%99%95%EB%8C%80%EB%A5%BC-%EC%9C%84%ED%95%9C-CPU-%EA%B3%B5%EB%9E%B5.html</loc>
     <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -18541,13 +18541,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-21-%EA%B5%AC%EA%B8%80-AI-summit-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%EA%B3%BC-%ED%88%AC%EC%9E%90-%EB%B0%9C%ED%91%9C.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-21-%EA%B5%AC%EA%B8%80-AI-Summit%EC%97%90%EC%84%9C-%ED%88%AC%EC%9E%90%EC%99%80-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD-%EB%B0%9C%ED%91%9C.html</loc>
     <lastmod>2026-02-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-21-%EA%B5%AC%EA%B8%80-AI-Summit%EC%97%90%EC%84%9C-%ED%88%AC%EC%9E%90%EC%99%80-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD-%EB%B0%9C%ED%91%9C.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-21-%EA%B5%AC%EA%B8%80-AI-summit-%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD%EA%B3%BC-%ED%88%AC%EC%9E%90-%EB%B0%9C%ED%91%9C.html</loc>
     <lastmod>2026-02-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -18985,13 +18985,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-AI-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%B3%A0%EA%B0%9D-%EC%9D%B4%ED%95%B4-%EC%86%8D%EB%8F%84%EB%A5%BC-%EB%86%92%EC%9D%B4%EB%8A%94-Listen-Labs.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-AI-%EC%BD%94%EB%93%9C-%EB%B2%88%EC%97%AD-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-Code-Metal-1250%EC%96%B5-%EB%8B%AC%EB%9F%AC-B-%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%9C%A0%EC%B9%98.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-AI-%ED%86%B5%EC%8B%A0-%EC%82%B0%EC%97%85-%ED%98%81%EC%8B%A0%EC%9D%98-%EC%A3%BC%EC%97%AD%EC%9C%BC%EB%A1%9C-%EB%B6%80%EC%83%81.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-AI-%ED%86%B5%EC%8B%A0%EC%82%B0%EC%97%85-%ED%98%81%EC%8B%A0%EC%9D%98-%EC%A3%BC%EB%8F%84%EC%9E%90%EB%A1%9C-%EB%93%B1%EA%B7%B9.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-AI-%ED%9A%8C%EC%82%AC%EB%93%A4%EC%9D%98-%EA%B3%BC%EC%9E%A5%EB%90%9C-%EC%95%BD%EC%86%8D-%EC%9D%B4%EC%A0%9C-%EA%B8%B0%EB%8C%80-%EC%A1%B0%EC%A0%88-%ED%95%84%EC%9A%94.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19009,13 +19027,43 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Anthropic-AI-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC-Cowork-%EC%B6%9C%EC%8B%9C.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Claude-Code-costs-up-to-200-a-month-Goose-does-the-same-thin.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Code-Metal-AI%EB%A1%9C-%EC%BD%94%EB%93%9C-%EB%B2%88%EC%97%AD%ED%95%98%EB%8A%94-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-1250%EC%96%B5-%EC%9C%A0%EC%B9%98.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Could-AI-Data-Centers-Be-Moved-to-Outer-Space.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-GGML-and-llamacpp-join-HF-to-ensure-the-long-term-progress-o.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-GGML-llamacpp-%ED%95%A9%EC%84%B8-%ED%9C%B4%EC%A7%95%ED%8E%98%EC%9D%B4%EC%8A%A4-AI-%EB%B0%9C%EC%A0%84.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Gradio%EB%A1%9C-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%A4%EA%B8%B0.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19033,7 +19081,25 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-IBM-and-UC-Berkeley-Diagnose-Why-Enterprise-Agents-Fail-Usin.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Job-titles-of-the-future-Breast-biomechanic.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Lyria-3-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%99%80-%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A1%9C-%EC%9D%8C%EC%95%85-%EC%A0%9C%EC%9E%91-%EA%B0%80%EB%8A%A5.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Lyria-3-%EC%A7%80%EB%A9%94%EB%8B%88-%EC%95%B1%EC%9C%BC%EB%A1%9C-%EC%B6%9C%EC%8B%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EC%9D%8C%EC%95%85-%EC%A0%9C%EC%9E%91-%EA%B0%80%EB%8A%A5.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19051,7 +19117,25 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Railway-secures-100-million-to-challenge-AWS-with-AI-native-.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Salesforce-Slackbot%EB%A1%9C-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EC%97%B4%EA%B3%A0-%EB%82%98%EC%84%9C%EC%9E%90.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Salesforce-Slackbot%EC%9D%84-%ED%86%B5%ED%95%9C-AI-%EC%88%98%ED%8D%BC-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EB%8F%84%EB%9E%98-%EC%98%88%EA%B3%A0.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-TechCrunch-Disrupt-2026-%ED%8B%B0%EC%BC%93-%EC%B5%9C%EC%A0%80%EA%B0%80-%EC%9D%B4%EB%B2%88-%EA%B8%B0%ED%9A%8C%EC%97%90.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19069,13 +19153,43 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-The-Search-Engine-for-OnlyFans-Models-Who-Look-Like-Your-Cru.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-xAI-%EB%AF%B8%EC%8B%9C%EC%8B%9C%ED%94%BC-%EC%A7%80%EC%97%AD-%EC%98%A4%EC%97%BC-%EB%85%BC%EB%9E%80%EC%97%90-%ED%9C%A9%EC%8B%B8%EC%9D%B8%EB%8B%A4.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-xAI-%EB%AF%B8%EC%8B%9C%EC%8B%9C%ED%94%BC-%EC%A7%80%EC%97%AD%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EC%9A%B4%EC%98%81-%EC%9C%84%ED%95%9C-%EB%B6%88%EB%B2%95-%EB%B0%9C%EC%A0%84%EC%86%8C-%EA%B1%B4%EC%84%A4-%EC%9D%98%ED%98%B9.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-AI-%EC%8B%AC%ED%8F%AC%EC%A7%80%EC%97%84%EC%84%9C-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD-%EA%B0%95%ED%99%94.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-AI-%EC%B1%85%EC%9E%84%EA%B0%90-%EC%9E%88%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B0%9C%EC%A0%84-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%9C%ED%91%9C.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-AI-%EC%B1%85%EC%9E%84%EA%B0%90-%EC%9E%88%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%A7%84%ED%96%89-%EC%83%81%ED%99%A9-%EB%B3%B4%EA%B3%A0%EC%84%9C-%EB%B0%9C%ED%91%9C.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-CEO-AI-%EC%B6%A9%EA%B2%A9%ED%8C%8C%EC%97%90-%EB%8C%80%EB%B9%84-%EC%B1%85%EC%9E%84%EA%B0%90-%EC%9E%88%EB%8A%94-%EA%B0%9C%EB%B0%9C-%ED%95%84%EC%9A%94.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19093,6 +19207,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-%EA%B2%80%EC%83%89-AI-%EC%9A%94%EC%95%BD-%ED%94%BC%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%8A%B8%EB%A6%AD.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B0%9C%EB%B0%9C-%EC%9C%84%ED%95%9C-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8C%8C%ED%8A%B8%EB%84%88%EC%8B%AD-%ED%99%95%EB%8C%80.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -19105,7 +19225,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%AC%EA%B8%80-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%99%9C%EC%9A%A9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%99%95%EC%9E%A5.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EA%B5%B0%EC%9D%98-AI-%EC%82%AC%EC%9A%A9-%EC%95%88%EC%A0%84%EC%84%B1%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9A%B0%EB%A0%A4-%EC%A6%9D%ED%8F%AD.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EB%84%A4%ED%94%8C%EB%A6%AD%EC%8A%A4-ByteDance%EC%97%90-%EC%A0%80%EC%9E%91%EA%B6%8C-%EC%B9%A8%ED%95%B4-%EC%86%8C%EC%86%A1-%EA%B2%BD%EA%B3%A0.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4-%EB%B0%94%EC%9D%B4%EB%8C%84%EC%8A%A4-AI-%EB%B9%84%EB%94%94%EC%98%A4-%EC%A0%9C%EC%9E%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%94%A8%EB%93%9C%EC%95%A4%EC%8A%A4%EC%97%90-%EB%B2%95%EC%A0%81-%EB%8C%80%EC%9D%91-%EC%98%88%EA%B3%A0.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-AI-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B0%80%EC%A7%9C-%EC%A0%95%EB%B3%B4%EC%97%90-%EB%A7%9E%EC%84%A0%EB%8B%A4.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19123,6 +19267,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%AA%A8%EB%8D%B8-%EB%AC%B4%EB%A3%8C-%ED%95%99%EC%8A%B5-Unsloth%EC%99%80-Hugging-Face-Jobs-%ED%99%9C%EC%9A%A9.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EB%8F%84-IT-%EC%82%B0%EC%97%85%EC%9D%84-%EB%B3%80%ED%99%94%EC%8B%9C%ED%82%A4%EB%8B%A4.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%EB%8F%84-IT-%EC%82%B0%EC%97%85%EC%9D%84-%ED%98%81%EC%8B%A0%ED%95%9C%EB%8B%A4.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
@@ -19135,7 +19291,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%95%9C%EA%B5%AD-%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%8F%99%EB%A0%A5%EC%9C%BC%EB%A1%9C.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%81%EC%8B%A0-%EC%9D%B8%EB%8F%84%EC%99%80-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EC%9D%98-%EC%86%90%EC%9E%A1%EC%9D%8C.html</loc>
+    <lastmod>2026-02-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-%EC%9D%B8%EB%8F%84-NVIDIA%EC%99%80-%EC%86%90%EC%9E%A1%EA%B3%A0-AI-%EB%B3%80%ED%99%94-%EC%B6%94%EC%A7%84.html</loc>
     <lastmod>2026-02-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19279,13 +19447,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-08-08-xrp-sec-etf.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-08-08-_--.html</loc>
     <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-08-08-_--.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-08-08-xrp-sec-etf.html</loc>
     <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19951,31 +20119,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-eArrival-Card.html</loc>
-    <lastmod>2025-09-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-Entry-Korea.html</loc>
     <lastmod>2025-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-foreign-workers-labor-shortage.html</loc>
-    <lastmod>2025-09-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-Han-Hakja.html</loc>
-    <lastmod>2025-09-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-Korea-entry-eArrival-Card.html</loc>
     <lastmod>2025-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19988,6 +20138,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-Korea-Entry.html</loc>
+    <lastmod>2025-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-Korea-entry-eArrival-Card.html</loc>
     <lastmod>2025-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20030,6 +20186,18 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-US-tariffs.html</loc>
+    <lastmod>2025-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-eArrival-Card.html</loc>
+    <lastmod>2025-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-16-foreign-workers-labor-shortage.html</loc>
     <lastmod>2025-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22357,12 +22525,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/education/articles/2025-09-06-v0-by-Vercel-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%A6%89%EC%8B%9C-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-AI-%EB%8F%84%EA%B5%AC-.html</loc>
-    <lastmod>2025-09-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://societynowcom.github.io/sonow-hub/education/articles/2025-09-06-Webflow-AI-%EC%BD%94%EB%94%A9-%EC%97%86%EC%9D%B4-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94-%EC%A0%84%EB%AC%B8%EA%B0%80%EA%B8%89-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%A0%9C%EC%9E%91-%ED%98%81%EB%AA%85-SONOWW.html</loc>
     <lastmod>2025-09-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -22382,6 +22544,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/education/articles/2025-09-06-Zoom-AI-Companion-%ED%99%94%EC%83%81%ED%9A%8C%EC%9D%98%EB%A5%BC-%ED%98%81%EC%8B%A0%ED%95%98%EB%8A%94-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AF%B8%ED%8C%85-%EC%96%B4%EC%8B%9C%EC%8A%A4%ED%84%B4%ED%8A%B8-SON.html</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/education/articles/2025-09-06-v0-by-Vercel-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%A1%9C-React-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%A6%89%EC%8B%9C-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-AI-%EB%8F%84%EA%B5%AC-.html</loc>
     <lastmod>2025-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -24271,13 +24439,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/k-culture/articles/2025-08-28-amp039%EB%8B%A4%EC%9E%98%EB%A0%89%EC%8A%A4amp039-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8B%9C%EB%B0%80%EB%9F%AC-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EC%9F%81-3%ED%8C%8C%EC%A0%84%ED%8A%B9%ED%97%88-%EB%A7%8C%EB%A3%8C-%EB%8C%80%EB%B9%84.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/k-culture/articles/2025-08-28-BTS%EB%B7%94-%EC%86%94%EB%A1%9C%EC%95%A8%EB%B2%94.html</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://societynowcom.github.io/sonow-hub/k-culture/articles/2025-08-28-BTS%EB%B7%94-%EC%86%94%EB%A1%9C%EC%95%A8%EB%B2%94.html</loc>
+    <loc>https://societynowcom.github.io/sonow-hub/k-culture/articles/2025-08-28-amp039%EB%8B%A4%EC%9E%98%EB%A0%89%EC%8A%A4amp039-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8B%9C%EB%B0%80%EB%9F%AC-%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EC%9F%81-3%ED%8C%8C%EC%A0%84%ED%8A%B9%ED%97%88-%EB%A7%8C%EB%A3%8C-%EB%8C%80%EB%B9%84.html</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
