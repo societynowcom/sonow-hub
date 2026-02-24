@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gradio로 웹앱 개발, 한 번만으로 가능해짐 | SO,NOW</title>
+  <meta name="description" content="Hugging Face Blog에서 발표된 Gradio의 gr.HTML 기능을 통해 웹앱 개발이 더욱 간편해졌습니다. 단순한 HTML 코드를 활용하여 다양한 AI 모델과 API 연동 가능하며, 복잡한 프로그래밍 지식 없이도 빠르게 훌륭한 웹앱을 만들 수 있습니다.">
+  <meta name="keywords" content="AI, artificial intelligence, Hugging Face Blog">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="Gradio로 웹앱 개발, 한 번만으로 가능해짐">
+  <meta property="og:description" content="Hugging Face Blog에서 발표된 Gradio의 gr.HTML 기능을 통해 웹앱 개발이 더욱 간편해졌습니다. 단순한 HTML 코드를 활용하여 다양한 AI 모델과 API 연동 가능하며, 복잡한 프로그래밍 지식 없이도 빠르게 훌륭한 웹앱을 만들 수 있습니다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430-ai.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Gradio로 웹앱 개발, 한 번만으로 가능해짐">
+  <meta name="twitter:description" content="Hugging Face Blog에서 발표된 Gradio의 gr.HTML 기능을 통해 웹앱 개발이 더욱 간편해졌습니다. 단순한 HTML 코드를 활용하여 다양한 AI 모델과 API 연동 가능하며, 복잡한 프로그래밍 지식 없이도 빠르게 훌륭한 웹앱을 만들 수 있습니다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430-ai.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"Gradio로 웹앱 개발, 한 번만으로 가능해짐","description":"Hugging Face Blog에서 발표된 Gradio의 gr.HTML 기능을 통해 웹앱 개발이 더욱 간편해졌습니다. 단순한 HTML 코드를 활용하여 다양한 AI 모델과 API 연동 가능하며, 복잡한 프로그래밍 지식 없이도 빠르게 훌륭한 웹앱을 만들 수 있습니다.","datePublished":"2026-02-24","dateModified":"2026-02-24","image":["https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430-ai.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430-ai.html","articleSection":"AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>Gradio로 웹앱 개발, 한 번만으로 가능해짐</h1>
+
+<blockquote>간편하고 빠른 웹앱 구축 솔루션 소개</blockquote>
+
+<p><strong>AI</strong> | 2026.02.24 | SO,NOW</p>
+
+<p>최근 AI 기술의 발전과 함께 다양한 분야에서 AI 모델 활용이 증가하고 있습니다. 그러나 AI 모델을 실제 서비스에 적용하기 위해서는 복잡한 프로그래밍 작업이 필요했던 점이 한계로 여겨져 왔습니다. 이러한 문제점을 해결하기 위한 새로운 도구들이 등장하며, Hugging Face Blog에서 발표된 Gradio의 gr.HTML 기능은 AI 모델 활용 웹앱 개발에 큰 변화를 가져올 것으로 기대됩니다.</p>
+
+<p>Gradio는 저자들이 개발한 오픈소스 프레임워크로 AI 모델을 사용하여 웹 애플리케이션을 빠르게 구축할 수 있도록 지원합니다. gr.HTML 기능은 이러한 Gradio를 더욱 강력하게 만들어줍니다. 기존의 gr.GUI 기능과는 달리 HTML 코드를 직접 작성하고, 그 안에 AI 모델을 통합하여 웹앱을 만드는 방식입니다. 이로 인해 개발자가 코딩 능력 없이도 간편하게 웹앱을 구축할 수 있게 되며, 더욱 다양한 기능과 디자인을 구현할 수 있습니다.</p>
+
+<blockquote><strong>이 기사의 전체 분석과 관련 보도를 <a href="https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430-ai.html">Society-Now에서 확인하세요</a></strong></blockquote>
+
+<p><strong>🏷️ 키워드:</strong> AI · artificial intelligence · Hugging Face Blog</p>
+
+<h2>📌 관련 기사</h2>
+
+<ul><li><a href="./2026-02-24-오픈AI-상담-회사와-손잡고-AI-플랫폼-보급-확대-추진.html">오픈AI, 상담 회사와 손잡고 AI 플랫폼 보급 확대 추진</a> (2026.02.24)</li><li><a href="./2026-02-24-인공지능-새로운-경계를-넘나드는-가치.html">인공지능, 새로운 경계를 넘나드는 가치</a> (2026.02.24)</li><li><a href="./2026-02-24-인공지능-논란-Anthropic가-중국-기업-비난.html">인공지능 논란,  Anthropic가 중국 기업 비난</a> (2026.02.24)</li></ul>
+
+<h2>🔗 다른 카테고리 최신 뉴스</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-02-21-미-연방대법원-관세-판결-기업-비용-부담-감소.html">미 연방대법원 관세 판결 / 기업 비용 부담 감소</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai26022430/ai26022430-ai.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../index.html">🏠 홈</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>

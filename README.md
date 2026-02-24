@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [Code Metal, AI로 코드 번역하는 스타트업 1250억 유치](https://www.society-now.com/sonow/article/ai/ai26022349/ai26022349-ai.html) | AI | 2026.02.23 |
-| [TechCrunch Disrupt 2026 티켓 최저가, 이번 기회에](https://www.society-now.com/sonow/article/ai/ai26022350/ai26022350-ai.html) | AI | 2026.02.23 |
-| [군의 AI 사용, 안전성에 대한 우려 증폭](https://www.society-now.com/sonow/article/ai/ai26022346/ai26022346-ai.html) | AI | 2026.02.23 |
-| [Could AI Data Centers Be Moved to Outer Space?](https://www.society-now.com/sonow/article/ai/ai26022347/ai26022347-ai.html) | AI | 2026.02.23 |
-| [The Search Engine for OnlyFans Models Who Look Lik](https://www.society-now.com/sonow/article/ai/ai26022348/ai26022348-ai.html) | AI | 2026.02.23 |
-| [네플릭스, ByteDance에 저작권 침해 소송 경고](https://www.society-now.com/sonow/article/ai/ai26022343/ai26022343-ai.html) | AI | 2026.02.23 |
-| [xAI, 미시시피 지역에 데이터센터 운영 위한 불법 발전소 건설 의혹](https://www.society-now.com/sonow/article/ai/ai26022344/ai26022344-ai.html) | AI | 2026.02.23 |
-| [구글 검색, AI 요약 피하기 위한 '–ai' 트릭](https://www.society-now.com/sonow/article/ai/ai26022345/ai26022345-ai.html) | AI | 2026.02.23 |
-| [AI 인터뷰, 고객 이해 속도를 높이는 Listen Labs](https://www.society-now.com/sonow/article/ai/ai26022340/ai26022340-ai.html) | AI | 2026.02.23 |
-| [Salesforce, Slackbot로 'AI 에이전트' 시대 열고 나서자](https://www.society-now.com/sonow/article/ai/ai26022341/ai26022341-ai.html) | AI | 2026.02.23 |
+| [오픈AI, 상담 회사와 손잡고 AI 플랫폼 보급 확대 추진](https://www.society-now.com/sonow/article/ai/ai26022450/ai26022450-ai.html) | AI | 2026.02.24 |
+| [인공지능, 새로운 경계를 넘나드는 가치](https://www.society-now.com/sonow/article/ai/ai26022449/ai26022449-ai.html) | AI | 2026.02.24 |
+| [인공지능 논란,  Anthropic가 중국 기업 비난](https://www.society-now.com/sonow/article/ai/ai26022448/ai26022448-ai.html) | AI | 2026.02.24 |
+| ['양면 투자', 윤리적 갈등 재점화](https://www.society-now.com/sonow/article/ai/ai26022447/ai26022447-ai.html) | AI | 2026.02.24 |
+| [인공지능, 위험할 수 있다는 경고](https://www.society-now.com/sonow/article/ai/ai26022446/ai26022446-ai.html) | AI | 2026.02.24 |
+| [온리판, 이미지 검색으로 팬 찾기 어렵다?](https://www.society-now.com/sonow/article/ai/ai26022445/ai26022445-ai.html) | AI | 2026.02.24 |
+| [공간 데이터센터? 장래의 기술 혹은 헛수고일까](https://www.society-now.com/sonow/article/ai/ai26022444/ai26022444-ai.html) | AI | 2026.02.24 |
+| [군용 AI, 안전성 갈등 심화](https://www.society-now.com/sonow/article/ai/ai26022443/ai26022443-ai.html) | AI | 2026.02.24 |
+| [구글 검색, AI 요약 피하기 위한 '–ai' 키워드 활용법](https://www.society-now.com/sonow/article/ai/ai26022442/ai26022442-ai.html) | AI | 2026.02.24 |
+| [Uncanny Valley: AI Researcher Resignations, Bots H](https://www.society-now.com/sonow/article/ai/ai26022441/ai26022441-ai.html) | AI | 2026.02.24 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 129개 |
+| 전체 기사 | 159개 |
 | 카테고리 | 8개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-23 |
+| 마지막 업데이트 | 2026-02-24 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
