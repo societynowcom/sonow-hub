@@ -1,0 +1,41 @@
+---
+title: "AI Impact Summit 2026: How we’re partnering to make AI work for everyone"
+description: "구글, 인공지능 활용 국제 파트너십 강화  글로벌 AI 파트너십 확대와 투자 증액 발표  구글은 2023년 아시아 최대규모 AI 이벤트인 인공지능 영향력 정상회의에서 글로벌 파트너십과 투자를 위한 새로운 전략을 공개했습니다.  이번 행사에서 구글은 다양한 기업, 연구기관 및"
+date: "2026-02-24"
+category: "AI"
+image: "https://www.society-now.com/sonow/article/ai/ai26022429/ai26022429.png"
+keywords: "AI, artificial intelligence, Google AI Blog"
+tags: ""
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ai/ai26022429/ai26022429-ai.html"
+---
+
+# AI Impact Summit 2026: How we’re partnering to make AI work for everyone
+
+> 구글, 인공지능 활용 국제 파트너십 강화  ## 글로벌 AI 파트너십 확대와 투자 증액 발표  구글은 2023년 아시아 최대규모 AI 이벤트인 인공지능 영향력 정상회의에서 글
+
+**AI** | 2026.02.24 | SO,NOW
+
+구글은 2023년 아시아 최대규모 AI 이벤트인 인공지능 영향력 정상회의에서 글로벌 파트너십과 투자를 위한 새로운 전략을 공개했습니다.  이번 행사에서 구글은 다양한 기업, 연구기관 및 정부와의 협력으로 인공지능 기술의 사회적 영향력을 확대하고자 합니다.
+
+인공지능(AI) 기술 발전과 함께 글로벌 파트너십 강화에 대한 요구가 증가하고 있습니다. 구글은 이러한 흐름에 따라 AI 분야에서 선도적인 위치를 유지하기 위해 적극적으로 국제적인 네트워크를 구축하고 있습니다. 특히 인공지능 기술의 윤리적 개발 및 책임 있는 활용을 위한 노력이 강조되고 있습니다.
+
+구글은 이번 행사에서 AI 분야 연구 및 개발에 대한 투자 확대와 함께 새로운 파트너십을 발표했습니다. 특히, 인공지능 기술을 활용한 의료 진단, 교육, 스마트 시티 등 다양한 분야에서의 협력이 주목됩니다. 또한, AI 기술의 지속 가능한 성장과 사회적 이익 확대를 위한 전략을 공유했습니다.
+
+> **실시간 업데이트와 전체 기사를 [Society-Now에서 확인하세요](https://www.society-now.com/sonow/article/ai/ai26022429/ai26022429-ai.html)**
+
+**🏷️ 키워드:** AI · artificial intelligence · Google AI Blog
+
+## 📌 관련 기사
+
+- [Opal, 텍스트 프롬프트로 미니앱 만들기 지원](./2026-02-25-Opal-텍스트-프롬프트로-미니앱-만들기-지원.md) (2026.02.25)
+- [펜타곤, 인공지능 제약 완화 요구… 앤서픽 대항?](./2026-02-25-펜타곤-인공지능-제약-완화-요구-앤서픽-대항.md) (2026.02.25)
+- [공간에 데이터센터? 장기적 관점에서 비판적인 고찰 필요](./2026-02-25-공간에-데이터센터-장기적-관점에서-비판적인-고찰-필요.md) (2026.02.25)
+
+## 🔗 다른 카테고리 최신 뉴스
+
+- 💰 [경찰, '셋방살이' 증가 / 노후 관서로 인한 임대료 부담 가중](../economy/articles/2026-02-22-경찰-셋방살이-증가-노후-관서로-인한-임대료-부담-가중.md)
+
+---
+
+**[전체 기사 읽기 → Society-Now](https://www.society-now.com/sonow/article/ai/ai26022429/ai26022429-ai.html)** | *[🏠 홈](../../README.md) | [🤖 TECH & AI](../README.md)*
