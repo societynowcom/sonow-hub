@@ -3,19 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SO,NOW 뉴스 | SO,NOW</title>
-  <meta name="description" content="">
+  <title>Gradio로 웹 애플리케이션, 한 번에 만드세요 | SO,NOW</title>
+  <meta name="description" content="Gradio의 gr.HTML을 활용하면 단순한 코드 입력만으로도 사용자 인터페이스와 로직을 가진 웹 애플리케이션을 개발할 수 있습니다. 이는 전문적인 프로그래밍 경험이 없는 사람들이 쉬운 방법으로 웹앱을 만들고 시범작업을 진행하는 데 유용합니다. 본 기사에서는 Gradio의 gr.">
+  <meta name="keywords" content="AI, artificial intelligence, Hugging Face Blog">
   <meta property="og:type"        content="article">
-  <meta property="og:title"       content="SO,NOW 뉴스">
-  <meta property="og:description" content="">
-  <meta property="og:url"         content="https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-22-Gradio%EB%A1%9C-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.html">
+  <meta property="og:title"       content="Gradio로 웹 애플리케이션, 한 번에 만드세요">
+  <meta property="og:description" content="Gradio의 gr.HTML을 활용하면 단순한 코드 입력만으로도 사용자 인터페이스와 로직을 가진 웹 애플리케이션을 개발할 수 있습니다. 이는 전문적인 프로그래밍 경험이 없는 사람들이 쉬운 방법으로 웹앱을 만들고 시범작업을 진행하는 데 유용합니다. 본 기사에서는 Gradio의 gr.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html">
   <meta property="og:locale"      content="ko_KR">
   <meta property="og:site_name"   content="SO,NOW">
   <meta name="twitter:card"        content="summary_large_image">
-  <meta name="twitter:title"       content="SO,NOW 뉴스">
-  <meta name="twitter:description" content="">
+  <meta name="twitter:title"       content="Gradio로 웹 애플리케이션, 한 번에 만드세요">
+  <meta name="twitter:description" content="Gradio의 gr.HTML을 활용하면 단순한 코드 입력만으로도 사용자 인터페이스와 로직을 가진 웹 애플리케이션을 개발할 수 있습니다. 이는 전문적인 프로그래밍 경험이 없는 사람들이 쉬운 방법으로 웹앱을 만들고 시범작업을 진행하는 데 유용합니다. 본 기사에서는 Gradio의 gr.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233.png">
   <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html">
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"SO,NOW 뉴스","description":"","datePublished":"","dateModified":"","image":[],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-22-Gradio%EB%A1%9C-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.html","mainEntityOfPage":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-22-Gradio%EB%A1%9C-%EC%9B%B9-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.html","articleSection":""}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"Gradio로 웹 애플리케이션, 한 번에 만드세요","description":"Gradio의 gr.HTML을 활용하면 단순한 코드 입력만으로도 사용자 인터페이스와 로직을 가진 웹 애플리케이션을 개발할 수 있습니다. 이는 전문적인 프로그래밍 경험이 없는 사람들이 쉬운 방법으로 웹앱을 만들고 시범작업을 진행하는 데 유용합니다. 본 기사에서는 Gradio의 gr.","datePublished":"2026-02-22","dateModified":"2026-02-22","image":["https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html","articleSection":"AI"}</script>
 <style>
 *{box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
@@ -36,18 +39,6 @@ footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size
 </head>
 <body>
   <article>
-<hr>
-<p>title: "Gradio로 웹 애플리케이션, 한 번에 만드세요"</p>
-<p>description: "Gradio의 gr.HTML을 활용하면 단순한 코드 입력만으로도 사용자 인터페이스와 로직을 가진 웹 애플리케이션을 개발할 수 있습니다. 이는 전문적인 프로그래밍 경험이 없는 사람들이 쉬운 방법으로 웹앱을 만들고 시범작업을 진행하는 데 유용합니다. 본 기사에서는 Gradio의 gr."</p>
-<p>date: "2026-02-22"</p>
-<p>category: "AI"</p>
-<p>image: "https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233.png"</p>
-<p>keywords: "AI, artificial intelligence, Hugging Face Blog"</p>
-<p>tags: ""</p>
-<p>source: "SO,NOW"</p>
-<p>url: "https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html"</p>
-<hr>
-
 <h1>Gradio로 웹 애플리케이션, 한 번에 만드세요</h1>
 
 <blockquote>코드 없이 쉽고 빠르게 웹앱 구축 가능</blockquote>
@@ -73,7 +64,6 @@ footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size
 <hr>
 
 <p><strong><a href="https://www.society-now.com/sonow/article/ai/ai26022233/ai26022233-ai.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../index.html">🏠 홈</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
-
   </article>
 </body>
 </html>

@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [Opal, 텍스트 프롬프트로 미니앱 만들기 지원](https://www.society-now.com/sonow/article/ai/ai26022550/ai26022550-ai.html) | AI | 2026.02.25 |
-| [펜타곤, 인공지능 제약 완화 요구… 앤서픽 대항?](https://www.society-now.com/sonow/article/ai/ai26022549/ai26022549-ai.html) | AI | 2026.02.25 |
-| [공간에 데이터센터? 장기적 관점에서 비판적인 고찰 필요](https://www.society-now.com/sonow/article/ai/ai26022548/ai26022548-ai.html) | AI | 2026.02.25 |
-| [군부 AI, 안전 vs. 승리 갈등 심화](https://www.society-now.com/sonow/article/ai/ai26022547/ai26022547-ai.html) | AI | 2026.02.25 |
-| [구글 검색, AI 요약 기능 피하기 위한 비밀 팁](https://www.society-now.com/sonow/article/ai/ai26022546/ai26022546-ai.html) | AI | 2026.02.25 |
-| [Uncanny Valley: AI Researcher Resignations, Bots H](https://www.society-now.com/sonow/article/ai/ai26022545/ai26022545-ai.html) | AI | 2026.02.25 |
-| [인공지능의 의식, 진실이라면?](https://www.society-now.com/sonow/article/ai/ai26022544/ai26022544-ai.html) | AI | 2026.02.25 |
-| [스테이그이트 프로젝트, 미국 AI 인프라 구축 시작](https://www.society-now.com/sonow/article/ai/ai26022543/ai26022543-ai.html) | AI | 2026.02.25 |
-| [Meta and AMD Partner for Longterm AI Infrastructur](https://www.society-now.com/sonow/article/ai/ai26022542/ai26022542-ai.html) | AI | 2026.02.25 |
-| [AI 에이전트 Cowork, 한국어로 문서 처리 가능하게!](https://www.society-now.com/sonow/article/ai/ai26022541/ai26022541-ai.html) | AI | 2026.02.25 |
+| [인공지능, 인도에 변화를 가져올까? NVIDIA와의 협력](https://www.society-now.com/sonow/article/ai/ai26022536/ai26022536-ai.html) | AI | 2026.02.25 |
+| [디지털화로 위험한 산업 시스템](https://www.society-now.com/sonow/article/ai/ai26022534/ai26022534-ai.html) | AI | 2026.02.25 |
+| [인공지능, 통신산업 변화의 주도자로 등장](https://www.society-now.com/sonow/article/ai/ai26022535/ai26022535-ai.html) | AI | 2026.02.25 |
+| [IBM, UC Berkeley서 기업용 에이전트 실패 원인 분석 공개](https://www.society-now.com/sonow/article/ai/ai26022531/ai26022531-ai.html) | AI | 2026.02.25 |
+| [One-Shot Any Web App with Gradio's gr.HTML](https://www.society-now.com/sonow/article/ai/ai26022532/ai26022532-ai.html) | AI | 2026.02.25 |
+| [AI, 의료 분야에 혁신을 선도한다](https://www.society-now.com/sonow/article/ai/ai26022533/ai26022533-ai.html) | AI | 2026.02.25 |
+| [GGML, llama.cpp 합류, 로컬 AI 발전 위한 노력 강화](https://www.society-now.com/sonow/article/ai/ai26022529/ai26022529-ai.html) | AI | 2026.02.25 |
+| [무료로 AI 모델 훈련 가능해졌다](https://www.society-now.com/sonow/article/ai/ai26022530/ai26022530-ai.html) | AI | 2026.02.25 |
+| [구글, 인공지능에 집중한 글로벌 파트너십 발표](https://www.society-now.com/sonow/article/ai/ai26022526/ai26022526-ai.html) | AI | 2026.02.25 |
+| [구글 AI, 책임감 있는 인공지능 진전 보고서 발표](https://www.society-now.com/sonow/article/ai/ai26022527/ai26022527-ai.html) | AI | 2026.02.25 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 189개 |
-| 카테고리 | 8개 |
+| 전체 기사 | 207개 |
+| 카테고리 | 12개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-24 |
+| 마지막 업데이트 | 2026-02-25 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
