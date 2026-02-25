@@ -18,6 +18,7 @@
 <!-- AUTO-UPDATE:KCULTURE_LATEST -->
 | 제목 | 날짜 |
 |------|------|
+| [옥택연, 4월 결혼 / 비공개 소규모식 예정](./articles/2026-02-26-옥택연-4월-결혼-비공개-소규모식-예정.md) | 2026.02.26 |
 
 <!-- /AUTO-UPDATE:KCULTURE_LATEST -->
 
