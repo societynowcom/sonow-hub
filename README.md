@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [인공지능, 인도에 변화를 가져올까? NVIDIA와의 협력](https://www.society-now.com/sonow/article/ai/ai26022536/ai26022536-ai.html) | AI | 2026.02.25 |
-| [디지털화로 위험한 산업 시스템](https://www.society-now.com/sonow/article/ai/ai26022534/ai26022534-ai.html) | AI | 2026.02.25 |
-| [인공지능, 통신산업 변화의 주도자로 등장](https://www.society-now.com/sonow/article/ai/ai26022535/ai26022535-ai.html) | AI | 2026.02.25 |
-| [IBM, UC Berkeley서 기업용 에이전트 실패 원인 분석 공개](https://www.society-now.com/sonow/article/ai/ai26022531/ai26022531-ai.html) | AI | 2026.02.25 |
-| [One-Shot Any Web App with Gradio's gr.HTML](https://www.society-now.com/sonow/article/ai/ai26022532/ai26022532-ai.html) | AI | 2026.02.25 |
-| [AI, 의료 분야에 혁신을 선도한다](https://www.society-now.com/sonow/article/ai/ai26022533/ai26022533-ai.html) | AI | 2026.02.25 |
-| [GGML, llama.cpp 합류, 로컬 AI 발전 위한 노력 강화](https://www.society-now.com/sonow/article/ai/ai26022529/ai26022529-ai.html) | AI | 2026.02.25 |
-| [무료로 AI 모델 훈련 가능해졌다](https://www.society-now.com/sonow/article/ai/ai26022530/ai26022530-ai.html) | AI | 2026.02.25 |
-| [구글, 인공지능에 집중한 글로벌 파트너십 발표](https://www.society-now.com/sonow/article/ai/ai26022526/ai26022526-ai.html) | AI | 2026.02.25 |
-| [구글 AI, 책임감 있는 인공지능 진전 보고서 발표](https://www.society-now.com/sonow/article/ai/ai26022527/ai26022527-ai.html) | AI | 2026.02.25 |
+| [엔비디아 실적 껑충 / 증시 강세 지속?](https://www.society-now.com/sonow/article/st/st26022621/st26022621-연합뉴스.html) | 주식 | 2026.02.26 |
+| [엔비디아, 전망 초과 실적 발표 / AI칩 강세 지속](https://www.society-now.com/sonow/article/ta/ta26022621/ta26022621-연합뉴스.html) | TECH & AI | 2026.02.26 |
+| [야구대표팀, 상무 선수 지원 / WBC 준비 가속화](https://www.society-now.com/sonow/article/th/th26022621/th26022621-연합뉴스.html) | 생각의힘 | 2026.02.26 |
+| [윤석열, 내란 항소 / 최초 사건에서 무기징역 선고 불복](https://www.society-now.com/sonow/article/pi/pi26022626/pi26022626-한겨레.html) | 인물탐구 | 2026.02.26 |
+| [트럼프, 관세 성공 논장 / 국민은 힘든 생활](https://www.society-now.com/sonow/article/pi/pi26022627/pi26022627-경향신문.html) | 인물탐구 | 2026.02.26 |
+| [북한, 한국 '적대국' 지위 강화 / 영원히 배제 선언](https://www.society-now.com/sonow/article/pi/pi26022623/pi26022623-ai.html) | 인물탐구 | 2026.02.26 |
+| [아기 사진 SNS 올린 친모 / 경찰 입건 조사 예정](https://www.society-now.com/sonow/article/pi/pi26022625/pi26022625-ai.html) | 인물탐구 | 2026.02.26 |
+| [이재명 지지율 최고치 / 국민 67% "대통령 재임 잘하고 있다"](https://www.society-now.com/sonow/article/pi/pi26022621/pi26022621-경향신문.html) | 인물탐구 | 2026.02.26 |
+| [김정은, 딸과 열병식 참석 / 727번판 아우르스 선보임](https://www.society-now.com/sonow/article/pi/pi26022622/pi26022622-ai.html) | 인물탐구 | 2026.02.26 |
+| [방송인 박수홍 형, 횡령 혐의 / 3년 6개월형 확정](https://www.society-now.com/sonow/article/pb/pb26022630/pb26022630-ai.html) | 정책브리핑 | 2026.02.26 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 207개 |
-| 카테고리 | 12개 |
+| 전체 기사 | 271개 |
+| 카테고리 | 16개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-25 |
+| 마지막 업데이트 | 2026-02-26 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
