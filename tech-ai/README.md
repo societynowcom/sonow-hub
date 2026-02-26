@@ -18,21 +18,21 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
-| [엔비디아, 전망 초과 실적 발표 / AI칩 강세 지속](./articles/2026-02-26-엔비디아-전망-초과-실적-발표-AI칩-강세-지속.md) | 2026.02.26 |
-| [중학생들 '수학 선행'으로 흥미 날라감…  ‘수포자’ 증가 | 학부모, 어쩔 수 없다는 입장](./articles/2026-02-26-중학생들-수학-선행으로-흥미-날라감-수포자-증가-학부모-어쩔-수-없다는-입장.md) | 2026.02.26 |
-| [Gushwork, AI 검색 도구로 900만 달러 성장 자금 확보](./articles/2026-02-26-Gushwork-AI-검색-도구로-900만-달러-성장-자금-확보.md) | 2026.02.26 |
-| [수포자 증가, 학생들 '과도한 선행학습'에 괴로움  / 수학 질려 "포기하고 싶다"](./articles/2026-02-26-수포자-증가-학생들-과도한-선행학습에-괴로움-수학-질려-포기하고-싶다.md) | 2026.02.26 |
-| [Uncanny Valley: AI Researcher Resignations, Bots Hiring Huma](./articles/2026-02-26-Uncanny-Valley-AI-Researcher-Resignations-Bots-Hiring-Humans.md) | 2026.02.26 |
-| [인공지능의 의식,  새로운 도전과 불안감](./articles/2026-02-26-인공지능의-의식-새로운-도전과-불안감.md) | 2026.02.26 |
-| [과거 인물들과 대화하는 미래, Ailias가 가져온 새로운 기술](./articles/2026-02-26-과거-인물들과-대화하는-미래-Ailias가-가져온-새로운-기술.md) | 2026.02.26 |
-| [지금부터 '말로' 이용 가능한 애플리케이션](./articles/2026-02-26-지금부터-말로-이용-가능한-애플리케이션.md) | 2026.02.26 |
-| [트럼프 승리로 AI 데이터센터 구축 나선다](./articles/2026-02-26-트럼프-승리로-AI-데이터센터-구축-나선다.md) | 2026.02.26 |
-| [오픈소스 도구 Scrapling, AI 크롤러와 사이트 보호 경쟁 본격화](./articles/2026-02-26-오픈소스-도구-Scrapling-AI-크롤러와-사이트-보호-경쟁-본격화.md) | 2026.02.26 |
-| [메타, AMD와 손잡고 AI 인프라 확장](./articles/2026-02-26-메타-AMD와-손잡고-AI-인프라-확장.md) | 2026.02.26 |
-| [구글, BAFTA 수상 논란 관련 오보 알림 사과](./articles/2026-02-26-구글-BAFTA-수상-논란-관련-오보-알림-사과.md) | 2026.02.26 |
-| [Anthropic, AI 에이전트 'Cowork' 출시](./articles/2026-02-26-Anthropic-AI-에이전트-Cowork-출시.md) | 2026.02.26 |
-| [AI로 고객을 이해하는 Listen Labs, 투자 유치 성공](./articles/2026-02-26-AI로-고객을-이해하는-Listen-Labs-투자-유치-성공.md) | 2026.02.26 |
-| [Salesforce rolls out new Slackbot AI agent as it battles Mic](./articles/2026-02-26-Salesforce-rolls-out-new-Slackbot-AI-agent-as-it-battles-Mic.md) | 2026.02.26 |
+| [AI, 새로운 BDSM 도구가 되나?](./articles/2026-02-27-AI-새로운-BDSM-도구가-되나.md) | 2026.02.27 |
+| [인공지능 시대, '주도적인' 사람들이 더 중요해진다](./articles/2026-02-27-인공지능-시대-주도적인-사람들이-더-중요해진다.md) | 2026.02.27 |
+| [중국 AI, 센서십의 함정 속](./articles/2026-02-27-중국-AI-센서십의-함정-속.md) | 2026.02.27 |
+| [새로운 AI 보호, 'IronCurtain' 등장](./articles/2026-02-27-새로운-AI-보호-IronCurtain-등장.md) | 2026.02.27 |
+| ['Uncanny Valley' Podcast 에피소드 분석 - AI 과도 사용, 현실에서 사진의 의미?](./articles/2026-02-27-Uncanny-Valley-Podcast-에피소드-분석---AI-과도-사용-현실에서-사진의-의미.md) | 2026.02.27 |
+| [구글, BAFTA 논란 관련 알림 문구 사과](./articles/2026-02-27-구글-BAFTA-논란-관련-알림-문구-사과.md) | 2026.02.27 |
+| [Anthropic launches Cowork, a Claude Desktop agent that works](./articles/2026-02-27-Anthropic-launches-Cowork-a-Claude-Desktop-agent-that-works-.md) | 2026.02.27 |
+| [Salesforce, Slackbot을 AI 에이전트로 재탄생시키고  '인공지능 운영 시스템' 도입](./articles/2026-02-27-Salesforce-Slackbot을-AI-에이전트로-재탄생시키고-인공지능-운영-시스템-도입.md) | 2026.02.27 |
+| [AI로 고객 이해, Listen Labs $69m 확보](./articles/2026-02-27-AI로-고객-이해-Listen-Labs-69m-확보.md) | 2026.02.27 |
+| [무료 AI 코드 생성 도구 Goose 등장, 개발자 반응은?](./articles/2026-02-27-무료-AI-코드-생성-도구-Goose-등장-개발자-반응은.md) | 2026.02.27 |
+| [AI 시대, 개발자를 위한 새로운 클라우드 플랫폼 Railway](./articles/2026-02-27-AI-시대-개발자를-위한-새로운-클라우드-플랫폼-Railway.md) | 2026.02.27 |
+| [AI, 통신 산업의 변화 주도자로 등극](./articles/2026-02-27-AI-통신-산업의-변화-주도자로-등극.md) | 2026.02.27 |
+| [디지털화, 산업 시스템의 위험성 증가](./articles/2026-02-27-디지털화-산업-시스템의-위험성-증가.md) | 2026.02.27 |
+| [AI, 의료 산업 변화의 주도자로 부상](./articles/2026-02-27-AI-의료-산업-변화의-주도자로-부상.md) | 2026.02.27 |
+| [GeForce NOW, '리저ident Evil' 출시 기념 혜택 제공](./articles/2026-02-27-GeForce-NOW-리저ident-Evil-출시-기념-혜택-제공.md) | 2026.02.27 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 

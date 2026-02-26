@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [엔비디아 실적 껑충 / 증시 강세 지속?](https://www.society-now.com/sonow/article/st/st26022621/st26022621-연합뉴스.html) | 주식 | 2026.02.26 |
-| [엔비디아, 전망 초과 실적 발표 / AI칩 강세 지속](https://www.society-now.com/sonow/article/ta/ta26022621/ta26022621-연합뉴스.html) | TECH & AI | 2026.02.26 |
-| [야구대표팀, 상무 선수 지원 / WBC 준비 가속화](https://www.society-now.com/sonow/article/th/th26022621/th26022621-연합뉴스.html) | 생각의힘 | 2026.02.26 |
-| [윤석열, 내란 항소 / 최초 사건에서 무기징역 선고 불복](https://www.society-now.com/sonow/article/pi/pi26022626/pi26022626-한겨레.html) | 인물탐구 | 2026.02.26 |
-| [트럼프, 관세 성공 논장 / 국민은 힘든 생활](https://www.society-now.com/sonow/article/pi/pi26022627/pi26022627-경향신문.html) | 인물탐구 | 2026.02.26 |
-| [북한, 한국 '적대국' 지위 강화 / 영원히 배제 선언](https://www.society-now.com/sonow/article/pi/pi26022623/pi26022623-ai.html) | 인물탐구 | 2026.02.26 |
-| [아기 사진 SNS 올린 친모 / 경찰 입건 조사 예정](https://www.society-now.com/sonow/article/pi/pi26022625/pi26022625-ai.html) | 인물탐구 | 2026.02.26 |
-| [이재명 지지율 최고치 / 국민 67% "대통령 재임 잘하고 있다"](https://www.society-now.com/sonow/article/pi/pi26022621/pi26022621-경향신문.html) | 인물탐구 | 2026.02.26 |
-| [김정은, 딸과 열병식 참석 / 727번판 아우르스 선보임](https://www.society-now.com/sonow/article/pi/pi26022622/pi26022622-ai.html) | 인물탐구 | 2026.02.26 |
-| [방송인 박수홍 형, 횡령 혐의 / 3년 6개월형 확정](https://www.society-now.com/sonow/article/pb/pb26022630/pb26022630-ai.html) | 정책브리핑 | 2026.02.26 |
+| [AI, 새로운 BDSM 도구가 되나?](https://www.society-now.com/sonow/article/ai/ai26022750/ai26022750-ai.html) | AI | 2026.02.27 |
+| [인공지능 시대, '주도적인' 사람들이 더 중요해진다](https://www.society-now.com/sonow/article/ai/ai26022749/ai26022749-ai.html) | AI | 2026.02.27 |
+| [중국 AI, 센서십의 함정 속](https://www.society-now.com/sonow/article/ai/ai26022748/ai26022748-ai.html) | AI | 2026.02.27 |
+| [새로운 AI 보호, 'IronCurtain' 등장](https://www.society-now.com/sonow/article/ai/ai26022747/ai26022747-ai.html) | AI | 2026.02.27 |
+| ['Uncanny Valley' Podcast 에피소드 분석 - AI 과도 사용, 현실에서 ](https://www.society-now.com/sonow/article/ai/ai26022746/ai26022746-ai.html) | AI | 2026.02.27 |
+| [구글, BAFTA 논란 관련 알림 문구 사과](https://www.society-now.com/sonow/article/ai/ai26022745/ai26022745-ai.html) | AI | 2026.02.27 |
+| [Anthropic launches Cowork, a Claude Desktop agent ](https://www.society-now.com/sonow/article/ai/ai26022744/ai26022744-ai.html) | AI | 2026.02.27 |
+| [Salesforce, Slackbot을 AI 에이전트로 재탄생시키고  '인공지능 운영 시스](https://www.society-now.com/sonow/article/ai/ai26022743/ai26022743-ai.html) | AI | 2026.02.27 |
+| [AI로 고객 이해, Listen Labs $69m 확보](https://www.society-now.com/sonow/article/ai/ai26022742/ai26022742-ai.html) | AI | 2026.02.27 |
+| [무료 AI 코드 생성 도구 Goose 등장, 개발자 반응은?](https://www.society-now.com/sonow/article/ai/ai26022741/ai26022741-ai.html) | AI | 2026.02.27 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 271개 |
-| 카테고리 | 16개 |
+| 전체 기사 | 87개 |
+| 카테고리 | 9개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-02-26 |
 
