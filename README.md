@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [AI, 새로운 BDSM 도구가 되나?](https://www.society-now.com/sonow/article/ai/ai26022750/ai26022750-ai.html) | AI | 2026.02.27 |
-| [인공지능 시대, '주도적인' 사람들이 더 중요해진다](https://www.society-now.com/sonow/article/ai/ai26022749/ai26022749-ai.html) | AI | 2026.02.27 |
-| [중국 AI, 센서십의 함정 속](https://www.society-now.com/sonow/article/ai/ai26022748/ai26022748-ai.html) | AI | 2026.02.27 |
-| [새로운 AI 보호, 'IronCurtain' 등장](https://www.society-now.com/sonow/article/ai/ai26022747/ai26022747-ai.html) | AI | 2026.02.27 |
-| ['Uncanny Valley' Podcast 에피소드 분석 - AI 과도 사용, 현실에서 ](https://www.society-now.com/sonow/article/ai/ai26022746/ai26022746-ai.html) | AI | 2026.02.27 |
-| [구글, BAFTA 논란 관련 알림 문구 사과](https://www.society-now.com/sonow/article/ai/ai26022745/ai26022745-ai.html) | AI | 2026.02.27 |
-| [Anthropic launches Cowork, a Claude Desktop agent ](https://www.society-now.com/sonow/article/ai/ai26022744/ai26022744-ai.html) | AI | 2026.02.27 |
-| [Salesforce, Slackbot을 AI 에이전트로 재탄생시키고  '인공지능 운영 시스](https://www.society-now.com/sonow/article/ai/ai26022743/ai26022743-ai.html) | AI | 2026.02.27 |
-| [AI로 고객 이해, Listen Labs $69m 확보](https://www.society-now.com/sonow/article/ai/ai26022742/ai26022742-ai.html) | AI | 2026.02.27 |
-| [무료 AI 코드 생성 도구 Goose 등장, 개발자 반응은?](https://www.society-now.com/sonow/article/ai/ai26022741/ai26022741-ai.html) | AI | 2026.02.27 |
+| [쿠팡, 4분기 영업익 97%↓…김범석, ‘개인정보 유출’ 첫 육성 사과](https://www.society-now.com/sonow/article/st/st26022721/st26022721-한겨레.html) | 주식 | 2026.02.27 |
+| [이 대통령 지지율 64%…부동산 정책 긍정 평가 [갤럽]](https://www.society-now.com/sonow/article/re/re26022721/re26022721-한겨레.html) | 부동산 | 2026.02.27 |
+| [쿠팡 개인정보 유출 / 김범석 의장 첫 공식 사과](https://www.society-now.com/sonow/article/pi/pi26022725/pi26022725-경향신문.html) | 인물탐구 | 2026.02.27 |
+| [법왜곡죄 도입 논란 / 판례 위축 우려](https://www.society-now.com/sonow/article/pi/pi26022723/pi26022723-한겨레.html) | 인물탐구 | 2026.02.27 |
+| [김구 조롱 AI 논란 / 온라인 극단적 반응 확산](https://www.society-now.com/sonow/article/pi/pi26022722/pi26022722-ai.html) | 인물탐구 | 2026.02.27 |
+| [포르쉐 운전자, 프로포폴 투약 의심 / 한강 둔치 추락 사고](https://www.society-now.com/sonow/article/pb/pb26022730/pb26022730-ai.html) | 정책브리핑 | 2026.02.27 |
+| [법왜곡죄 통과 / 사법개혁 3법 추진 속도 높여](https://www.society-now.com/sonow/article/pb/pb26022729/pb26022729-경향신문.html) | 정책브리핑 | 2026.02.27 |
+| [대구·경북 행정통합, 임시국회 회기 내 처리 추진 / 국민의힘 주도로 진행](https://www.society-now.com/sonow/article/pb/pb26022728/pb26022728-경향신문.html) | 정책브리핑 | 2026.02.27 |
+| [[속보]민주당 공관위 ‘단수 공천 1호’는 우상호 전 정무수석…강원지사 후보](https://www.society-now.com/sonow/article/pb/pb26022725/pb26022725-경향신문.html) | 정책브리핑 | 2026.02.27 |
+| [전광훈 첫재판·보석심문…법원 "공소사실 불명확, 재검토해야" | 연합뉴스](https://www.society-now.com/sonow/article/pb/pb26022723/pb26022723-연합뉴스.html) | 정책브리핑 | 2026.02.27 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 87개 |
-| 카테고리 | 9개 |
+| 전체 기사 | 27개 |
+| 카테고리 | 10개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-26 |
+| 마지막 업데이트 | 2026-02-27 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
