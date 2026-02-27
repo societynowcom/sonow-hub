@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>오픈소스 비전 언어 모델, Jetson에서 실행 가능해짐 | SO,NOW</title>
+  <meta name="description" content="Hugging Face 블로그가 최근에 Open Source Vision Language Models (VLM)을 NVIDIA Jetson 기기에 배포하는 방법을 소개했습니다. 이는 저렴한 비용으로 VLM의 성능을 활용할 수 있도록 하여 AI 기술 개발에 새로운 가능성을 제시합니다.">
+  <meta name="keywords" content="AI, artificial intelligence, Hugging Face Blog">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="오픈소스 비전 언어 모델, Jetson에서 실행 가능해짐">
+  <meta property="og:description" content="Hugging Face 블로그가 최근에 Open Source Vision Language Models (VLM)을 NVIDIA Jetson 기기에 배포하는 방법을 소개했습니다. 이는 저렴한 비용으로 VLM의 성능을 활용할 수 있도록 하여 AI 기술 개발에 새로운 가능성을 제시합니다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832-ai.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="오픈소스 비전 언어 모델, Jetson에서 실행 가능해짐">
+  <meta name="twitter:description" content="Hugging Face 블로그가 최근에 Open Source Vision Language Models (VLM)을 NVIDIA Jetson 기기에 배포하는 방법을 소개했습니다. 이는 저렴한 비용으로 VLM의 성능을 활용할 수 있도록 하여 AI 기술 개발에 새로운 가능성을 제시합니다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832-ai.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"오픈소스 비전 언어 모델, Jetson에서 실행 가능해짐","description":"Hugging Face 블로그가 최근에 Open Source Vision Language Models (VLM)을 NVIDIA Jetson 기기에 배포하는 방법을 소개했습니다. 이는 저렴한 비용으로 VLM의 성능을 활용할 수 있도록 하여 AI 기술 개발에 새로운 가능성을 제시합니다.","datePublished":"2026-02-28","dateModified":"2026-02-28","image":["https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832-ai.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832-ai.html","articleSection":"AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>오픈소스 비전 언어 모델, Jetson에서 실행 가능해짐</h1>
+
+<blockquote>AI 기술 발전 위한 저비용 플랫폼 제공</blockquote>
+
+<p><strong>AI</strong> | 2026.02.28 | SO,NOW</p>
+
+<p>최근 AI 분야에서 비전 언어 모델 (VLM)은 이미지와 텍스트를 이해하고 처리하는 데 있어 놀라운 성능을 보여왔습니다. 하지만, VLM을 실행하기 위해서는 높은 계산력과 많은 전력이 필요하여 실용적인 활용에 제약이 따랐습니다. 이 문제를 해결하기 위해 Open Source VLM을 저비용 플랫폼인 NVIDIA Jetson 기기에 배포하는 방법이 주목받고 있습니다.</p>
+
+<p>Hugging Face는 다양한 종류의 Open Source VLM 모델을 제공하고 있으며, 이러한 모델을 Jetson에 구동하기 위한 소프트웨어 개발도 진행 중입니다. Jetson은 강력한 GPU 성능과 저전력 특징을 가지고 있어 이미지 처리와 인공지능 알고리즘 실행에 적합합니다. VLM이 Jetson에서 실행되면,  저렴한 비용으로 고성능 AI 기능을 구현할 수 있게 되므로</p>
+
+<blockquote><strong>더 자세한 내용과 관련 기사를 <a href="https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832-ai.html">Society-Now에서 확인하세요</a></strong></blockquote>
+
+<p><strong>🏷️ 키워드:</strong> AI · artificial intelligence · Hugging Face Blog</p>
+
+<h2>📌 관련 기사</h2>
+
+<ul><li><a href="./2026-02-28-구글-AI-이미지-생성기-나노-바나나-2-출시.html">구글 AI 이미지 생성기 '나노 바나나 2' 출시</a> (2026.02.28)</li><li><a href="./2026-02-28-AI-음성으로-일상을-요약하는-Huxe.html">AI 음성으로 일상을 요약하는 Huxe</a> (2026.02.28)</li><li><a href="./2026-02-28-인공지능-논란-한-기자가-Wall-Street를-뒤흔든-사건.html">인공지능 논란, 한 기자가 Wall Street를 뒤흔든 사건</a> (2026.02.28)</li></ul>
+
+<h2>🔗 다른 카테고리 최신 뉴스</h2>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai26022832/ai26022832-ai.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../index.html">🏠 홈</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>

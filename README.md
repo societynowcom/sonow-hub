@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [쿠팡, 4분기 영업익 97%↓…김범석, ‘개인정보 유출’ 첫 육성 사과](https://www.society-now.com/sonow/article/st/st26022721/st26022721-한겨레.html) | 주식 | 2026.02.27 |
-| [이 대통령 지지율 64%…부동산 정책 긍정 평가 [갤럽]](https://www.society-now.com/sonow/article/re/re26022721/re26022721-한겨레.html) | 부동산 | 2026.02.27 |
-| [쿠팡 개인정보 유출 / 김범석 의장 첫 공식 사과](https://www.society-now.com/sonow/article/pi/pi26022725/pi26022725-경향신문.html) | 인물탐구 | 2026.02.27 |
-| [법왜곡죄 도입 논란 / 판례 위축 우려](https://www.society-now.com/sonow/article/pi/pi26022723/pi26022723-한겨레.html) | 인물탐구 | 2026.02.27 |
-| [김구 조롱 AI 논란 / 온라인 극단적 반응 확산](https://www.society-now.com/sonow/article/pi/pi26022722/pi26022722-ai.html) | 인물탐구 | 2026.02.27 |
-| [포르쉐 운전자, 프로포폴 투약 의심 / 한강 둔치 추락 사고](https://www.society-now.com/sonow/article/pb/pb26022730/pb26022730-ai.html) | 정책브리핑 | 2026.02.27 |
-| [법왜곡죄 통과 / 사법개혁 3법 추진 속도 높여](https://www.society-now.com/sonow/article/pb/pb26022729/pb26022729-경향신문.html) | 정책브리핑 | 2026.02.27 |
-| [대구·경북 행정통합, 임시국회 회기 내 처리 추진 / 국민의힘 주도로 진행](https://www.society-now.com/sonow/article/pb/pb26022728/pb26022728-경향신문.html) | 정책브리핑 | 2026.02.27 |
-| [[속보]민주당 공관위 ‘단수 공천 1호’는 우상호 전 정무수석…강원지사 후보](https://www.society-now.com/sonow/article/pb/pb26022725/pb26022725-경향신문.html) | 정책브리핑 | 2026.02.27 |
-| [전광훈 첫재판·보석심문…법원 "공소사실 불명확, 재검토해야" | 연합뉴스](https://www.society-now.com/sonow/article/pb/pb26022723/pb26022723-연합뉴스.html) | 정책브리핑 | 2026.02.27 |
+| [구글 AI 이미지 생성기 '나노 바나나 2' 출시](https://www.society-now.com/sonow/article/ai/ai26022850/ai26022850-ai.html) | AI | 2026.02.28 |
+| [AI 음성으로 일상을 요약하는 Huxe](https://www.society-now.com/sonow/article/ai/ai26022849/ai26022849-ai.html) | AI | 2026.02.28 |
+| [인공지능 논란, 한 기자가 Wall Street를 뒤흔든 사건](https://www.society-now.com/sonow/article/ai/ai26022848/ai26022848-ai.html) | AI | 2026.02.28 |
+| [트럼프, 국정기관 Anthropic AI 도구 사용 중단 지시](https://www.society-now.com/sonow/article/ai/ai26022847/ai26022847-ai.html) | AI | 2026.02.28 |
+| [구글, BAFTA 논란 관련 오명 소송 사과](https://www.society-now.com/sonow/article/ai/ai26022846/ai26022846-ai.html) | AI | 2026.02.28 |
+| [Anthropic, 새로운 AI 에이전트 'Cowork' 출시](https://www.society-now.com/sonow/article/ai/ai26022845/ai26022845-ai.html) | AI | 2026.02.28 |
+| [Salesforce, Slackbot으로 'AI 에이전트' 시대 열어](https://www.society-now.com/sonow/article/ai/ai26022844/ai26022844-ai.html) | AI | 2026.02.28 |
+| [AI로 고객 의견 수렴하는 Listen Labs, 6,900만 달러 확보](https://www.society-now.com/sonow/article/ai/ai26022843/ai26022843-ai.html) | AI | 2026.02.28 |
+| [무료 AI 코드 생성 도구 'Goose', 개발자들의 선택을 바꿀까?](https://www.society-now.com/sonow/article/ai/ai26022842/ai26022842-ai.html) | AI | 2026.02.28 |
+| [AI 코딩 열풍 속 Railway, 10억 달러 플랫폼 구축](https://www.society-now.com/sonow/article/ai/ai26022841/ai26022841-ai.html) | AI | 2026.02.28 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 27개 |
-| 카테고리 | 10개 |
+| 전체 기사 | 33개 |
+| 카테고리 | 3개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-02-27 |
 
