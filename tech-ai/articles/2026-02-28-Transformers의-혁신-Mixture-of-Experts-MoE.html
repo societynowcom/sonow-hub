@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Transformers의 혁신, Mixture of Experts (MoE) | SO,NOW</title>
+  <meta name="description" content="Transformer 모델의 복잡성 증가에 따른 계산 부담을 해소하기 위해 등장한 'Mixture of Experts' (MoE)는 여러 전문가 네트워크를 결합하여 학습하는 기술입니다. 이 방법은 단일 모델보다 높은 성능을 달성하면서도 효율적인 학습 가능하다는 장점을 지니고 있습니다.">
+  <meta name="keywords" content="AI, artificial intelligence, Hugging Face Blog">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="Transformers의 혁신, Mixture of Experts (MoE)">
+  <meta property="og:description" content="Transformer 모델의 복잡성 증가에 따른 계산 부담을 해소하기 위해 등장한 'Mixture of Experts' (MoE)는 여러 전문가 네트워크를 결합하여 학습하는 기술입니다. 이 방법은 단일 모델보다 높은 성능을 달성하면서도 효율적인 학습 가능하다는 장점을 지니고 있습니다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835-ai.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="Transformers의 혁신, Mixture of Experts (MoE)">
+  <meta name="twitter:description" content="Transformer 모델의 복잡성 증가에 따른 계산 부담을 해소하기 위해 등장한 'Mixture of Experts' (MoE)는 여러 전문가 네트워크를 결합하여 학습하는 기술입니다. 이 방법은 단일 모델보다 높은 성능을 달성하면서도 효율적인 학습 가능하다는 장점을 지니고 있습니다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835-ai.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"Transformers의 혁신, Mixture of Experts (MoE)","description":"Transformer 모델의 복잡성 증가에 따른 계산 부담을 해소하기 위해 등장한 'Mixture of Experts' (MoE)는 여러 전문가 네트워크를 결합하여 학습하는 기술입니다. 이 방법은 단일 모델보다 높은 성능을 달성하면서도 효율적인 학습 가능하다는 장점을 지니고 있습니다.","datePublished":"2026-02-28","dateModified":"2026-02-28","image":["https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835-ai.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835-ai.html","articleSection":"AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>Transformers의 혁신, Mixture of Experts (MoE)</h1>
+
+<blockquote>모델 성능 향상 위한 새로운 접근 방식</blockquote>
+
+<p><strong>AI</strong> | 2026.02.28 | SO,NOW</p>
+
+<p>최근 Transformer 모델은 자연어 처리 분야에서 탁월한 성능을 보여주면서 AI 기술 발전에 큰 기여를 하였습니다. 그러나 모델의 크기가 커질수록 학습 시간과 계산 비용이 지속적으로 증가하는 문제점을 안고 있습니다. 이러한 문제점을 해결하기 위해 Mixture of Experts (MoE)와 같은 새로운 접근 방식들이 등장했습니다.</p>
+
+<p>MoE는 여러 개의 전문가 네트워크를 결합하여 학습하는 기술입니다. 각 전문가 네트워크는 특정 유형의 데이터에 전문화되어 특정 작업을 수행합니다. 입력 데이터가 분류되고, 해당 분류에 가장 적합한 전문가 네트워크가 선택되어 학습 결과를 생성합니다. 이러한 방식은 단일 모델보다 더욱 효율적이고 정확한 학습을 가능하게 합니다.</p>
+
+<blockquote><strong>이 이슈의 전체 맥락과 배경을 <a href="https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835-ai.html">Society-Now에서 확인하세요</a></strong></blockquote>
+
+<p><strong>🏷️ 키워드:</strong> AI · artificial intelligence · Hugging Face Blog</p>
+
+<h2>📌 관련 기사</h2>
+
+<ul><li><a href="./2026-02-28-Anthropic-AI-에이전트-Cowork으로-업무-자동화-도약.html">Anthropic, AI 에이전트 'Cowork'으로 업무 자동화 도약</a> (2026.02.28)</li><li><a href="./2026-02-28-Google-Deeply-Sorry-for-BAFTA-News-Alert-That-Included-N-Wor.html">Google ‘Deeply Sorry’ for BAFTA News Alert That Included N-Word, Says the Message Was Not AI-Generated</a> (2026.02.28)</li><li><a href="./2026-02-28-Salesforce-rolls-out-new-Slackbot-AI-agent-as-it-battles-Mic.html">Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</a> (2026.02.28)</li></ul>
+
+<h2>🔗 다른 카테고리 최신 뉴스</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-03-01-패션-태극기의-힙스터-변신-이인원-디자이너가-선보인-독창성.html">패션, 태극기의 힙스터 변신 / 이인원 디자이너가 선보인 독창성</a></li><li>🎭 <a href="../k-culture/articles/2026-02-28-왕과-사는-남자-흥행-지속-관객-700만-돌파-기록.html">왕과 사는 남자, 흥행 지속 / 관객 700만 돌파 기록</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai26022835/ai26022835-ai.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../index.html">🏠 홈</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>
