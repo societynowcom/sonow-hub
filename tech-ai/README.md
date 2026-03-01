@@ -18,21 +18,21 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
-| ["펜타곤 피자 지수" 적중 / 미 이란 공격 예측 했나?](./articles/2026-03-02-펜타곤-피자-지수-적중-미-이란-공격-예측-했나.md) | 2026.03.02 |
-| [오현규, 베식타시 첫 무득점 / 공격 행진 중단](./articles/2026-03-01-오현규-베식타시-첫-무득점-공격-행진-중단.md) | 2026.03.01 |
-| [Anthropic, AI 에이전트 'Cowork'으로 업무 자동화 도약](./articles/2026-02-28-Anthropic-AI-에이전트-Cowork으로-업무-자동화-도약.md) | 2026.02.28 |
-| [Google ‘Deeply Sorry’ for BAFTA News Alert That Included N-W](./articles/2026-02-28-Google-Deeply-Sorry-for-BAFTA-News-Alert-That-Included-N-Wor.md) | 2026.02.28 |
-| [Salesforce rolls out new Slackbot AI agent as it battles Mic](./articles/2026-02-28-Salesforce-rolls-out-new-Slackbot-AI-agent-as-it-battles-Mic.md) | 2026.02.28 |
-| [무료 오픈소스 AI 코드 에이전트 'Goose' 등장](./articles/2026-02-28-무료-오픈소스-AI-코드-에이전트-Goose-등장.md) | 2026.02.28 |
-| [인공지능, 의료계 혁신 주도](./articles/2026-02-28-인공지능-의료계-혁신-주도.md) | 2026.02.28 |
-| [디지털화 확산, 산업 솔루션의 사이버 위협 증가](./articles/2026-02-28-디지털화-확산-산업-솔루션의-사이버-위협-증가.md) | 2026.02.28 |
-| [AI, 통신산업 혁신의 주역으로 부상](./articles/2026-02-28-AI-통신산업-혁신의-주역으로-부상.md) | 2026.02.28 |
-| [AI 개발 트렌드에 발맞춰 Railway, 1억 달러 자금 확보](./articles/2026-02-28-AI-개발-트렌드에-발맞춰-Railway-1억-달러-자금-확보.md) | 2026.02.28 |
-| [IBM, UCB Berkeley서 기업용 에이전트 실패 원인 분석 발표](./articles/2026-02-28-IBM-UCB-Berkeley서-기업용-에이전트-실패-원인-분석-발표.md) | 2026.02.28 |
-| [리 Lilly, 세계 최초 AI 팩토리 구축](./articles/2026-02-28-리-Lilly-세계-최초-AI-팩토리-구축.md) | 2026.02.28 |
-| [GeForce NOW, '레지던트 이빌' 협업으로 새 역전 시작](./articles/2026-02-28-GeForce-NOW-레지던트-이빌-협업으로-새-역전-시작.md) | 2026.02.28 |
-| [오픈소스 비전 언어 모델, 제트슨 플랫폼에서 구동](./articles/2026-02-28-오픈소스-비전-언어-모델-제트슨-플랫폼에서-구동.md) | 2026.02.28 |
-| [GGML, llama.cpp 합쳐서 Hugging Face를 통해 로컬 AI 발전 도모](./articles/2026-02-28-GGML-llamacpp-합쳐서-Hugging-Face를-통해-로컬-AI-발전-도모.md) | 2026.02.28 |
+| [트럼프, AI 기업 Anthropic 사용 금지령 내려](./articles/2026-03-02-트럼프-AI-기업-Anthropic-사용-금지령-내려.md) | 2026.03.02 |
+| [AI로 고객 의견을 빠르게 수렴하는 Listen Labs 6천억원 투자유치](./articles/2026-03-02-AI로-고객-의견을-빠르게-수렴하는-Listen-Labs-6천억원-투자유치.md) | 2026.03.02 |
+| [Salesforce rolls out new Slackbot AI agent as it battles Mic](./articles/2026-03-02-Salesforce-rolls-out-new-Slackbot-AI-agent-as-it-battles-Mic.md) | 2026.03.02 |
+| [Anthropic, AI 에이전트 'Cowork' 출시](./articles/2026-03-02-Anthropic-AI-에이전트-Cowork-출시.md) | 2026.03.02 |
+| [AI, 의료 분야에 걸쳐 새로운 변화를 이끈다](./articles/2026-03-02-AI-의료-분야에-걸쳐-새로운-변화를-이끈다.md) | 2026.03.02 |
+| [Railway, AI 개발 환경 위한 새로운 플랫폼](./articles/2026-03-02-Railway-AI-개발-환경-위한-새로운-플랫폼.md) | 2026.03.02 |
+| [Claude Code costs up to $200 a month. Goose does the same th](./articles/2026-03-02-Claude-Code-costs-up-to-200-a-month-Goose-does-the-same-thin.md) | 2026.03.02 |
+| [엘리리, 세계 최초 AI 공장 '릴리가팟' 구축](./articles/2026-03-02-엘리리-세계-최초-AI-공장-릴리가팟-구축.md) | 2026.03.02 |
+| [GeForce NOW, '리저드 이벨' 출시와 함께 한 해 사용권 제공](./articles/2026-03-02-GeForce-NOW-리저드-이벨-출시와-함께-한-해-사용권-제공.md) | 2026.03.02 |
+| [IBM, UC Berkeley 합세…기업용 AI 에이전트 실패 원인 분석](./articles/2026-03-02-IBM-UC-Berkeley-합세기업용-AI-에이전트-실패-원인-분석.md) | 2026.03.02 |
+| [자동화, 통신업계의 새로운 경쟁력](./articles/2026-03-02-자동화-통신업계의-새로운-경쟁력.md) | 2026.03.02 |
+| [NVIDIA and Partners Show That Software-Defined AI-RAN Is the](./articles/2026-03-02-NVIDIA-and-Partners-Show-That-Software-Defined-AI-RAN-Is-the.md) | 2026.03.02 |
+| [오픈소��� 비전 언어 모델, 제트슨 플랫폼에 배포](./articles/2026-03-02-오픈소-비전-언어-모델-제트슨-플랫폼에-배포.md) | 2026.03.02 |
+| [GGML, llama.cpp 합세! 오픈소스 AI 발전을 위한 새로운 도약](./articles/2026-03-02-GGML-llamacpp-합세-오픈소스-AI-발전을-위한-새로운-도약.md) | 2026.03.02 |
+| [무료로 AI 모델 학습, Unsloth와 Hugging Face Jobs 활용하세요](./articles/2026-03-02-무료로-AI-모델-학습-Unsloth와-Hugging-Face-Jobs-활용하세요.md) | 2026.03.02 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 

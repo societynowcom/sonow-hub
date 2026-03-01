@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [프리랜서 성교육강사, 수업 방해 피해 / 지자체 독립성 부족](https://www.society-now.com/sonow/article/st/st26030221/st26030221-경향신문.html) | 주식 | 2026.03.02 |
-| [트럼프, 이란과 대화 동의 / 군사 작전 계속 추진](https://www.society-now.com/sonow/article/pi/pi26030221/pi26030221-연합뉴스.html) | 인물탐구 | 2026.03.02 |
-| [하메네이 사망, 이란 신정 체제 미래 불투명 / 강경파 대체 가능성 높아](https://www.society-now.com/sonow/article/pi/pi26030222/pi26030222-연합뉴스.html) | 인물탐구 | 2026.03.02 |
-| [이란-미, 역사 속 갈등 / 중동 불안 심화](https://www.society-now.com/sonow/article/pi/pi26030223/pi26030223-한겨레.html) | 인물탐구 | 2026.03.02 |
-| [이재명, 북한 적대 행위에 빗댄 '평화체제' 주장 / 대북 정책 3원칙 재강조](https://www.society-now.com/sonow/article/pi/pi26030224/pi26030224-한겨레.html) | 인물탐구 | 2026.03.02 |
-| [이란, 미군 항공모함 타격 주장 / 중부사령부 "거짓말"](https://www.society-now.com/sonow/article/pi/pi26030225/pi26030225-한겨레.html) | 인물탐구 | 2026.03.02 |
-| [이란-미국 전쟁, 한국 선박 위협 / 37척 인근 해역 대기중](https://www.society-now.com/sonow/article/pi/pi26030226/pi26030226-경향신문.html) | 인물탐구 | 2026.03.02 |
-| [이스라엘 공습으로 하메네이 사망 / 이란 수뇌부 '대거 소멸'](https://www.society-now.com/sonow/article/pi/pi26030227/pi26030227-ai.html) | 인물탐구 | 2026.03.02 |
-| [이란 지도부 공격 / 하메네이 동선 추적 성공](https://www.society-now.com/sonow/article/re/re26030221/re26030221-ai.html) | 부동산 | 2026.03.02 |
-| [티맵, AI 힘입어 역대 최대 사용자 / 월 사용자 1500만명 돌파](https://www.society-now.com/sonow/article/kn/kn26030221/kn26030221-연합뉴스.html) | 경제 | 2026.03.02 |
+| [트럼프, AI 기업 Anthropic 사용 금지령 내려](https://www.society-now.com/sonow/article/ai/ai26030250/ai26030250-ai.html) | AI | 2026.03.02 |
+| [AI로 고객 의견을 빠르게 수렴하는 Listen Labs 6천억원 투자유치](https://www.society-now.com/sonow/article/ai/ai26030247/ai26030247-ai.html) | AI | 2026.03.02 |
+| [Salesforce rolls out new Slackbot AI agent as it b](https://www.society-now.com/sonow/article/ai/ai26030248/ai26030248-ai.html) | AI | 2026.03.02 |
+| [Anthropic, AI 에이전트 'Cowork' 출시](https://www.society-now.com/sonow/article/ai/ai26030249/ai26030249-ai.html) | AI | 2026.03.02 |
+| [AI, 의료 분야에 걸쳐 새로운 변화를 이끈다](https://www.society-now.com/sonow/article/ai/ai26030244/ai26030244-ai.html) | AI | 2026.03.02 |
+| [Railway, AI 개발 환경 위한 새로운 플랫폼](https://www.society-now.com/sonow/article/ai/ai26030245/ai26030245-ai.html) | AI | 2026.03.02 |
+| [Claude Code costs up to $200 a month. Goose does t](https://www.society-now.com/sonow/article/ai/ai26030246/ai26030246-ai.html) | AI | 2026.03.02 |
+| [엘리리, 세계 최초 AI 공장 '릴리가팟' 구축](https://www.society-now.com/sonow/article/ai/ai26030242/ai26030242-ai.html) | AI | 2026.03.02 |
+| [GeForce NOW, '리저드 이벨' 출시와 함께 한 해 사용권 제공](https://www.society-now.com/sonow/article/ai/ai26030243/ai26030243-ai.html) | AI | 2026.03.02 |
+| [IBM, UC Berkeley 합세…기업용 AI 에이전트 실패 원인 분석](https://www.society-now.com/sonow/article/ai/ai26030239/ai26030239-ai.html) | AI | 2026.03.02 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,7 +72,7 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 113개 |
+| 전체 기사 | 143개 |
 | 카테고리 | 16개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-03-01 |
