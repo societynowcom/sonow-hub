@@ -18,6 +18,7 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
+| ["펜타곤 피자 지수" 적중 / 미 이란 공격 예측 했나?](./articles/2026-03-02-펜타곤-피자-지수-적중-미-이란-공격-예측-했나.md) | 2026.03.02 |
 | [오현규, 베식타시 첫 무득점 / 공격 행진 중단](./articles/2026-03-01-오현규-베식타시-첫-무득점-공격-행진-중단.md) | 2026.03.01 |
 | [Anthropic, AI 에이전트 'Cowork'으로 업무 자동화 도약](./articles/2026-02-28-Anthropic-AI-에이전트-Cowork으로-업무-자동화-도약.md) | 2026.02.28 |
 | [Google ‘Deeply Sorry’ for BAFTA News Alert That Included N-W](./articles/2026-02-28-Google-Deeply-Sorry-for-BAFTA-News-Alert-That-Included-N-Wor.md) | 2026.02.28 |
@@ -32,7 +33,6 @@
 | [GeForce NOW, '레지던트 이빌' 협업으로 새 역전 시작](./articles/2026-02-28-GeForce-NOW-레지던트-이빌-협업으로-새-역전-시작.md) | 2026.02.28 |
 | [오픈소스 비전 언어 모델, 제트슨 플랫폼에서 구동](./articles/2026-02-28-오픈소스-비전-언어-모델-제트슨-플랫폼에서-구동.md) | 2026.02.28 |
 | [GGML, llama.cpp 합쳐서 Hugging Face를 통해 로컬 AI 발전 도모](./articles/2026-02-28-GGML-llamacpp-합쳐서-Hugging-Face를-통해-로컬-AI-발전-도모.md) | 2026.02.28 |
-| [무료로 AI 모델 학습, Unsloth와 Hugging Face Jobs 활용](./articles/2026-02-28-무료로-AI-모델-학습-Unsloth와-Hugging-Face-Jobs-활용.md) | 2026.02.28 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 

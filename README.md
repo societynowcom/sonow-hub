@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [안중근 의사 모독 논란 / SNS 악성 댓글 확산](https://www.society-now.com/sonow/article/pi/pi26030131/pi26030131-ai.html) | 인물탐구 | 2026.03.01 |
-| [이란, 미·이스라엘 공격에 반격 / 미사일 발사](https://www.society-now.com/sonow/article/re/re26030121/re26030121-한겨레.html) | 부동산 | 2026.03.01 |
-| [오현규, 베식타시 첫 무득점 / 공격 행진 중단](https://www.society-now.com/sonow/article/sn/sn26030121/sn26030121-연합뉴스.html) | SONOW TECH | 2026.03.01 |
-| [네타냐후, 이란 공습 "운명 스스로 / 국민 자유"](https://www.society-now.com/sonow/article/pi/pi26030126/pi26030126-경향신문.html) | 인물탐구 | 2026.03.01 |
-| [이란-이스라엘 갈등 심화 / 한국인 피해 여부 파악 중](https://www.society-now.com/sonow/article/pi/pi26030124/pi26030124-경향신문.html) | 인물탐구 | 2026.03.01 |
-| [이란, 미·이스라엘 공격 '국제법 위반' 비난 / 드론·미사일 발사](https://www.society-now.com/sonow/article/pi/pi26030125/pi26030125-경향신문.html) | 인물탐구 | 2026.03.01 |
-| [이란, 미·이스라엘 공격에 드론·미사일 발사 / '국제법 위반' 규탄](https://www.society-now.com/sonow/article/pi/pi26030127/pi26030127-경향신문.html) | 인물탐구 | 2026.03.01 |
-| [네타냐후, "이란 공습으로 국민 운명 개척" / 자유와 평화 주장](https://www.society-now.com/sonow/article/pi/pi26030128/pi26030128-경향신문.html) | 인물탐구 | 2026.03.01 |
-| [이란-미 공격 / 국내 대응 체계 활성화](https://www.society-now.com/sonow/article/pi/pi26030129/pi26030129-sbs.html) | 인물탐구 | 2026.03.01 |
-| [이재명, 틱톡에 등장 / '큰 거' 온다 예고](https://www.society-now.com/sonow/article/pi/pi26030130/pi26030130-ai.html) | 인물탐구 | 2026.03.01 |
+| [프리랜서 성교육강사, 수업 방해 피해 / 지자체 독립성 부족](https://www.society-now.com/sonow/article/st/st26030221/st26030221-경향신문.html) | 주식 | 2026.03.02 |
+| [트럼프, 이란과 대화 동의 / 군사 작전 계속 추진](https://www.society-now.com/sonow/article/pi/pi26030221/pi26030221-연합뉴스.html) | 인물탐구 | 2026.03.02 |
+| [하메네이 사망, 이란 신정 체제 미래 불투명 / 강경파 대체 가능성 높아](https://www.society-now.com/sonow/article/pi/pi26030222/pi26030222-연합뉴스.html) | 인물탐구 | 2026.03.02 |
+| [이란-미, 역사 속 갈등 / 중동 불안 심화](https://www.society-now.com/sonow/article/pi/pi26030223/pi26030223-한겨레.html) | 인물탐구 | 2026.03.02 |
+| [이재명, 북한 적대 행위에 빗댄 '평화체제' 주장 / 대북 정책 3원칙 재강조](https://www.society-now.com/sonow/article/pi/pi26030224/pi26030224-한겨레.html) | 인물탐구 | 2026.03.02 |
+| [이란, 미군 항공모함 타격 주장 / 중부사령부 "거짓말"](https://www.society-now.com/sonow/article/pi/pi26030225/pi26030225-한겨레.html) | 인물탐구 | 2026.03.02 |
+| [이란-미국 전쟁, 한국 선박 위협 / 37척 인근 해역 대기중](https://www.society-now.com/sonow/article/pi/pi26030226/pi26030226-경향신문.html) | 인물탐구 | 2026.03.02 |
+| [이스라엘 공습으로 하메네이 사망 / 이란 수뇌부 '대거 소멸'](https://www.society-now.com/sonow/article/pi/pi26030227/pi26030227-ai.html) | 인물탐구 | 2026.03.02 |
+| [이란 지도부 공격 / 하메네이 동선 추적 성공](https://www.society-now.com/sonow/article/re/re26030221/re26030221-ai.html) | 부동산 | 2026.03.02 |
+| [티맵, AI 힘입어 역대 최대 사용자 / 월 사용자 1500만명 돌파](https://www.society-now.com/sonow/article/kn/kn26030221/kn26030221-연합뉴스.html) | 경제 | 2026.03.02 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 85개 |
-| 카테고리 | 14개 |
+| 전체 기사 | 113개 |
+| 카테고리 | 16개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-02-28 |
+| 마지막 업데이트 | 2026-03-01 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
