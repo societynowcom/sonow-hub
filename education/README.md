@@ -18,6 +18,7 @@
 <!-- AUTO-UPDATE:EDUCATION_LATEST -->
 | 제목 | 날짜 |
 |------|------|
+| [전쟁 지속 의지 강조 / 트럼프 "4-5주 이상 공습"](./articles/2026-03-03-전쟁-지속-의지-강조-트럼프-4-5주-이상-공습.md) | 2026.03.03 |
 
 <!-- /AUTO-UPDATE:EDUCATION_LATEST -->
 
