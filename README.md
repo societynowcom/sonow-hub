@@ -75,7 +75,7 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 | 전체 기사 | 179개 |
 | 카테고리 | 19개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-03-02 |
+| 마지막 업데이트 | 2026-03-03 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
