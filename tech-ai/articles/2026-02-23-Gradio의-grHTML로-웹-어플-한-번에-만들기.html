@@ -3,19 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SO,NOW 뉴스 | SO,NOW</title>
-  <meta name="description" content="">
+  <title>Gradio의 gr.HTML로 웹 어플 한 번에 만들기 | SO,NOW</title>
+  <meta name="description" content="Gradio는 사용자 친화적인 인터페이스를 제공하여 딥러닝 모델을 웹 애플리케이션으로 변환하는 데 도움을 줄 수 있습니다. 최근에는 gr.HTML 기능이 추가되어 HTML 코드를 직접 작성하지 않고도 복잡한 UI를 구현할 수 있게 되었습니다.">
+  <meta name="keywords" content="AI, artificial intelligence, Hugging Face Blog">
   <meta property="og:type"        content="article">
-  <meta property="og:title"       content="SO,NOW 뉴스">
-  <meta property="og:description" content="">
-  <meta property="og:url"         content="https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Gradio%EC%9D%98-grHTML%EB%A1%9C-%EC%9B%B9-%EC%96%B4%ED%94%8C-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%A4%EA%B8%B0.html">
+  <meta property="og:title"       content="Gradio의 gr.HTML로 웹 어플 한 번에 만들기">
+  <meta property="og:description" content="Gradio는 사용자 친화적인 인터페이스를 제공하여 딥러닝 모델을 웹 애플리케이션으로 변환하는 데 도움을 줄 수 있습니다. 최근에는 gr.HTML 기능이 추가되어 HTML 코드를 직접 작성하지 않고도 복잡한 UI를 구현할 수 있게 되었습니다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333-ai.html">
   <meta property="og:locale"      content="ko_KR">
   <meta property="og:site_name"   content="SO,NOW">
   <meta name="twitter:card"        content="summary_large_image">
-  <meta name="twitter:title"       content="SO,NOW 뉴스">
-  <meta name="twitter:description" content="">
+  <meta name="twitter:title"       content="Gradio의 gr.HTML로 웹 어플 한 번에 만들기">
+  <meta name="twitter:description" content="Gradio는 사용자 친화적인 인터페이스를 제공하여 딥러닝 모델을 웹 애플리케이션으로 변환하는 데 도움을 줄 수 있습니다. 최근에는 gr.HTML 기능이 추가되어 HTML 코드를 직접 작성하지 않고도 복잡한 UI를 구현할 수 있게 되었습니다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333.png">
   <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333-ai.html">
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"SO,NOW 뉴스","description":"","datePublished":"","dateModified":"","image":[],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Gradio%EC%9D%98-grHTML%EB%A1%9C-%EC%9B%B9-%EC%96%B4%ED%94%8C-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%A4%EA%B8%B0.html","mainEntityOfPage":"https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-23-Gradio%EC%9D%98-grHTML%EB%A1%9C-%EC%9B%B9-%EC%96%B4%ED%94%8C-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8C%EB%93%A4%EA%B8%B0.html","articleSection":""}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"Gradio의 gr.HTML로 웹 어플 한 번에 만들기","description":"Gradio는 사용자 친화적인 인터페이스를 제공하여 딥러닝 모델을 웹 애플리케이션으로 변환하는 데 도움을 줄 수 있습니다. 최근에는 gr.HTML 기능이 추가되어 HTML 코드를 직접 작성하지 않고도 복잡한 UI를 구현할 수 있게 되었습니다.","datePublished":"2026-02-23","dateModified":"2026-02-23","image":["https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333-ai.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333-ai.html","articleSection":"AI"}</script>
 <style>
 *{box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
@@ -36,18 +39,6 @@ footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size
 </head>
 <body>
   <article>
-<hr>
-<p>title: "Gradio의 gr.HTML로 웹 어플 한 번에 만들기"</p>
-<p>description: "Gradio는 사용자 친화적인 인터페이스를 제공하여 딥러닝 모델을 웹 애플리케이션으로 변환하는 데 도움을 줄 수 있습니다. 최근에는 gr.HTML 기능이 추가되어 HTML 코드를 직접 작성하지 않고도 복잡한 UI를 구현할 수 있게 되었습니다."</p>
-<p>date: "2026-02-23"</p>
-<p>category: "AI"</p>
-<p>image: "https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333.png"</p>
-<p>keywords: "AI, artificial intelligence, Hugging Face Blog"</p>
-<p>tags: ""</p>
-<p>source: "SO,NOW"</p>
-<p>url: "https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333-ai.html"</p>
-<hr>
-
 <h1>Gradio의 gr.HTML로 웹 어플 한 번에 만들기</h1>
 
 <blockquote>간편한 코드로 다양한 웹 애플리케이션 구축 가능</blockquote>
@@ -73,7 +64,6 @@ footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size
 <hr>
 
 <p><strong><a href="https://www.society-now.com/sonow/article/ai/ai26022333/ai26022333-ai.html">전체 기사 읽기 → Society-Now</a></strong> | <em><a href="../../index.html">🏠 홈</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
-
   </article>
 </body>
 </html>
