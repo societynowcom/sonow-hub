@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [한국 기준금리 동결, 미국의 숨은 영향은?](https://www.society-now.com/sonow/article/kn/kn260308001/kn260308001.html) | 경제 | 2026.03.08 |
-| [클류리, 700만 달러 매출 공개 사실 인정](https://www.society-now.com/sonow/article/ai/ai26030850/ai26030850.html) | AI | 2026.03.08 |
-| [Salesforce, Slackbot을 통한 엔터프라이즈 AI 선두](https://www.society-now.com/sonow/article/ai/ai26030848/ai26030848.html) | AI | 2026.03.08 |
-| [Anthropic, AI 에이전트 'Cowork'로 일반 사용자에게 AI 접근성 강화](https://www.society-now.com/sonow/article/ai/ai26030849/ai26030849.html) | AI | 2026.03.08 |
-| [AI 코딩 시대, Railway가 지금 혁신을 선도한다](https://www.society-now.com/sonow/article/ai/ai26030845/ai26030845.html) | AI | 2026.03.08 |
-| [Goose: 무료 오픈소스 AI 코딩 도구, 개발자들의 새로운 선택](https://www.society-now.com/sonow/article/ai/ai26030846/ai26030846.html) | AI | 2026.03.08 |
-| [AI로 변화하는 고객 연구: Listen Labs의 급부상](https://www.society-now.com/sonow/article/ai/ai26030847/ai26030847.html) | AI | 2026.03.08 |
-| [릴리, '릴리팟'으로 의료 AI 제조의 새로운 시대 열까?](https://www.society-now.com/sonow/article/ai/ai26030843/ai26030843.html) | AI | 2026.03.08 |
-| [클라우드 게임의 미래, 잔혹한 공포가 지배할까? GeForce NOW '리저지드 이빌 레이](https://www.society-now.com/sonow/article/ai/ai26030844/ai26030844.html) | AI | 2026.03.08 |
-| [오픈 소스 AI, 로컬 기기에까지: Hugging Face의 GGML, llama.cpp ](https://www.society-now.com/sonow/article/ai/ai26030840/ai26030840.html) | AI | 2026.03.08 |
+| [HYBE 직원, BTS 활동 중단 전 주식 매도...처벌 예정](https://www.society-now.com/sonow/article/kc/kc26031030/kc26031030.html) | K-Culture | 2026.03.10 |
+| [BTS 단체활동 잠정 중단](https://www.society-now.com/sonow/article/kc/kc26031029/kc26031029.html) | K-Culture | 2026.03.10 |
+| [제이홉 팬들의 3년, 광주 북구에 따뜻한 봄바람](https://www.society-now.com/sonow/article/kc/kc26031028/kc26031028.html) | K-Culture | 2026.03.10 |
+| [BTS 재계약 문제 해결: 2025년 완전체 활동까지 남은 과제](https://www.society-now.com/sonow/article/kc/kc26031027/kc26031027.html) | K-Culture | 2026.03.10 |
+| [빌보드 200 6위 기록: BTS, 활동 중단이 팬덤의 힘을 드러낸다](https://www.society-now.com/sonow/article/kc/kc26031026/kc26031026.html) | K-Culture | 2026.03.10 |
+| [BTS 활동 중단, 하이브의 '계좌 방탄'과 K-팝 산업의 미래](https://www.society-now.com/sonow/article/kc/kc26031025/kc26031025.html) | K-Culture | 2026.03.10 |
+| [BTS 단체활동 잠정 중단 소식](https://www.society-now.com/sonow/article/kc/kc26031024/kc26031024.html) | K-Culture | 2026.03.10 |
+| [BTS의 활동 중단: 팬덤의 씁쓸한 애절과 K-팝 산업의 새로운 도전](https://www.society-now.com/sonow/article/kc/kc26031023/kc26031023.html) | K-Culture | 2026.03.10 |
+| [BTS 단체활동 잠정중단](https://www.society-now.com/sonow/article/kc/kc26031022/kc26031022.html) | K-Culture | 2026.03.10 |
+| [BTS 군대 입대에 따른 활동 중단](https://www.society-now.com/sonow/article/kc/kc26031021/kc26031021.html) | K-Culture | 2026.03.10 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 86개 |
-| 카테고리 | 8개 |
+| 전체 기사 | 864개 |
+| 카테고리 | 32개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-03-10 |
 
