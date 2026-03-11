@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [HYBE 직원, BTS 활동 중단 전 주식 매도...처벌 예정](https://www.society-now.com/sonow/article/kc/kc26031030/kc26031030.html) | K-Culture | 2026.03.10 |
-| [BTS 단체활동 잠정 중단](https://www.society-now.com/sonow/article/kc/kc26031029/kc26031029.html) | K-Culture | 2026.03.10 |
-| [제이홉 팬들의 3년, 광주 북구에 따뜻한 봄바람](https://www.society-now.com/sonow/article/kc/kc26031028/kc26031028.html) | K-Culture | 2026.03.10 |
-| [BTS 재계약 문제 해결: 2025년 완전체 활동까지 남은 과제](https://www.society-now.com/sonow/article/kc/kc26031027/kc26031027.html) | K-Culture | 2026.03.10 |
-| [빌보드 200 6위 기록: BTS, 활동 중단이 팬덤의 힘을 드러낸다](https://www.society-now.com/sonow/article/kc/kc26031026/kc26031026.html) | K-Culture | 2026.03.10 |
-| [BTS 활동 중단, 하이브의 '계좌 방탄'과 K-팝 산업의 미래](https://www.society-now.com/sonow/article/kc/kc26031025/kc26031025.html) | K-Culture | 2026.03.10 |
-| [BTS 단체활동 잠정 중단 소식](https://www.society-now.com/sonow/article/kc/kc26031024/kc26031024.html) | K-Culture | 2026.03.10 |
-| [BTS의 활동 중단: 팬덤의 씁쓸한 애절과 K-팝 산업의 새로운 도전](https://www.society-now.com/sonow/article/kc/kc26031023/kc26031023.html) | K-Culture | 2026.03.10 |
-| [BTS 단체활동 잠정중단](https://www.society-now.com/sonow/article/kc/kc26031022/kc26031022.html) | K-Culture | 2026.03.10 |
-| [BTS 군대 입대에 따른 활동 중단](https://www.society-now.com/sonow/article/kc/kc26031021/kc26031021.html) | K-Culture | 2026.03.10 |
+| [Anthropic Cowork: AI Agent for Non-Technical Users](https://www.society-now.com/sonow/article/ai/ai260312075156/ai260312075156-anthropic-cowork-a-claude-desktop-agent.html) | AI | 2026.03.12 |
+| [Slackbot: The Future of Enterprise Work in the Con](https://www.society-now.com/sonow/article/ai/ai260312075150/ai260312075150-ai-ai260312075150.html) | AI | 2026.03.12 |
+| [AI 시대, 고객 피드백 자동화의 새로운 흐름](https://www.society-now.com/sonow/article/ai/ai260312075139/ai260312075139-listen-labs-ai-interviews.html) | AI | 2026.03.12 |
+| [Goose의 출현, AI 코딩 도구 시장의 변화](https://www.society-now.com/sonow/article/ai/ai260312075130/ai260312075130-goose-and-the-future-of-ai-coding-tools.html) | AI | 2026.03.12 |
+| [Railway, AI-초점을 둔 클라우드 플랫폼의 부상과 미래 전망](https://www.society-now.com/sonow/article/ai/ai260312075120/ai260312075120-railway-ai-focused-cloud-platform.html) | AI | 2026.03.12 |
+| [Meta의 신규 AI 데이터센터에 대한 100MW 규모의 태양광 설치](https://www.society-now.com/sonow/article/ai/ai260312075112/ai260312075112-meta-solar-power-for-ai-data-center.html) | AI | 2026.03.12 |
+| [Harvard 출신 드랍아웃이 만든 AI 안경, 새로운 인터넷 사상의 시작을 예고하다](https://www.society-now.com/sonow/article/ai/ai260312075104/ai260312075104-ai-smart-glasses-harvard-dropouts.html) | AI | 2026.03.12 |
+| [Mitti Labs의 AI 기술, 기후 변화 대응을 위한 농업 혁신](https://www.society-now.com/sonow/article/ai/ai260312075058/ai260312075058-mitti-labs-ai-rice-farming.html) | AI | 2026.03.12 |
+| [Meta의 대규모 친환경 투자가, AI 산업의 향방에 미치는 영향](https://www.society-now.com/sonow/article/ai/ai260312075050/ai260312075050-meta-buy-solar-power-ai-impact.html) | AI | 2026.03.12 |
+| [AI 생체葯物新药研发创企Converge Bio获2500万美元A轮融资](https://www.society-now.com/sonow/article/ai/ai260312075043/ai260312075043-converge-bio-ai-drug-discovery.html) | AI | 2026.03.12 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 864개 |
-| 카테고리 | 32개 |
+| 전체 기사 | 946개 |
+| 카테고리 | 33개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-03-11 |
 
