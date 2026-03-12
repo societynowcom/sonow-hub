@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [Anthropic Cowork: AI Agent for Non-Technical Users](https://www.society-now.com/sonow/article/ai/ai260312075156/ai260312075156-anthropic-cowork-a-claude-desktop-agent.html) | AI | 2026.03.12 |
-| [Slackbot: The Future of Enterprise Work in the Con](https://www.society-now.com/sonow/article/ai/ai260312075150/ai260312075150-ai-ai260312075150.html) | AI | 2026.03.12 |
-| [AI 시대, 고객 피드백 자동화의 새로운 흐름](https://www.society-now.com/sonow/article/ai/ai260312075139/ai260312075139-listen-labs-ai-interviews.html) | AI | 2026.03.12 |
-| [Goose의 출현, AI 코딩 도구 시장의 변화](https://www.society-now.com/sonow/article/ai/ai260312075130/ai260312075130-goose-and-the-future-of-ai-coding-tools.html) | AI | 2026.03.12 |
-| [Railway, AI-초점을 둔 클라우드 플랫폼의 부상과 미래 전망](https://www.society-now.com/sonow/article/ai/ai260312075120/ai260312075120-railway-ai-focused-cloud-platform.html) | AI | 2026.03.12 |
-| [Meta의 신규 AI 데이터센터에 대한 100MW 규모의 태양광 설치](https://www.society-now.com/sonow/article/ai/ai260312075112/ai260312075112-meta-solar-power-for-ai-data-center.html) | AI | 2026.03.12 |
-| [Harvard 출신 드랍아웃이 만든 AI 안경, 새로운 인터넷 사상의 시작을 예고하다](https://www.society-now.com/sonow/article/ai/ai260312075104/ai260312075104-ai-smart-glasses-harvard-dropouts.html) | AI | 2026.03.12 |
-| [Mitti Labs의 AI 기술, 기후 변화 대응을 위한 농업 혁신](https://www.society-now.com/sonow/article/ai/ai260312075058/ai260312075058-mitti-labs-ai-rice-farming.html) | AI | 2026.03.12 |
-| [Meta의 대규모 친환경 투자가, AI 산업의 향방에 미치는 영향](https://www.society-now.com/sonow/article/ai/ai260312075050/ai260312075050-meta-buy-solar-power-ai-impact.html) | AI | 2026.03.12 |
-| [AI 생체葯物新药研发创企Converge Bio获2500万美元A轮融资](https://www.society-now.com/sonow/article/ai/ai260312075043/ai260312075043-converge-bio-ai-drug-discovery.html) | AI | 2026.03.12 |
+| [경찰, 김규현 전 국정원장 소환 조사, 서울 강서구청장 보궐선거 개입 의혹](https://www.society-now.com/sonow/article/hl/hl26031216/hl26031216-police-summons-kg.html) | HEADLINES | 2026.03.12 |
+| [장동혁, 지방선거 전 율위 징계 논의 중단 요청](https://www.society-now.com/sonow/article/hl/hl26031215/hl26031215-jeong-donghyuk-stop.html) | HEADLINES | 2026.03.12 |
+| [장동혁, 지방선거 끝날 때까지 징계 논의 중단 요청](https://www.society-now.com/sonow/article/hl/hl26031214/hl26031214-lee-dong-hyuk.html) | HEADLINES | 2026.03.12 |
+| [장동혁, 선거 끝날 때까지 윤리위 논의 중단 요청](https://www.society-now.com/sonow/article/hl/hl26031213/hl26031213-jang-donghyuk-election.html) | HEADLINES | 2026.03.12 |
+| [李대통령 지지율 67%…野 43% 공화당 17% [NBS]](https://www.society-now.com/sonow/article/hl/hl26031212/hl26031212-li-daejongling-zhi.html) | HEADLINES | 2026.03.12 |
+| [李대통령, 국정 지지율 67% '역대 최고치' 유지](https://www.society-now.com/sonow/article/hl/hl26031211/hl26031211-li-daejong-gukjeo.html) | HEADLINES | 2026.03.12 |
+| [국민의힘 지지율 23.7%로 20대에서도 하락…'브레이크' 미미](https://www.society-now.com/sonow/article/hl/hl26031210/hl26031210-knp-party-support.html) | HEADLINES | 2026.03.12 |
+| [이란, 트럼프에 '제거되지 않도록 조심하라' 위협](https://www.society-now.com/sonow/article/hl/hl26031209/hl26031209-iran-threat-trump.html) | HEADLINES | 2026.03.12 |
+| [미국 방위일자와의 공식 발표, 오늘 이란 공습이 가장 격렬할 것으로 예상](https://www.society-now.com/sonow/article/hl/hl26031207/hl26031207-us-dod-today.html) | HEADLINES | 2026.03.12 |
+| [미군, 오늘 이란 공습에서 최대 규모 작전 실시](https://www.society-now.com/sonow/article/hl/hl26031206/hl26031206-us-military-max.html) | HEADLINES | 2026.03.12 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 946개 |
+| 전체 기사 | 960개 |
 | 카테고리 | 33개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-03-11 |
+| 마지막 업데이트 | 2026-03-12 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
