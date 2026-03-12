@@ -18,6 +18,10 @@
 <!-- AUTO-UPDATE:TECH_LATEST -->
 | 제목 | 날짜 |
 |------|------|
+| [프랑스, 독토리브를 통한 AI 의료 혁신: '닥터 ChatGPT' 경쟁 구도 변화](./articles/2026-03-12-프랑스-독토리브를-통한-AI-의료-혁신-닥터-ChatGPT-경쟁-구도-변화.md) | 2026.03.12 |
+| [OpenAI, ChatGPT 경험을 확장하는 Sora 동영상 AI 출시 계획](./articles/2026-03-12-OpenAI-ChatGPT-경험을-확장하는-Sora-동영상-AI-출시-계획.md) | 2026.03.12 |
+| [기업 의사결정 혁신: 삼성SDS의 ChatGPT Enterprise 도입 사례 분석](./articles/2026-03-12-기업-의사결정-혁신-삼성SDS의-ChatGPT-Enterprise-도입-사례-분석.md) | 2026.03.12 |
+| [AI 검색 최적화 시대: 옵티플로우의 등장과 기업 경쟁 구도 변화](./articles/2026-03-12-AI-검색-최적화-시대-옵티플로우의-등장과-기업-경쟁-구도-변화.md) | 2026.03.12 |
 | [Anthropic Cowork: AI Agent for Non-Technical Users](./articles/2026-03-12-Anthropic-Cowork-AI-Agent-for-Non-Technical-Users.md) | 2026.03.12 |
 | [Slackbot: The Future of Enterprise Work in the Conversationa](./articles/2026-03-12-Slackbot-The-Future-of-Enterprise-Work-in-the-Conversational.md) | 2026.03.12 |
 | [AI 시대, 고객 피드백 자동화의 새로운 흐름](./articles/2026-03-12-AI-시대-고객-피드백-자동화의-새로운-흐름.md) | 2026.03.12 |
@@ -29,10 +33,6 @@
 | [Meta의 대규모 친환경 투자가, AI 산업의 향방에 미치는 영향](./articles/2026-03-12-Meta의-대규모-친환경-투자가-AI-산업의-향방에-미치는-영향.md) | 2026.03.12 |
 | [AI 생체葯物新药研发创企Converge Bio获2500万美元A轮融资](./articles/2026-03-12-AI-생체Converge-Bio2500A.md) | 2026.03.12 |
 | [AI가 주도하는 온라인 공격: 신의 대결에서의 전략적 변화](./articles/2026-03-12-AI가-주도하는-온라인-공격-신의-대결에서의-전략적-변화.md) | 2026.03.12 |
-| [방위부의 AI 감시는 합법인가?](./articles/2026-03-12-방위부의-AI-감시는-합법인가.md) | 2026.03.12 |
-| [AI如何将伊朗冲突转化为舞台剧](./articles/2026-03-12-AI.md) | 2026.03.12 |
-| [포켓몬GO가 배달 로봇에게 인치별 정밀한 세계 시각을 제공](./articles/2026-03-12-포켓몬GO가-배달-로봇에게-인치별-정밀한-세계-시각을-제공.md) | 2026.03.12 |
-| [중국 OpenClaw AI: 새로운 도구로의 진화와 윤리적 고민](./articles/2026-03-12-중국-OpenClaw-AI-새로운-도구로의-진화와-윤리적-고민.md) | 2026.03.12 |
 
 <!-- /AUTO-UPDATE:TECH_LATEST -->
 

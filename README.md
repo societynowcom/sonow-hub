@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [경찰, 김규현 전 국정원장 소환 조사, 서울 강서구청장 보궐선거 개입 의혹](https://www.society-now.com/sonow/article/hl/hl26031216/hl26031216-police-summons-kg.html) | HEADLINES | 2026.03.12 |
-| [장동혁, 지방선거 전 율위 징계 논의 중단 요청](https://www.society-now.com/sonow/article/hl/hl26031215/hl26031215-jeong-donghyuk-stop.html) | HEADLINES | 2026.03.12 |
-| [장동혁, 지방선거 끝날 때까지 징계 논의 중단 요청](https://www.society-now.com/sonow/article/hl/hl26031214/hl26031214-lee-dong-hyuk.html) | HEADLINES | 2026.03.12 |
-| [장동혁, 선거 끝날 때까지 윤리위 논의 중단 요청](https://www.society-now.com/sonow/article/hl/hl26031213/hl26031213-jang-donghyuk-election.html) | HEADLINES | 2026.03.12 |
-| [李대통령 지지율 67%…野 43% 공화당 17% [NBS]](https://www.society-now.com/sonow/article/hl/hl26031212/hl26031212-li-daejongling-zhi.html) | HEADLINES | 2026.03.12 |
-| [李대통령, 국정 지지율 67% '역대 최고치' 유지](https://www.society-now.com/sonow/article/hl/hl26031211/hl26031211-li-daejong-gukjeo.html) | HEADLINES | 2026.03.12 |
-| [국민의힘 지지율 23.7%로 20대에서도 하락…'브레이크' 미미](https://www.society-now.com/sonow/article/hl/hl26031210/hl26031210-knp-party-support.html) | HEADLINES | 2026.03.12 |
-| [이란, 트럼프에 '제거되지 않도록 조심하라' 위협](https://www.society-now.com/sonow/article/hl/hl26031209/hl26031209-iran-threat-trump.html) | HEADLINES | 2026.03.12 |
-| [미국 방위일자와의 공식 발표, 오늘 이란 공습이 가장 격렬할 것으로 예상](https://www.society-now.com/sonow/article/hl/hl26031207/hl26031207-us-dod-today.html) | HEADLINES | 2026.03.12 |
-| [미군, 오늘 이란 공습에서 최대 규모 작전 실시](https://www.society-now.com/sonow/article/hl/hl26031206/hl26031206-us-military-max.html) | HEADLINES | 2026.03.12 |
+| [전통과 현대의 조화: 제4회 한국전통문화·태극기 휘날리며, 국내외 관심 고조](https://www.society-now.com/sonow/article/tc/tc26031220/tc26031220-traditional-korea-culture-fusion-exhibition.html) | NEWS | 2026.03.12 |
+| [한국전통문화대, 2026년 동계 전통문화 체험 프로그램 내달 16일 개막](https://www.society-now.com/sonow/article/tc/tc26031219/tc26031219-korean-traditional-culture-experience-program.html) | NEWS | 2026.03.12 |
+| [한국전통문화대학교, 전통미술공예학과 전통공예 작품 7점 상설전시](https://www.society-now.com/sonow/article/tc/tc26031218/tc26031218-korean-traditional-arts-university-exhibition.html) | NEWS | 2026.03.12 |
+| [한국전통문화대학교, '붉은 말의 해'를 담은 전통회화 기획전시로 문화유산의 현대적 해석 제](https://www.society-now.com/sonow/article/tc/tc26031217/tc26031217-korean-traditional-arts-red-horse.html) | NEWS | 2026.03.12 |
+| [한국전통문화대학교, 이탈리아·그리스와의 국제 교류 협력으로 글로벌 전통 공예 확산 선도](https://www.society-now.com/sonow/article/tc/tc26031216/tc26031216-korean-traditional-craft-international-partnerships.html) | NEWS | 2026.03.12 |
+| [한국전통문화대, 2026학년도 입학식 통해 전통문화 계승의 새로운 인재 발굴](https://www.society-now.com/sonow/article/tc/tc26031215/tc26031215-korean-traditional-culture-university-new.html) | NEWS | 2026.03.12 |
+| [한국전통문화대, 233명의 전통문화 전문 인재 배출로 미래 전통 예술의 빛나는 전망 제시](https://www.society-now.com/sonow/article/tc/tc26031214/tc26031214-korean-traditional-arts-graduation-shine.html) | NEWS | 2026.03.12 |
+| [헌팅턴 음력설 행사에서 펼쳐진 한국 전통 문화의 현대적 해석](https://www.society-now.com/sonow/article/tc/tc26031213/tc26031213-korean-tradition-culture-huntings-lunar.html) | NEWS | 2026.03.12 |
+| [한국 전통문화의 새로운 장을 열다: 김동철 초대원장 취임으로 본 미래 지향적 전통 예술의 ](https://www.society-now.com/sonow/article/tc/tc26031212/tc26031212-korea-traditional-culture-new-beginnings.html) | NEWS | 2026.03.12 |
+| [한국전통문화대학교, 2026학년도 전통문화 예술 전문가 양성을 위한 입학식 개최](https://www.society-now.com/sonow/article/tc/tc26031211/tc26031211-koreancultural-traditions-2026-admissions.html) | NEWS | 2026.03.12 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 960개 |
-| 카테고리 | 33개 |
+| 전체 기사 | 1000개 |
+| 카테고리 | 34개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-03-12 |
 
