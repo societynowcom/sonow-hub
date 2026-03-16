@@ -13,16 +13,10 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [서초AICT 우수기업센터 27개 AI 스타트업 입주…차세대 유니콘 육성 본격화](https://www.society-now.com/sonow/article/ta/ta26031507/ta26031507-seocho-aict-excellent-enterprise-center.html) | TECH & AI | 2026.03.15 |
-| [애플, 2026년 가을 첫 폴더블 아이폰 출시…7.8인치 내부 화면과 A20 프로 칩 탑재](https://www.society-now.com/sonow/article/ta/ta26031503/ta26031503-apple-first-foldable-iphone-2026.html) | TECH & AI | 2026.03.15 |
-| [AI 에이전트 스타트업 Gumloop, 벤치마크로부터 5000만 달러 투자 유치](https://www.society-now.com/sonow/article/ta/ta26031502/ta26031502-gumloop-lands-50m-from-benchmark.html) | TECH & AI | 2026.03.15 |
-| [저널리스트 줄리아 앵긴, 그라마리 AI 편집기 기능에 대해 집단 소송 제기](https://www.society-now.com/sonow/article/ta/ta26031501/ta26031501-grammarly-ai-editor-lawsuit-julia.html) | TECH & AI | 2026.03.15 |
-| [전통과 현대의 조화: 제4회 한국전통문화·태극기 휘날리며, 국내외 관심 고조](https://www.society-now.com/sonow/article/tc/tc26031220/tc26031220-traditional-korea-culture-fusion-exhibition.html) | NEWS | 2026.03.12 |
-| [한국전통문화대, 2026년 동계 전통문화 체험 프로그램 내달 16일 개막](https://www.society-now.com/sonow/article/tc/tc26031219/tc26031219-korean-traditional-culture-experience-program.html) | NEWS | 2026.03.12 |
-| [한국전통문화대학교, 전통미술공예학과 전통공예 작품 7점 상설전시](https://www.society-now.com/sonow/article/tc/tc26031218/tc26031218-korean-traditional-arts-university-exhibition.html) | NEWS | 2026.03.12 |
-| [한국전통문화대학교, '붉은 말의 해'를 담은 전통회화 기획전시로 문화유산의 현대적 해석 제](https://www.society-now.com/sonow/article/tc/tc26031217/tc26031217-korean-traditional-arts-red-horse.html) | NEWS | 2026.03.12 |
-| [한국전통문화대학교, 이탈리아·그리스와의 국제 교류 협력으로 글로벌 전통 공예 확산 선도](https://www.society-now.com/sonow/article/tc/tc26031216/tc26031216-korean-traditional-craft-international-partnerships.html) | NEWS | 2026.03.12 |
-| [한국전통문화대, 2026학년도 입학식 통해 전통문화 계승의 새로운 인재 발굴](https://www.society-now.com/sonow/article/tc/tc26031215/tc26031215-korean-traditional-culture-university-new.html) | NEWS | 2026.03.12 |
+| [리슨랩스, 6900만 달러 시리즈B 투자 유치로 AI 고객 인터뷰 시장 확장](https://www.society-now.com/sonow/article/ai/ai260316080045/ai260316080045-listen-labs-raises-69m-for.html) | AI | 2026.03.16 |
+| [레일웨이, AI 코딩 속도에 맞춘 1초 배포 플랫폼으로 1억 달러 투자 유치](https://www.society-now.com/sonow/article/ai/ai260316080044/ai260316080044-railway-100-million-funding-ai.html) | AI | 2026.03.16 |
+| [하버드 출신 스타트업 Halo, 상대 동의 없이 대화 녹음하는 AI 스마트글래스 출시](https://www.society-now.com/sonow/article/ai/ai260316080043/ai260316080043-halo-ai-smart-glasses-always.html) | AI | 2026.03.16 |
+| [메타, 1주일 만에 1기가와트 태양광 전력 구매로 AI 데이터센터 전력 수요 대응](https://www.society-now.com/sonow/article/ai/ai260316080042/ai260316080042-meta-buys-1-gigawatt-solar.html) | AI | 2026.03.16 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +66,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 707개 |
-| 카테고리 | 28개 |
+| 전체 기사 | 4개 |
+| 카테고리 | 1개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-03-15 |
+| 마지막 업데이트 | 2026-03-16 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
