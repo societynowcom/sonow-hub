@@ -13,10 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [리슨랩스, 6900만 달러 시리즈B 투자 유치로 AI 고객 인터뷰 시장 확장](https://www.society-now.com/sonow/article/ai/ai260316080045/ai260316080045-listen-labs-raises-69m-for.html) | AI | 2026.03.16 |
-| [레일웨이, AI 코딩 속도에 맞춘 1초 배포 플랫폼으로 1억 달러 투자 유치](https://www.society-now.com/sonow/article/ai/ai260316080044/ai260316080044-railway-100-million-funding-ai.html) | AI | 2026.03.16 |
-| [하버드 출신 스타트업 Halo, 상대 동의 없이 대화 녹음하는 AI 스마트글래스 출시](https://www.society-now.com/sonow/article/ai/ai260316080043/ai260316080043-halo-ai-smart-glasses-always.html) | AI | 2026.03.16 |
-| [메타, 1주일 만에 1기가와트 태양광 전력 구매로 AI 데이터센터 전력 수요 대응](https://www.society-now.com/sonow/article/ai/ai260316080042/ai260316080042-meta-buys-1-gigawatt-solar.html) | AI | 2026.03.16 |
+| [조선대 체육학과, 김평중 지산볼링장 대표의 15년 간 누적 8000만 원 장학금 지원](https://www.society-now.com/sonow/article/hl/hl260317054/hl260317054-chosun-university-sports-scholarship-80.html) | HEADLINES | 2026.03.17 |
+| [엔비디아 젠슨 황, GTC 2026에서 삼성전자 파운드리에 직접 감사…‘그록 3 LPU’ ](https://www.society-now.com/sonow/article/hl/hl260317053/hl260317053-nvidia-jensen-huang-thanks-samsung.html) | HEADLINES | 2026.03.17 |
+| [이재명 대통령, 개헌 논의에 부마항쟁 헌법전문 수록 제안](https://www.society-now.com/sonow/article/hl/hl260317052/hl260317052-lee-jae-myung-proposes-constitutional.html) | HEADLINES | 2026.03.17 |
+| [김경수 전 경남지사, 6·3지선 예비후보 등록…박완수 현 지사와 맞대결](https://www.society-now.com/sonow/article/hl/hl260317051/hl260317051-kim-kyungsoo-registers-as-gyeongnam.html) | HEADLINES | 2026.03.17 |
+| [20대 남성, 지적장애 여성에 혼인신고 후 2500만원 사기·폭행 혐의로 구속](https://www.society-now.com/sonow/article/hl/hl260317050/hl260317050-intellectual-disability-woman-fraud-marriage.html) | HEADLINES | 2026.03.17 |
+| [이재명 대통령 "세금은 핵폭탄 같은 최후 수단…부동산 투기 반드시 잡겠다"](https://www.society-now.com/sonow/article/hl/hl260317049/hl260317049-lee-jae-myung-real-estate.html) | HEADLINES | 2026.03.17 |
+| [웰스파고 리플렉트 카드, 2026년까지 0% 금리로 부채 상환 최적화](https://www.society-now.com/sonow/article/hl/hl260317048/hl260317048-wells-fargo-reflect-card-zero.html) | HEADLINES | 2026.03.17 |
+| [CNN, 2021년 최고의 영웅 10인 후원 방법 소개](https://www.society-now.com/sonow/article/hl/hl260317047/hl260317047-cnn-heroes-2021-donation-guide.html) | HEADLINES | 2026.03.17 |
+| [CNN 히어로즈, 켈리 리파와 앤더슨 쿠퍼가 진행하는 스타 특집 방송](https://www.society-now.com/sonow/article/hl/hl260317046/hl260317046-cnn-heroes-sharing-the-spotlight.html) | HEADLINES | 2026.03.17 |
+| [넬리 체보이, 케냐 학생 위한 컴퓨터실 조성 공로로 CNN 올해의 영웅 선정](https://www.society-now.com/sonow/article/hl/hl260317045/hl260317045-nelly-cheboi-cnn-hero-of.html) | HEADLINES | 2026.03.17 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -66,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 4개 |
-| 카테고리 | 1개 |
+| 전체 기사 | 88개 |
+| 카테고리 | 3개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-03-16 |
+| 마지막 업데이트 | 2026-03-17 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
