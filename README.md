@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [한국 스마트도시 플랫폼 기술, 국제표준으로 채택되다](https://www.society-now.com/sonow/article/dt/dt26031910/dt26031910-korea-smart-city-platform-becomes.html) | 디지털트윈 | 2026.03.19 |
-| [부산시 에코델타 스마트시티, 국가시범도시로 본격 추진](https://www.society-now.com/sonow/article/dt/dt26031909/dt26031909-busan-ecodelta-smart-city-national.html) | 디지털트윈 | 2026.03.19 |
-| [한국과 카자흐스탄, 스마트시티 협력 본격 추진](https://www.society-now.com/sonow/article/dt/dt26031908/dt26031908-korea-kazakhstan-smart-city-cooperation.html) | 디지털트윈 | 2026.03.19 |
-| [인천경제자유구역, AI 기반 스마트시티 플랫폼 구축으로 도시 운영 효율 30% 향상 목표](https://www.society-now.com/sonow/article/dt/dt26031907/dt26031907-incheon-free-economic-zone-ai.html) | 디지털트윈 | 2026.03.19 |
-| [한국-카자흐스탄, 스마트시티 협력 강화로 중앙아시아 진출 가속화](https://www.society-now.com/sonow/article/dt/dt26031906/dt26031906-korea-kazakhstan-smart-city-cooperation.html) | 디지털트윈 | 2026.03.19 |
-| [포항시, 2026 세계스마트시티기구 총회 킥오프 행사 참석](https://www.society-now.com/sonow/article/dt/dt26031905/dt26031905-pohang-wego-2026-kickoff-smart.html) | 디지털트윈 | 2026.03.19 |
-| [한국형 스마트시티, 2024년 30개 도시로 확대 추진](https://www.society-now.com/sonow/article/dt/dt26031904/dt26031904-korean-smart-city-2024-expansion.html) | 디지털트윈 | 2026.03.19 |
-| [국토부, 해외 도시에 K-스마트시티 모델 적용 위해 국내 기업 모집](https://www.society-now.com/sonow/article/dt/dt26031903/dt26031903-k-smartcity-model-overseas-application.html) | 디지털트윈 | 2026.03.19 |
-| [국토부, 2026년 스마트도시 조성사업 공모 시작](https://www.society-now.com/sonow/article/dt/dt26031902/dt26031902-ministry-of-land-2026-smart.html) | 디지털트윈 | 2026.03.19 |
-| [2025년 한국 스마트시티 사업 1조 2,000억 원 투입, 30개 도시로 확산](https://www.society-now.com/sonow/article/dt/dt26031901/dt26031901-2025-korea-smart-city-1.html) | 디지털트윈 | 2026.03.19 |
+| [한국전통문화대학교, 이탈리아와 그리스 대학과 전통문화 교류 협력 확대](https://www.society-now.com/sonow/article/tc/tc26032020/tc26032020-korean-national-university-of-cultural.html) | NEWS | 2026.03.20 |
+| [한국 전통공예, K팔레트 프로젝트로 세계 15개국 문화공간 진출](https://www.society-now.com/sonow/article/tc/tc26032019/tc26032019-k-palette-project-traditional-crafts.html) | NEWS | 2026.03.20 |
+| [한국전통문화대학교, 경술년 '붉은 말' 주제로 전통회화 기획전 개최](https://www.society-now.com/sonow/article/tc/tc26032018/tc26032018-korean-national-university-of-cultural.html) | NEWS | 2026.03.20 |
+| [인천공항 국립현대미술관, 전통공예품 500여 점으로 여행객 유혹](https://www.society-now.com/sonow/article/tc/tc26032017/tc26032017-incheon-airport-national-museum-of.html) | NEWS | 2026.03.20 |
+| [한국전통문화대학교, 경술년 붉은 말 주제 전통회화 기획전시 개최](https://www.society-now.com/sonow/article/tc/tc26032016/tc26032016-korean-traditional-culture-university-red.html) | NEWS | 2026.03.20 |
+| [영주, 선비문화와 전통공예가 숨쉬는 고장의 현대적 변주](https://www.society-now.com/sonow/article/tc/tc26032015/tc26032015-yeongju-traditional-crafts-culture.html) | NEWS | 2026.03.20 |
+| [광화문 공연이 한국 전통문화의 새로운 장을 열다](https://www.society-now.com/sonow/article/tc/tc26032014/tc26032014-gwanghwamun-performance-traditional-culture-new.html) | NEWS | 2026.03.20 |
+| [전통 공예 창업기업 31곳, 청년 창의력으로 한국 문화유산 재해석](https://www.society-now.com/sonow/article/tc/tc26032013/tc26032013-31-traditional-craft-startups-youth.html) | NEWS | 2026.03.20 |
+| [전 세계 43개국 한류팬, 한국 전통문화 체험 프로그램에 집중](https://www.society-now.com/sonow/article/tc/tc26032012/tc26032012-global-hallyu-fans-korean-traditional.html) | NEWS | 2026.03.20 |
+| [문화체육관광부, 전통문화 청년 창업기업 31개사에 최대 1억500만원 지원](https://www.society-now.com/sonow/article/tc/tc26032011/tc26032011-korean-traditional-culture-youth-startup.html) | NEWS | 2026.03.20 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,8 +72,8 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 127개 |
-| 카테고리 | 5개 |
+| 전체 기사 | 167개 |
+| 카테고리 | 8개 |
 | YouTube 채널 | 3개 |
 | 마지막 업데이트 | 2026-03-19 |
 
