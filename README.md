@@ -13,16 +13,16 @@
 <!-- AUTO-UPDATE:TODAY_HEADLINES -->
 | 제목 | 카테고리 | 날짜 |
 |------|---------|------|
-| [앤트로픽, 코워크 출시로 10일 만에 AI 에이전트 시장 재편](https://www.society-now.com/sonow/article/ai/ai260319073518/ai260319073518-anthropic-launches-cowork-claude-desktop.html) | AI | 2026.03.19 |
-| [세일즈포스, 슬랙봇을 AI 에이전트로 재탄생시켜 기업 업무 혁명 선언](https://www.society-now.com/sonow/article/ai/ai260319073517/ai260319073517-salesforce-rebuilds-slackbot-into-ai.html) | AI | 2026.03.19 |
-| [클로드 코드 200달러 요금제에 반발한 개발자, 오픈소스 구스로 대체](https://www.society-now.com/sonow/article/ai/ai260319073516/ai260319073516-claude-code-200-dollar-vs.html) | AI | 2026.03.19 |
-| [메타, 1억 달러 투자해 사우스캐롤라이나 AI 데이터센터에 100MW 태양광 발전소 구축](https://www.society-now.com/sonow/article/ai/ai260319073515/ai260319073515-meta-100mw-solar-power-ai.html) | AI | 2026.03.19 |
-| [미티랩스 AI 모델, 인도 쌀농장 메탄 배출 82배 온실효과 정확 측정](https://www.society-now.com/sonow/article/ai/ai260319073514/ai260319073514-mitti-labs-ai-rice-farm.html) | AI | 2026.03.19 |
-| [AI 신약개발 스타트업 컨버지 바이오, 베세머 주도로 2500만 달러 시리즈A 투자 유치](https://www.society-now.com/sonow/article/ai/ai260319073513/ai260319073513-converge-bio-25m-series-ai.html) | AI | 2026.03.19 |
-| [AI 사기로 2025년 암호화폐 지갑 유입금 60%가 사기 수익](https://www.society-now.com/sonow/article/ai/ai260319073512/ai260319073512-ai-quantum-threats-digital-asset.html) | AI | 2026.03.19 |
-| [오픈AI, 미 국방부 계약 2주 만에 이란 분쟁 현장 적용 가능성 점쳐](https://www.society-now.com/sonow/article/ai/ai260319073511/ai260319073511-openai-pentagon-deal-iran-conflict.html) | AI | 2026.03.19 |
-| [코덱스 시큐리티, 전통적 SAST 보고서 대신 AI 제약 추론으로 보안 취약점 탐지](https://www.society-now.com/sonow/article/ai/ai260319073509/ai260319073509-codex-security-ai-constraint-reasoning.html) | AI | 2026.03.19 |
-| [미국인들, 하루 300만 건 임금 질문을 챗GPT에 던진다](https://www.society-now.com/sonow/article/ai/ai260319073508/ai260319073508-americans-ask-3-million-daily.html) | AI | 2026.03.19 |
+| [한국 스마트도시 플랫폼 기술, 국제표준으로 채택되다](https://www.society-now.com/sonow/article/dt/dt26031910/dt26031910-korea-smart-city-platform-becomes.html) | 디지털트윈 | 2026.03.19 |
+| [부산시 에코델타 스마트시티, 국가시범도시로 본격 추진](https://www.society-now.com/sonow/article/dt/dt26031909/dt26031909-busan-ecodelta-smart-city-national.html) | 디지털트윈 | 2026.03.19 |
+| [한국과 카자흐스탄, 스마트시티 협력 본격 추진](https://www.society-now.com/sonow/article/dt/dt26031908/dt26031908-korea-kazakhstan-smart-city-cooperation.html) | 디지털트윈 | 2026.03.19 |
+| [인천경제자유구역, AI 기반 스마트시티 플랫폼 구축으로 도시 운영 효율 30% 향상 목표](https://www.society-now.com/sonow/article/dt/dt26031907/dt26031907-incheon-free-economic-zone-ai.html) | 디지털트윈 | 2026.03.19 |
+| [한국-카자흐스탄, 스마트시티 협력 강화로 중앙아시아 진출 가속화](https://www.society-now.com/sonow/article/dt/dt26031906/dt26031906-korea-kazakhstan-smart-city-cooperation.html) | 디지털트윈 | 2026.03.19 |
+| [포항시, 2026 세계스마트시티기구 총회 킥오프 행사 참석](https://www.society-now.com/sonow/article/dt/dt26031905/dt26031905-pohang-wego-2026-kickoff-smart.html) | 디지털트윈 | 2026.03.19 |
+| [한국형 스마트시티, 2024년 30개 도시로 확대 추진](https://www.society-now.com/sonow/article/dt/dt26031904/dt26031904-korean-smart-city-2024-expansion.html) | 디지털트윈 | 2026.03.19 |
+| [국토부, 해외 도시에 K-스마트시티 모델 적용 위해 국내 기업 모집](https://www.society-now.com/sonow/article/dt/dt26031903/dt26031903-k-smartcity-model-overseas-application.html) | 디지털트윈 | 2026.03.19 |
+| [국토부, 2026년 스마트도시 조성사업 공모 시작](https://www.society-now.com/sonow/article/dt/dt26031902/dt26031902-ministry-of-land-2026-smart.html) | 디지털트윈 | 2026.03.19 |
+| [2025년 한국 스마트시티 사업 1조 2,000억 원 투입, 30개 도시로 확산](https://www.society-now.com/sonow/article/dt/dt26031901/dt26031901-2025-korea-smart-city-1.html) | 디지털트윈 | 2026.03.19 |
 
 <!-- /AUTO-UPDATE:TODAY_HEADLINES -->
 
@@ -72,10 +72,10 @@ Hidden Korea · K-콘텐츠 · K-POP · K-BEAUTY · K-HEALTH
 <!-- AUTO-UPDATE:STATS -->
 | 항목 | 수치 |
 |------|------|
-| 전체 기사 | 99개 |
-| 카테고리 | 3개 |
+| 전체 기사 | 127개 |
+| 카테고리 | 5개 |
 | YouTube 채널 | 3개 |
-| 마지막 업데이트 | 2026-03-18 |
+| 마지막 업데이트 | 2026-03-19 |
 
 <!-- /AUTO-UPDATE:STATS -->
 
