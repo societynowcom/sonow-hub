@@ -1,0 +1,36 @@
+---
+title: "애플 시리 개편 2026년 연기, Veritas ChatGPT 앱 테스트 – SO,NOW"
+description: "애플이 인공지능 기반 시리(Siri) 개편을 2026년으로 연기했다. 동시에 Veritas의 ChatGPT 통합 앱이 테스트 단계에 진입하면서 AI 어시스턴트 시장의 경쟁이 심화되고 있다."
+date: "2025-09-28"
+category: "TECH & AI"
+image: "https://www.society-now.com/sonow/article/ta/ta25092838/ta25092838.png"
+keywords: "애플 시리, 시리 개편, ChatGPT, Veritas 앱, AI 어시스턴트, 인공지능"
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ta/ta25092838/ta25092838-애플-시리개편.html"
+lang: "ko"
+---
+
+# 애플 시리 개편 2026년 연기, Veritas ChatGPT 앱 테스트 – SO,NOW
+
+**TECH & AI** | 2025.09.28 | SO,NOW
+
+애플이 인공지능 기반 시리(Siri) 개편을 2026년으로 연기했다. 동시에 Veritas의 ChatGPT 통합 앱이 테스트 단계에 진입하면서 AI 어시스턴트 시장의 경쟁이 심화되고 있다.
+
+> **[Read full article on SO,NOW](https://www.society-now.com/sonow/article/ta/ta25092838/ta25092838-애플-시리개편.html)**
+
+**Keywords:** 애플 시리 · 시리 개편 · ChatGPT · Veritas 앱 · AI 어시스턴트 · 인공지능
+
+## Related
+
+- [서초AICT 우수기업센터 27개 AI 스타트업 입주…차세대 유니콘 육성 본격화](./2026-03-14-서초AICT-우수기업센터-27개-AI-스타트업-입주차세대-유니콘-육성-본격화.md) (2026.03.14)
+- [애플, 2026년 가을 첫 폴더블 아이폰 출시…7.8인치 내부 화면과 A20 프로 칩 탑재](./2026-03-14-애플-2026년-가을-첫-폴더블-아이폰-출시78인치-내부-화면과-A20-프로-칩-탑재.md) (2026.03.14)
+- [AI 에이전트 스타트업 Gumloop, 벤치마크로부터 5000만 달러 투자 유치](./2026-03-14-AI-에이전트-스타트업-Gumloop-벤치마크로부터-5000만-달러-투자-유치.md) (2026.03.14)
+
+## More
+
+- 💰 [트럼프, 제약품 100% 관세 부과와 틱톡 140억 달러 거래 동시 승인](../economy/articles/2026-03-15-트럼프-제약품-100-관세-부과와-틱톡-140억-달러-거래-동시-승인.md)
+- 🎭 [13년 만의 쾌거 K팝 OST '골든', 英 오피셜 차트 1위](../k-culture/articles/2026-03-15-13년-만의-쾌거-K팝-OST-골든-오피셜-차트-1위.md)
+
+---
+
+**[Full Article → SO,NOW](https://www.society-now.com/sonow/article/ta/ta25092838/ta25092838-애플-시리개편.html)** | *[Home](../../README.md) | [🤖 TECH & AI](../README.md)*

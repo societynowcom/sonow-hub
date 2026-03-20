@@ -1,0 +1,36 @@
+---
+title: "Autogen 협업 패턴, AI 개발 효율성 혁신 코더·리뷰어·테스터 에이전트 설계 – SO,NOW"
+description: "마이크로소프트의 Autogen 프레임워크는 코더, 리뷰어, 테스터 에이전트가 협업하여 소프트웨어 개발을 자동화하는 시스템입니다. 다중 에이전트 구조는 단일 AI 모델의 한계를 극복하고 오류 발견 확률을 높이며, 향후 다양한 역할의 에이전트 추가로 완전 자동화 시스템으로 진화할 것으로 예..."
+date: "2025-09-02"
+category: "TECH & AI"
+image: "https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274.png"
+keywords: "Autogen, AI 에이전트, 다중 에이전트 협업, 소프트웨어 개발 자동화, 코드 리뷰, 마이크로소프트, 프레임워크"
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen-AI-에이전트.html"
+lang: "ko"
+---
+
+# Autogen 협업 패턴, AI 개발 효율성 혁신 코더·리뷰어·테스터 에이전트 설계 – SO,NOW
+
+**TECH & AI** | 2025.09.02 | SO,NOW
+
+마이크로소프트의 Autogen 프레임워크는 코더, 리뷰어, 테스터 에이전트가 협업하여 소프트웨어 개발을 자동화하는 시스템입니다. 다중 에이전트 구조는 단일 AI 모델의 한계를 극복하고 오류 발견 확률을 높이며, 향후 다양한 역할의 에이전트 추가로 완전 자동화 시스템으로 진화할 것으로 예상됩니다.
+
+> **[Read full article on SO,NOW](https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen-AI-에이전트.html)**
+
+**Keywords:** Autogen · AI 에이전트 · 다중 에이전트 협업 · 소프트웨어 개발 자동화 · 코드 리뷰 · 마이크로소프트 · 프레임워크
+
+## Related
+
+- [서초AICT 우수기업센터 27개 AI 스타트업 입주…차세대 유니콘 육성 본격화](./2026-03-14-서초AICT-우수기업센터-27개-AI-스타트업-입주차세대-유니콘-육성-본격화.md) (2026.03.14)
+- [애플, 2026년 가을 첫 폴더블 아이폰 출시…7.8인치 내부 화면과 A20 프로 칩 탑재](./2026-03-14-애플-2026년-가을-첫-폴더블-아이폰-출시78인치-내부-화면과-A20-프로-칩-탑재.md) (2026.03.14)
+- [AI 에이전트 스타트업 Gumloop, 벤치마크로부터 5000만 달러 투자 유치](./2026-03-14-AI-에이전트-스타트업-Gumloop-벤치마크로부터-5000만-달러-투자-유치.md) (2026.03.14)
+
+## More
+
+- 💰 [삼성전자 상반기 평균 급여 6,000만원… 고액 보수 논란 재점화](../economy/articles/2026-03-15-삼성전자-상반기-평균-급여-6000만원-고액-보수-논란-재점화.md)
+- 🎭 [13년 만의 쾌거 K팝 OST '골든', 英 오피셜 차트 1위](../k-culture/articles/2026-03-15-13년-만의-쾌거-K팝-OST-골든-오피셜-차트-1위.md)
+
+---
+
+**[Full Article → SO,NOW](https://www.society-now.com/sonow/article/ta/ta25090274/ta25090274-Autogen-AI-에이전트.html)** | *[Home](../../README.md) | [🤖 TECH & AI](../README.md)*
