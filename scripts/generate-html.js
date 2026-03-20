@@ -224,12 +224,39 @@ function buildArticleHtml(meta, bodyHtml, githubUrl) {
         'articleSection':   category
     });
 
+    // hreflang: 다국어 연결 (중복 콘텐츠 방지 + 국가별 노출)
+    const lang = meta.lang || 'ko';
+    const ogLocale = { ko: 'ko_KR', en: 'en_US', ja: 'ja_JP', zh: 'zh_CN' }[lang] || 'ko_KR';
+    const siteName = lang === 'ko' ? 'SO,NOW' : 'JustNow';
+    const htmlLang = lang === 'zh' ? 'zh-Hans' : lang;
+
+    // hreflang 태그 생성 (sourceUrl 기반으로 다른 언어 URL 추론)
+    let hreflangTags = '';
+    if (sourceUrl.includes('society-now.com') || sourceUrl.includes('justnow.kr')) {
+        // 한국어 원본 URL 추출
+        const koBase = 'https://www.society-now.com';
+        const jnBase = 'https://justnow.kr';
+        // article path 추출 (예: /sonow/article/ai/ai260319/...)
+        const pathMatch = sourceUrl.match(/\/article\/([^/]+)\/([^/]+)\//);
+        if (pathMatch) {
+            const cat = pathMatch[1];
+            const id = pathMatch[2];
+            const koUrl = `${koBase}/sonow/article/${cat}/${id}/`;
+            hreflangTags =
+                '  <link rel="alternate" hreflang="ko" href="' + koUrl + '">\n' +
+                '  <link rel="alternate" hreflang="en" href="' + jnBase + '/en/article/' + cat + '/">\n' +
+                '  <link rel="alternate" hreflang="ja" href="' + jnBase + '/ja/article/' + cat + '/">\n' +
+                '  <link rel="alternate" hreflang="zh" href="' + jnBase + '/zh/article/' + cat + '/">\n' +
+                '  <link rel="alternate" hreflang="x-default" href="' + koUrl + '">\n';
+        }
+    }
+
     return '<!DOCTYPE html>\n' +
-        '<html lang="ko">\n' +
+        '<html lang="' + htmlLang + '">\n' +
         '<head>\n' +
         '  <meta charset="UTF-8">\n' +
         '  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n' +
-        '  <title>' + esc(title) + ' | SO,NOW</title>\n' +
+        '  <title>' + esc(title) + ' | ' + siteName + '</title>\n' +
         '  <meta name="description" content="' + esc(description) + '">\n' +
         (keywords ? '  <meta name="keywords" content="' + esc(keywords) + '">\n' : '') +
         '  <meta property="og:type"        content="article">\n' +
@@ -237,13 +264,14 @@ function buildArticleHtml(meta, bodyHtml, githubUrl) {
         '  <meta property="og:description" content="' + esc(description) + '">\n' +
         (absImage ? '  <meta property="og:image" content="' + absImage + '">\n' : '') +
         '  <meta property="og:url"         content="' + sourceUrl + '">\n' +
-        '  <meta property="og:locale"      content="ko_KR">\n' +
-        '  <meta property="og:site_name"   content="SO,NOW">\n' +
+        '  <meta property="og:locale"      content="' + ogLocale + '">\n' +
+        '  <meta property="og:site_name"   content="' + siteName + '">\n' +
         '  <meta name="twitter:card"        content="summary_large_image">\n' +
         '  <meta name="twitter:title"       content="' + esc(title) + '">\n' +
         '  <meta name="twitter:description" content="' + esc(description) + '">\n' +
         (absImage ? '  <meta name="twitter:image" content="' + absImage + '">\n' : '') +
         '  <link rel="canonical" href="' + sourceUrl + '">\n' +
+        hreflangTags +
         '  <script type="application/ld+json">' + structuredData + '</script>\n' +
         CSS + '\n' +
         '</head>\n' +
@@ -663,7 +691,9 @@ async function main() {
     console.log('══════════════════════════════════════════════');
 }
 
-main().catch(err => {
+main().then(() => {
+    process.exit(0);
+}).catch(err => {
     console.error('오류:', err.message);
     process.exit(1);
 });
