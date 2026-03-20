@@ -230,25 +230,12 @@ function buildArticleHtml(meta, bodyHtml, githubUrl) {
     const siteName = lang === 'ko' ? 'SO,NOW' : 'JustNow';
     const htmlLang = lang === 'zh' ? 'zh-Hans' : lang;
 
-    // hreflang 태그 생성 (sourceUrl 기반으로 다른 언어 URL 추론)
+    // hreflang: 현재 언어 + x-default만 출력 (대응 기사 없는 언어는 빼야 SEO 안전)
     let hreflangTags = '';
     if (sourceUrl.includes('society-now.com') || sourceUrl.includes('justnow.kr')) {
-        // 한국어 원본 URL 추출
-        const koBase = 'https://www.society-now.com';
-        const jnBase = 'https://justnow.kr';
-        // article path 추출 (예: /sonow/article/ai/ai260319/...)
-        const pathMatch = sourceUrl.match(/\/article\/([^/]+)\/([^/]+)\//);
-        if (pathMatch) {
-            const cat = pathMatch[1];
-            const id = pathMatch[2];
-            const koUrl = `${koBase}/sonow/article/${cat}/${id}/`;
-            hreflangTags =
-                '  <link rel="alternate" hreflang="ko" href="' + koUrl + '">\n' +
-                '  <link rel="alternate" hreflang="en" href="' + jnBase + '/en/article/' + cat + '/">\n' +
-                '  <link rel="alternate" hreflang="ja" href="' + jnBase + '/ja/article/' + cat + '/">\n' +
-                '  <link rel="alternate" hreflang="zh" href="' + jnBase + '/zh/article/' + cat + '/">\n' +
-                '  <link rel="alternate" hreflang="x-default" href="' + koUrl + '">\n';
-        }
+        hreflangTags =
+            '  <link rel="alternate" hreflang="' + lang + '" href="' + sourceUrl + '">\n' +
+            '  <link rel="alternate" hreflang="x-default" href="' + sourceUrl + '">\n';
     }
 
     return '<!DOCTYPE html>\n' +
