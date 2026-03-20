@@ -5,7 +5,12 @@ on:
     # 매일 07:45 KST (22:45 UTC 전날), 08:45 KST (23:45 UTC 전날)
     - cron: '45 22 * * *'
     - cron: '45 23 * * *'
-  workflow_dispatch: # 수동 실행 가능
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'HTML 전체 재생성 (--force)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -30,7 +35,7 @@ jobs:
         run: TZ=Asia/Seoul node scripts/generate-md.js --all
 
       - name: Generate HTML from MD files
-        run: TZ=Asia/Seoul node scripts/generate-html.js
+        run: TZ=Asia/Seoul node scripts/generate-html.js ${{ github.event.inputs.force == 'true' && '--force' || '' }}
 
       - name: Check for changes
         id: check
