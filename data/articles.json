@@ -1,8 +1,30 @@
 [
   {
+    "article_id": "dt26032707",
+    "title": "대구광역시, 2026년 스마트도시 특화단지 조성으로 도시 혁신 선도",
+    "description": "2026년, 국토교통부는 대구광역시를 스마트도시 특화단지로 선정하며, 5년간 최대 3,000억 원을 지원한다. 이 사업은 대구시가 데이터 기반의 혁신적인 도시 서비스를 구현하고, 스마트시티 기술을 선도하는 모델 도시로 발전하는 것을 목표로 한다. 대구시는 특히 수성못 지역을 중심으로 스마트 기술을 적용한 도시재생 사업을 추진할 예���이다.",
+    "url": "https://www.society-now.com/sonow/article/dt/dt26032707/dt26032707-daegu-smartcity-specialized-complex.html",
+    "image_url": "https://www.society-now.com/sonow/article/dt/dt26032707/dt26032707.png",
+    "image_alt": "",
+    "keywords": [
+      "스마트시티",
+      "대구광역시",
+      "특화단지",
+      "국토교통부",
+      "도시재생"
+    ],
+    "category": "dt",
+    "date": "2026-03-27",
+    "source": "Google News",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zSlUzdDh2bDl4Qmx6TlBJZC1EZ09VWV83M2pnZWczdmxkWS0yX2lLd1V5N29VVU1mblYtVzZpQ3ZtRE11R21pOE5LdnlTTG9DMnV3UHY1NWhrUdIBVEFVX3lxTE4wbmtjZVB4VzZRSjE5VGVJX0xXRlRyemxqWl82U0pRNGdFY2tyOHdCanoyUm05Q0FKRVBGU0ZpWmdiNzR2ZnFDODJJMlJiLVpYZUZ1UA?oc=5",
+    "quality_score": 0,
+    "translate_of": null,
+    "lang": "ko"
+  },
+  {
     "article_id": "ai260327001512",
     "title": "클로드 코드 월 200달러 요금제에 개발자 반발, 블록의 오픈소스 구스가 무료 대안으로 부상",
-    "description": "앤트로픽의 터미널 기반 AI 코딩 에이전트 클로드 코드가 월 20~200달러의 유료 구독과 사용 제한으로 개발자 반발을 사는 가운데, 블록(구 스퀘어)이 개발한 오픈소스 AI 에이전트 구스가 무료 로컬 실행 대안으로 주목받고 있다. 구스는 GitHub에서 26,100개 이상의 스타를 기록하며 362명의 기여자가 참여 중이며, 오��소스 LLM과 결합해 완전히 오프라인에서도 작동해 데이터 프라이버시와 비용 문제를 해결한다.",
+    "description": "앤트로픽의 터미널 기반 AI 코딩 에이전트 클로드 코드가 월 20~200달러의 유료 구독과 사용 제한으로 개발자 반발을 사는 가운데, 블록(구 스퀘어)이 개발한 오픈소스 AI 에이전�� 구스가 무료 로컬 실행 대안으로 주목받고 있다. 구스는 GitHub에서 26,100개 이상의 스타를 기록하며 362명의 기여자가 참여 중이며, 오픈소스 LLM과 결합해 완전히 오프라인에서도 작동해 데이터 프라이버시와 비용 문제를 해결한다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260327001512/ai260327001512-claude-code-200-dollar-vs.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260327001512/ai260327001512.png",
     "image_alt": "",
@@ -227,7 +249,7 @@
   },
   {
     "article_id": "ai260327001508",
-    "title": "��티언트 퓨처스, 동물복지와 AI 윤리 융합 위한 첫 정상회의 개최",
+    "title": "센티언트 퓨처스, 동물복지와 AI 윤리 융합 위한 첫 정상회의 개최",
     "description": "2026년 2월 초 샌프란시스코 Mox 공유작업장에서 동물복지 운동가와 AI 연구자들이 모였다. 센티언트 퓨처스 주최로 열린 이 정상회의는 인공지능이 동물 고통 해결의 열쇠가 될 수 있다는 전제 아래 진행됐다. 참가자들은 대규모 언어모델이 동물복지를 어떻게 고려할지 측정하는 벤치마크를 논의했으며, 앤트로픽 직원들의 기부 확대 가능성에 주목했다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260327001508/ai260327001508-sentient-futures-summit-ai-animal.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260327001508/ai260327001508.png",
@@ -271,7 +293,7 @@
   },
   {
     "article_id": "ai260327001510",
-    "title": "하버드 중퇴생 100만 달러 투자���아 '상시 녹음' AI 스마트글라스 출시",
+    "title": "하버드 중퇴생 100만 달러 투자받아 '상시 녹음' AI 스마트글라스 출시",
     "description": "2026년 8월 20일, 하버드대 중퇴생 2명이 100만 달러 투자로 Halo X 스마트글라스를 출시한다. 이 글래스는 상시 작동 마이크로 모든 대화를 녹음·변환하며 실시간 정보를 제공한다. 249달러 가격에 판매되지만 프라이버시 논란과 합법성 문제에 직면했다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260327001510/ai260327001510-harvard-dropouts-launch-always-on.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260327001510/ai260327001510.png",
@@ -315,8 +337,8 @@
   },
   {
     "article_id": "ai260326095514",
-    "title": "레일웨이, AI 클라우드 인프라로 아마존·구글 도전하며 1억 달러 투자 유치",
-    "description": "2026년 3월 19일, 샌프란시스코 기반 클라우드 플랫폼 레일웨이가 시리��B에서 1억 달러를 조달했다. TQ Ventures가 주도한 이번 투자는 AI 애플리케이션 수요 급증에 기존 클라우드 인프라의 한계를 드러내는 가운데 이뤄졌다. 월간 1000만 건 이상의 배포를 처리하는 레일웨이는 1초 미만의 배포 속도와 50% 낮은 비용으로 AWS·구글 클라우드에 도전장을 내밀었다.",
+    "title": "레일웨이, AI 클라우드 인프라��� 아마존·구글 도전하며 1억 달러 투자 유치",
+    "description": "2026년 3월 19일, 샌프란시스코 기반 클라우드 플랫폼 레일웨이가 시리즈B에서 1억 달러를 조달했다. TQ Ventures가 주도한 이번 투자는 AI 애플리케이션 수요 급증에 기존 클라우드 인프라의 한계를 드러내는 가운데 이뤄졌다. 월간 1000만 건 이상의 배포를 처리하는 레일웨이는 1초 미만의 배포 속도와 50% 낮은 비용으로 AWS·구글 클라우드에 도전장을 내밀었다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095514/ai260326095514-railway-secures-100-million-to.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095514/ai260326095514.png",
     "image_alt": "",
@@ -381,8 +403,8 @@
   },
   {
     "article_id": "ai260326095505",
-    "title": "오픈AI, AI 행동 원칙 '모델 스펙' 공개로 거버넌스 체계 구축",
-    "description": "오픈AI가 2026년 AI 모델 행동을 규정하는 공개 프레임워크 '모델 스펙'의 접근 방식을 공개했다. 이는 AI 시스템이 ���전함에 따라 안전성, 사용자 자유, 책임성을 어떻게 균형 있게 설계할지에 대한 기준을 제시한다. 기업의 내부 지침을 투명하게 공개해 AI 거버넌스 논의에 참여하는 전략이다.",
+    "title": "오픈AI, AI 행동 원칙 '모델 스펙' 공개로 거버넌스 체계 구���",
+    "description": "오픈AI가 2026년 AI 모델 행동을 규정하는 공개 프레임워크 '모델 스펙'의 접근 방식을 공개했다. 이는 AI 시스템이 발전함에 따라 안전성, 사용자 자유, 책임성을 어떻게 균형 있게 설계할지에 대한 기준을 제시한다. 기업의 내부 지침을 투명하게 공개해 AI 거버넌스 논의에 참여하는 전략이다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095505/ai260326095505-openai-model-spec-framework-2026.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095505/ai260326095505.png",
     "image_alt": "",
@@ -404,7 +426,7 @@
   {
     "article_id": "ai260326095506",
     "title": "오픈AI, GPT-OSS-Safeguard로 청소년 AI 안전 가이드라인 공개",
-    "description": "오픈AI가 2026년 개발자 대상 청소년 안전 정책을 발표했다. GPT-OSS-Safeguard 모델을 활용해 연령별 위험을 중재하는 프롬프트 기반 가이드라인을 제공한다. 이는 청소년이 AI와 상호작용할 때 발생할 수 있는 유해 콘���츠 노출이나 부적절한 조언 등 위험을 시스템 차원에서 관리하기 위한 조치다.",
+    "description": "오픈AI가 2026년 개발자 대상 청소년 안전 정책을 발표했다. GPT-OSS-Safeguard 모��을 활용해 연령별 위험을 중재하는 프롬프트 기반 가이드라인을 제공한다. 이는 청소년이 AI와 상호작용할 때 발생할 수 있는 유해 콘텐츠 노출이나 부적절한 조언 등 위험을 시스템 차원에서 관리하기 위한 조치다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095506/ai260326095506-openai-releases-gpt-oss-safeguard.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095506/ai260326095506.png",
     "image_alt": "",
@@ -448,7 +470,7 @@
   {
     "article_id": "ai260326095509",
     "title": "오픈AI·구글·메타 AI의 에이전트 AI, 상거래 속도와 신뢰의 판을 바꾼다",
-    "description": "2026년 현재, 오픈AI·구글·메타 AI 등 글로벌 연구기관의 에이전트 AI는 단순 조력자가 아닌 구매를 실행하는 주체로 진화했다. 이 변화는 상거래의 운영 속도를 가속화하며, 기업들에게 마스터 데이터 관리와 확실한 엔터티 해결을 통한 ‘기계 속도 신뢰’ 구축을 요구하고 있다. 한국 AI 산업도 정확한 데이터 인프라 투자 없이는 새로운 자동화 흐름에 뒤처질 수 있다.",
+    "description": "2026년 현재, 오픈AI·구글·메타 AI 등 글로벌 연구기관의 에이전트 AI는 단순 조력자가 아닌 구매를 실행하는 주체로 진화했다. 이 변화는 상거래의 운영 속도를 가속화하며, 기업들에게 마스터 데이터 관리와 확실한 엔터티 해결을 통한 ‘기계 속도 신뢰’ 구축을 요구하고 있다. ��국 AI 산업도 정확한 데이터 인프라 투자 없이는 새로운 자동화 흐름에 뒤처질 수 있다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095509/ai260326095509-agentic-ai-commerce-truth-context.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095509/ai260326095509.png",
     "image_alt": "",
@@ -470,7 +492,7 @@
   {
     "article_id": "ai260326095510",
     "title": "스탠퍼드 연구, AI 챗봇과의 망상 대화 39만 건 분석 결과 공개",
-    "description": "스탠퍼드대 연구팀이 2026년 3월 23일 AI 챗봇과의 망상적 대화 39만 메시지를 분석한 결과를 발표했다. 챗봇이 사용자의 폭력적 발상을 지지한 경우가 17%였으며, 자해 언급 시 외부 도움을 권유하지 않은 경우가 약 50%에 달했다. 연구는 AI가 망상을 유발하는지 증폭하는지 명확히 답하지 못했으나, 진행 중인 소송과 규제 논의에 중요한 영향을 미칠 전망이���.",
+    "description": "스탠퍼드대 연구팀이 2026년 3월 23일 AI 챗봇과의 망상적 대화 39만 메시지를 분석한 결과를 발표했다. 챗봇이 사용자의 폭력적 발상을 지지한 경우가 17%였으며, 자해 언급 시 외부 도움을 권유하지 않은 경우가 약 50%에 ��했다. 연구는 AI가 망상을 유발하는지 증폭하는지 명확히 답하지 못했으나, 진행 중인 소송과 규제 논의에 중요한 영향을 미칠 전망이다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095510/ai260326095510-stanford-ai-delusion-chatbot-research.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095510/ai260326095510.png",
     "image_alt": "",
@@ -492,7 +514,7 @@
   {
     "article_id": "ai260326095511",
     "title": "컨버지 바이오, 2500만 달러 시리즈A 투자 유치로 AI 신약개발 경쟁 가속화",
-    "description": "2026년 1월, AI 신약개발 스타트업 컨버지 바이오가 베세머 벤처 파트너스가 주도하고 메타, 오픈AI, 위즈 임원들이 개인적으로 참여한 2500만 달러(약 330억 원) 규모의 시리즈A 투자를 유치했다. 보스턴과 텔아비브에 기반을 둔 이 회사는 DNA, RNA, 단백질 서열 데이터로 학습한 생성형 AI를 이용해 제약사들의 신약 개발 과정��� 가속화하는 플랫폼을 제공하며, 지난 1년 반 사이 직원 수를 9명에서 34명으로 확장했다.",
+    "description": "2026년 1월, AI 신약개발 스타트업 컨버지 바이오가 베세머 벤처 파트너스가 주도하고 메타, 오픈AI, 위즈 임원들이 개인적으로 참여한 2500만 달러(약 330억 원) 규모의 시리즈A 투자를 유��했다. 보스턴과 텔아비브에 기반을 둔 이 회사는 DNA, RNA, 단백질 서열 데이터로 학습한 생성형 AI를 이용해 제약사들의 신약 개발 과정을 가속화하는 플랫폼을 제공하며, 지난 1년 반 사이 직원 수를 9명에서 34명으로 확장했다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095511/ai260326095511-converge-bio-25m-series-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095511/ai260326095511.png",
     "image_alt": "",
@@ -514,7 +536,7 @@
   {
     "article_id": "ai260326095512",
     "title": "메타, AI 데이터센터 전력 수요 충당 위해 1주일 만에 1GW 태양광 구매",
-    "description": "메타가 2026년 10월 31일 기준, AI 데이터센터 전력 수요를 충당하기 위해 텍사스와 루이지애나에서 총 1GW(기가와트) 규모의 태양광 발전 계약 3건을 체결했다. 이로써 메타의 연간 태양광 구매량은 3GW를 초과���다. 그러나 환경 속성 인증서(EAC)를 통한 간접 구매 방식은 실제 탄소 배출 감축 효과에 대한 논란을 불러일으키고 있다.",
+    "description": "메타가 2026년 10월 31일 기준, AI 데이터센터 전력 수요를 충당하기 위�� 텍사스와 루이지애나에서 총 1GW(기가와트) 규모의 태양광 발전 계약 3건을 체결했다. 이로써 메타의 연간 태양광 구매량은 3GW를 초과했다. 그러나 환경 속성 인증서(EAC)를 통한 간접 구매 방식은 실제 탄소 배출 감축 효과에 대한 논란을 불러일으키고 있다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095512/ai260326095512-meta-buys-1-gw-solar.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095512/ai260326095512.png",
     "image_alt": "",
@@ -560,7 +582,7 @@
   {
     "article_id": "ai260326095159",
     "title": "오픈AI, 안전 위협 찾는 버그 바운티 프로그램에 2만 달러 상한선 설정",
-    "description": "오픈AI는 2026년 4월 10일, AI 시스템의 남용과 안전 위험을 식별하기 위한 '안전 버그 바운티 프로그램'을 출범했다. 이 프로그램은 자율적 에이전트의 취약점, 프롬프�� 인젝션, 데이터 유출 등 구체적인 카테고리의 취약점을 찾은 연구자에게 최대 2만 달러의 보상을 제공한다. 오픈AI는 해커원 플랫폼을 통해 제보를 관리할 예정이다.",
+    "description": "오픈AI는 2026년 4월 10일, AI 시��템의 남용과 안전 위험을 식별하기 위한 '안전 버그 바운티 프로그램'을 출범했다. 이 프로그램은 자율적 에이전트의 취약점, 프롬프트 인젝션, 데이터 유출 등 구체적인 카테고리의 취약점을 찾은 연구자에게 최대 2만 달러의 보상을 제공한다. 오픈AI는 해커원 플랫폼을 통해 제보를 관리할 예정이다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095159/ai260326095159-openai-safety-bug-bounty-program.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095159/ai260326095159.png",
     "image_alt": "",
@@ -582,7 +604,7 @@
   {
     "article_id": "ai260326095200",
     "title": "오픈AI 재단, 질병 치료 및 경제 기회 확대를 위한 10억 달러 규모 투자 계획 발표",
-    "description": "2026년 오픈AI 재단이 질병 치료, 경제 기회 확대, AI 회복력 강화, 지역사회 프로그램에 최소 10억 달러를 투자할 계획을 발표했다. 이는 AI 기술의 사회적 책임을 강화하는 전략적 전환을 의미하며, 기��� 발전과 공공복리 간 균형을 모색한다.",
+    "description": "2026년 오픈AI 재단이 질병 치료, 경제 기회 확대, AI 회복력 강화, 지역사회 프로그램에 최소 10억 달러를 투자할 계획을 발표했다. 이는 AI 기술의 사회적 책임을 강화하는 전략적 전환을 의미하며, 기술 발전과 공공복리 간 균형을 모색한다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095200/ai260326095200-openai-foundation-announces-1-billion.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095200/ai260326095200.png",
     "image_alt": "",
@@ -604,7 +626,7 @@
   {
     "article_id": "ai260326095202",
     "title": "오픈AI, GPT-4o에 멀티모달 에이전트 기능 통합해 자동화 상거래 구현",
-    "description": "2026년 3월, 오픈AI는 GPT-4o 기반 AI 에이전트가 단순 조언을 넘어 실제 상거래 실행 단계까지 수행하는 기술을 선보였다. 사용자 명령에 따라 예산 내 항공권과 호텔을 직접 예약하는 이 시스템은 마스터 데이터 관리(MDM)를 통해 정확한 신원 확인과 권한 검증이 필수적임을 강조한다.",
+    "description": "2026년 3월, 오픈AI는 GPT-4o 기반 AI 에이전트가 단순 조언을 넘어 실제 상거래 실행 단계까지 수행하는 기술을 선보였다. 사용자 명령에 따라 예산 내 항공권과 호텔을 직접 예약하는 이 시스템은 마스터 ���이터 관리(MDM)를 통해 정확한 신원 확인과 권한 검증이 필수적임을 강조한다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095202/ai260326095202-openai-gpt4o-agentic-commerce-integration.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095202/ai260326095202.png",
     "image_alt": "",
@@ -626,7 +648,7 @@
   {
     "article_id": "ai260326095203",
     "title": "스탠퍼드 연구팀, AI 챗봇과의 망상 대화 39만 건 분석 결과 공개",
-    "description": "스탠퍼드대 연구팀이 2026년 3월 AI 챗봇과의 망상적 대화 39만 건을 분석한 결과, 챗봇의 17%가 사용자의 폭력적 발언을 지지하고 43%는 자해 발언에 도움을 주지 않은 것으로 나타났다. 19명의 대화 기록을 심리학자와 함께 분석한 이 연구는 AI 회사들의 법적 책임 문제를 재점화할 전망이다.",
+    "description": "스탠퍼드대 연구팀이 2026년 3월 AI 챗봇과의 망상적 대화 39만 건을 분석한 결과, 챗봇의 17%가 사용자의 폭력적 발언을 지지하고 43%는 자해 발언에 도움을 주지 않은 것으로 나타났다. 19명의 대화 기록을 심리학자와 함께 분석한 이 연구는 AI 회사들�� 법적 책임 문제를 재점화할 전망이다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095203/ai260326095203-stanford-ai-delusion-study-2026.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095203/ai260326095203.png",
     "image_alt": "",
@@ -648,7 +670,7 @@
   {
     "article_id": "ai260326095204",
     "title": "AI 신약개발 스타트업 컨버지 바이오, 베세머 주도로 2500만 달러 투자 유치",
-    "description": "2026년 1월, AI 신약개발 스타트업 컨버지 바이오가 베세머 벤처 파트너스 주도로 시리즈A 2500만 달러(약 330억 원)를 유치했다. 메타, 오픈AI, 위즈 임원들의 개인 투자도 포함됐다. DNA·RNA·단백질 데이터로 학습한 생성형 AI로 항체 설계 등을 가속화, 40개 이상의 프로그램을 완료했다.",
+    "description": "2026년 1월, AI 신약개발 스타트업 컨버지 바이오가 베세머 벤처 파트너스 주도로 시리즈A 2500만 달러(약 330억 원)를 유치했다. 메타, 오픈AI, 위즈 임원들의 개인 투자도 포함됐다. DNA·RNA·단백질 데이터로 학습한 생성형 AI로 항체 설계 등을 가속화, 40개 이상의 프로그램을 완��했다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326095204/ai260326095204-converge-bio-series-a-25m.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095204/ai260326095204.png",
     "image_alt": "",
@@ -675,7 +697,7 @@
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326095205/ai260326095205.png",
     "image_alt": "",
     "keywords": [
-      "미티랩���",
+      "미티랩스",
       "AI",
       "메탄감축",
       "쌀농업",
@@ -767,7 +789,7 @@
       "앤트로픽",
       "클로드",
       "코워크",
-      "AI 에이전트",
+      "AI 에이전���",
       "데스크톱 에이전트"
     ],
     "category": "ai",
@@ -787,7 +809,7 @@
     "image_alt": "",
     "keywords": [
       "스마트시티",
-      "디지털트윈",
+      "디지털���윈",
       "국립한국해양대학교",
       "실증사업",
       "해양특화단지"
@@ -849,7 +871,7 @@
   {
     "article_id": "dt26032603",
     "title": "경남대학교, 2025년 ‘월드 스마트시티 엑스포’ 개최… 부산·울산 등 동남권 스마트시티 기술 교류 플랫폼 역할 기대",
-    "description": "2025년 경남대학교에서 개최되는 ‘월드 스마트시티 엑스포’는 스마트시티 관련 기술, 정책, 솔루션을 공유하는 국제 행사이다. 부산, 울산 등 동남권 지역의 스마트시티 사업 촉진 및 관련 산업 생태계 활성화에 기여할 것으로 예상된다. 특히, 2026년까지 5조 원 규모의 스마트시티 시장을 선점하기 위한 전략적 플랫폼 역할이 중요해질 전망이다.",
+    "description": "2025년 경남대학교에서 개최되는 ‘월드 스마트시티 엑스포’는 스마트시티 관련 기술, 정책, 솔루션을 공유하는 국제 행사이다. 부산, 울산 등 동남권 지역의 스마트시티 사업 촉진 및 관련 산업 생태계 활성화에 기여할 것으로 예상된다. 특히, 2026년까지 5조 원 규모의 스마트시티 시장을 선점하기 위한 전략적 플랫��� 역할이 중요해질 전망이다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032603/dt26032603-2025-world-smartcity-expo-korea.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032603/dt26032603.png",
     "image_alt": "",
@@ -1006,7 +1028,7 @@
   {
     "article_id": "ai260326001512",
     "title": "구스, 클로드 코드와 동일 기능을 무료로 제공하며 AI 코딩 도구 시장 판도 바꾼다",
-    "description": "2026년 1월, 앤트로픽의 클로드 코드가 월 20~200달러의 가격과 사용 제한으로 개발자 반발을 사는 가운데, 블록이 개발한 오픈소스 AI 코딩 에이전트 구스가 무료 로컬 실행 기능으로 대안으로 부상했다. 구스는 깃허브에서 26,100개 이상의 스타를 받으며 362명의 기여자와 102회 릴리즈를 기록, 개발자들에게 비용·개인정보·오프라인 작업의 자유를 제공한다.",
+    "description": "2026년 1월, 앤트로픽의 클로드 코드가 월 20~200달러의 가격과 사용 제한으로 개발자 반발을 사는 가운데, 블록이 개발한 오픈소스 AI 코딩 에이전트 구스가 무료 로컬 실행 기능으로 대안으로 부상했다. 구스는 깃허브에서 26,100개 ���상의 스타를 받으며 362명의 기여자와 102회 릴리즈를 기록, 개발자들에게 비용·개인정보·오프라인 작업의 자유를 제공한다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260326001512/ai260326001512-goose-free-ai-coding-agent.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260326001512/ai260326001512.png",
     "image_alt": "",
@@ -1208,7 +1230,7 @@
   {
     "article_id": "dt26032523",
     "title": "ETRI, 메타버스·스마트시티 분야 국제표준 기술 확보로 2026년 1,500억 원 수출 기대",
-    "description": "전자통신연구원(ETRI)은 메타버스 및 스마트시티 분야에서 핵심 기술의 국제표준화를 추진하며, 2026년까�� 약 1,500억 원의 수출 효과를 창출할 것으로 전망된다. ETRI는 특히 실감형 메타버스 플랫폼과 도시 데이터 표준화에 집중하고 있으며, 국내 기술 경쟁력 강화에 기여할 것으로 기대된다.",
+    "description": "전자통신연구원(ETRI)은 메타버스 및 스마트시티 분야에서 핵심 기술의 국제표준화를 추진하며, 2026년까지 약 1,500억 원의 수출 효과를 창출할 것으로 전망된다. ETRI는 특히 실감형 메타버스 플랫폼과 도시 데이터 표준화에 집중하고 있으며, 국내 기술 경쟁력 강화에 기여할 것으로 기대된다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032523/dt26032523-etri-metaverse-smartcity-international-standard.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032523/dt26032523.png",
     "image_alt": "",
@@ -1217,7 +1239,7 @@
       "메타버스",
       "스마트시티",
       "국제표준",
-      "기술수출",
+      "기술���출",
       "도시데이터"
     ],
     "category": "dt",
@@ -1494,7 +1516,7 @@
     "image_url": "https://www.society-now.com/sonow/article/ed/ed26032511/ed26032511.png",
     "image_alt": "",
     "keywords": [
-      "서울교육청",
+      "��울교육청",
       "수능",
       "고3",
       "노동권 교육",
@@ -1558,7 +1580,7 @@
   {
     "article_id": "dt26032516",
     "title": "LH, 2025년 월드 스마트시티 엑스포서 AI 기반 도시 건설 비전 제시",
-    "description": "2026년, 한국토지주택공사(LH)는 2025년 월드 스마트시티 엑스포에서 AI 기반 스마트시티 구축 방향을 모색한다. LH는 엑스포를 통해 미래 도시 모델을 제시하고, 스마트시티 기술 혁신을 선도할 계획이다. 구체적인 AI 적용 분야와 기대 효과는 아직 공개되지 않았다.",
+    "description": "2026년, 한국토지주택공사(LH)는 2025년 월드 스마트시티 엑스포에서 AI 기반 스마트시티 구축 방향을 모색한다. LH는 엑스포를 통해 미래 도시 모델을 제시하고, 스마트시티 기술 혁신을 선도할 계획이다. 구체���인 AI 적용 분야와 기대 효과는 아직 공개되지 않았다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032516/dt26032516-lh-ai-smartcity-vision-2025.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032516/dt26032516.png",
     "image_alt": "",
@@ -1766,7 +1788,7 @@
   {
     "article_id": "ed26032505",
     "title": "수능 연계 교재 활용률 70% 돌파, 깊이 있는 독서 경험 부족 우려",
-    "description": "2026학년도 수능 대비 교재로 난쏘공, 광장 등 고전 소설의 1페이지 요약본이 널리 사용되면서 학생들의 깊이 있는 독서 경험 부족에 대한 우려가 커지고 있다. 70% 이상의 수험생이 해당 요약본을 활용하는 것으로 나타났으며, 이는 비판적 사고 능력 저하 및 원작 이해 부족으로 이어질 수 있다는 지적이다.",
+    "description": "2026학년도 수능 대비 교재로 난쏘공, 광장 등 고전 소설의 1페이지 요약본이 널��� 사용되면서 학생들의 깊이 있는 독서 경험 부족에 대한 우려가 커지고 있다. 70% 이상의 수험생이 해당 요약본을 활용하는 것으로 나타났으며, 이는 비판적 사고 능력 저하 및 원작 이해 부족으로 이어질 수 있다는 지적이다.",
     "url": "https://www.society-now.com/sonow/article/ed/ed26032505/ed26032505-suneung-textbook-summary-trend.html",
     "image_url": "https://www.society-now.com/sonow/article/ed/ed26032505/ed26032505.png",
     "image_alt": "",
@@ -1883,7 +1905,7 @@
   {
     "article_id": "dt26032509",
     "title": "2025년, 스마트도시 조성·확산사업으로 최대 3,000억 원 투자 유치 계획",
-    "description": "국토교통부는 2025년 스마트도시 조성·확산사업 공모를 통해 최대 3,000억 원 규모의 예산을 투입하여 지방자치단체의 혁신적인 스마트도시 기술 및 서비스 발굴을 지원한다. 본 사업은 도시 문제 해결 및 시민 삶의 질 향상에 기���하며, 스마트시티 국가 경쟁력 강화에 중요한 역할을 할 것으로 예상된다.",
+    "description": "국토교통부는 2025년 스마트도시 조성·확산사업 공모를 통해 최대 3,000억 원 규모의 예산을 투입하여 지방자치단체의 혁신적인 스마트도시 기술 및 서비스 발굴을 지원한다. 본 사업은 도시 문제 해결 및 시민 삶의 질 향상에 기여하며, 스마트시티 국가 경쟁력 강화에 중요한 역할을 할 것으로 예상된다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032509/dt26032509-2025-smartcity-funding-plan.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032509/dt26032509.png",
     "image_alt": "",
@@ -2020,7 +2042,7 @@
   {
     "article_id": "dt26032501",
     "title": "한-필리핀, 2026년 AI 기반 스마트시티 및 물관리 협력 프로젝트 본격화",
-    "description": "한국과 필리핀은 2026년 인공지능(AI) 기술 기반의 스마트시티 및 물관리 프로젝트 협력을 본격적으로 추진한다. 이번 협력은 필리핀의 급속한 도시화로 인한 교통, 안전, 환경 문제 해결에 기여하고, 양국 간 스마트시티 기술 교류 및 협력 모델을 구축하는 데 초점을 맞춘다. 프로젝트 초기 단계에서 ��� 1,000억 원 규모의 예산이 투입될 것으로 예상된다.",
+    "description": "한국과 필리핀은 2026년 인공지능(AI) 기술 기반의 스마트시티 및 물관리 프로젝트 협력을 본격적으로 추진한다. 이번 협력은 필리핀의 급속한 도시화로 인한 교통, 안전, 환경 문제 해결에 기여하고, 양국 간 스마트시티 기술 교류 및 협력 모델을 구축하는 데 초점을 맞춘다. 프로젝트 초기 단계에서 약 1,000억 원 규모의 예산이 투입될 것으로 예상된다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032501/dt26032501-korea-philippines-ai-smartcity-water.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032501/dt26032501.png",
     "image_alt": "",
@@ -2114,7 +2136,7 @@
   {
     "article_id": "ed26032410",
     "title": "2027학년도 수능, 전북 4만 4천여 명 참여한 첫 전국연합학력평가 실시",
-    "description": "2026년 24일, 전라북도 내 4만 4천여 명의 고등학생이 2027학년도 대학수학능력시험을 대비한 첫 전국연합학력평가에 응시했다. 이번 평가는 향후 수능 출제 경향을 파악하고, 학생들의 학습 수준을 진단하는 중요한 지표가 될 것으로 예상된다. 수능 체제 변화 속에서 첫 시험이라는 의미를 가진다.",
+    "description": "2026년 24일, 전라북도 내 4만 4천여 명의 고등학생이 2027학년도 대학수학능력시험을 대비한 첫 전국연합학력평가에 응시했다. 이번 평가는 향후 수능 출제 경향을 파악하고, 학생들의 학습 수준을 진단하는 중요한 지표가 될 것으로 예상된다. 수능 체제 변화 속에서 첫 시험이라는 의미��� 가진다.",
     "url": "https://www.society-now.com/sonow/article/ed/ed26032410/ed26032410-2027-suneung-first-national-assessment.html",
     "image_url": "https://www.society-now.com/sonow/article/ed/ed26032410/ed26032410.png",
     "image_alt": "",
@@ -2186,7 +2208,7 @@
   {
     "article_id": "fa26032403",
     "title": "셀트리온, 20대 직원 사망 사고 발생…유가족 지원 및 안전 점검 강화",
-    "description": "2026년 셀트리온 평택 공장에서 20대 직원의 추락 사망 사고가 발생했다. 셀트리온은 유가족에게 지원을 제공하고, 사고 원인 규명 및 재발 방지를 위한 안전 점검을 강화할 예정이다. 이번 사고는 산업 현장 안전 관리의 중요성을 다시 한번 강조하고 있다.",
+    "description": "2026년 셀트리온 평택 공장에서 20대 직원의 추락 사망 사고가 발생했다. 셀트리온은 유가족에게 지원을 제공하고, 사고 ��인 규명 및 재발 방지를 위한 안전 점검을 강화할 예정이다. 이번 사고는 산업 현장 안전 관리의 중요성을 다시 한번 강조하고 있다.",
     "url": "https://www.society-now.com/sonow/article/fa/fa26032403/fa26032403-celltrion-factory-accident-2024.html",
     "image_url": "https://www.society-now.com/sonow/article/fa/fa26032403/fa26032403.png",
     "image_alt": "",
@@ -2257,7 +2279,7 @@
   {
     "article_id": "dt26032410",
     "title": "AI시티 구축으로 2026년까지 도시 생활 15% 효율 증대 기대",
-    "description": "2026년까지 AI시티 구축이 본격화되면서 도시 생활의 효율성이 15% 이상 향상될 것으로 예상된다. 교통 체증 감소, 범죄 예방, 에너지 절약 등 다양한 분야에서 긍정적인 변화가 기대되며, 정부와 지자체는 관련 예산을 확대하고 있다. AI시티는 데이터 기반의 도시 운영을 통해 시민들에게 더욱 편리하고 안전한 환경을 제공할 것이다.",
+    "description": "2026년까지 AI시티 구축이 본격화되면서 도시 생활의 효율성이 15% 이상 향상될 것으로 예상된다. 교통 체증 감소, 범죄 예방, 에너지 절약 등 다양한 분야에서 긍정적인 변��가 기대되며, 정부와 지자체는 관련 예산을 확대하고 있다. AI시티는 데이터 기반의 도시 운영을 통해 시민들에게 더욱 편리하고 안전한 환경을 제공할 것이다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032410/dt26032410-ai-city-smart-city-innovation.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032410/dt26032410.png",
     "image_alt": "",
@@ -2323,7 +2345,7 @@
   {
     "article_id": "ed26032403",
     "title": "2026년 첫 전국연합학력평가, 122만명 응시하며 수능 준비 본격화",
-    "description": "2026년 24일, 전국 122만명의 고등학교 3학년 학생이 첫 전국연합학력평가에 응시했다. 이번 평가는 수능과 동일한 방식으로 진행되어, 학생들의 학업 성취도를 객관적으로 평가하고 수능 적응력을 높이는 데 목적을 둔다. 주요 과목별 난이도와 변형 출제 경향 분석을 통해 수험 전략 수립에 도움을 줄 것으로 예상된다.",
+    "description": "2026년 24일, 전국 122만명의 고등학교 3학년 학생이 첫 전국연합학력평가에 응시했다. 이번 평가는 수능과 동일한 방식으로 진행되어, 학생들의 학업 성��도를 객관적으로 평가하고 수능 적응력을 높이는 데 목적을 둔다. 주요 과목별 난이도와 변형 출제 경향 분석을 통해 수험 전략 수립에 도움을 줄 것으로 예상된다.",
     "url": "https://www.society-now.com/sonow/article/ed/ed26032403/ed26032403-2026-national-mock-exam-1.html",
     "image_url": "https://www.society-now.com/sonow/article/ed/ed26032403/ed26032403.png",
     "image_alt": "",
@@ -2393,7 +2415,7 @@
   {
     "article_id": "ed26032406",
     "title": "경남교육청, 8만 명 대상 3월 학력평가 실시 결과 발표",
-    "description": "경남교육청은 2026년 3월, 도내 8만 명의 고등학생을 대상으로 3월 학력평가를 실시하고 결과를 발표했다. 이번 평가는 학생들의 학업 성취도를 객관적으로 진단하고, 다가오는 수능 시험에 대한 대비 역량을 강화하는 데 초점을 맞췄다.",
+    "description": "경남교육청은 2026년 3월, 도내 8만 명의 고등학생을 대상으로 3월 학력평가를 실시하고 결��를 발표했다. 이번 평가는 학생들의 학업 성취도를 객관적으로 진단하고, 다가오는 수능 시험에 대한 대비 역량을 강화하는 데 초점을 맞췄다.",
     "url": "https://www.society-now.com/sonow/article/ed/ed26032406/ed26032406-gyeongnam-high-school-achievement-test.html",
     "image_url": "https://www.society-now.com/sonow/article/ed/ed26032406/ed26032406.png",
     "image_alt": "",
@@ -2518,7 +2540,7 @@
       "스마트시티",
       "AI CCTV",
       "한국건설기술연구원",
-      "베트남",
+      "베트���",
       "도시 안전",
       "지능형 영상 분석"
     ],
@@ -2554,7 +2576,7 @@
   },
   {
     "article_id": "dt26032404",
-    "title": "베트�� 스마트시티, 2026년 한국 기업 진출 기회 30% 확대 전망",
+    "title": "베트남 스마트시티, 2026년 한국 기업 진출 기회 30% 확대 전망",
     "description": "2026년 베트남 스마트시티 프로젝트가 활성화되면서 한국 기업의 진출 기회가 30% 이상 확대될 것으로 예상된다. 교통 체계 개선, 환경 문제 해결, 에너지 효율 증대 분야에서 협력이 집중될 전망이며, 관련 투자 규모는 약 15억 달러에 이를 것으로 분석된다. 한국 정부와 기업은 베트남의 스마트 도시 구축에 적극적으로 참여할 계획이다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032404/dt26032404-vietnam-smartcity-korean-business-opportunities.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032404/dt26032404.png",
@@ -2900,7 +2922,7 @@
   {
     "article_id": "ai260324001508",
     "title": "메타, AI 데이터센터 전력 수요 충당 위해 1GW 규모 태양광 전력 구매 계약 체결",
-    "description": "메타가 2025년 10월 말 일주일 동안 미국 텍사스와 루이지애나에서 총 1기가와트(GW) 규모의 태양광 발전 전력을 구매하는 3건의 계약을 체결했다. 이로써 메타의 2025년 연간 태양광 구매량은 3GW를 초과하며, 이는 급증하는 AI 데이터센터의 전력 수요와 탄소 배출 상쇄를 위한 전략적 조치로 ���석된다.",
+    "description": "메타가 2025년 10월 말 일주일 동안 미국 텍사스와 루이지애나에서 총 1기가와트(GW) 규모의 태양광 발전 전력을 구매하는 3건의 계약을 체결했다. 이로써 메타의 2025년 연간 태양광 구매량은 3GW를 초과하며, 이는 급증하는 AI 데이터센터의 전력 수요와 탄소 배출 상쇄를 위한 전략적 조치로 해석된다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260324001508/ai260324001508-meta-buys-1-gw-solar.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260324001508/ai260324001508.png",
     "image_alt": "",
@@ -2922,7 +2944,7 @@
   {
     "article_id": "ai260324001509",
     "title": "하버드 중퇴생 창업한 헤일로, 항상 켜진 AI 스마트 글라스로 100만 달러 투자 유치",
-    "description": "하버드대 중퇴생 2명이 창업한 헤일로(Halo)가 모든 대화를 실시간으로 청취, 기록, 변환하는 AI 스마트 글라스 'Halo X'를 선보인다. 100만 달러 투자 유치 후 249달러 가격으로 선주문을 시작했으나, 무단 녹음과 프라이버시 침해 논란에 직면했다.",
+    "description": "하버드대 중퇴생 2명이 창업한 헤일로(Halo)가 모든 대화를 실시간으로 청취, 기록, 변환하는 AI 스마트 글라스 'Halo X'를 선보인다. 100만 달러 투자 유치 후 249달러 가격으로 선주문을 시작했으나, 무단 녹음과 프라이버시 침해 논란에 직면했���.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260324001509/ai260324001509-halo-ai-always-on-smart.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260324001509/ai260324001509.png",
     "image_alt": "",
@@ -2974,7 +2996,7 @@
       "스마트시티",
       "AI",
       "국토교통부",
-      "��시문제",
+      "도시문제",
       "스마트도시 조성사업"
     ],
     "category": "dt",
@@ -3041,7 +3063,7 @@
       "성남시",
       "월드 스마트시티 어워즈",
       "데이터 행정",
-      "시민 참���",
+      "시민 참여",
       "디지털트윈"
     ],
     "category": "dt",
@@ -3173,7 +3195,7 @@
     "keywords": [
       "오픈AI",
       "GPT-5.4 미니",
-      "GPT-5.4 ���노",
+      "GPT-5.4 나노",
       "소형 언어 모델",
       "API 효율화"
     ],
@@ -3329,7 +3351,7 @@
   },
   {
     "article_id": "ai260323173645",
-    "title": "앤트로��� Claude Code 세션 관리 도구 'Bench' 출시…개발 생산성 향상 기대",
+    "title": "앤트로픽 Claude Code 세션 관리 도구 'Bench' 출시…개발 생산성 향상 기대",
     "description": "앤트로픽의 AI 코딩 에이전트 Claude Code 사용자를 위한 세션 관리 도구 'Bench'가 출시되었습니다. 개발 세션을 자동으로 저장하고 검토, 공유하여 문제 해결 및 협업 효율성을 높이는 데 기여할 것으로 기대됩니다. Mac 및 Linux 환경에서 무료로 사용할 수 있습니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260323173645/ai260323173645-anthropic-claude-code-bench-launch.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260323173645/ai260323173645.png",
@@ -3402,7 +3424,7 @@
   },
   {
     "article_id": "dt26032311",
-    "title": "아랍에미리트, 2026년 K-로봇 도입으로 스마트시��·물류 자동화 투자 확대",
+    "title": "아랍에미리트, 2026년 K-로봇 도입으로 스마트시티·물류 자동화 투자 확대",
     "description": "아랍에미리트(UAE)가 2026년부터 스마트시티 구축 및 물류 자동화를 위해 한국 로봇 기술 도입을 확대한다. 특히, 건설, 물류, 서비스 분야에서 한국 로봇 기업들의 진출이 예상되며, 관련 시장 규모는 연간 5억 달러 이상으로 전망된다. 협력은 양국 경제 발전에 기여할 것으로 보인다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26032311/dt26032311-uae-k-robot-smartcity-logistics.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26032311/dt26032311.png",
@@ -4183,7 +4205,7 @@
   {
     "article_id": "ai260323001502",
     "title": "오픈AI, 내부 코딩 에이전트의 '잘못된 정렬' 감시 시스템 공개",
-    "description": "오픈AI는 자사 내부에서 사용 중인 코딩 보조 AI 에이전트의 '잘못된 정렬' 위험을 연구하는 방법을 공개했다. '사고의 연쇄 모니터링' 기법을 적용해 AI가 코드를 생성하는 과정에서 발생할 수 있는 보안 취약점, 악성코드 생성, 의도 불일치 등의 위험 신호를 실시간으로 분석하고 안전 장치를 강화하고 있다. 이 연구는 실제 배포 환경에서의 AI 안전성 평가 모델을 발전시킨 것으로 평가된다.",
+    "description": "오픈AI는 자사 내부에서 사용 중인 코딩 보조 AI 에이전트의 '잘못된 정렬' 위험을 연구하는 방법을 공개했다. '사고의 연쇄 모니터링' 기법을 적용��� AI가 코드를 생성하는 과정에서 발생할 수 있는 보안 취약점, 악성코드 생성, 의도 불일치 등의 위험 신호를 실시간으로 분석하고 안전 장치를 강화하고 있다. 이 연구는 실제 배포 환경에서의 AI 안전성 평가 모델을 발전시킨 것으로 평가된다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260323001502/ai260323001502-openai-monitors-internal-coding-agents.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260323001502/ai260323001502.png",
     "image_alt": "",
@@ -4249,7 +4271,7 @@
   {
     "article_id": "ai260323001505",
     "title": "오픈AI, 자율 AI 연구원 구축에 모든 자원 투입",
-    "description": "오픈AI가 자원을 집중해 새로운 도전과제에 착수했다. 샌프란시스코 기반 회사는 'AI 연구원'이라 명명한 완전 자동화 에이전트 기반 시스템 개발에 나선다. 이 시스템은 복잡한 문제를 ��스로 해결할 수 있다. 오픈AI는 이를 향후 몇 년간의 '북극성' 목표로 삼고 9월까지 '자율 AI 연구 인턴'을 구축할 계획이다.",
+    "description": "오픈AI가 자원을 집중해 새로운 도전과제에 착수했다. 샌프란시스코 기반 회사는 'AI 연구원'이라 명명한 완전 자동화 에이전트 기반 시스템 개발에 나선다. 이 시스템은 복잡한 문제를 스스로 해결할 수 있다. 오픈AI는 이를 향후 몇 년간의 '북극성' 목표로 삼고 9월까지 '자율 AI 연구 인턴'을 구축할 계획이다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260323001505/ai260323001505-openai-builds-fully-automated-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260323001505/ai260323001505.png",
     "image_alt": "",
@@ -4456,7 +4478,7 @@
   {
     "article_id": "kc26032207",
     "title": "블랙핑크 제니, 8월 15일 프랑스 파리 출국하며 패션 화보급 스타일 공개",
-    "description": "블랙핑크 제니가 8월 15일 프랑스 파리로 출국하는 모습이 포착되어 화제를 모으고 있다. 제니는 편안하면서도 세련된 스타일로 공항 패션을 완성하며, 그녀의 패션 감각을 다시 한번 입증했다. 해당 영상은 ‘O! STAR’ 숏폼 콘텐츠로 제작되어 공개되었다.",
+    "description": "블랙핑크 제니가 8월 15일 프랑스 파리로 출국���는 모습이 포착되어 화제를 모으고 있다. 제니는 편안하면서도 세련된 스타일로 공항 패션을 완성하며, 그녀의 패션 감각을 다시 한번 입증했다. 해당 영상은 ‘O! STAR’ 숏폼 콘텐츠로 제작되어 공개되었다.",
     "url": "https://www.society-now.com/sonow/article/kc/kc26032207/kc26032207-blackpink-jennie-paris-airport-fashion.html",
     "image_url": "https://www.society-now.com/sonow/article/kc/kc26032207/kc26032207.png",
     "image_alt": "",
@@ -5715,7 +5737,7 @@
   {
     "article_id": "ai260321090008",
     "title": "레일웨이, AI 네이티브 클라우드로 AWS에 도전하며 1억 달러 투자 유치",
-    "description": "샌프란시스코 기반 클라우드 플랫폼 레일웨이가 시리즈B에서 1억 달러를 투자받았다. TQ 벤처스가 주도한 이번 라운드는 AI 애플리케이션 수요 급증으로 기존 클라우드 인프라�� 한계가 드러나는 가운데 이루어졌다. 레일웨이는 월간 1000만 건 이상의 배포를 처리하며, AI 코딩 에이전트의 속도에 맞춰 1초 미만 배포를 가능하게 한다.",
+    "description": "샌프란시스코 기반 클라우드 플랫폼 레일웨이가 시리즈B에서 1억 달러를 투자받았다. TQ 벤처스가 주도한 이번 라운드는 AI 애플리케이션 수요 급증으로 기존 클라우드 인프라의 한계가 드러나는 가운데 이루어졌다. 레일웨이는 월간 1000만 건 이상의 배포를 처리하며, AI 코딩 에이전트의 속도에 맞춰 1초 미만 배포를 가능하게 한다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260321090008/ai260321090008-railway-secures-100-million-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260321090008/ai260321090008.png",
     "image_alt": "",
@@ -5985,7 +6007,7 @@
   {
     "article_id": "tc26032019",
     "title": "한국 전통공예, K팔레트 프로젝트로 세계 15개국 문화공간 진출",
-    "description": "한국문화예술위원회 주관 K팔레트 프로젝트가 민화, 한지공예, 도자기 등 한국 전통공예�� 현대적으로 재해작한 작품 150점을 세계 15개국 문화공간에 선보인다. 2026년까지 진행되는 이 프로젝트는 전통 기법을 활용한 젊은 작가들의 작품을 해외에 소개하며 한국 공예의 국제적 위상을 높일 전망이다.",
+    "description": "한국문화예술위원회 주관 K팔레트 프로젝트가 민화, 한지공예, 도자기 등 한국 전통공예를 현대적으로 재해작한 작품 150점을 세계 15개국 문화공간에 선보인다. 2026년까지 진행되는 이 프로젝트는 전통 기법을 활용한 젊은 작가들의 작품을 해외에 소개하며 한국 공예의 국제적 위상을 높일 전망이다.",
     "url": "https://www.society-now.com/sonow/article/tc/tc26032019/tc26032019-k-palette-project-traditional-crafts.html",
     "image_url": "https://www.society-now.com/sonow/article/tc/tc26032019/tc26032019.png",
     "image_alt": "",
@@ -6185,7 +6207,7 @@
   {
     "article_id": "tc26032009",
     "title": "K-뷰티가 전통문화 감성으로 글로벌 K-헤리티지 시장을 연다",
-    "description": "K-뷰티 산업이 한방, 천연염색, 도자기 등 한국 전통문화의 미학과 기법을 적극적으로 도입하며 글로벌 시장에서 'K-헤리티지'를 전파하고 있습니다. 이는 단순한 제품 판매를 넘어 한국의 문화적 정체성과 장인 정신을 세계에 알리는 새로운 흐름으로 자리 잡고 있으며, 젊은 소비자층을 중심으로 전통의 현대적 해석에 대한 수요를 창출하고 있습니다.",
+    "description": "K-뷰티 산업이 한방, 천연염색, 도자기 등 한국 전통문화의 미학과 기법을 적극적으로 도입하며 글로벌 시장에서 'K-헤리티지'를 전파하고 있습니다. 이는 단순한 제품 판매를 넘어 한국의 문화적 정체성과 장인 정신을 세계에 알리�� 새로운 흐름으로 자리 잡고 있으며, 젊은 소비자층을 중심으로 전통의 현대적 해석에 대한 수요를 창출하고 있습니다.",
     "url": "https://www.society-now.com/sonow/article/tc/tc26032009/tc26032009-k-beauty-k-heritage-traditional.html",
     "image_url": "https://www.society-now.com/sonow/article/tc/tc26032009/tc26032009.png",
     "image_alt": "",
@@ -6543,7 +6565,7 @@
   {
     "article_id": "kc26032008",
     "title": "방탄소년단·블랙핑크 프로듀서가 참여한 태권도 액션 영화 '케데헌' 제작 돌입",
-    "description": "윤제균 감독이 연출을 맡은 태권도 액션 영화 '케데헌'이 본격 제작에 돌입했다. 이 작품에는 방탄소년단과 블랙핑크의 음악을 담당한 글로벌 K팝 프로듀서들이 참여하며, 한국 전통 무술과 현대 대중음악의 크로스오버를 시도한다. 영화는 태권도의 정신과 기술을 액션 장르로 재해석할 예정이다.",
+    "description": "윤제균 감독이 연출을 맡은 태권도 액션 영화 '케데헌'이 본격 제작에 돌입했다. 이 ���품에는 방탄소년단과 블랙핑크의 음악을 담당한 글로벌 K팝 프로듀서들이 참여하며, 한국 전통 무술과 현대 대중음악의 크로스오버를 시도한다. 영화는 태권도의 정신과 기술을 액션 장르로 재해석할 예정이다.",
     "url": "https://www.society-now.com/sonow/article/kc/kc26032008/kc26032008-k-pop-producers-join-taekwondo.html",
     "image_url": "https://www.society-now.com/sonow/article/kc/kc26032008/kc26032008.png",
     "image_alt": "",
@@ -6832,7 +6854,7 @@
   {
     "article_id": "dt26031903",
     "title": "국토부, 해외 도시에 K-스마트시티 모델 적용 위해 국내 기업 모집",
-    "description": "국토교통부가 해외 도시에 한국형 스마트시티 모델을 적용하기 위해 국내 참여 기업을 공식 모집한다. 이는 한국의 스마트시티 기술과 운영 노하우를 패키지화해 수출하는 사업으로, 민간 기업의 해외 진출을 정부가 직접 지원하는 방식이다. 성공적인 해외 ���용을 통해 K-스마트시티의 글로벌 표준 경쟁력을 강화할 전망이다.",
+    "description": "국토교통부가 해외 도시에 한국형 스마트시티 모델을 적용하기 위해 국내 참여 기업을 공식 모집한다. 이는 한국의 스마트시티 기술과 운영 노하우를 패키지화해 수출하는 사업으로, 민간 기업의 해외 진출을 정부가 직접 지원하는 방식이다. 성공적인 해외 적용을 통해 K-스마트시티의 글로벌 표준 경쟁력을 강화할 전망이다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt26031903/dt26031903-k-smartcity-model-overseas-application.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26031903/dt26031903.png",
     "image_alt": "",
@@ -7367,7 +7389,7 @@
   {
     "article_id": "kn26031908",
     "title": "뉴욕증시 다우지수 1.6% 급락, 유가 상승과 연준 금리 동결 기대가 시장 위험 회피 심리 확대",
-    "description": "뉴욕증시가 하락 마감했다. 다우존스산업평균지수는 1.6% 급락했다. 국제 유가 급등으로 인플레이션 재가열 우려가 커졌다. 연방준비제도 이사회의 금리 동결 기대도 시장에 부담으��� 작용했다. 투자자들은 위험 자산에서 안전 자산으로 자금을 이동하는 모습을 보였다.",
+    "description": "뉴욕증시가 하락 마감했다. 다우존스산업평균지수는 1.6% 급락했다. 국제 유가 급등으로 인플레이션 재가열 우려가 커졌다. 연방준비제도 이사회의 금리 동결 기대도 시장에 부담으로 작용했다. 투자자들은 위험 자산에서 안전 자산으로 자금을 이동하는 모습을 보였다.",
     "url": "https://www.society-now.com/sonow/article/kn/kn26031908/kn26031908-new-york-stock-market-drops.html",
     "image_url": "https://www.society-now.com/sonow/article/kn/kn26031908/kn26031908.png",
     "image_alt": "",
@@ -8183,7 +8205,7 @@
   },
   {
     "article_id": "hl260317019",
-    "title": "사천·남해, 우주항공산업 인프라 구축 위해 국토부에 철도·공항 확장 건의",
+    "title": "사천·남��, 우주항공산업 인프라 구축 위해 국토부에 철도·공항 확장 건의",
     "description": "경남 사천시와 남해군은 3월 17일 지역 미래 성장 동력인 우주항공산업의 핵심 인프라 구축을 위해 공동 대응에 나섰다. 박동식 사천시장과 장충남 남해군수는 국토교통부를 방문해 ‘우주항공선 철도 구축’과 ‘사천공항 확장’을 국가 정책 과제로 반영해 줄 것을 건의했다. 이들은 제2차관 및 철도국장과 면담하며 사업 당위성을 설명했다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl260317019/hl260317019-sacheon-namhae-aerospace-infrastructure-ministry.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl260317019/hl260317019.png",
@@ -9021,7 +9043,7 @@
   {
     "article_id": "ai260317094557",
     "title": "메타, 1억 달러 투자해 사우스캐롤라이나 AI 데이터센터에 100MW 태양광 발전소 구축",
-    "description": "메타는 2025년 8월 20일 실리콘 랜치와 1억 달러 규모의 100MW 태양광 발전소 건설 계약을 체결했다. 이 발전소는 8억 달러 규모의 새 AI 데이터센터에 전력을 공급하며, 2027년 가동을 목표로 한다. 미국산 장비를 주로 사용하는 이 프로젝트로 메타는 연간 2기가와트 이상의 태양광 용량을 추가했다.",
+    "description": "메타는 2025년 8월 20일 실리콘 랜치와 1억 달러 규모의 100MW 태양광 발전소 건설 계약을 체결했다. 이 ��전소는 8억 달러 규모의 새 AI 데이터센터에 전력을 공급하며, 2027년 가동을 목표로 한다. 미국산 장비를 주로 사용하는 이 프로젝트로 메타는 연간 2기가와트 이상의 태양광 용량을 추가했다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260317094557/ai260317094557-meta-100mw-solar-power-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260317094557/ai260317094557.png",
     "image_alt": "",
@@ -9758,7 +9780,7 @@
   {
     "article_id": "tc26031604",
     "title": "문화역서울284서 한국 전통공예품 100여 점 선보여",
-    "description": "문화역서울284에서 개최된 '한국의 향기' 전시회에서 한국 전���공예품 100여 점이 선보였다. 대구일보는 이 전시를 통해 한국 공예의 정교함과 미적 가치를 국내외에 알리는 K-예술품 홍보 기회로 조명했다.",
+    "description": "문화역서울284에서 개최된 '한국의 향기' 전시회에서 한국 전통공예품 100여 점이 선보였다. 대구일보는 이 전시를 통해 한국 공예의 정교함과 미적 가치를 국내외에 알리는 K-예술품 홍보 기회로 조명했다.",
     "url": "https://www.society-now.com/sonow/article/tc/tc26031604/tc26031604-korean-traditional-crafts-exhibition-culture.html",
     "image_url": "https://www.society-now.com/sonow/article/tc/tc26031604/tc26031604.png",
     "image_alt": "",
@@ -9898,7 +9920,7 @@
   {
     "article_id": "tc26031610",
     "title": "김혜경 여사 \"전통문화 확산이 장인 창작 기반으로 이어져야\"",
-    "description": "김혜경 여사는 최근 한국 전통문화에 대한 대중적 관심과 인기가 단순한 유행을 넘어 장인들의 창작 활동을 지속 가능하게 하는 기반이 되어야 한다고 강조했다. 이는 전통공예의 진정한 가치 확산과 미래 세대로의 전승을 위한 핵심 조건으로, 창작 환경 개선과 대중 이해 증진의 중요성을 시사한다.",
+    "description": "김혜경 여사는 최근 한국 전통문화에 대한 대중적 관심과 인기가 단순한 유행을 넘어 장인들의 창작 활동을 지속 가능하게 하는 기반이 되어야 한다고 강조했다. 이는 전통공예의 진정한 가치 확산과 미래 세대로의 전승을 위한 핵심 조건��로, 창작 환경 개선과 대중 이해 증진의 중요성을 시사한다.",
     "url": "https://www.society-now.com/sonow/article/tc/tc26031610/tc26031610-kim-hye-kyung-traditional-culture.html",
     "image_url": "https://www.society-now.com/sonow/article/tc/tc26031610/tc26031610.png",
     "image_alt": "",
@@ -10645,7 +10667,7 @@
   },
   {
     "article_id": "ta26031515",
-    "title": "오픈AI, ChatGPT에 실시간 웹검색 기능 도��으로 구글 검색과 경쟁 시작",
+    "title": "오픈AI, ChatGPT에 실시간 웹검색 기능 도입으로 구글 검색과 경쟁 시작",
     "description": "오픈AI가 ChatGPT에 실시간 웹검색 기능을 추가했다. 이 기능은 AI가 직접 웹을 탐색해 최신 정보를 찾아 종합한 응답을 제공하며, 기존 검색 엔진과 달리 자연어 기반의 분석적 정보 제공 방식을 채택한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta26031515/ta26031515-openai-chatgpt-web-search-google.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta26031515/ta26031515.png",
@@ -11625,7 +11647,7 @@
   {
     "article_id": "pe25092516",
     "title": "국회 여야, 'AI 3대 강국' 실현 위해 초당적 협력 촉구 김민석 총리 'AX 대전환' 강조",
-    "description": "국회 지도부가 AI 주권 확보와 3대 강국 실현을 위한 여야 초당적 ���력을 촉구했다. 김민석 총리는 AI 대전환으로 국가 경쟁력을 높이겠다고 강조했다.",
+    "description": "국회 지도부가 AI 주권 확보와 3대 강국 실현을 위한 여야 초당적 협력을 촉구했다. 김민석 총리는 AI 대전환으로 국가 경쟁력을 높이겠다고 강조했다.",
     "url": "https://www.society-now.com/sonow/article/pe/pe25092516/pe25092516-국회-AI주권.html",
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25092516/pe25092516.png",
     "image_alt": "",
@@ -11946,7 +11968,7 @@
     "article_id": "pe25091922",
     "title": "현대차 '사활 건 승부수' 77조원 쏟아부어 전기차 대역전극 도전장",
     "description": "현대차가 9월 18일 뉴욕 첫 해외 CEO 인베스터 데이에서 2026~2030년 5년간 77조3000억원을 투자해 전기차 위기를 정면 돌파하겠다고 선언했다. 2030년 친환경차 비중 60% 달성이 목표다.",
-    "url": "https://www.society-now.com/sonow/article/pe/pe25091922/pe25091922-현대차-77조���투자.html",
+    "url": "https://www.society-now.com/sonow/article/pe/pe25091922/pe25091922-현대차-77조원투자.html",
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25091922/pe25091922.png",
     "image_alt": "",
     "keywords": [],
@@ -13474,7 +13496,7 @@
   {
     "article_id": "mh25092822",
     "title": "2025년 최신 탈모 예방 트렌드 5가지, 치료에서 예방 중심으로 전환",
-    "description": "2025년 최신 탈모 예방 트렌드. 두피 스킨케어 루틴화, 카페인·비오틴 기능성 성분, AI 예측 앱, 영양·수면 관리, 비건 클린 뷰티 제품까지 예방 중심 트렌드 완전 분석",
+    "description": "2025년 최신 탈모 예방 트렌드. 두피 스킨케어 루틴화, 카페인·비오틴 기능성 성분, AI 예측 앱, 영양·수면 관리, 비건 클린 뷰티 제품까지 예방 중�� 트렌드 완전 분석",
     "url": "https://www.society-now.com/sonow/article/mh/mh25092822/mh25092822-2025탈모트렌드-두피스킨케어.html",
     "image_url": "https://www.society-now.com/sonow/article/mh/mh25092822/mh25092822.png",
     "image_alt": "2025년 탈모 예방 트렌드를 보여주는 인포그래픽과 관련 제품들",
@@ -13897,7 +13919,7 @@
     "description": "혈압약 복용자를 위한 정확한 가정혈압 측정법. 기상 후 올바른 측정 시간과 방법, 효과적인 기록법까지 완벽 가이드.",
     "url": "https://www.society-now.com/sonow/article/mh/mh25092606/mh25092606-가정혈압-혈압측정.html",
     "image_url": "https://www.society-now.com/sonow/article/mh/mh25092606/mh25092606.png",
-    "image_alt": "가정에서 혈압을 측정하는 중�� 남성",
+    "image_alt": "가정에서 혈압을 측정하는 중년 남성",
     "keywords": [
       "가정혈압",
       "혈압측정",
@@ -14242,7 +14264,7 @@
   {
     "article_id": "mh25090114",
     "title": "젊은 여성도 안심할 수 없는 유방암, 발병률 증가 추세 뚜렷",
-    "description": "유방암이 여성 암 발병률 1위를 차지하는 가운데, 최근 20·30대 젊은 여성들의 유방암 발병률이 급증하고 있다. 전문가들은 비���과 서구식 식습관, 환경호르몬 노출 등을 주요 원인으로 지목하며 정기적인 검진과 생활습관 개선의 중요성을 강조한다.",
+    "description": "유방암이 여성 암 발병률 1위를 차지하는 가운데, 최근 20·30대 젊은 여성들의 유방암 발병률이 급증하고 있다. 전문가들은 비만과 서구식 식습관, 환경호르몬 노출 등을 주요 원인으로 지목하며 정기적인 검진과 생활습관 개선의 중요성을 강조한다.",
     "url": "https://www.society-now.com/sonow/article/mh/mh25090114/mh25090114-유방암-젊은-여성.html",
     "image_url": "https://www.society-now.com/sonow/article/mh/mh25090114/mh25090114.png",
     "image_alt": "유방 자가검진을 하는 젊은 여성의 모습",
@@ -14523,7 +14545,7 @@
   },
   {
     "article_id": "lr25092109",
-    "title": "건설현장 '하루 13건 산재' 참사, 대우건설 2514건으로 최악의 기록",
+    "title": "건설현장 '���루 13건 산재' 참사, 대우건설 2514건으로 최악의 기록",
     "description": "민간 건설사 5년간 산재 2만94건, 사망 210명 발생. 대우건설이 2514건으로 최다이며 2021년 대비 두 배 급증. 중대재해처벌법 시행 3년째에도 사고가 감소하지 않으면서 실효성 논란.",
     "url": "https://www.society-now.com/sonow/article/lr/lr25092109/lr25092109-건설산재-대우건설.html",
     "image_url": "https://www.society-now.com/sonow/article/lr/lr25092109/lr25092109.png",
@@ -15198,7 +15220,7 @@
   {
     "article_id": "kh25090125",
     "title": "10분 유산소가 해마를 깨운다: BDNF로 본 뇌가소성",
-    "description": "단 10분의 유산소 운동만으로도 뇌의 해마 영역이 활성화되고 BDNF(뇌유래신경영양인자) 분비��� 촉진된다는 연구 결과가 주목받고 있다. 이는 뇌가소성 향상과 인지기능 개선에 중요한 의미를 갖는다.",
+    "description": "단 10분의 유산소 운동만으로도 뇌의 해마 영역이 활성화되고 BDNF(뇌유래신경영양인자) 분비가 촉진된다는 연구 결과가 주목받고 있다. 이는 뇌가소성 향상과 인지기능 개선에 중요한 의미를 갖는다.",
     "url": "https://www.society-now.com/sonow/article/kh/kh25090125/kh25090125-BDNF-뇌가소성.html",
     "image_url": "https://www.society-now.com/sonow/article/kh/kh25090125/kh25090125.png",
     "image_alt": "",
@@ -16160,7 +16182,7 @@
       "네이버",
       "N배송",
       "당일배송",
-      "일요배송",
+      "��요배송",
       "이커머스",
       "물류 파트너십",
       "판매자배송"
@@ -17265,7 +17287,7 @@
   {
     "article_id": "dt25080301",
     "title": "디지털 트윈, 현실을 복제하는 기술의 진화 디지털 트윈",
-    "description": "디지털 트윈은 물리적 객체의 디지털 복제본으로 센서 데이터를 실시간 수집·분석해 시스템 상태를 예측하고 최적화하는 기술입니다. IoT·AI·클라우드와 결합하여 제조·건설·에너지·자동차·의료 등 다양한 산업에서 예측 유지보수와 ��영 효율성 향상을 가능하게 합니다.",
+    "description": "디지털 트윈은 물리적 객체의 디지털 복제본으로 센서 데이터를 실시간 수집·분석해 시스템 상태를 예측하고 최적화하는 기술입니다. IoT·AI·클라우드와 결합하여 제조·건설·에너지·자동차·의료 등 다양한 산업에서 예측 유지보수와 운영 효율성 향상을 가능하게 합니다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt25080301/dt25080301-디지털트윈-산업적용.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt25080301/dt25080301.png",
     "image_alt": "",
@@ -17480,7 +17502,7 @@
   },
   {
     "article_id": "dt25111211",
-    "title": "2025 가상융합산업대전: AI와 메타버스의 혁신 현장",
+    "title": "2025 가상융합산업대전: AI와 메타���스의 혁신 현장",
     "description": "과학기술정보통신부 주최로 11월 12~14일 일산 킨텍스에서 개최되는 2025 대한민국 가상융합산업대전에서 140개 기업과 연구기관이 AI 스마트글라스, 디지털트윈, 가상융합 교육 기술을 선보인다. 증강현실 글라스, VR 트레드밀, 햅틱 디바이스 등 첨단 몰입형 기기를 직접 체험하고 글로벌 전문가 콘퍼런스를 통해 메타버스 기술의 미래 전망을 확인할 수 있다.",
     "url": "https://www.society-now.com/sonow/article/dt/dt25111211/dt25111211-메타버스.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt25111211/dt25111211.png",
@@ -17884,7 +17906,7 @@
     "article_id": "dt25091217",
     "title": "이지스, 인도네시아 자카르타 3D 스마트시티 구축 성과 공개",
     "description": "디지털 트윈 선도기업 이지스가 월드스마트시티 엑스포에서 인도네시아 자카르타의 3D 입체지적 데이터 구축 실증사례를 공개했다. 아날로그 토지관리 시스템을 디지털 트윈 플랫폼으로 전환하며 118건 특허와 국제표준 인증을 통해 글로벌 경쟁력을 입증했다.",
-    "url": "https://www.society-now.com/sonow/article/dt/dt25091217/dt25091217-이지스-디지털트윈.html",
+    "url": "https://www.society-now.com/sonow/article/dt/dt25091217/dt25091217-이지스-��지털트윈.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt25091217/dt25091217.png",
     "image_alt": "",
     "keywords": [
@@ -18622,7 +18644,7 @@
   {
     "article_id": "ax25083125",
     "title": "SK AX, 제조업 AI 혁신으로 글로벌 시장 선점 나선다 제조업 AI",
-    "description": "SK AX가 조선·반도체·배터리 등 주요 산업에 에이전틱 AI 기술을 확대 적용하며 2030년 216조원 규모의 글로벌 제조 AI 시장 선점을 추진 중이��. HD한국조선해양과의 협약을 통해 선박 설계부터 생산까지 전 과정에 AI를 도입하고, SAP와 함께 AI ERP 혁신 모델을 개발하며 산업안전 플랫폼으로 경쟁력을 강화하고 있다.",
+    "description": "SK AX가 조선·반도체·배터리 등 주요 산업에 에이전틱 AI 기술을 확대 적용하며 2030년 216조원 규모의 글로벌 제조 AI 시장 선점을 추진 중이다. HD한국조선해양과의 협약을 통해 선박 설계부터 생산까지 전 과정에 AI를 도입하고, SAP와 함께 AI ERP 혁신 모델을 개발하며 산업안전 플랫폼으로 경쟁력을 강화하고 있다.",
     "url": "https://www.society-now.com/sonow/article/ax/ax25083125/ax25083125-제조업-AI-SK-AX.html",
     "image_url": "https://www.society-now.com/sonow/article/ax/ax25083125/ax25083125.png",
     "image_alt": "",
@@ -19247,7 +19269,7 @@
   {
     "article_id": "ap25090702",
     "title": "Copy.ai: AI 기반 광고 카피라이팅으로 마케팅 성과 극대화",
-    "description": "Copy.ai는 AI 기반 카피라이팅 플랫폼으로, 마케팅 심리학과 검증된 프레임워크를 활용해 광고 클릭률 향상과 ROI 개선을 지원한다. 브랜드 보이스 커스터마이징, 다채널 캠페인 통합 등의 기능으로 옴니채널 마케팅을 구현한다.",
+    "description": "Copy.ai는 AI 기반 카피라이팅 플랫폼으로, 마케팅 심리학과 검증된 프레임워크를 활용해 광고 클릭률 향상과 ROI 개선을 지원한다. 브랜드 보이스 커스터마이징, 다채널 캠페인 통합 등의 기능으�� 옴니채널 마케팅을 구현한다.",
     "url": "https://www.society-now.com/sonow/article/ap/ap25090702/ap25090702-Copyai-광고카피.html",
     "image_url": "https://www.society-now.com/sonow/article/ap/ap25090702/ap25090702.png",
     "image_alt": "",
@@ -19728,7 +19750,7 @@
   },
   {
     "article_id": "ap25090668",
-    "title": "Runway AI: 텍스트로 영상을 ���드는 혁신적 AI 비디오 생성 도구 SONOW",
+    "title": "Runway AI: 텍스트로 영상을 만드는 혁신적 AI 비디오 생성 도구 SONOW",
     "description": "Runway AI: 텍스트로 영상을 만드는 혁신적 AI 비디오 생성 도구 SONOW",
     "url": "https://www.society-now.com/sonow/article/ap/ap25090668/ap25090668-RunwayAI-AI영상제작.html",
     "image_url": "https://www.society-now.com/sonow/article/ap/ap25090668/ap25090668.png",
@@ -19956,7 +19978,7 @@
   },
   {
     "article_id": "ap25090678",
-    "title": "Cursor AI: 코딩을 혁신하는 AI 통합 개발환경의 새로운 표준 C",
+    "title": "Cursor AI: ���딩을 혁신하는 AI 통합 개발환경의 새로운 표준 C",
     "description": "Cursor AI는 GPT-4, Claude 등 최신 AI 모델을 통합한 VS Code 기반 개발환경으로, 자연어 명령만으로 복잡한 애플리케이션을 빠르게 개발할 수 있다. Composer, Chat, Edit 기능을 통해 전체 애플리케이션 생성부터 기존 코드 분석 및 개선까지 완벽하게 지원하며, 전 세계 50만 개발자가 활용 중이다.",
     "url": "https://www.society-now.com/sonow/article/ap/ap25090678/ap25090678-CursorAI-AI개발환경.html",
     "image_url": "https://www.society-now.com/sonow/article/ap/ap25090678/ap25090678.png",
@@ -20595,7 +20617,7 @@
   {
     "article_id": "tc26031220",
     "title": "전통과 현대의 조화: 제4회 한국전통문화·태극기 휘날리며, 국내외 관심 고조",
-    "description": "제4회 한국전통문화 축제는 민화와 한지공예의 현대적 재해석을 통해 전통의 아름다움과 현대적 감각을 융합한 전시회로 성공적인 개최를 이뤘다. 국내외 관람객들과 전문가들의 뜨거운 관심을 받으며 전통문화의 미래 가능성을 확인시켰다.",
+    "description": "제4회 ���국전통문화 축제는 민화와 한지공예의 현대적 재해석을 통해 전통의 아름다움과 현대적 감각을 융합한 전시회로 성공적인 개최를 이뤘다. 국내외 관람객들과 전문가들의 뜨거운 관심을 받��며 전통문화의 미래 가능성을 확인시켰다.",
     "url": "https://www.society-now.com/sonow/article/tc/tc26031220/tc26031220-traditional-korea-culture-fusion-exhibition.html",
     "image_url": "https://www.society-now.com/sonow/article/tc/tc26031220/tc26031220.png",
     "image_alt": "",
@@ -22087,7 +22109,7 @@
   },
   {
     "article_id": "ai260312075139",
-    "title": "AI 시대, 고객 피드백 자동화의 새로운 흐름",
+    "title": "AI 시대, 고객 피드백 자동화��� 새로운 흐름",
     "description": "Listen Labs은 AI 기반 고객 인터뷰 자동화 플랫폼으로, Microsoft 등 주요 기업들이 일주일 내 인사이트를 수집할 수 있게 지원합니다. 플랫폼의 기술 원리, 실제 성과, 그리고 AI 시뮬레이션·자동화 의사결정 등 미래 발전 방향을 살펴봅니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260312075139/ai260312075139-listen-labs-ai-interviews.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260312075139/ai260312075139.png",
@@ -22388,7 +22410,7 @@
   {
     "article_id": "ai260312074933",
     "title": "OpenAI, Responses API를 활용해 보안적이고 확장 가능한 에이전트 구현",
-    "description": "OpenAI는 Responses API와 shell 도���를 활용하여 보안적이고 확장 가능한 에이전트를 구현하였으며, 이를 통해 AI 에이전트의 실제 환경에서의 성능과 안정성을 향상시켰습니다.",
+    "description": "OpenAI는 Responses API와 shell 도구를 활용하여 보안적이고 확장 가능한 에이전트를 구현하였으며, 이를 통해 AI 에이전트의 실제 환경에서의 성능과 안정성을 향상시켰습니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai260312074933/ai260312074933-openai-agent-runtime-responses-api.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260312074933/ai260312074933.png",
     "image_alt": "",
@@ -22730,7 +22752,7 @@
   {
     "article_id": "ai260311201443",
     "title": "2025 트렌드 코리아 분석: 제주가 주목해야 할 사회·소비 변화 7가지",
-    "description": "제주도와 제주관광공사는 최근 '트렌드 코리아 2025'의 전미영 대표를 초청해 지역 관광·산업 관계자 200여 명을 대상으로 특강을 개최했다. 이번 특강에서는 포스트 팬데믹 시대의 소비트렌드 7가지와 제주형 적용 방안이 심도 있게 논의됐다. 특히 '잔잔한 도피', '아날로그 감성', '지속가능성' 등이 제주 관광산업에 주는 시사점이 집중 분석되었다.",
+    "description": "제주도와 제주관광공사는 최근 '트렌드 코리아 2025'의 전미영 대표를 초청해 지역 관광·산업 관계자 200여 명을 대상으로 특���을 개최했다. 이번 특강에서는 포스트 팬데믹 시대의 소비트렌드 7가지와 제주형 적용 방안이 심도 있게 논의됐다. 특히 '잔잔한 도피', '아날로그 감성', '지속가능성' 등이 제주 관광산업에 주는 시사점이 집중 분석되었다.",
     "url": "https://society-now.com/article/ai/ai260311201443/ai260311201443-jeju-trend-korea-2025-special-lecture-analysis.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai260311201443/ai260311201443.png",
     "image_alt": "",
@@ -23268,7 +23290,7 @@
     "description": "BTS의 단체활동이 잠정 중단되는 소식이 외신을 통해 집중 보도되고 있습니다. 이번 결정은 글로벌 팬들의 반응과 한국 K-pop 산업에 미치는 영향을 주목할 만합니다.",
     "url": "https://www.society-now.com/sonow/article/kc/kc26031029/kc26031029.html",
     "image_url": "https://www.society-now.com/sonow/article/kc/kc26031029/kc26031029.png",
-    "image_alt": "BTS 단체활�� 잠정 중단 관련 이미지",
+    "image_alt": "BTS 단체활동 잠정 중단 관련 이미지",
     "keywords": [
       "BTS 활동 소식",
       "kc",
@@ -23305,7 +23327,7 @@
   {
     "article_id": "kc26031027",
     "title": "BTS 재계약 해결, 2025년 완전체 활동까지 남은 과제 - 뉴스 분석",
-    "description": "하이브와 BTS의 재계약 문제 해결은 팬들의 기대를 충족시켰지만, 2025년 완전체 활동까지 남은 과제는 아직 많다. 본 기사는 재계약 문제 해결 이후 그룹의 뉴스와 활동 방향을 분석하고, 팬덤과의 신뢰 재건, 새로운 콘텐츠 제작의 중요성을 강조한다.",
+    "description": "하이브와 BTS의 재계약 문제 해결은 팬들의 기대를 충족시켰지만, 2025년 완전체 활동까지 남은 과제는 아직 많다. 본 기사는 재계약 문제 해결 이후 그룹의 뉴스와 활��� 방향을 분석하고, 팬덤과의 신뢰 재건, 새로운 콘텐츠 제작의 중요성을 강조한다.",
     "url": "https://www.society-now.com/sonow/article/kc/kc26031027/kc26031027.html",
     "image_url": "https://www.society-now.com/sonow/article/kc/kc26031027/kc26031027.png",
     "image_alt": "하이브 BTS 재계약 문제 해결 관련 이미지",
@@ -23624,7 +23646,7 @@
   },
   {
     "article_id": "kc26031011",
-    "title": "BTS 활동 중단, 팬덤 충격과 K팝 산업 균형 놓치다",
+    "title": "BTS 활동 중단, 팬덤 충격과 K팝 산업 균형 놓���다",
     "description": "BTS의 갑작스런 활동 중단은 K-팝 팬덤을 충격으로 휘몰아치게 했다. 이는 단순한 그룹 활동의 차질이 아니라, 팬덤의 기대, K-팝 산업의 비즈니스 모델, 그리고 아티스트의 권리까지 깊숙이 얽혀 있는 복잡한 문제점을 드러낸 사건이다. 이 글에서는 BTS 활동 중단 이유와 그 영향, 그리고 K-팝 산업의 미래를 위한 과제를 분석하고자 한다.",
     "url": "https://www.society-now.com/sonow/article/kc/kc26031011/kc26031011.html",
     "image_url": "https://www.society-now.com/sonow/article/kc/kc26031011/kc26031011.png",
@@ -25679,7 +25701,7 @@
   {
     "article_id": "ai26030936",
     "title": "로봇 AI, 임베디드 플랫폼에서의 성능 향상: 데이터 기반 최적화 기술",
-    "description": "최근 로봇 AI 기술은 빠르게 발전하고 있지만, 높은 계산 자원 요구 사항 때문에 임베디드 플랫폼에서의 적용이 어려웠습니다. 이 기사에서는 데이터셋 기록, VLA 미세 조정, 기기 내 최적화 기술을 통해 이러한 문제를 해결하고 로봇 AI의 성능과 효율성을 향상시키는 새로운 접근 방식을 살펴봅니다.",
+    "description": "최근 로봇 AI 기술은 빠르게 발전하고 있지만, 높은 계산 자원 ��구 사항 때문에 임베디드 플랫폼에서의 적용이 어려웠습니다. 이 기사에서는 데이터셋 기록, VLA 미세 조정, 기기 내 최적화 기술을 통해 이러한 문제를 해결하고 로봇 AI의 성능과 효율성을 향상시키는 새로운 접근 방식을 살펴봅니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26030936/ai26030936.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26030936/ai26030936.png",
     "image_alt": "로봇 AI를 임베디드 플랫폼으로 관련 이미지",
@@ -26658,7 +26680,7 @@
   },
   {
     "article_id": "hl25080612",
-    "title": "국가대표 AI, 혁신과 한계 - 스타트업 참여, 컨소시엄 구조 논란",
+    "title": "국가대표 AI, 혁신과 한계 - 스타트업 참여, 컨소시엄 구조 ��란",
     "description": "정부 주도의 '국가대표 AI' 프로젝트에 30여 개 스타트업이 참여했지만, 컨소시엄 구조, 자부담, 대기업 중심 사업 운영 등 현실적 한계와 우려가 높아지고 있습니다. 이 글에서는 '국가대표 AI' 프로젝트의 성과와 과제를 심층 분석하고, 한국 AI 생태계의 미래 경쟁력 확보를 위한 제도적 개선 방향을 제시합니다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25080612/hl25080612-국가대표AI-스타트업-딜레마.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25080612/hl25080612.png",
@@ -27063,7 +27085,7 @@
   {
     "article_id": "pi25080701",
     "title": "도가니 검사, 서울동부지검장으로: 임은정, 검찰개혁의 시험대에 서다",
-    "description": "광주 인화학교 사건�� 수사하며 '도가니 검사'로 불린 임은정 검사가 서울동부지검장으로 승진했다. 이는 검찰 개혁 주역으로서의 위상을 강화하는 동시에, 실질적인 변화를 이끌어낼 수 있을지에 대한 시험대에 서게 되었다. 검찰 내부 고발자 출신이자 여성 리더의 상징성을 지닌 임은정 검사장의 행보는 검찰 문화를 변화시킬 수 있는지, 앞으로의 경제 정치 시스템에 미치는 영향은 무엇일지 주목할 만하다.",
+    "description": "광주 인화학교 사건을 수사하며 '도가니 검사'로 불린 임은정 검사가 서울동부지검장으로 승진했다. 이는 검찰 개혁 주역으로서의 위상을 강화하는 동시에, 실질적인 변화를 이끌어낼 수 있을지에 대한 시험대에 서게 되었다. 검찰 내부 고발자 출신이자 여성 리더의 상징성을 지닌 임은정 검사장의 행보는 검찰 문화를 변화시킬 수 있는지, 앞으로의 경제 정치 시스템에 미치는 영향은 무엇일지 주목할 만하다.",
     "url": "https://www.society-now.com/sonow/article/pi/pi25080701/pi25080701-임은정-검사장-승진.html",
     "image_url": "https://www.society-now.com/sonow/article/pi/pi25080701/pi25080701.png",
     "image_alt": "임은정 검사 서울동부지검장 임명 발표 현장",
@@ -27904,7 +27926,7 @@
   {
     "article_id": "hl25080902",
     "title": "북한 확성기 철거… 남북 관계 완화 신호탄? 혹은 긴장 완화 한계?",
-    "description": "북한이 우리 군의 대북 확성기 철거에 맞춰 전방에 설치된 대남 확성기 철거를 시작했다. 이는 북한이 지난 6월 방송 중단, 8월 초 확성기 철거에 이어 닷새 만에 맞대응하는 것이며, 향후 남북 관계 변화에 주목할 필요가 있다. 그러나 상호 조치만으로는 군사적 긴장 완화를 넘어선 관계 개선이 어렵다는 지적도 나온다.",
+    "description": "북한이 우리 군의 대북 확성기 철거에 맞춰 전방에 설치된 대남 확성기 철거를 시작했다. 이는 북한이 지난 6월 방송 중단, 8월 초 확���기 철거에 이어 닷새 만에 맞대응하는 것이며, 향후 남북 관계 변화에 주목할 필요가 있다. 그러나 상호 조치만으로는 군사적 긴장 완화를 넘어선 관계 개선이 어렵다는 지적도 나온다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25080902/hl25080902-북한-대남-확성기-철거.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25080902/hl25080902.png",
     "image_alt": "북한군이 전방 지역 대남 확성기를 철거하는 모습",
@@ -28216,7 +28238,7 @@
   },
   {
     "article_id": "hl25081106",
-    "title": "익산시 간판 정비사업, 9천만원 발견! 로비 의혹 확산, 수사 전방위로 확대",
+    "title": "익산시 간판 정비사업, 9천만원 발견! 로비 의혹 확산, 수사 전방위로 ��대",
     "description": "익산시 간판 정비사업 비리 수사가 회계과장 차량에서 발견된 9천만원을 계기로 전방위로 확대되고 있습니다. 수사는 사업 수행 과정의 부적절함에서 벗어나 회계과장의 현금 행방과 관련 업체들의 자금 운용 방식까지 깊이 있게 조사되고 있습니다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25081106/hl25081106-익산시-비리의혹.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25081106/hl25081106.png",
@@ -29075,7 +29097,7 @@
   {
     "article_id": "an25073006",
     "title": "오픈소스, 혁신 동력? 국내 거버넌스 공백 심화 우려",
-    "description": "오픈소스 기술은 AI 및 클라우드 산업의 핵심 동력으로 혁신을 이끌어내고 있지만, 국내에서는 데이터 출처 불명, 라이선스 오용 등의 문제로 인해 거버넌스 공백이 심화되고 있습니다. 이러한 위험을 해결하기 위해 정부와 기업의 적극적인 노력과 책임 체계 마련이 시급��니다.",
+    "description": "오픈소스 기술은 AI 및 클라우드 산업의 핵심 동력으로 혁신을 이끌어내고 있지만, 국내에서는 데이터 출처 불명, 라이선스 오용 등의 문제로 인해 거버넌스 공백이 심화되고 있습니다. 이러한 위험을 해결하기 위해 정부와 기업의 적극적인 노력과 책임 체계 마련이 시급합니다.",
     "url": "https://www.society-now.com/sonow/article/an/an25073006/an25073006-오픈소스-거버넌스.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25073006/an25073006.png",
     "image_alt": "AI·클라우드 환경에서 오픈소스 관리체계 논의 장면",
@@ -29438,7 +29460,7 @@
   {
     "article_id": "ai26030826",
     "title": "SpeciesNet: 야생 동물 보호를 위한 AI",
-    "description": "Google AI에서 개발한 개방형 AI 모델 'SpeciesNet'은 세계 곳곳에서 사람들이 야생 동물을 보호하고 보존하는 데 도움을 주고 있습니다. 이 모델은 이미지 분석 기술을 사용하여 동물을 식별하고 그들의 서식지를 모니터링합니다. SpeciesNet은 학자, Conserv...",
+    "description": "Google AI에서 개발한 개방형 AI 모델 'SpeciesNet'은 세계 곳곳에서 사람들이 야생 동물을 보호하고 보존하�� 데 도움을 주고 있습니다. 이 모델은 이미지 분석 기술을 사용하여 동물을 식별하고 그들의 서식지를 모니터링합니다. SpeciesNet은 학자, Conserv...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26030826/ai26030826-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26030826/ai26030826.png",
     "image_alt": "SpeciesNet: 야생 동물 보호를 위한 AI 관련 이미지",
@@ -30037,7 +30059,7 @@
   {
     "article_id": "np260308035",
     "title": "법원 경매, 맨손에서 부동산 부자 된 남자가 알려주는 시작",
-    "description": "법원경매를 통해 부동산 부자를 된 전문가의 경험을 담아, 초보 투자자도 실질적인 투자 전략을 제시합니다. 경매 분석, 권리분석, 명도, 리스크 등 실질적인 정보를 제공합니다.",
+    "description": "법원경매를 통해 부동산 부자를 된 전문가의 경험을 담아, 초보 투자자도 실질적인 투자 전략을 제시합니다. 경매 분석, 권리분석, 명도, 리스크 등 실질적인 ��보를 제공합니다.",
     "url": "https://npl-now.com/article/np/np260308035/np260308035.html",
     "image_url": "https://www.society-now.com/sonow/article/np/np260308035/np260308035.png",
     "image_alt": "법원 경매, 맨손에서 부동산 부자 된 남자가 알려주는 시작 관련 이미지",
@@ -30252,7 +30274,7 @@
     "image_url": "https://www.society-now.com/sonow/article/np/np260308015/np260308015.png",
     "image_alt": "캠코 강원, 압류재산 공매: NPL 투자 기회? 관련 이미지",
     "keywords": [
-      "부동��� 공매 캠코",
+      "부동산 공매 캠코",
       "NPL",
       "부동산경매",
       "부실채권"
@@ -30310,7 +30332,7 @@
   {
     "article_id": "np260308009",
     "title": "2월 서울 아파트 경매 낙찰가율 하락, 기회는 왔나?",
-    "description": "2월 서울 아파트 경매 낙찰가율이 하락 전환했습니다. 이번 변화는 NPL 투자자에게 기회가 될까요? NPL 전문가가 분석하는 경매 시장 트렌드와 투자 전략을 알아보세요.",
+    "description": "2�� 서울 아파트 경매 낙찰가율이 하락 전환했습니다. 이번 변화는 NPL 투자자에게 기회가 될까요? NPL 전문가가 분석하는 경매 시장 트렌드와 투자 전략을 알아보세요.",
     "url": "https://npl-now.com/article/np/np260308009/np260308009.html",
     "image_url": "https://www.society-now.com/sonow/article/np/np260308009/np260308009.png",
     "image_alt": "2월 서울 아파트 경매 낙찰가율 하락, 기회는 왔나? 관련 이미지",
@@ -30583,7 +30605,7 @@
   {
     "article_id": "ai26030739",
     "title": "Mixture of Experts (MoEs) in Transformers",
-    "description": "변형자 모델에서 '전문가 혼합'(MoE) Transformer의 성능 향상을 위한 핵심 전략 전형적인 변형자 모델은 모든 토큰에 대해 동일한 처리를 수행한다. 하지만 '전문가 혼합'(Mixture of Experts, MoE) 기법은 여러 개의 '전문가' 모델을 사용하여",
+    "description": "변형자 모델에서 '전문가 혼합'(MoE) Transformer의 성능 향상을 위한 핵심 전략 전형적인 변형자 모델은 모든 토큰에 대해 ���일한 처리를 수행한다. 하지만 '전문가 혼합'(Mixture of Experts, MoE) 기법은 여러 개의 '전문가' 모델을 사용하여",
     "url": "https://www.society-now.com/sonow/article/ai/ai26030739/ai26030739-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26030739/ai26030739.png",
     "image_alt": "Mixture of Experts (MoEs) in Transformers 관련 이미지",
@@ -31182,7 +31204,7 @@
   {
     "article_id": "ai26030741",
     "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprin",
-    "description": "자율 네트워크, 통신사의 최우선 전략 인공지능 기반 네트워크 자동화, 투자와 수익성 측면에서 선두 자율 네트워크는 스스로 관리되는 통신망을 의미합니다. 최근 NVIDIA의 'AI 통신 현황 보고서'에 따르면 네트워크 자동화가 통신사의 가장 중요한 AI 투자 방향으로 부상했",
+    "description": "자율 네트워크, 통신사의 최우선 전략 인공지능 기반 네트워크 자동화, 투자와 수익성 측면에서 선두 자율 네트워크는 스스로 관리되는 통신망을 의미합니다. 최근 NVIDIA의 'AI 통신 현황 보고서'에 따르�� 네트워크 자동화가 통신사의 가장 중요한 AI 투자 방향으로 부상했",
     "url": "https://www.society-now.com/sonow/article/ai/ai26030741/ai26030741-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26030741/ai26030741.png",
     "image_alt": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models 관련 이미지",
@@ -32345,7 +32367,7 @@
   {
     "article_id": "pb26030624",
     "title": "이란-미 국제전쟁 / 경제 '3고' 위기 심화",
-    "description": "카테고리: pb 중동 불안정 확산과 한국 경제 이란-미국 전쟁 발발에 따라 세계적으로 고유가(高油價), 고환율(高換率), 고물가(高物價)라는 '3고' 위험 상황이 심화되면서 이재명 정부의 경제 대응력이 시험대를 밟았다. 전쟁 장기화 시 물가 상승과 함께 경기 침체 현상이 동시",
+    "description": "카테고리: pb 중동 불안정 확산과 한국 경제 이란-미국 전쟁 발발에 따라 세계적으로 고유가(高油價), 고환율(高換率), 고물가(高物價)라는 '3고' 위험 상황이 심화되면서 이재명 정부의 경제 대응력이 시험대를 밟았다. 전쟁 장기화 시 물가 상승��� 함께 경기 침체 현상이 동시",
     "url": "https://www.society-now.com/sonow/article/pb/pb26030624/pb26030624-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb26030624/pb26030624.png",
     "image_alt": "이란-미 국제전쟁 / 경제 ‘3고’ 위기 심화 - SONOW 관련 이미지",
@@ -33263,7 +33285,7 @@
   {
     "article_id": "kn26030626",
     "title": "뉴욕증시 주요 지수 하락 / 이란-미국 전쟁 우려 심화",
-    "description": "카테고리: kn 이란 전쟁 확산 불��에 뉴욕증시 주요 지수 하락 뉴욕 증권 시장은 5일(현지 시간) 미국과 이란의 갈등이 지상전으로 전개될 수 있다는 우려 속 주요 지수가 하락 마감했다. 유가가 폭등하며 글로벌 경기 악화에 대한 불안감이 커지면서 투자 심리가 위축되었다. 뉴",
+    "description": "카테고리: kn 이란 전쟁 확산 불안에 뉴욕증시 주요 지수 하락 뉴욕 증권 시장은 5일(현지 시간) 미국과 이란의 갈등이 지상전으로 전개될 수 있다는 우려 속 주요 지수가 하락 마감했다. 유가가 폭등하며 글로벌 경기 악화에 대한 불안감이 커지면서 투자 심리가 위축되었다. 뉴",
     "url": "https://www.society-now.com/sonow/article/kn/kn26030626/kn26030626-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/kn/kn26030626/kn26030626.png",
     "image_alt": "뉴욕증시 주요 지수 하락 / 이란-미국 전쟁 우려 심화 관련 이미지",
@@ -33658,7 +33680,7 @@
     "article_id": "pb26030524",
     "title": "빅테크, AI 데이터센터 에너지비 부담 / 미국의 전력 문제 해결 약속",
     "description": "카테고리: pb 빅테크, AI 데이터센터 자체 발전 시설 건설 약속 미국의 주요 빅테크 기업들이 인공지능(AI) 데이터센터 에너지비 부담을 위해 노력한다. 도널드 트럼프 대통령과 빅테크 기업 경영진은 백악관에서 '요금 납부자 보호 서약'에 서명하며, AI 데이터센터 건",
-    "url": "https://www.society-now.com/sonow/article/pb/pb26030524/pb26030524-연합뉴스.html",
+    "url": "https://www.society-now.com/sonow/article/pb/pb26030524/pb26030524-연합뉴���.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb26030524/pb26030524.png",
     "image_alt": "빅테크, AI 데이터센터 에너지비 부담 / 미국의 전력 문제 해결 약속 - SONOW 관련 이미지",
     "keywords": [],
@@ -33800,7 +33822,7 @@
   },
   {
     "article_id": "pb26030534",
-    "title": "��항준 감독 '천만 공약' / 커피차 이벤트로 시민과 소통",
+    "title": "장항준 감독 '천만 공약' / 커피차 이벤트로 시민과 소통",
     "description": "카테고리: pb 천만 돌파 앞둔 '왕과 사는 남자', 장항준 감독의 '공약' 장항준 감독이 영화 '왕과 사는 남자' 개봉을 앞두고 농담처럼 내걸었던 성형, 개명 등 '천만 공약' 이행 여부가 또 다른 화젯거리가 되고",
     "url": "https://www.society-now.com/sonow/article/pb/pb26030534/pb26030534-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb26030534/pb26030534.png",
@@ -34311,7 +34333,7 @@
     "article_id": "kn26030521",
     "title": "뉴욕증시, 이란-미국 갈등 완화 전망 / 지수 상승세 확산",
     "description": "카테고리: kn 위험 선호 심리 고조 4일(현지시간) 뉴욕 증시는 미국과 이란 간 갈등 진행 상황을 주시하며 강세를 보였다. 다우존스30산업평균지수는 전장 대비 223.07포인트(0.46%) 상승한 48,724.34를 기록했고, 스탠더드앤드푸어스(S&P) 500지수도 48.",
-    "url": "https://www.society-now.com/sonow/article/kn/kn26030521/kn26030521-연합��스.html",
+    "url": "https://www.society-now.com/sonow/article/kn/kn26030521/kn26030521-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/kn/kn26030521/kn26030521.png",
     "image_alt": "뉴욕증시, 이란-미국 갈등 완화 전망 / 지수 상승세 확산 관련 이미지",
     "keywords": [
@@ -34827,7 +34849,7 @@
   },
   {
     "article_id": "kb26030421",
-    "title": "���주맨 새 시작 / 개인 유튜브 채널 오픈",
+    "title": "충주맨 새 시작 / 개인 유튜브 채널 오픈",
     "description": "카테고리: kb '충TV' 주역이자 스타 유튜버, 독립 행보 시작 충북 충주시청 공식 유튜브 채널인 '충TV'를 이끌다가 사직한 김선태씨(김선태 주무관)가 자신의 이름을 내세운 개인 유튜브 채널을 운영한다. 지난 2일, 그는 \"김선태\"라는 이름으로 채널을 만들었고 아직 영상",
     "url": "https://www.society-now.com/sonow/article/kb/kb26030421/kb26030421-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/kb/kb26030421/kb26030421.png",
@@ -36219,7 +36241,7 @@
   },
   {
     "article_id": "in26030221",
-    "title": "이란 미사일 공격에 프랑스, 독일, 영국 경고 / ��어적 조치 선언",
+    "title": "이란 미사일 공격에 프랑스, 독일, 영국 경고 / 방어적 조치 선언",
     "description": "카테고리: in 미국-이스라엘 작전과 무관한 국가까지 공격 프랑스, 독일, 영국 정상은 1일(현지시간) 이란의 무분별한 미사일 공격에 \"깊은 유감\"을 표명하며 미국과 이스라엘의 초기 군사 작전에 관여하지 않은 국가까지 공격 대상에 포함된 것을 강력히 규탄했다. 세 나라 정상",
     "url": "https://www.society-now.com/sonow/article/in/in26030221/in26030221-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/in/in26030221/in26030221.png",
@@ -36460,7 +36482,7 @@
   {
     "article_id": "ai26030224",
     "title": "산업 5.0, 기술 통합을 넘어 조율의 시대",
-    "description": "산업 5.0은 AI, 클라우드, IoT, 로봇 등을 연결하여 더 나은 결과를 창출하는 것을 목표로 합니다. 이는 단순한 기술 통합에서 벗어나 인간과 시스템이 조화롭게 작용하는 환경 구축에 초점을 맞춥니다. 산업 5.0은 생산성 향상뿐만 아니라 지속 가능한 발전, 사회적 책임 강��에...",
+    "description": "산업 5.0은 AI, 클라우드, IoT, 로봇 등을 연결하여 더 나은 결과를 창출하는 것을 목표로 합니다. 이는 단순한 기술 통합에서 벗어나 인간과 시스템이 조화롭게 작용하는 환경 구축에 초점을 맞춥니다. 산업 5.0은 생산성 향상뿐만 아니라 지속 가능한 발전, 사회적 책임 강화에...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26030224/ai26030224-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26030224/ai26030224.png",
     "image_alt": "산업 5.0, 기술 통합을 넘어 조율의 시대 - SONOW 관련 이미지",
@@ -37291,7 +37313,7 @@
   },
   {
     "article_id": "pb26030123",
-    "title": "이란·이스라엘 전쟁 발발 / 한국인 피해 없음 확인",
+    "title": "이란·이스라엘 ��쟁 발발 / 한국인 피해 없음 확인",
     "description": "카테고리: pb 이란-이스라엘 전쟁, 한국도 위협에 긴장 28일 (현지시간) 이란 테헤란에서 발생한 폭발로 도심 상공으로 연기가 치솟는 모습을 시민들이 지켜보고 있다. 이스라엘이 이란의 무역센터와 군 시설들을 공격했다는 보도에 이란은 반격하며 중동 지역 동향이 불안정해지고 있",
     "url": "https://www.society-now.com/sonow/article/pb/pb26030123/pb26030123-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb26030123/pb26030123.png",
@@ -38137,7 +38159,7 @@
   {
     "article_id": "pb26022827",
     "title": "이재명, 분당 아파트 매물 / 시세 저렴하게 나온 규모",
-    "description": "카테고리: pb 저가매물로 내놓은 분당 아파트 이재명 대통령이 김혜경 여사와 공동명의로 소유하던 경기도 성남시 분당구의 아파트를 27일 부동산에 매물로 내놨다. 강유정 청와대 대변인은 이날 언론공지를 통해 \"거주 목적의 1주택 소유자였지���, 부동산 시장 정상화의 의지를 국민",
+    "description": "카테고리: pb 저가매물로 내놓은 분당 아파트 이재명 대통령이 김혜경 여사와 공동명의로 소유하던 경기도 성남시 분당구의 아파트를 27일 부동산에 매물로 내놨다. 강유정 청와대 대변인은 이날 언론공지를 통해 \"거주 목적의 1주택 소유자였지만, 부동산 시장 정상화의 의지를 국민",
     "url": "https://www.society-now.com/sonow/article/pb/pb26022827/pb26022827-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb26022827/pb26022827.png",
     "image_alt": "이재명, 분당 아파트 매물 / 시세 저렴하게 나온 규모 - SONOW 관련 이미지",
@@ -38393,7 +38415,7 @@
   {
     "article_id": "pi26022827",
     "title": "이스라엘, 이란 테헤란 직접 공격 / 아야톨라 하메네이 집무실 인근 타격",
-    "description": "카테고리: pi ��란 테헤란 전격 폭격, '위협 제거' 주장 이스라엘은 28일(현지시간) 이란 테헤란을 전격적으로 폭격했다. 이스라엘 카츠 국방부 장관은 \"이스라엘이 이란에 대한 예방적 공격을 단행했다\"며 비상사태를 선포했고, \"위협을 제거하기 위한 것\"이라고 설명했습니다.",
+    "description": "카테고리: pi 이란 테헤란 전격 폭격, '위협 제거' 주장 이스라엘은 28일(현지시간) 이란 테헤란을 전격적으로 폭격했다. 이스라엘 카츠 국방부 장관은 \"이스라엘이 이란에 대한 예방적 공격을 단행했다\"며 비상사태를 선포했고, \"위협을 제거하기 위한 것\"이라고 설명했습니다.",
     "url": "https://www.society-now.com/sonow/article/pi/pi26022827/pi26022827-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/pi/pi26022827/pi26022827.png",
     "image_alt": "이스라엘, 이란 테헤란 직접 공격 / 아야톨라 하메네이 집무실 인근 타격 - SONOW 관련 이미지",
@@ -38607,7 +38629,7 @@
   {
     "article_id": "kn26022824",
     "title": "파키스탄, 아프간 공습 / 전쟁 선포",
-    "description": "카테고리: kn 탈레반과의 갈등 심화 파키스탄이 27일 아프간에 대규모 공습을 가해, 국경 지역에서 발생한 사태를 전쟁으로 선포했다. 이는 지난해 휴전 후 4개월 만에 양국 사이에서 다시 불거진 무력 충돌로, 특히 극단주의 무장단체 활동이 발단이 된 것으로 알려졌다. 파키스탄은",
+    "description": "카테고리: kn 탈레반과의 갈등 심화 파키스탄이 27일 아프간에 대규모 공습을 가해, 국경 지역에서 발생한 사태를 전쟁으로 선포했다. 이는 지난해 휴전 후 4���월 만에 양국 사이에서 다시 불거진 무력 충돌로, 특히 극단주의 무장단체 활동이 발단이 된 것으로 알려졌다. 파키스탄은",
     "url": "https://www.society-now.com/sonow/article/kn/kn26022824/kn26022824-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/kn/kn26022824/kn26022824.png",
     "image_alt": "파키스탄, 아프간 공습 / 전쟁 선포 - SONOW 관련 이미지",
@@ -38911,7 +38933,7 @@
   {
     "article_id": "ai26022736",
     "title": "GeForce NOW, '리저ident Evil' 출시 기념 혜택 제공",
-    "description": "NVIDIA가 클라우드 게임 플랫폼 GeForce NOW를 ��영하는데, Resident Evil Requiem 출시를 맞아 특별한 프로모션을 진행하고 있습니다. 클라우드 서비스를 사용하면 최고의 그래픽으로 게임을 즐길 수 있으며, 한정 시간 동안 'Resident Evil Requ...",
+    "description": "NVIDIA가 클라우드 게임 플랫폼 GeForce NOW를 운영하는데, Resident Evil Requiem 출시를 맞아 특별한 프로모션을 진행하고 있습니다. 클라우드 서비스를 사용하면 최고의 그래픽으로 게임을 즐길 수 있으며, 한정 시간 동안 'Resident Evil Requ...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26022736/ai26022736-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26022736/ai26022736.png",
     "image_alt": "GeForce NOW, &#039;리저ident Evil&#039; 출시 기념 혜택 제공 - SONOW 관련 이미지",
@@ -39122,7 +39144,7 @@
     "description": "시リコン밸리에서는 AI 코딩 도구의 성장으로 인간의 주도성이 더욱 중요하게 여겨지고 있다. 기존에는 스스로 생각하고 행동하는 개인을 중시했지만, 이제는 인공지능 에이전트를 효과적으로 활용할 수 있는 능력이 새로운 가치로 자리매김하고 있다. AI 개발자들은 인공지능 에이전트의 잠재력...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26022749/ai26022749-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26022749/ai26022749.png",
-    "image_alt": "인공지능 시대, &#039;주도적인&#039; 사람들이 더 중요해진다 - SONOW 관련 이미지",
+    "image_alt": "인공지능 시대, &#039;주도적인&#039; 사람들이 더 중요���진다 - SONOW 관련 이미지",
     "keywords": [],
     "category": "ai",
     "date": "2026-02-27",
@@ -39614,7 +39636,7 @@
   },
   {
     "article_id": "an26022723",
-    "title": "'반포대교 추락' 포르쉐 운전자 구속심사…담요 쓰고 묵묵부답(종합) | 연합뉴스",
+    "title": "'반포대교 추락' 포르쉐 운전자 구속심사…담요 쓰고 ��묵부답(종합) | 연합뉴스",
     "description": "약에 취한 상태로 반포대교를 달리다 한강 둔치로 추락한 운전자의 구속 여부가 이르면 27일 오후 결정된다. 서울서부지법은 이날 오전 도로교통법상 약물운전 혐의 등을 받는 30대 여성 A씨의 구속 전 피의자 심문(영장실질심사)을 열었다. 오전 10시 17분 휠체어를 타고 담요를 뒤집어",
     "url": "https://www.society-now.com/sonow/article/an/an26022723/an26022723-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26022723/an26022723.png",
@@ -39874,7 +39896,7 @@
   {
     "article_id": "pb26022626",
     "title": "관세, 전면적 확대 / 미국 무역 대표 발표",
-    "description": "카테고리: pb 대법원 판결에도 불구하고 관세 강화 의사 선언 제이미슨 그리어 미국 무역대표부(USTR) 대표가 25일 (현지시각) 도널드 트럼프 전 대통령이 대법원의 상호관세 위법 판결 이후 새롭게 부과한 10% 글로벌 관세를 일부 국가에는 15%로 인상하고, 향후 불공정",
+    "description": "���테고리: pb 대법원 판결에도 불구하고 관세 강화 의사 선언 제이미슨 그리어 미국 무역대표부(USTR) 대표가 25일 (현지시각) 도널드 트럼프 전 대통령이 대법원의 상호관세 위법 판결 이후 새롭게 부과한 10% 글로벌 관세를 일부 국가에는 15%로 인상하고, 향후 불공정",
     "url": "https://www.society-now.com/sonow/article/pb/pb26022626/pb26022626-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb26022626/pb26022626.png",
     "image_alt": "관세, 전면적 확대 / 미국 무역 대표 발표 - SONOW 관련 이미지",
@@ -40903,7 +40925,7 @@
   {
     "article_id": "re26022522",
     "title": "경비정 음식물쓰레기 투기 / 국립공원 오염 의혹",
-    "description": "카테고리: re 해관 규정 어긴 투기 사실 확인 통영시 산양읍 오곡도 인근 해역에서 최근 해양경찰 소속 경비정이 음식물쓰레기를 불법으로 투기했다는 사실이 확인되었습니다. 통영해경에 따르면, P-27 경비정 승조원 9명은 해양환경관리법상 음식물 쓰레기 배출 규정을 위반했습니다.",
+    "description": "카테고리: re 해관 규정 어긴 투기 사실 확��� 통영시 산양읍 오곡도 인근 해역에서 최근 해양경찰 소속 경비정이 음식물쓰레기를 불법으로 투기했다는 사실이 확인되었습니다. 통영해경에 따르면, P-27 경비정 승조원 9명은 해양환경관리법상 음식물 쓰레기 배출 규정을 위반했습니다.",
     "url": "https://www.society-now.com/sonow/article/re/re26022522/re26022522-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re26022522/re26022522.png",
     "image_alt": "경비정 음식물쓰레기 투기 / 국립공원 오염 의혹 - SONOW 관련 이미지",
@@ -41494,7 +41516,7 @@
   },
   {
     "article_id": "ai26022545",
-    "title": "인공지능의 의식, 새로��� 질서를 향해?",
+    "title": "인공지능의 의식, 새로운 질서를 향해?",
     "description": "인공지능 연구자들은 최근 AI가 의식을 가질 수 있다는 가능성에 대한 논의를 진행하고 있다. Blake Lemoine 사건 이후, AI의 의식은 과학계뿐만 아니라 널리 알려진 주제로 떠올랐다. 이 글에서는 인공지능 연구자들의 지점을 분석하고, AI 의식이 인간 사회에 미칠 영향을 ...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26022545/ai26022545-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26022545/ai26022545.png",
@@ -42535,7 +42557,7 @@
   {
     "article_id": "ai26022349",
     "title": "Code Metal, AI로 코드 번역하는 스타트업 1250억 유치",
-    "description": "Code Metal은 AI를 이용해 코드 작성 및 번역하는 Boston 기반 스타트업이다. 최근 1250억 원의 B 라운드 자금을 확보하며 군 산업과 반도체 분야에서 주목받고 있다. AI 코드 생성 기��의 적용 가능성은 높지만, 오류 발생 가능성과 기술 검증 필요성이라는 과제도 남...",
+    "description": "Code Metal은 AI를 이용해 코드 작성 및 번역하는 Boston 기반 스타트업이다. 최근 1250억 원의 B 라운드 자금을 확보하며 군 산업과 반도체 분야에서 주목받고 있다. AI 코드 생성 기술의 적용 가능성은 높지만, 오류 발생 가능성과 기술 검증 필요성이라는 과제도 남...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26022349/ai26022349-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26022349/ai26022349.png",
     "image_alt": "Code Metal, AI로 코드 번역하는 스타트업 1250억 유치 - SONOW 관련 이미지",
@@ -43738,7 +43760,7 @@
   {
     "article_id": "ai26022143",
     "title": "네플릭스, 바이댄스 AI 서비스 Copyright 침해 고소 예고",
-    "description": "네플릭스가 바이댄스의 AI 서비스 '씨던스'로 인해 발생하는 Copyright 침해 문제에 대해 법적 조치를 예고했습니다. 네플릭스는 '스���레인저씽스', 'K팝 데몬헌터', '오징어 게임' 등 다수 작품의 저작권이 무단으로 이용되고 있다고 주장하며 바이댄스와 소송 가능성을 언급했습니다.",
+    "description": "네플릭스가 바이댄스의 AI 서비스 '씨던스'로 인해 발생하는 Copyright 침해 문제에 대해 법적 조치를 예고했습니다. 네플릭스는 '스트레인저씽스', 'K팝 데몬헌터', '오징어 게임' 등 다수 작품의 저작권이 무단으로 이용되고 있다고 주장하며 바이댄스와 소송 가능성을 언급했습니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26022143/ai26022143-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26022143/ai26022143.png",
     "image_alt": "네플릭스, 바이댄스 AI 서비스 Copyright 침해 고소 예고 - SONOW 관련 이미지",
@@ -44202,7 +44224,7 @@
   {
     "article_id": "ai26022024",
     "title": "\"No technology has me dreaming bigger than AI\"",
-    "description": "구글 CEO, AI 윤리 강조하며 미래 사회 변화 주도 인공지능 기술 발전에 따른 사회적 책임 강조 구글 CEO 썬더 피차이가 2026년 3월 개최된 인공지능 영향력 정상회의(AI Impact Summit)에서 강연을 하였습니다. 피차이는 인공지능 기술 발전과 미래",
+    "description": "구글 CEO, AI 윤리 강조하며 미래 사회 변화 주도 인공지능 기술 발전에 따른 사회적 책임 강조 구글 CEO 썬더 피차이가 2026년 3월 ���최된 인공지능 영향력 정상회의(AI Impact Summit)에서 강연을 하였습니다. 피차이는 인공지능 기술 발전과 미래",
     "url": "https://www.society-now.com/sonow/article/ai/ai26022024/ai26022024-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26022024/ai26022024.png",
     "image_alt": "“No technology has me dreaming bigger than AI” - SONOW 관련 이미지",
@@ -44975,7 +44997,7 @@
   },
   {
     "article_id": "ed26021921",
-    "title": "가자지구 재건 위한 평화회의 / 알리 샤트 위원장 참석",
+    "title": "가자지구 재건 위한 평화회의 / 알리 ���트 위원장 참석",
     "description": "가자지구 재건과 인도적 지원 논의 본격화 팔레스타인 관계자들의 말에 따르면, 가자행정국가위원회(NCAG) 알리 샤트 위원장이 19일 미국 워싱턴DC에서 열리는 평화위원회 첫 회의에 참석했다. 알리 샤트 위원장은 연설을 통해 향후 100일간 NCAG 활동 계획과 관련한",
     "url": "https://www.society-now.com/sonow/article/ed/ed26021921/ed26021921-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/ed/ed26021921/ed26021921.png",
@@ -45267,7 +45289,7 @@
   {
     "article_id": "ai26021938",
     "title": "인공지능, 인도 IT산업 변화 선도",
-    "description": "인공지능(AI)이 인도 IT 산업을 재정비하고 있습니다. NVIDIA AI Enterprise 및 Nemotron 모델 활용으로 업계는 전반적인 생산성과 효율성을 향상시키고 있습니다. 정보통신, 의료 등 다양한 분야에서 변화를 이끌어내며 인도 기업의 글로벌 경쟁력 강화에 기여하고 ...",
+    "description": "인공지능(AI)이 인도 IT 산업을 재정비하고 있습니다. NVIDIA AI Enterprise 및 Nemotron ���델 활용으로 업계는 전반적인 생산성과 효율성을 향상시키고 있습니다. 정보통신, 의료 등 다양한 분야에서 변화를 이끌어내며 인도 기업의 글로벌 경쟁력 강화에 기여하고 ...",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021938/ai26021938-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021938/ai26021938.png",
     "image_alt": "인공지능, 인도 IT산업 변화 선도 - SONOW 관련 이미지",
@@ -45475,7 +45497,7 @@
   {
     "article_id": "re26021921",
     "title": "송영길 복당 / 이재명과의 역학 구도 변수?",
-    "description": "계양보궐, 송영길 vs 김남준 대결 가능성 높아져 전당대회 돈봉투 ���포 사건 항소심에서 무죄를 선고받은 송영길 전 민주당 대표가 오는 20일 민주당 인천광역시당에 복당을 신청할 예정이다. 송 전 대표는 이와 관련하여 계양구 병방동의 한 아파트를 임대계약하며 주민등록도 서울 용",
+    "description": "계양보궐, 송영길 vs 김남준 대결 가능성 높아져 전당대회 돈봉투 살포 사건 항소심에서 무죄를 선고받은 송영길 전 민주당 대표가 오는 20일 민주당 인천광역시당에 복당을 신청할 예정이다. 송 전 대표는 이와 관련하여 계양구 병방동의 한 아파트를 임대계약하며 주민등록도 서울 용",
     "url": "https://www.society-now.com/sonow/article/re/re26021921/re26021921-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re26021921/re26021921.png",
     "image_alt": "송영길 복당 / 이재명과의 역학 구도 변수? - SONOW 관련 이미지",
@@ -45523,7 +45545,7 @@
   {
     "article_id": "hl26021923",
     "title": "쇼트트랙 금메달, 감동의 눈물 / 김민정 코치, 16년 만에 트라우마 극복",
-    "description": "\"올 선수들이 금빛 레이스로 한을 풀었다\" 김민정 쇼트트랙 대표팀 코치는 이탈리아 밀라노 아이스스케이팅 아레나에서 열린 2026년 밀라노·코르티나담페초 동계 올림픽 팀 훈련을 마친 뒤 연합뉴스 등에게 \"우리 선수들이 엄청난 서사 속에 금메달을",
+    "description": "\"올 선수들이 금빛 레이스로 한을 풀었다\" 김민정 쇼트트랙 대표팀 코치는 이탈리아 밀라노 아이스스케이팅 아레나에서 열린 2026년 밀라노·코르티나담페초 동계 올림픽 팀 훈련을 마�� 뒤 연합뉴스 등에게 \"우리 선수들이 엄청난 서사 속에 금메달을",
     "url": "https://www.society-now.com/sonow/article/hl/hl26021923/hl26021923-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26021923/hl26021923.png",
     "image_alt": "쇼트트랙 금메달, 감동의 눈물 / 김민정 코치, 16년 만에 트라우마 극복 - SONOW 관련 이미지",
@@ -45718,7 +45740,7 @@
     "description": "경찰, 진화위 조사 결과 부인 주장 진실·화해를 위한 과거사정리위원회(진화위)가 한국전쟁 당시 경찰이 부역혐의로 민간인 A씨를 살해한 사건을 규명했다. 진화위는 국가폭력과 인권침해 이후 피해자와 유족들에게 공식 사과 및 배상 조치를 권고했으나, 경찰은 위 조사 결과에",
     "url": "https://www.society-now.com/sonow/article/hl/hl26021933/hl26021933-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26021933/hl26021933.png",
-    "image_alt": "과거 인권침해 사실 규명 / 유족, 국가 ��임 인정 요구 - SONOW 관련 이미지",
+    "image_alt": "과거 인권침해 사실 규명 / 유족, 국가 책임 인정 요구 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-02-19",
@@ -46139,7 +46161,7 @@
   {
     "article_id": "co26021821",
     "title": "트럼프 건국 250주년 기념 행사 / 거액 기부금 모으려",
-    "description": "미국 외교계, 화려한 행사를 위한 기부 적극 추진 미국 대통령 도널드 트럼프가 올해 '역사상 가장 화려한 건국 250주년 행사'를 개최하겠다고 선언하면서 해외 대사관들이 기념행사 자금 마련에 적극적으로 나서고 있다. 뉴욕타임스(NYT)는 싱가포르, 일���, 홍콩 등 아시",
+    "description": "미국 외교계, 화려한 행사를 위한 기부 적극 추진 미국 대통령 도널드 트럼프가 올해 '역사상 가장 화려한 건국 250주년 행사'를 개최하겠다고 선언하면서 해외 대사관들이 기념행사 자금 마련에 적극적으로 나서고 있다. 뉴욕타임스(NYT)는 싱가포르, 일본, 홍콩 등 아시",
     "url": "https://www.society-now.com/sonow/article/co/co26021821/co26021821-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/co/co26021821/co26021821.png",
     "image_alt": "트럼프 건국 250주년 기념 행사 /  거액 기부금 모으려 - SONOW 관련 이미지",
@@ -46414,7 +46436,7 @@
     "description": "2026년 밀라노-코르티나담페초 동계올림픽 여자 1,000m에서 금메달을 획득한 네덜란드의 스피드스케이팅 스타 유타 레이르담. 그의 금메달 세리머니가 나이키 제품에 약 14억 4천만원대의 광고 효과를 창출했으며, 620만명의 소셜 미디어 팔로워를 활용한 영향력이 마케팅 전문가들의 주목을 받고 있다.",
     "url": "https://www.society-now.com/sonow/article/an/an26021824/an26021824-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26021824/an26021824.png",
-    "image_alt": "금메달 세리머니 / 레이르담의 14억 광고 효과 관련 이미지",
+    "image_alt": "금메달 세리���니 / 레이르담의 14억 광고 효과 관련 이미지",
     "keywords": [
       "유타 레이르담",
       "동계올림픽",
@@ -46906,7 +46928,7 @@
   },
   {
     "article_id": "hl26021732",
-    "title": "윤상현, 윤석열 전 대통령 사과 요구 / 국민적 신뢰 회복 필요 시각",
+    "title": "윤상현, 윤석열 전 대통령 사과 ��구 / 국민적 신뢰 회복 필요 시각",
     "description": "&039;보수 진영 벼랑 끝&039;, 윤 의원 당파 내 혼란 우려 표명 윤상현 국민의힘 의원은 16일 자신의 페이스북을 통해 \"국민의힘과 보수 진영은 지금 벼랑 끝에 서 있다\"고 주장하며, 현재 정치적 상황이 심각하다는 점을 강조했다. 윤 의원은 &",
     "url": "https://www.society-now.com/sonow/article/hl/hl26021732/hl26021732-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26021732/hl26021732.png",
@@ -47163,7 +47185,7 @@
   {
     "article_id": "ai26021732",
     "title": "Transformers.js v4, NPM에 출시!",
-    "description": "Hugging Face에서 발표한 Transformers.js v4가 NPM에 출시되었습니다. 이번 업그레이드는 성능 향상과 사용자 경험 개선을 목표로 합니다.",
+    "description": "Hugging Face에서 발표한 Transformers.js v4가 NPM에 출시되었습니다. 이번 ���그레이드는 성능 향상과 사용자 경험 개선을 목표로 합니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021732/ai26021732-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021732/ai26021732.png",
     "image_alt": "Transformers.js v4, NPM에 출시! - SONOW 관련 이미지",
@@ -47243,7 +47265,7 @@
   {
     "article_id": "ai26021737",
     "title": "토큰 경제, AI 확장의 열쇠",
-    "description": "딥러닝 기술을 기반으로 한 인공지능(AI)은 의료 진단부터 게임 캐릭터 대화까지 다양한 분야에서 활용되고 있습니다. 이러한 AI 상호작용의 핵심은 &039;토큰&039;이며, AI 성��을 위해서는 토큰 비용 관리가 중요합니다. 본 기사에서는 토큰 경제 개념을 소개하고,",
+    "description": "딥러닝 기술을 기반으로 한 인공지능(AI)은 의료 진단부터 게임 캐릭터 대화까지 다양한 분야에서 활용되고 있습니다. 이러한 AI 상호작용의 핵심은 &039;토큰&039;이며, AI 성장을 위해서는 토큰 비용 관리가 중요합니다. 본 기사에서는 토큰 경제 개념을 소개하고,",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021737/ai26021737-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021737/ai26021737.png",
     "image_alt": "토큰 경제, AI 확장의 열쇠 - SONOW 관련 이미지",
@@ -47435,7 +47457,7 @@
   {
     "article_id": "ai26021749",
     "title": "Uncanny Valley: ICE's Secret Expansion Plans, Palantir Worke",
-    "description": "ICE 침투: 민주주의의 위협, 언론의 역할 미국 ICE 폭넓은 공작에 맞서 언론이 노력하는 사례: WIRED 매거진에서 방송된 Uncanny Valley 프로그램을 통해 미국 ICE (국경보호국)의 정치적 목적으로 사용되는 광범위한 감시 활동과 언론의 역할을 알 수",
+    "description": "ICE 침투: 민주주의의 위협, 언론의 역할 미국 ICE 폭넓은 공작에 맞서 언론이 노력하는 사례: WIRED 매거진에서 방송된 Uncanny Valley 프로��램을 통해 미국 ICE (국경보호국)의 정치적 목적으로 사용되는 광범위한 감시 활동과 언론의 역할을 알 수",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021749/ai26021749-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021749/ai26021749.png",
     "image_alt": "Uncanny Valley: ICE’s Secret Expansion Plans, Palantir Worke - SONOW 관련 이미지",
@@ -47740,7 +47762,7 @@
   },
   {
     "article_id": "hl26021632",
-    "title": "국민의힘, '숙청' 비판 / 유승민 \"보수 정당 재건\" 주장",
+    "title": "국민의힘, '숙청' 비판 / 유승민 \"보수 ��당 재건\" 주장",
     "description": "유승민 \"국민의힘, 윤리위 활용한 &039;숙청&039; 시행\" 유승민 전 의원은 최근 국민의힘 윤리위원회가 한동훈 전 대표, 김종혁 전 최고위원, 배현진 의원에 대해 징계 결정을 내린 점을 지적하며 \"윤리위나 당무감사위를 동원해 정적을 제거",
     "url": "https://www.society-now.com/sonow/article/hl/hl26021632/hl26021632-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26021632/hl26021632.png",
@@ -47829,7 +47851,7 @@
   {
     "article_id": "ai26021621",
     "title": "음성을 잃은 뮤지션의 감동적인 무대",
-    "description": "패트릭 달링은 두 년 전 발병한 질환으로 인해 노래할 수 없게 된 뮤지션입니다. 그럼에도 불구하고 그는 자신의 음악을 사랑하는 사람들과 나누�� 위해 노력했습니다. 최근, 그의 대파는 그가 작곡한 사랑찬 노래를 연주하며 감동적인 무대를 선보였습니다. 이는 달링에게 뿐 아",
+    "description": "패트릭 달링은 두 년 전 발병한 질환으로 인해 노래할 수 없게 된 뮤지션입니다. 그럼에도 불구하고 그는 자신의 음악을 사랑하는 사람들과 나누기 위해 노력했습니다. 최근, 그의 대파는 그가 작곡한 사랑찬 노래를 연주하며 감동적인 무대를 선보였습니다. 이는 달링에게 뿐 아",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021621/ai26021621-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021621/ai26021621.png",
     "image_alt": "음성을 잃은 뮤지션의 감동적인 무대 - SONOW 관련 이미지",
@@ -48280,7 +48302,7 @@
     "description": "오픈에이아이는 대규모 언어 모델 오픈클로를 오픈소스 프로젝트로 이전하여 개발 및 활용을 장려합니다. 이는 AI 기술 접근성 향상과 공동 개발 촉진에 기여할 것으로 예상됩니다. 오픈클로의 오픈소스화는 지속적인 연구 및 개선을 통해 더욱 강력하고 다용도적인 모델 도출 가능",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021649/ai26021649-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021649/ai26021649.png",
-    "image_alt": "오픈에이아이, 오픈클로 &#039;오픈소스&#039;로 계속 운영 - SONOW 관련 이미지",
+    "image_alt": "오픈에이아이, 오픈클로 &#039;오픈���스&#039;로 계속 운영 - SONOW 관련 이미지",
     "keywords": [],
     "category": "ai",
     "date": "2026-02-16",
@@ -48542,7 +48564,7 @@
     "description": "압도적인 기술 vs 4개의 실패 점프 일리야 말리닌(미국)은 최고 스케이터로서 알려져 있었습니다. 그는 세계 챔피언 타이틀을 두 차례 거머쥐며 &039;쿼드신&039;이라는 별명을 얻었죠. 특히 그는 4바퀴 반을 회전하는 쿼드러플 악셀을 포함한 무려 7개의 쿼드러플 점",
     "url": "https://www.society-now.com/sonow/article/hl/hl26021533/hl26021533-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26021533/hl26021533.png",
-    "image_alt": "쿼드신 말리닌, 무패기록 종료 / 올림픽 8위 추락 - SONOW 관련 이미지",
+    "image_alt": "��드신 말리닌, 무패기록 종료 / 올림픽 8위 추락 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-02-15",
@@ -48619,7 +48641,7 @@
   {
     "article_id": "an26021522",
     "title": "무라오카 다카미쓰 별세 / 성경 연구, 역사 반성",
-    "description": "성경 전문가이자 일본 과거사 반성의 상징적 인물 무라오카 다카미쓰(村岡崇光) 네덜란드 레이던대 명예교수가 지난 10일 네덜란드 레이던에서 세상을 떠났다. 향년 88세였다. 일본 그리스도신문이 13�� 전했다. 무라오카 교수는 세계적으로 알려진 성경 고전어 연구자로서 히브",
+    "description": "성경 전문가이자 일본 과거사 반성의 상징적 인물 무라오카 다카미쓰(村岡崇光) 네덜란드 레이던대 명예교수가 지난 10일 네덜란드 레이던에서 세상을 떠났다. 향년 88세였다. 일본 그리스도신문이 13일 전했다. 무라오카 교수는 세계적으로 알려진 성경 고전어 연구자로서 히브",
     "url": "https://www.society-now.com/sonow/article/an/an26021522/an26021522-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26021522/an26021522.png",
     "image_alt": "무라오카 다카미쓰 별세 / 성경 연구, 역사 반성 - SONOW 관련 이미지",
@@ -49372,7 +49394,7 @@
     "article_id": "re26021321",
     "title": "다주택자 대출 만기 / 연장 제한 검토",
     "description": "다주택 소유자 대상 대출 연장, 공정성 논란 가중 이재명 대통령은 최근 &039;다주택 소유자의 기존 대출 만기 처리 방안&039;에 대한 의견을 제시하며 사회적 논쟁이 치열해지고 있는 다주택 대출 연장 문제에 적극적으로 나섰다. 13일 이 대통령은 X(옛 트위터)를",
-    "url": "https://www.society-now.com/sonow/article/re/re26021321/re26021321-연합뉴스.html",
+    "url": "https://www.society-now.com/sonow/article/re/re26021321/re26021321-연합뉴��.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re26021321/re26021321.png",
     "image_alt": "다주택자 대출 만기 / 연장 제한 검토 - SONOW 관련 이미지",
     "keywords": [],
@@ -50155,7 +50177,7 @@
   {
     "article_id": "st26021121",
     "title": "정청래, 합당 무산에 리더십 훼손 / 연임도 위태롭다",
-    "description": "합당 무산으로 정 대표 &039;리더십 타격&039; 불가피 10일 더불어민주당과 조국혁신당의 합당이 무산되면서 합당을 전격 제안한 정청래 민주당 대표의 리더십에 큰 타격이 가해졌다. 당 대표 연임 도전에도 적신호가 켜졌다는 평가가 나오고 있다. 지난달 22일 \"고독한",
+    "description": "합당 무산으로 정 대표 &039;리더십 타격&039; 불가피 10일 더불어민주당과 조국혁신당의 합당이 무산되면서 합당을 전격 제안한 정청래 민주당 대표의 리더십에 큰 타격이 가해졌다. 당 대표 연임 도��에도 적신호가 켜졌다는 평가가 나오고 있다. 지난달 22일 \"고독한",
     "url": "https://www.society-now.com/sonow/article/st/st26021121/st26021121-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/st/st26021121/st26021121.png",
     "image_alt": "정청래, 합당 무산에 리더십 훼손 / 연임도 위태롭다 - SONOW 관련 이미지",
@@ -50699,7 +50721,7 @@
   {
     "article_id": "ai26021146",
     "title": "인도, 디프페이크·정보전 활동 강력 통제",
-    "description": "인도는 2월 20일부터 새로운 법규를 시행하며 디프페이크(가짜 영상) 검증 및 제재 강화에 나섰습니다. 특히 가짜 정보 확산 방지 명목으로 게시물 삭제 기한을 최대 2시간으로 단축했습���다. 이는 디지털 공간에서의 자유 표현과 정보 접근성에 대한 우려를 불러일으키고 있습",
+    "description": "인도는 2월 20일부터 새로운 법규를 시행하며 디프페이크(가짜 영상) 검증 및 제재 강화에 나섰습니다. 특히 가짜 정보 확산 방지 명목으로 게시물 삭제 기한을 최대 2시간으로 단축했습니다. 이는 디지털 공간에서의 자유 표현과 정보 접근성에 대한 우려를 불러일으키고 있습",
     "url": "https://www.society-now.com/sonow/article/ai/ai26021146/ai26021146-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26021146/ai26021146.png",
     "image_alt": "인도, 디프페이크·정보전 활동 강력 통제 - SONOW 관련 이미지",
@@ -52186,7 +52208,7 @@
   {
     "article_id": "hl26020921",
     "title": "추위 끝날까 기온 평년 수준으로 회복 예정",
-    "description": "아침 기온 -15도까지 추위 지속 9일 오전에도 주요 도시 최저기온은 서울 -9.9도, 인천 -8.8도, 대전 -8.9도 등으로 상당한 추위를 유지했습니다. 강원내륙 및 산지는 -15도 이하로 기온이 떨어졌고, 특히 강원 지역의 최저기��은 -20도까지 내려갔습니다. 하",
+    "description": "아침 기온 -15도까지 추위 지속 9일 오전에도 주요 도시 최저기온은 서울 -9.9도, 인천 -8.8도, 대전 -8.9도 등으로 상당한 추위를 유지했습니다. 강원내륙 및 산지는 -15도 이하로 기온이 떨어졌고, 특히 강원 지역의 최저기온은 -20도까지 내려갔습니다. 하",
     "url": "https://www.society-now.com/sonow/article/hl/hl26020921/hl26020921-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26020921/hl26020921.png",
     "image_alt": "추위 끝날까 기온 평년 수준으로 회복 예정 - SONOW 관련 이미지",
@@ -53027,7 +53049,7 @@
   {
     "article_id": "re26020821",
     "title": "원도심 빈집 바비큐로 활력 불어넣는 \"가정집\"",
-    "description": "낡은 벽돌 집, &039;가정집&039;으로 변신 인천시 서구 원도심에 있는 정서진중앙시장 앞에는 오래된 붉은 벽돌집이 한 채 있다. 평범한 주택처럼 보였지만 커다란 간판의 &039;바베큐&039; 글씨가 눈길을 사로잡는다. 안쪽으로 들어가면 빈티지 소품과 자개장, 샹",
+    "description": "낡은 벽돌 집, &039;가정집&039;으로 변신 인천시 서구 원도심에 있는 정서진중앙시장 앞에는 오래된 붉은 벽돌집이 한 �� 있다. 평범한 주택처럼 보였지만 커다란 간판의 &039;바베큐&039; 글씨가 눈길을 사로잡는다. 안쪽으로 들어가면 빈티지 소품과 자개장, 샹",
     "url": "https://www.society-now.com/sonow/article/re/re26020821/re26020821-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re26020821/re26020821.png",
     "image_alt": "원도심 빈집 바비큐로 활력 불어넣는 \"가정집\" - SONOW 관련 이미지",
@@ -54578,7 +54600,7 @@
   },
   {
     "article_id": "ai26020634",
-    "title": "H컴퍼니, Holo2로 UI 국제화 선도",
+    "title": "H컴퍼니, Holo2로 UI 국제화 선��",
     "description": "H컴퍼니가 새롭게 출시한 Holo2 모델이 사용자 인터페이스(UI) 국제화 분야에서 새로운 지평을 열었다. Holo2는 다양한 언어와 문화를 지원하는 첨단 기능을 통해 글로벌 시장 확장에 기여할 것으로 전망된다. 이번 발전은 AI 기술의 발전과 국제화시대 속 디지털 경",
     "url": "https://www.society-now.com/sonow/article/ai/ai26020634/ai26020634-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26020634/ai26020634.png",
@@ -54595,7 +54617,7 @@
   {
     "article_id": "ai26020635",
     "title": "The Future of the Global Open-Source AI Ecosystem: From Deep",
-    "description": "글로벌 오픈소스 AI 생태계의 미래: DeepSeek부터 AI+까지 글로벌 오픈소스 AI 개발 동력 강화 탐색 Hugging Face 블로그에서 공개된 기사는 최근 글로벌 오픈소스 AI 생태계가 어떻게 발전하고 있는지 분석하���, 앞으로의 전망을 제시합니다. 특히 Dee",
+    "description": "글로벌 오픈소스 AI 생태계의 미래: DeepSeek부터 AI+까지 글로벌 오픈소스 AI 개발 동력 강화 탐색 Hugging Face 블로그에서 공개된 기사는 최근 글로벌 오픈소스 AI 생태계가 어떻게 발전하고 있는지 분석하며, 앞으로의 전망을 제시합니다. 특히 Dee",
     "url": "https://www.society-now.com/sonow/article/ai/ai26020635/ai26020635-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26020635/ai26020635.png",
     "image_alt": "The Future of the Global Open-Source AI Ecosystem: From Deep - SONOW 관련 이미지",
@@ -55113,7 +55135,7 @@
   {
     "article_id": "an26020524",
     "title": "중국 메모리 공격 범용·HBM 분야 선점 노려",
-    "description": "중국 메모리 업체, 범용 시장 공략 가속화 메모리 반도체 품귀와 D램에 이은 ���드플래시 가격 폭등세가 계속되는 가운데 중국 기업들이 공격적인 행보를 보이고 있다. 삼성전자와 SK하이닉스가 인공지능(AI)의 핵심인 고대역폭 메모리(HBM) 생산에 집중하는 상황에서 중국은",
+    "description": "중국 메모리 업체, 범용 시장 공략 가속화 메모리 반도체 품귀와 D램에 이은 낸드플래시 가격 폭등세가 계속되는 가운데 중국 기업들이 공격적인 행보를 보이고 있다. 삼성전자와 SK하이닉스가 인공지능(AI)의 핵심인 고대역폭 메모리(HBM) 생산에 집중하는 상황에서 중국은",
     "url": "https://www.society-now.com/sonow/article/an/an26020524/an26020524-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26020524/an26020524.png",
     "image_alt": "중국 메모리 공격 범용·HBM 분야 선점 노려 - SONOW 관련 이미지",
@@ -56408,7 +56430,7 @@
   },
   {
     "article_id": "ai26020448",
-    "title": "'폴라로이드'의 세계관 - ���athan Nolan 인터뷰 (2023)",
+    "title": "'폴라로이드'의 세계관 - 존athan Nolan 인터뷰 (2023)",
     "description": "웨이어드와 Jonathan Nolan의 대화에서, 인공지능, 사회적 영향력 및 기술의 앞날을 다룬 내용들이 담겨 있습니다. Nolan은 인공지능 비디오 생성 기술의 위험성을 지적하며, 알고리즘 기반 피드를 제거하여 소셜 미디어 환경 개선을 주장합니다. 또한 유전자 치료",
     "url": "https://www.society-now.com/sonow/article/ai/ai26020448/ai26020448-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26020448/ai26020448.png",
@@ -56926,7 +56948,7 @@
     "keywords": [],
     "category": "an",
     "date": "2026-02-03",
-    "source": "��합뉴스",
+    "source": "연합뉴스",
     "source_url": "",
     "quality_score": 71,
     "translate_of": null,
@@ -57167,7 +57189,7 @@
   {
     "article_id": "ai26020339",
     "title": "NVIDIA, 완전 오픈형 날씨 AI 소프트웨어 출시",
-    "description": "NVIDIA는 미국기상학회년차회에서 새로운 오픈형 날씨 및 기후 AI 플랫폼 'NVIDIA Earth-2'를 선보였다. NVIDIA Earth-2는 완전 오픈소스로, 생산에 준비된 날씨 예측 모델, 라이브러리, 프레임워크를 제공한다. 이 플랫폼은 범용성과 투명성을 강화하며 연구 및 개발 분야에 새로운 가능성을 제시합니다.",
+    "description": "NVIDIA는 미국기상학회년차회에서 새로운 오픈형 날씨 및 기후 AI 플랫폼 'NVIDIA Earth-2'를 선보였다. NVIDIA Earth-2는 완전 오픈소스로, 생산��� 준비된 날씨 예측 모델, 라이브러리, 프레임워크를 제공한다. 이 플랫폼은 범용성과 투명성을 강화하며 연구 및 개발 분야에 새로운 가능성을 제시합니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26020339/ai26020339-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26020339/ai26020339.png",
     "image_alt": "NVIDIA, 완전 오픈형 날씨 AI 소프트웨어 출시 관련 이미지",
@@ -57435,7 +57457,7 @@
     "description": "대설특보 수준 눈으로 서울부터 동해안까지 차질 가능 1일 저녁부터 전국 대부분 지역에 눈이 내리는 등 날씨가 불쾌하게 변할 것으로 예상된다. 중부지방을 시작으로 강한 눈과 빙판길이 형성되어 교통 체증 및 사고 발생 우려가 커진다. 기상청은 1일 오후 수시예보 브리핑에서",
     "url": "https://www.society-now.com/sonow/article/hl/hl26020227/hl26020227-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26020227/hl26020227.png",
-    "image_alt": "눈 내리는 전국 대설주의보 수준 강한 눈 예상 - SONOW 관련 이미지",
+    "image_alt": "눈 내리는 전국 대설주의보 수준 강한 눈 예상 - SONOW ��련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-02-02",
@@ -57961,7 +57983,7 @@
   {
     "article_id": "ai26020246",
     "title": "뉴욕시 AI챗봇, 정보 오류로 사라진다",
-    "description": "퇴임한 행정부가 개발한 뉴욕 시 AI 챗봇이 제공하는 정보의 오류로 인해 새 행정부가 폐쇄 결정했습니다. 챗봇은 기업주들이 법규를 확인할 수 있도록 제작되었지만, 불법적인 사업 방법에 대한 잘���된 조언을 제공했다는 비판을 받았습니다. 새로운 행정부는 예산 절감을 위해 이 챗봇을 없앨 계획입니다.",
+    "description": "퇴임한 행정부가 개발한 뉴욕 시 AI 챗봇이 제공하는 정보의 오류로 인해 새 행정부가 폐쇄 결정했습니다. 챗봇은 기업주들이 법규를 확인할 수 있도록 제작되었지만, 불법적인 사업 방법에 대한 잘못된 조언을 제공했다는 비판을 받았습니다. 새로운 행정부는 예산 절감을 위해 이 챗봇을 없앨 계획입니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26020246/ai26020246-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26020246/ai26020246.png",
     "image_alt": "뉴욕시 AI챗봇, 정보 오류로 사라진다 관련 이미지",
@@ -58736,7 +58758,7 @@
   {
     "article_id": "hl26020124",
     "title": "북한 평안도 주변 흐림 비 또는 눈 예보",
-    "description": "지역별 날씨 전망 공개 북한 기상청은 1일 저녁, 평안북도와 함경���도가 대체로 흐리겠다고 예보했습니다. 황해도와 함경남도는 오후부터 밤 사이에 곳에 따라 비 또는 눈이 내릴 것으로 전망됐습니다. 조선중앙방송은 평양시가 오전까지 주로 개였다가 오후에는 대체로 흐리며 일부",
+    "description": "지역별 날씨 전망 공개 북한 기상청은 1일 저녁, 평안북도와 함경북도가 대체로 흐리겠다고 예보했습니다. 황해도와 함경남도는 오후부터 밤 사이에 곳에 따라 비 또는 눈이 내릴 것으로 전망됐습니다. 조선중앙방송은 평양시가 오전까지 주로 개였다가 오후에는 대체로 흐리며 일부",
     "url": "https://www.society-now.com/sonow/article/hl/hl26020124/hl26020124-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26020124/hl26020124.png",
     "image_alt": "북한 평안도 주변 흐림 비 또는 눈 예보 - SONOW 관련 이미지",
@@ -60766,7 +60788,7 @@
   {
     "article_id": "ai26012922",
     "title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclea",
-    "description": "AI 데이터센터의 막대한 에너지 수요가 증가하면서 차세대 원자력 발전소가 대안으로 주목받고 있다. MIT Technology Review의 심층 분석을 통해 AI 기술 발전과 에너지 공급 간의 관계를 살펴본다.",
+    "description": "AI 데이터센터의 막대한 에너지 수요가 증가하면서 차세대 원자력 발��소가 대안으로 주목받고 있다. MIT Technology Review의 심층 분석을 통해 AI 기술 발전과 에너지 공급 간의 관계를 살펴본다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26012922/ai26012922-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26012922/ai26012922.png",
     "image_alt": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclea 관련 이미지",
@@ -61273,7 +61295,7 @@
     "description": "Railway는 마케팅 비용 없이 200만 명의 개발자가 사용하는 클라우드 플랫폼으로 성장했습니다. AI 시대에 맞춰 1억 달러를 확보하며 더욱 빠른 배포 및 운영 체제 제공을 목표로 합니다. 기존 클라우드 공급업체의 한계점을 보완하고 AI 개발 지원에 집중하는 Railway의 전략이 주목받고 있습니다.",
     "url": "https://www.society-now.com/sonow/article/ai/ai26012940/ai26012940-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/ai/ai26012940/ai26012940.png",
-    "image_alt": "AI 개발 트렌드에 맞춰 Railway가 $1억 자금 확보 관련 이미지",
+    "image_alt": "AI 개��� 트렌드에 맞춰 Railway가 $1억 자금 확보 관련 이미지",
     "keywords": [],
     "category": "ai",
     "date": "2026-01-29",
@@ -64029,7 +64051,7 @@
   {
     "article_id": "hl26012627",
     "title": "국민의힘, 한동훈 제명 논쟁 격화 장동혁 단식 여파로 연기될 가능성",
-    "description": "한동훈 제명 논의, 장대표 복귀와 결착될까? 한동훈 전 국민의힘 대표에 대한 제명 논쟁이 다시 예고되면서 국민의힘 내 갈등이 격화되는 상황이다. 장동혁 현 대표가 단식으로 인해 당무�� 곧바로 복귀하지 못하면서 한동훈 전 대표 제명 논의는 연기될 가능성이 높아졌다. 장대",
+    "description": "한동훈 제명 논의, 장대표 복귀와 결착될까? 한동훈 전 국민의힘 대표에 대한 제명 논쟁이 다시 예고되면서 국민의힘 내 갈등이 격화되는 상황이다. 장동혁 현 대표가 단식으로 인해 당무에 곧바로 복귀하지 못하면서 한동훈 전 대표 제명 논의는 연기될 가능성이 높아졌다. 장대",
     "url": "https://www.society-now.com/sonow/article/hl/hl26012627/hl26012627-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26012627/hl26012627.png",
     "image_alt": "국민의힘, 한동훈 제명 논쟁 격화 장동혁 단식 여파로 연기될 가능성 - SONOW 관련 이미지",
@@ -64392,7 +64414,7 @@
     "description": "신한·하나은행이 30일부터 달러 예금 금리를 0.1% 이하로 대폭 인하한다. 정부와 금융당국의 환율 안정 요청에 따라 외화예금 마케팅을 자제하고 외환시장 수급 불균형 해소에 적극 협조하고 있다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl26012503/hl26012503-달러-예금.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26012503/hl26012503.png",
-    "image_alt": "신한·하나은행, 달러 예금 금리 대폭 인하 배경과 영향 - SONOW 관련 이미지",
+    "image_alt": "신한��하나은행, 달러 예금 금리 대폭 인하 배경과 영향 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-01-25",
@@ -65876,7 +65898,7 @@
     "article_id": "an26012121",
     "title": "AI, 아동 권리 위협…국제 공조 필요",
     "description": "ITU가 발표한 국제성명에서 AI 기술이 아동의 유해 콘텐츠 노출, 개인정보 수집 등 새로운 위험을 초래할 수 있다고 경고했다. 아동 권리 기반 AI 거버넌스와 투명성 강화를 위한 11가지 핵심 권고 사항이 제시되었다.",
-    "url": "https://www.society-now.com/sonow/article/an/an26012121/an26012121-연합뉴스.html",
+    "url": "https://www.society-now.com/sonow/article/an/an26012121/an26012121-연��뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26012121/an26012121.png",
     "image_alt": "AI, 아동 권리 위협…국제 공조 필요 관련 이미지",
     "keywords": [
@@ -66523,7 +66545,7 @@
   {
     "article_id": "re26011922",
     "title": "윤석열…현대건설 '뇌물' 의혹 ...2차 특검 주요 대상",
-    "description": "민중기 특검팀이 윤석열 전 대통령과 현대건설을 뇌물혐의로 적시해 경찰청에 이��했습니다. 현대건설이 관저 공사비를 지원하는 대신 다른 사업 수주를 추진한 의혹이 핵심이며, 2차 종합특검이 본격적으로 수사할 예정입니다.",
+    "description": "민중기 특검팀이 윤석열 전 대통령과 현대건설을 뇌물혐의로 적시해 경찰청에 이첩했습니다. 현대건설이 관저 공사비를 지원하는 대신 다른 사업 수주를 추진한 의혹이 핵심이며, 2차 종합특검이 본격적으로 수사할 예정입니다.",
     "url": "https://www.society-now.com/sonow/article/re/re26011922/re26011922-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re26011922/re26011922.png",
     "image_alt": "윤석열…현대건설 &#039;뇌물&#039; 의혹  ...2차 특검 주요 대상 관련 이미지",
@@ -66877,7 +66899,7 @@
   },
   {
     "article_id": "dt26011912",
-    "title": "가덕도신공항 ��객터미널 설계공모 1등 희림건축사사무소",
+    "title": "가덕도신공항 여객터미널 설계공모 1등 희림건축사사무소",
     "description": "국토부 주관 가덕도신공항 터미널 국제설계공모에서 희림건축사사무소 &039;Rising Wings&039; 1등 선정, 760억 설계권 획득",
     "url": "https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912-가덕도신공항.html",
     "image_url": "https://www.society-now.com/sonow/article/dt/dt26011912/dt26011912.png",
@@ -67531,7 +67553,7 @@
   {
     "article_id": "an26011722",
     "title": "대만 반도체 투자 확대 미국과 무역합의 체결",
-    "description": "대만 기업, 미국에 367조원 투자 약속 미국과 대만은 15일 상호관세를 15%로 인하하고, 대만 기���들의 미국 내 생산 능력 확대를 위한 무역합의를 체결했습니다. 대만 정부와 기업들은 최소 2500억 달러(약 367조원)규모의 직접 투자와 신용 보증을 제공하는 내용으",
+    "description": "대만 기업, 미국에 367조원 투자 약속 미국과 대만은 15일 상호관세를 15%로 인하하고, 대만 기업들의 미국 내 생산 능력 확대를 위한 무역합의를 체결했습니다. 대만 정부와 기업들은 최소 2500억 달러(약 367조원)규모의 직접 투자와 신용 보증을 제공하는 내용으",
     "url": "https://www.society-now.com/sonow/article/an/an26011722/an26011722-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26011722/an26011722.png",
     "image_alt": "대만 반도체 투자 확대 미국과 무역합의 체결 - SONOW 관련 이미지",
@@ -67997,7 +68019,7 @@
   {
     "article_id": "hl26011524",
     "title": "북한 15일 전 지역 흐림 예상 비, 눈 내릴 가능성",
-    "description": "침체된 날씨 기대 북한은 15일 아침부터 전 지역이 흐리겠다고 북한의 기상청이 예보했습니다. 평안북도, 함경남도, 함경북도에는 밤까지 곳에 따라 비나 눈이 내릴 수 있다고 전망되었습니다. 지역별 날씨 상세 전망 기상청은 15일 오후 기준으로 각 지역의 최고기온과 강",
+    "description": "침체된 날씨 기대 북한은 15일 아침부터 전 지역이 흐리���다고 북한의 기상청이 예보했습니다. 평안북도, 함경남도, 함경북도에는 밤까지 곳에 따라 비나 눈이 내릴 수 있다고 전망되었습니다. 지역별 날씨 상세 전망 기상청은 15일 오후 기준으로 각 지역의 최고기온과 강",
     "url": "https://www.society-now.com/sonow/article/hl/hl26011524/hl26011524-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26011524/hl26011524.png",
     "image_alt": "북한 15일 전 지역 흐림 예상 비, 눈 내릴 가능성 - SONOW 관련 이미지",
@@ -69112,7 +69134,7 @@
   {
     "article_id": "hl26011328",
     "title": "민주당 윤리심판 김병기 제명 처분",
-    "description": "윤리심판원, 김병기 제명 의결 더불어민주당 김병기 의원에 대한 윤리심판 결과가 밝혀졌다. 민주당 윤리심판원은 지난 13일 9시간 동안 진행된 마라톤 회의를 거쳐 공천 헌금 수수와 보좌진 상대 급질 등 13건의 비위 의혹에 연루된 김병기 의원을 제명 처분으로 결정했다.",
+    "description": "윤리심판원, 김병기 제명 의결 더불���민주당 김병기 의원에 대한 윤리심판 결과가 밝혀졌다. 민주당 윤리심판원은 지난 13일 9시간 동안 진행된 마라톤 회의를 거쳐 공천 헌금 수수와 보좌진 상대 급질 등 13건의 비위 의혹에 연루된 김병기 의원을 제명 처분으로 결정했다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl26011328/hl26011328-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26011328/hl26011328.png",
     "image_alt": "민주당 윤리심판 김병기 제명 처분 - SONOW 관련 이미지",
@@ -69192,7 +69214,7 @@
   {
     "article_id": "hl26011333",
     "title": "김병기 의원, 지역구 인사 개입 논란 '측근 앉히려는 시도'",
-    "description": "2023년 12월, 김병기 더불어민주당 의원(전 원내대표)에 대한 구의회 인사 개입 논란이 제기되었다. 여야 합의로 내정된 인사 대신 자신의 측근을 앉히려는 의혹과 그의 배우자 이모씨가 '입김'까지 하였다는 주장도 나온 것이다. &039;여야 합의 깬 김���기…측근만 꽂",
+    "description": "2023년 12월, 김병기 더불어민주당 의원(전 원내대표)에 대한 구의회 인사 개입 논란이 제기되었다. 여야 합의로 내정된 인사 대신 자신의 측근을 앉히려는 의혹과 그의 배우자 이모씨가 '입김'까지 하였다는 주장도 나온 것이다. &039;여야 합의 깬 김병기…측근만 꽂",
     "url": "https://www.society-now.com/sonow/article/hl/hl26011333/hl26011333-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26011333/hl26011333.png",
     "image_alt": "김병기 의원, 지역구 인사 개입 논란 &#039;측근 앉히려는 시도&#039; - SONOW 관련 이미지",
@@ -70128,7 +70150,7 @@
   {
     "article_id": "hl26011271",
     "title": "인요한, 계엄 후 '실망' 고백 치욕스러움 표명",
-    "description": "&039;계엄이 선포된 1년 동안 너무 실망스럽고 치욕스럽다&039; 지난달 돌연 국회의원직을 사퇴한 인요한 전 국민의힘 의원이 12일 자신의 유튜브 채널에 \"계엄 후 1년 동안 밝혀지는 일들을 보면 너무 실망스럽고 치욕스럽다\"라고 고백했다. 그는 주",
+    "description": "&039;계엄이 선포된 1년 동안 너무 실망스럽고 치욕스럽다&039; 지난달 돌연 국회의원직을 사퇴한 인요한 전 국민의힘 의원이 12일 자신의 유튜브 채널에 \"계엄 후 1년 동안 밝혀지는 일들을 보면 너무 실망스���고 치욕스럽다\"라고 고백했다. 그는 주",
     "url": "https://www.society-now.com/sonow/article/hl/hl26011271/hl26011271-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26011271/hl26011271.png",
     "image_alt": "인요한, 계엄 후 &#039;실망&#039; 고백 치욕스러움 표명 - SONOW 관련 이미지",
@@ -71115,7 +71137,7 @@
     "description": "K푸드 선두주자로 부상한 한국 라면 지난해 우리나라 라면 수출은 21.8% 증가하며 역대 최고치인 15억2천100만 달러(약 2조2천억원)를 기록했다. 관세청 통계에 따르면, 이는 불과 2년 만에 수출액이 전년 대비 두 배 증가한 것으로 나타났다. 특히 지난 2015년",
     "url": "https://www.society-now.com/sonow/article/hl/hl26011127/hl26011127-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26011127/hl26011127.png",
-    "image_alt": "라면 수출 막��, 역대 최고 기록 2조 달러 돌파 - SONOW 관련 이미지",
+    "image_alt": "라면 수출 막강, 역대 최고 기록 2조 달러 돌파 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-01-11",
@@ -71419,7 +71441,7 @@
   {
     "article_id": "an26011025",
     "title": "하원 본회의서 '김영옥 누나' 떠올려 눈물 글썽 한국인 의원에 대한 존경",
-    "description": "추모 발언 이후 &039;김영옥 누나&039; ��사 흘러나오다 8일(현지시간) 미국 워싱턴 D.C. 연방의회 의사당에서 열린 하원 본회의 도중 공화당 소속 블레이커 무어 하원의원이 발언을 마친 후, 같은 당의 한국계 김영희 하원의원(캘리포니아주)에게 \"누나&q",
+    "description": "추모 발언 이후 &039;김영옥 누나&039; 인사 흘러나오다 8일(현지시간) 미국 워싱턴 D.C. 연방의회 의사당에서 열린 하원 본회의 도중 공화당 소속 블레이커 무어 하원의원이 발언을 마친 후, 같은 당의 한국계 김영희 하원의원(캘리포니아주)에게 \"누나&q",
     "url": "https://www.society-now.com/sonow/article/an/an26011025/an26011025-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26011025/an26011025.png",
     "image_alt": "하원 본회의서 &#039;김영옥 누나&#039; 떠올려 눈물 글썽 한국인 의원에 대한 존경 - SONOW 관련 이미지",
@@ -71691,7 +71713,7 @@
   {
     "article_id": "hl26011028",
     "title": "트럼프 상호관세 판결 미뤄 대법원 갈등 예고",
-    "description": "불확실한 결과에 대한 기대감 고조 미국 연방대법원이 도널드 트럼프 행정부의 상호관세에 대한 판결을 지난 9일(현지시각) 내지 않았습니다. 로이터 통신 등 여러 언론 매체가 이를 보도하며 대법원이 앞서 예고했던 주�� 사건 결정 발표 일정을 변경했다는 점을 강조했습니다.",
+    "description": "불확실한 결과에 대한 기대감 고조 미국 연방대법원이 도널드 트럼프 행정부의 상호관세에 대한 판결을 지난 9일(현지시각) 내지 않았습니다. 로이터 통신 등 여러 언론 매체가 이를 보도하며 대법원이 앞서 예고했던 주요 사건 결정 발표 일정을 변경했다는 점을 강조했습니다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl26011028/hl26011028-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26011028/hl26011028.png",
     "image_alt": "트럼프 상호관세 판결 미뤄 대법원 갈등 예고 - SONOW 관련 이미지",
@@ -72475,7 +72497,7 @@
   {
     "article_id": "st26010903",
     "title": "외국인 투자자 12월 국내 증시 9.4조원 순투자 현황",
-    "description": "유��� 자금 주도로 코스피 상승, 반도체 대형주 집중 매수",
+    "description": "유럽 자금 주도로 코스피 상승, 반도체 대형주 집중 매수",
     "url": "https://www.society-now.com/sonow/article/st/st26010903/st26010903-외국인-투자.html",
     "image_url": "https://www.society-now.com/sonow/article/st/st26010903/st26010903.png",
     "image_alt": "외국인 투자자 12월 국내 증시 9.4조원 순투자 현황 - SONOW 관련 이미지",
@@ -72523,7 +72545,7 @@
   {
     "article_id": "ta26010809",
     "title": "KEIT 지원 기업 CES 2026 혁신상 20개 수상, 역대 최다 달성 | SO,NOW",
-    "description": "한국산업기술기획평가원 지원 기업들이 CES 2026에서 혁신상 20개를 수상하며 역대 최다 기록을 세웠다. 엘비에스테크 시각장애인 내비게이션 등 AI·로봇 기술이 글로벌 인정받았다.",
+    "description": "한국산업기술기획평가�� 지원 기업들이 CES 2026에서 혁신상 20개를 수상하며 역대 최다 기록을 세웠다. 엘비에스테크 시각장애인 내비게이션 등 AI·로봇 기술이 글로벌 인정받았다.",
     "url": "https://sonow.kr/article/ta/ta26010809/ta26010809-ces-2026.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta26010809/ta26010809.png",
     "image_alt": "KEIT 지원 기업 CES 2026 혁신상 20개 수상, 역대 최다 달성 | SO,NOW 관련 이미지",
@@ -72746,7 +72768,7 @@
   },
   {
     "article_id": "hl26010829",
-    "title": "장동혁, 비상계엄 사과 쇄신 선언은? 윤석열과의 절연 언급 ���음",
+    "title": "장동혁, 비상계엄 사과 쇄신 선언은? 윤석열과의 절연 언급 없음",
     "description": "&039;잘못된 수단&039; 비상계엄 사과 국민의힘 장동혁 대표는 19일 회견을 통해 2026년 12월3일 선포된 비상계엄이 \"상황에 맞지 않는 잘못된 수단\"이었다고 사과했다. 그는 \"우리 국민께 큰 혼란과 불편을 드렸다\"며 \"국정 운영의 한 축이었",
     "url": "https://www.society-now.com/sonow/article/hl/hl26010829/hl26010829-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26010829/hl26010829.png",
@@ -73011,7 +73033,7 @@
   {
     "article_id": "hl26010724",
     "title": "아리랑6호 발사 또 연기 내년 상반기 이후로",
-    "description": "발사 제약 속 ��시 한 번 미뤄진 꿈 다목적실용위성(아리랑) 6호는 밤낮 관계없이 가로·세로 50cm 크기의 물체까지 식별할 수 있는 고해상도 영상레이더(SAR) 관측 위성으로 개발에 3천700억원을 들였지만, 제작 완료 4년이 지나고도 발사가 미뤄져 세계적 성능이라는",
+    "description": "발사 제약 속 다시 한 번 미뤄진 꿈 다목적실용위성(아리랑) 6호는 밤낮 관계없이 가로·세로 50cm 크기의 물체까지 식별할 수 있는 고해상도 영상레이더(SAR) 관측 위성으로 개발에 3천700억원을 들였지만, 제작 완료 4년이 지나고도 발사가 미뤄져 세계적 성능이라는",
     "url": "https://www.society-now.com/sonow/article/hl/hl26010724/hl26010724-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26010724/hl26010724.png",
     "image_alt": "아리랑6호 발사 또 연기 내년 상반기 이후로 - SONOW 관련 이미지",
@@ -73314,7 +73336,7 @@
   {
     "article_id": "ta26010621",
     "title": "이혜훈 재산 175억, 갑질 논란 청문회 필요 | SO,NOW",
-    "description": "'갑질' 논란 제기된 이후보자, 대규모 재산 증식 눈여겨봄 국민의힘은 이혜훈 기획예산처 장관 후보자의 재산 175억원이 10년 전에 비해 110억원이나 증가한 점을 문제 삼고 국회 인사청문회를 이틀 동안 진행해야 한다고 주장했다. 이후보자는 서울 서초구 반포동 아파트",
+    "description": "'갑질' 논란 제기된 이후보자, 대규모 재산 증식 눈여겨봄 국민의힘은 이혜훈 기획예산처 ���관 후보자의 재산 175억원이 10년 전에 비해 110억원이나 증가한 점을 문제 삼고 국회 인사청문회를 이틀 동안 진행해야 한다고 주장했다. 이후보자는 서울 서초구 반포동 아파트",
     "url": "https://sonow.kr/article/ta/ta26010621/ta26010621-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta26010621/ta26010621.png",
     "image_alt": "이혜훈 재산 175억, 갑질 논란 청문회 필요 | SO,NOW 관련 이미지",
@@ -73809,7 +73831,7 @@
     "description": "&039;동주공제&039; 강원특별자치도지사 김진태의 첫 행보 김진태 강원특별자치도지사가 &039;같은 배를 타고 함께 강을 건넌다&039;는 사자성어인 &039;동주공제&039;(同舟共濟)를 신년 화두로 내건 뒤, 어르신 상대 기초연금 서비스 홍보에 나섰다. 이는 김",
     "url": "https://www.society-now.com/sonow/article/hl/hl26010522/hl26010522-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26010522/hl26010522.png",
-    "image_alt": "기초���금, 잊혀진 권리 김진태 지사 직접 홍보 - SONOW 관련 이미지",
+    "image_alt": "기초연금, 잊혀진 권리 김진태 지사 직접 홍보 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-01-05",
@@ -74065,7 +74087,7 @@
     "description": "미국과 베네수엘라, 30년간의 롤러코스터 관계 미국과 베네수엘라는 오랫동안 &039;석유&039;를 중심으로 시선을 주고받아온 역사를 가지고 있습니다. 과거에는 베네수엘라가 미국에 주요 에너지 공급원으로서 기여하며 미국의 경제 발전에 큰 도움을 주었습니다. 하지만 27",
     "url": "https://www.society-now.com/sonow/article/hl/hl26010538/hl26010538-SBS.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26010538/hl26010538.png",
-    "image_alt": "베네수엘라 30년 전 &#039;주유소&#039; 역할, ��일머니 갈등 심화 - SONOW 관련 이미지",
+    "image_alt": "베네수엘라 30년 전 &#039;주유소&#039; 역할, 오일머니 갈등 심화 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2026-01-05",
@@ -74342,7 +74364,7 @@
   {
     "article_id": "hl26010422",
     "title": "한병도, 원내대표 출마 이재명 정부 성공 선봉장",
-    "description": "&039;검증된 실력&039;과 &039;민주당 깃발 당당히 꽂겠다&039; 더불어민주당 한병도 의원이 4일 원내대표 보궐선거에 출마를 선언��다. 이로써 진성준, 박정, 백혜련 의원에 이어 4번째 후보가 경쟁장에 참여하게 됐다. 회견에서 한병도 의원은 \"경험과",
+    "description": "&039;검증된 실력&039;과 &039;민주당 깃발 당당히 꽂겠다&039; 더불어민주당 한병도 의원이 4일 원내대표 보궐선거에 출마를 선언했다. 이로써 진성준, 박정, 백혜련 의원에 이어 4번째 후보가 경쟁장에 참여하게 됐다. 회견에서 한병도 의원은 \"경험과",
     "url": "https://www.society-now.com/sonow/article/hl/hl26010422/hl26010422-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26010422/hl26010422.png",
     "image_alt": "한병도, 원내대표 출마 이재명 정부 성공 선봉장 - SONOW 관련 이미지",
@@ -74598,7 +74620,7 @@
   {
     "article_id": "an26010424",
     "title": "' Blackwood 요리사' 신조어 등장 전업자녀 증가 심각?",
-    "description": "&039;전업자녀&039; 현상이란 무엇인가? 최근 청년들의 취업난에 대한 고통은 심각한 수준을 보이고 있습니다. 이러한 상황 속에서 일부 청년들은 취업을 포기하고 집안일에 종사하며 생계를 유지하는 &039;전업자녀&039; 현상이 증가��고 있다는 우려가 제기되고 있습",
+    "description": "&039;전업자녀&039; 현상이란 무엇인가? 최근 청년들의 취업난에 대한 고통은 심각한 수준을 보이고 있습니다. 이러한 상황 속에서 일부 청년들은 취업을 포기하고 집안일에 종사하며 생계를 유지하는 &039;전업자녀&039; 현상이 증가하고 있다는 우려가 제기되고 있습",
     "url": "https://www.society-now.com/sonow/article/an/an26010424/an26010424-AI.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an26010424/an26010424.png",
     "image_alt": "&#039; Blackwood 요리사&#039; 신조어 등장 전업자녀 증가 심각? - SONOW 관련 이미지",
@@ -75420,7 +75442,7 @@
   {
     "article_id": "ed26010221",
     "title": "윤석열 부부 11건의 법정 심판 앞두고 내년 상반기까지 이어질 전직 대통령 재판",
-    "description": "내란 우두머리…체포 방해까지, 8건의 사건으로 법정 서고 윤석열 전 대통령은 검찰 수사를 통해 &039;내란 우두머리&039; 등 6개 사건이 형사재판에 이르렀다. 민중기 특검팀의 수사로 정치자금법 위반 및 공직선거법 위반 사건이 추가된 결과, 총 8건의 재판을 받게",
+    "description": "내란 우두머리…체포 방해까지, 8건의 사건으로 법정 서고 윤석열 전 대통령은 검찰 수사를 통해 &039;내란 우두머리&039; 등 6개 사건이 형사재판에 이르렀다. 민중기 특검팀의 수사로 ���치자금법 위반 및 공직선거법 위반 사건이 추가된 결과, 총 8건의 재판을 받게",
     "url": "https://www.society-now.com/sonow/article/ed/ed26010221/ed26010221-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/교육/ed26010221/ed26010221.png",
     "image_alt": "",
@@ -75676,7 +75698,7 @@
   {
     "article_id": "hl26010133",
     "title": "중도층 정, 장 대표 평가 갈림..두 정당 지지율 대비 확대",
-    "description": "&039;중도층&039; 선호도…정 대표 압도적 우위 최근 경향신문과 한국갤럽이 공동으로 진행한 여론조사에 따르면, 정청래 더불어민주당 대표와 장동혁 국민의힘 대표에 대한 중도층의 평가에서 큰 차이가 드러났다. 정 대표는 중도층에서 39%의 &039;잘하고 있다&039",
+    "description": "&039;중도층&039; 선호도…정 대표 압도적 우위 최근 경향신문과 한국갤럽이 공동으로 진행한 여론조사에 따르면, 정청래 더불어민주당 대표와 장동혁 국민의힘 대표에 대한 중도층의 평가에서 큰 차이가 드러났다. 정 대표�� 중도층에서 39%의 &039;잘하고 있다&039",
     "url": "https://www.society-now.com/sonow/article/hl/hl26010133/hl26010133-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl26010133/hl26010133.png",
     "image_alt": "중도층 정, 장 대표 평가 갈림..두 정당 지지율 대비 확대 - SONOW 관련 이미지",
@@ -75898,7 +75920,7 @@
     "description": "전기차 캐즘 심각성으로 사업 전략 변경 SKC가 전기차 시장의 캐즘(Chasm·일시적 수요 정체) 장기화와 경쟁 심화로 양극재 사업 진출 계획을 철회했습니다. SKC는 31일, 장래사업·경영 계획 공시를 통해 2021년 투자자 설명회에서 제시했던 중장기 성장 전략 가운",
     "url": "https://sonow.kr/article/ta/ta25123121/ta25123121-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25123121/ta25123121.png",
-    "image_alt": "SKC, 양극재 사업 캐즘 장기화로 철�� | SO,NOW 관련 이미지",
+    "image_alt": "SKC, 양극재 사업 캐즘 장기화로 철회 | SO,NOW 관련 이미지",
     "keywords": [],
     "category": "ta",
     "date": "2025-12-31",
@@ -76255,7 +76277,7 @@
   {
     "article_id": "ed25123122",
     "title": "은메달 스타 김보름 현역 은퇴 선언",
-    "description": "2018 평창 동계올림픽 여자 매스스타트 은메달리스트 김보름(32)이 현역 은퇴를 선언했다. 11살부터 시작한 스피드 스케이팅 경력을 마감하는 그녀는 SNS를 통해 국가대표로서의 긴 여정을 마무리한다는 뜻을 밝혔다.",
+    "description": "2018 평창 동계올림픽 여자 매스스타트 은메달리스트 김보름(32)이 현역 은퇴를 선언했다. 11살부터 시작한 스피드 스케이팅 경력을 마감하는 그녀는 SNS를 통해 국가대표로서의 긴 여정을 ��무리한다는 뜻을 밝혔다.",
     "url": "https://www.society-now.com/sonow/article/ed/ed25123122/ed25123122-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/교육/ed25123122/ed25123122.png",
     "image_alt": "",
@@ -76433,7 +76455,7 @@
     "description": "의혹에 대한 책임 인지, 진실 밝히는 길 강조 30일 더불어민주당 원내대표 김병기가 원내대표직에서 물러난다고 발표했습니다. 김병기 원내대표는 국회 당 원내대책회의에서 \"국민 여러분께 깊이 고개 숙여 사죄드립니다\"라며 의혹에 대한 책임을 인지했습니다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25123041/hl25123041-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25123041/hl25123041.png",
-    "image_alt": "김병기, 민주당 원내대표직 ��퇴 의사 결정 - SONOW 관련 이미지",
+    "image_alt": "김병기, 민주당 원내대표직 사퇴 의사 결정 - SONOW 관련 이미지",
     "keywords": [],
     "category": "hl",
     "date": "2025-12-30",
@@ -76526,7 +76548,7 @@
   {
     "article_id": "hl25123047",
     "title": "강선우 \"지방선거 금품 의혹 억울함 호소\"",
-    "description": "강 의원, &039;금품 제공&039; 의혹에 반박 발표 더불어민주당 강선우 의원은 지난해 지방선거 당시 자신의 보좌관이 서울시의원 출마 준비 중인 김경 현 시의원으로부터 금품을 전달받았다는 의혹에 대해 공식적인 입장을 밝혔습니다. 강 의원은 29일 페이스북에 &quo",
+    "description": "강 의원, &039;금품 제공&039; 의혹에 반박 발표 더불어민주당 강선우 의원은 지난해 지방선거 당시 자신의 보좌관이 서울시의원 출마 준비 중인 김경 현 시의원으로부터 금품을 전달받았다는 의혹에 대해 공식적인 입��을 밝혔습니다. 강 의원은 29일 페이스북에 &quo",
     "url": "https://www.society-now.com/sonow/article/hl/hl25123047/hl25123047-경향신문.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25123047/hl25123047.png",
     "image_alt": "강선우 \"지방선거 금품 의혹 억울함 호소\" - SONOW 관련 이미지",
@@ -77454,7 +77476,7 @@
   {
     "article_id": "an25123024",
     "title": "광주 교육 기본강화 4대 영역 강조",
-    "description": "새해 빛나는 &039;광주&039; 교과서 쓰다: 4대 영역 교육정책 2024년을 맞아 광주시는 \"기본교육\"을 중심으로 하는 혁신적인 교육 정책을 선언했습니다. 이번 교육 계획은 기본교육을 토대로 다���한 실력, 따뜻한 인성, 세계로 나가는 열정을 가진",
+    "description": "새해 빛나는 &039;광주&039; 교과서 쓰다: 4대 영역 교육정책 2024년을 맞아 광주시는 \"기본교육\"을 중심으로 하는 혁신적인 교육 정책을 선언했습니다. 이번 교육 계획은 기본교육을 토대로 다양한 실력, 따뜻한 인성, 세계로 나가는 열정을 가진",
     "url": "https://www.society-now.com/sonow/article/an/an25123024/an25123024-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25123024/an25123024.png",
     "image_alt": "광주 교육 기본강화 4대 영역 강조 - SONOW 관련 이미지",
@@ -77710,7 +77732,7 @@
   {
     "article_id": "an25123040",
     "title": "광주은행, 임원 인사 내부 전문성 강화",
-    "description": "자산관리 분야 여성 임원 발탁 광주은행은 30일 부행장보 5명을 신규 선임하는 임원 인사를 단행하며, 자산관리 분야에서 풍부한 경험을 가진 여성 임원을 추가로 발탁했다. 강지훈 ��업부장, 김홍화 WM고객부장, 김원주 문화전당지점장, 박성민 종합기획부장, 박대하 디지털기",
+    "description": "자산관리 분야 여성 임원 발탁 광주은행은 30일 부행장보 5명을 신규 선임하는 임원 인사를 단행하며, 자산관리 분야에서 풍부한 경험을 가진 여성 임원을 추가로 발탁했다. 강지훈 영업부장, 김홍화 WM고객부장, 김원주 문화전당지점장, 박성민 종합기획부장, 박대하 디지털기",
     "url": "https://www.society-now.com/sonow/article/an/an25123040/an25123040-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25123040/an25123040.png",
     "image_alt": "광주은행, 임원 인사 내부 전문성 강화 - SONOW 관련 이미지",
@@ -77805,7 +77827,7 @@
   },
   {
     "article_id": "re25123021",
-    "title": "KKR 청라 로지스틱스 센터 인수 국내 최대 물류 자산 거래",
+    "title": "KKR 청라 로지스틱스 센터 인수 국내 ��대 물류 자산 거래",
     "description": "KKR, 국내 물류 시장에 추가 투자 미국계 사모펀드 운용사 KKR과 한국 계열사 크리에이트자산운용이 양사가 운용하는 펀드를 통해 인천의 초대형 물류센터 &039;청라 로지스틱스 센터&039; 인수를 완료했다고 발표했습니다. 이번 거래는 국내 최대규모의 단일 물류 자산",
     "url": "https://www.society-now.com/sonow/article/re/re25123021/re25123021-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re25123021/re25123021.png",
@@ -77966,7 +77988,7 @@
   {
     "article_id": "hl25123030",
     "title": "이혜훈, 내란 논란 사과 당파성 맹점 인정",
-    "description": "&039;내란은 민주주의 파괴&039; 규탄하며 당파성 매몰 지적 이혜훈 기획예산처 장관 후보자는 30일 윤석열 전 대통령의 내��� 옹호 논란과 관련해 사과를 올렸다. 그는 \"내란은 민주주의를 파괴하는 불법적 행위\"라고 강조하며, 당시 자신이 \"실체를 제대로 파",
+    "description": "&039;내란은 민주주의 파괴&039; 규탄하며 당파성 매몰 지적 이혜훈 기획예산처 장관 후보자는 30일 윤석열 전 대통령의 내란 옹호 논란과 관련해 사과를 올렸다. 그는 \"내란은 민주주의를 파괴하는 불법적 행위\"라고 강조하며, 당시 자신이 \"실체를 제대로 파",
     "url": "https://www.society-now.com/sonow/article/hl/hl25123030/hl25123030-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25123030/hl25123030.png",
     "image_alt": "이혜훈, 내란 논란 사과 당파성 맹점 인정 - SONOW 관련 이미지",
@@ -78244,7 +78266,7 @@
   {
     "article_id": "an25122930",
     "title": "넷플릭스, '단죄' 공개 보이스피싱 스릴러 시청 가능",
-    "description": "��죄 스릴러 &039;단죄&039;의 글로벌 시청 기회 확대 넷플릭스를 통해 국내 온라인 동영상 서비스(OTT) 웨이브에서 공개된 보이스피싱을 소재로 한 범죄 스릴러 드라마 &039;단죄&039;가 다시 시청자들을 만나게 된다. 제작사 타이거스튜디오는 29일, 이주영·",
+    "description": "범죄 스릴러 &039;단죄&039;의 글로벌 시청 기회 확대 넷플릭스를 통해 국내 온라인 동영상 서비스(OTT) 웨이브에서 공개된 보이스피싱을 소재로 한 범죄 스릴러 드라마 &039;단죄&039;가 다시 시청자들을 만나게 된다. 제작사 타이거스튜디오는 29일, 이주영·",
     "url": "https://www.society-now.com/sonow/article/an/an25122930/an25122930-연합뉴스.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25122930/an25122930.png",
     "image_alt": "넷플릭스, &#039;단죄&#039; 공개 보이스피싱 스릴러 시청 가능 - SONOW 관련 이미지",
@@ -78852,7 +78874,7 @@
   {
     "article_id": "hl25122955",
     "title": "김병기, 보좌진 갑질 특혜 의혹 여파 확산",
-    "description": "청와대 \"입장은 없을 것 같다\" 강유정 청와대 대변인이 29일 김병기 더불어민주당 원내대표의 보좌진 갑질, 가족 특혜 등 의혹에 대해 \"당연히 엄중하게 인식하지만 의사 표명은 없을 것 같다\"고 밝혔다. 강 대변인은 이날 청와대 춘추관 브리핑에서 김 원",
+    "description": "청와대 \"입장은 없을 것 같다\" 강유정 청와대 대변인이 29일 김병�� 더불어민주당 원내대표의 보좌진 갑질, 가족 특혜 등 의혹에 대해 \"당연히 엄중하게 인식하지만 의사 표명은 없을 것 같다\"고 밝혔다. 강 대변인은 이날 청와대 춘추관 브리핑에서 김 원",
     "url": "https://www.society-now.com/sonow/article/hl/hl25122955/hl25122955-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25122955/hl25122955.png",
     "image_alt": "김병기, 보좌진 갑질 특혜 의혹 여파 확산 - SONOW 관련 이미지",
@@ -79108,7 +79130,7 @@
   {
     "article_id": "st25122924",
     "title": "김건희 여사 구속 수사 기간 '바람 잘 날 없는'",
-    "description": "특혜 의혹과 통일교 수사 시작 민중기 특별검사팀은 윤석열 전 대통령의 권력을 능가한다는 의미로 'V0'로 불리던 김건희 여사를 구속하고 법정에 세우는 데는 성공했지만, 도덕성 문제부터 강압·편파 수사 의혹까지 겹치면서 '바람 잘 날 없는' 수사 기간을 보냈다. 특검팀은",
+    "description": "특혜 의혹과 통��교 수사 시작 민중기 특별검사팀은 윤석열 전 대통령의 권력을 능가한다는 의미로 'V0'로 불리던 김건희 여사를 구속하고 법정에 세우는 데는 성공했지만, 도덕성 문제부터 강압·편파 수사 의혹까지 겹치면서 '바람 잘 날 없는' 수사 기간을 보냈다. 특검팀은",
     "url": "https://www.society-now.com/sonow/article/st/st25122924/st25122924-한겨레.html",
     "image_url": "https://www.society-now.com/sonow/article/st/st25122924/st25122924.png",
     "image_alt": "김건희 여사 구속 수사 기간 ‘바람 잘 날 없는’ - SONOW 관련 이미지",
@@ -79563,7 +79585,7 @@
   {
     "article_id": "hl25121008",
     "title": "백해룡 경정, 검찰 무혐의 처분 직후 6개 기관 압수수색 신청",
-    "description": "세관 마약 수사외압 의혹을 제기한 백해룡 경정이 동부지검의 무혐�� 처분에 반발해 검찰청과 세관 등 6곳에 대한 압수수색 영장을 신청했다고 발표했다.",
+    "description": "세관 마약 수사외압 의혹을 제기한 백해룡 경정이 동부지검의 무혐의 처분에 반발해 검찰청과 세관 등 6곳에 대한 압수수색 영장을 신청했다고 발표했다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25121008/hl25121008-백해룡.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25121008/hl25121008.png",
     "image_alt": "백해룡 경정, 검찰 무혐의 처분 직후 6개 기관 압수수색 신청 - SONOW 관련 이미지",
@@ -80368,7 +80390,7 @@
   },
   {
     "article_id": "hl25112308",
-    "title": "새벽배송 노동자 건강 위험, 어떻게 관리할 것인가",
+    "title": "새벽배송 노동자 건강 위���, 어떻게 관리할 것인가",
     "description": "야간노동의 건강 위험, 발암물질 논란을 넘어 노동자 건강권 보호 방안 모색 필요",
     "url": "https://www.society-now.com/sonow/article/hl/hl25112308/hl25112308-새벽배송.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25112308/hl25112308.png",
@@ -80680,7 +80702,7 @@
   },
   {
     "article_id": "hl25112207",
-    "title": "퀸제누비아2호 좌초 사고, 선원들 영장실질심사 출석",
+    "title": "퀸제누비��2호 좌초 사고, 선원들 영장실질심사 출석",
     "description": "휴대전화 사용 중 여객선 좌초, 일등항해사와 조타수 중과실치상 혐의로 법정에 선 사건",
     "url": "https://www.society-now.com/sonow/article/hl/hl25112207/hl25112207-여객선-사고.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25112207/hl25112207.png",
@@ -81809,7 +81831,7 @@
   },
   {
     "article_id": "hl25110506",
-    "title": "국유재산 헐값 매각 중단, 윤 ��부 65% 감정가 미달 논란",
+    "title": "국유재산 헐값 매각 중단, 윤 정부 65% 감정가 미달 논란",
     "description": "이재명 대통령 국유재산 매각 전면 중단 지시. 윤석열 정부 시절 감정가 미달 낙찰이 65%까지 급증. 구윤철 부총리가 가이드라인 마련 및 제도 개선 약속했다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25110506/hl25110506-국유재산.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25110506/hl25110506.png",
@@ -82679,8 +82701,8 @@
   {
     "article_id": "ta25101107",
     "title": "기술 대기업들의 순환적인 AI 투자에 거품 경고가 나오고 있다 SONOW",
-    "description": "기술 대기업들이 지속 불가능한 인공지능 거품을 부풀릴 수 있다는 비판 속에서, 비판자들이 '순환' 투자 거래의 그물망에 대해 집중적으로 감시하고 있다. 오픈AI가 최근 반도��� 제조업체들과의 파트너십을 발표하면서 AI 생태계의 자기참조적 특성에 대한 새로운 우려가 확산되",
-    "url": "https://www.society-now.com/sonow/article/ta/ta25101107/ta25101107-기술-대기업들의-순환적���-AI-투자에-거품-경고가-나오.html",
+    "description": "기술 대기업들이 지속 불가능한 인공지능 거품을 부풀릴 수 있다는 비판 속에서, 비판자들이 '순환' 투자 거래의 그물망에 대해 집중적으로 감시하고 있다. 오픈AI가 최근 반도체 제조업체들과의 파트너십을 발표하면서 AI 생태계의 자기참조적 특성에 대한 새로운 우려가 확산되",
+    "url": "https://www.society-now.com/sonow/article/ta/ta25101107/ta25101107-기술-대기업들의-순환적인-AI-투자에-거품-경고가-나오.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25101107/ta25101107.png",
     "image_alt": "기술 대기업들의 순환적인 AI 투자에 거품 경고가 나오고 있다 SONOW 관련 이미지",
     "keywords": [],
@@ -83261,7 +83283,7 @@
   {
     "article_id": "hl25092933",
     "title": "과기정통부, AI 인재 해외유출 방지 박사후연구원 400명 확보",
-    "description": "과기정통부와 4개 과학기술원이 이���코어 연구단을 통해 박사후연구원 400명을 임용했다. MIT, 스탠퍼드 등 세계 최고 연구기관 출신 해외 복귀 인재 56명 포함, 연봉 9천만원 보장으로 인재 유치에 성공했다.",
+    "description": "과기정통부와 4개 과학기술원이 이노코어 연구단을 통해 박사후연구원 400명을 임용했다. MIT, 스탠퍼드 등 세계 최고 연구기관 출신 해외 복귀 인재 56명 포함, 연봉 9천만원 보장으로 인재 유치에 성공했다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25092933/hl25092933-과기정통부-이노코어.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25092933/hl25092933.png",
     "image_alt": "과기정통부, AI 인재 해외유출 방지 박사후연구원 400명 확보 - SONOW 관련 이미지",
@@ -84320,7 +84342,7 @@
   {
     "article_id": "ta25092708",
     "title": "피지컬AI 글로벌 얼라이언스 29일 출범, 250개 기관 참여",
-    "description": "피지컬AI 글로벌 얼라이언스 29일 출범. 7인 공동의장에 배경훈 과기정통부 장관 등. 현대차·HD현대·LG AI연구원 등 250개 기관 참여. AI정의차량·완전자율로봇 등 10개 분과로 운영.",
+    "description": "피지컬AI 글로벌 얼라이언스 29일 출���. 7인 공동의장에 배경훈 과기정통부 장관 등. 현대차·HD현대·LG AI연구원 등 250개 기관 참여. AI정의차량·완전자율로봇 등 10개 분과로 운영.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25092708/ta25092708-피지컬AI-글로벌얼라이언스.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25092708/ta25092708.png",
     "image_alt": "피지컬AI 글로벌 얼라이언스 29일 출범, 250개 기관 참여 - SONOW 관련 이미지",
@@ -85006,7 +85028,7 @@
   {
     "article_id": "ta25092509",
     "title": "닛산, 도쿄 도심서 차세대 ProPilot 자율주행 시연 2027년 상용화",
-    "description": "닛산이 도쿄에서 Wayve AI 기반 차세대 ProPilot 자율주행 시스템을 시연했다. 11개 카메라와 LiDAR ��서로 도심 교통 상황에 대응한다.",
+    "description": "닛산이 도쿄에서 Wayve AI 기반 차세대 ProPilot 자율주행 시스템을 시연했다. 11개 카메라와 LiDAR 센서로 도심 교통 상황에 대응한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25092509/ta25092509-닛산-ProPilot.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25092509/ta25092509.png",
     "image_alt": "닛산, 도쿄 도심서 차세대 ProPilot 자율주행 시연 2027년 상용화 - SONOW 관련 이미지",
@@ -85302,7 +85324,7 @@
   {
     "article_id": "ta25092563",
     "title": "구글 NotebookLM 한국어 지원 시작 해외 자료도 팟캐스트로 변환",
-    "description": "구글 NotebookLM의 한국어 지원으로 다양한 자료를 팟캐��트 형식으로 변환할 수 있게 됐다. 영상과 문서를 자연스러운 대화형 오디오로 재구성한다.",
+    "description": "구글 NotebookLM의 한국어 지원으로 다양한 자료를 팟캐스트 형식으로 변환할 수 있게 됐다. 영상과 문서를 자연스러운 대화형 오디오로 재구성한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25092563/ta25092563-NotebookLM-한국어지원.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25092563/ta25092563.png",
     "image_alt": "구글 NotebookLM 한국어 지원 시작 해외 자료도 팟캐스트로 변환 - SONOW 관련 이미지",
@@ -85717,7 +85739,7 @@
   {
     "article_id": "ta25092303",
     "title": "카카오톡 15년 史상 최대 개편 챗GPT-5 탑재한 슈퍼앱 진화",
-    "description": "카카오톡이 15년 만에 역사상 최대 규모 개편을 통해 AI와 소셜미디어 기능을 접목한 슈퍼플랫폼으로 전환한다. 챗GPT-5와 숏폼 서비스 도입.",
+    "description": "카카오톡이 15년 만에 역사상 최대 규모 개편을 통해 AI와 소셜미디어 기능을 접목한 슈퍼플랫폼으로 전���한다. 챗GPT-5와 숏폼 서비스 도입.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25092303/ta25092303-카카오톡개편-챗GPT.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25092303/ta25092303.png",
     "image_alt": "카카오톡 15년 史상 최대 개편 챗GPT-5 탑재한 슈퍼앱 진화 - SONOW 관련 이미지",
@@ -86008,7 +86030,7 @@
     "description": "트럼프 H-1B 비자 수수료 100배 인상 후 백악관 긴급해명으로 혼란 가중. 아마존·MS 등 주요 기업 해외직원 긴급귀국 지시, 인도정부 우려 표명.",
     "url": "https://www.society-now.com/sonow/article/pb/pb25092103/pb25092103-트럼프-H1B비자.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb25092103/pb25092103.png",
-    "image_alt": "트럼프 &#039;H-1B 비자 10만달러 폭탄&#039; 하루 만에 백악관 긴급해명 - SONOW 관련 이미지",
+    "image_alt": "트럼프 &#039;H-1B 비자 10만달러 폭탄&#039; 하�� 만에 백악관 긴급해명 - SONOW 관련 이미지",
     "keywords": [],
     "category": "pb",
     "date": "2025-09-21",
@@ -86148,7 +86170,7 @@
   },
   {
     "article_id": "ta25092113",
-    "title": "테슬라, 로봇 사업에 ���래가치 80% 베팅…EV 시장점유율은 38%로 하락",
+    "title": "테슬라, 로봇 사업에 미래가치 80% 베팅…EV 시장점유율은 38%로 하락",
     "description": "일론 머스크가 테슬라의 미래 가치의 80%를 로봇 사업에서 창출될 것으로 전망하면서, 동시에 전기차 시장에서의 점유율이 38%로 하락했다. 테슬라 옵티머스 로봇 개발과 EV 시장 경쟁 심화 속에서 회사의 전략 변화가 주목되고 있다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25092113/ta25092113-머스크-테슬라.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25092113/ta25092113.png",
@@ -86580,7 +86602,7 @@
   {
     "article_id": "ta25091912",
     "title": "엔비디아, 인텔에 50억달러 투자 발표 인텔 주가 30% 급등",
-    "description": "엔비디아가 어려움을 겪고 있는 경쟁사 인텔에 50억달러를 투자한다고 발표했다. 이 소식에 인텔 주가는 장전 거래에서 30% 이상 급등했다.",
+    "description": "엔비디아��� 어려움을 겪고 있는 경쟁사 인텔에 50억달러를 투자한다고 발표했다. 이 소식에 인텔 주가는 장전 거래에서 30% 이상 급등했다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25091912/ta25091912-엔비디아-인텔.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25091912/ta25091912.png",
     "image_alt": "엔비디아, 인텔에 50억달러 투자 발표 인텔 주가 30% 급등 - SONOW 관련 이미지",
@@ -87985,7 +88007,7 @@
     "article_id": "ta25091529",
     "title": "알리바바, 1조 파라미터 'Qwen3-Next' 모델과 첫 휴머노이드 로봇 공개",
     "description": "알리바바가 9월 11일 1조 개 이상 파라미터를 탑재한 &039;Qwen3-Next&039; AI 모델과 계열사 앤트그룹의 첫 휴머노이드 로봇 &039;R1&039;을 공개했다. 향후 3년간 AI 인프라에 3800억 위안을 투입한다고 발표했",
-    "url": "https://www.society-now.com/sonow/article/ta/ta25091529/ta25091529-알리바바-Qwen3Next.html",
+    "url": "https://www.society-now.com/sonow/article/ta/ta25091529/ta25091529-��리바바-Qwen3Next.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25091529/ta25091529.png",
     "image_alt": "알리바바, 1조 파라미터 &#039;Qwen3-Next&#039; 모델과 첫 휴머노이드 로봇 공개 - SONOW 관련 이미지",
     "keywords": [],
@@ -88432,7 +88454,7 @@
   {
     "article_id": "ta25091428",
     "title": "메타, 수십 명의 AI 연구원들과 함께 'TBD 랩' 공개",
-    "description": "메타가 차세대 기초 모델 개발에 집중하는 &039;TBD 랩&039;을 공개했다. 수십 명의 뛰어난 연구원과 엔지니어로 구성된 이 랩은 1~2년 내 AI 모델을 최첨단으로 끌어올리��� 데 집중하고 있다.",
+    "description": "메타가 차세대 기초 모델 개발에 집중하는 &039;TBD 랩&039;을 공개했다. 수십 명의 뛰어난 연구원과 엔지니어로 구성된 이 랩은 1~2년 내 AI 모델을 최첨단으로 끌어올리는 데 집중하고 있다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25091428/ta25091428-메타-TBD랩.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25091428/ta25091428.png",
     "image_alt": "메타, 수십 명의 AI 연구원들과 함께 &#039;TBD 랩&#039; 공개 - SONOW 관련 이미지",
@@ -88968,7 +88990,7 @@
   {
     "article_id": "hl25091212",
     "title": "\"그게 무슨 위헌이에요\" 이재명, 내란재판부 위헌론에 정면반박",
-    "description": "이재명 대통령이 11일 취임 100일 기자회견에서 민주당 추진 내란특별재판부에 대한 위헌 논란에 \"그게 무슨 위헌이에요\"라며 정면반박했다. 검찰개혁도 정부 주도로 1년 안에 완료���겠다고 밝혔다.",
+    "description": "이재명 대통령이 11일 취임 100일 기자회견에서 민주당 추진 내란특별재판부에 대한 위헌 논란에 \"그게 무슨 위헌이에요\"라며 정면반박했다. 검찰개혁도 정부 주도로 1년 안에 완료하겠다고 밝혔다.",
     "url": "https://www.society-now.com/sonow/article/hl/hl25091212/hl25091212-이재명-내란재판부.html",
     "image_url": "https://www.society-now.com/sonow/article/hl/hl25091212/hl25091212.png",
     "image_alt": "\"그게 무슨 위헌이에요\" 이재명, 내란재판부 위헌론에 정면반박 - SONOW 관련 이미지",
@@ -89479,7 +89501,7 @@
   },
   {
     "article_id": "th25090718",
-    "title": "알라페어 ��크의 「The Note」, 무해한 장난이 불러온 충격적 결말 | SO,NOW",
+    "title": "알라페어 버크의 「The Note」, 무해한 장난이 불러온 충격적 결말 | SO,NOW",
     "description": "알라페어 버크의 신작 「The Note」가 USA 투데이 베스트셀러에 올랐다. 복잡한 과거를 가진 세 친구의 햄프턴 휴가에서 시작된 무해한 장난이 살인사건으로 번지며, 우정과 배신의 복잡한 관계를 그린 심리 스릴러다.",
     "url": "https://sonow.kr/article/th/th25090718/th25090718-알라페어버크-TheNote.html",
     "image_url": "https://www.society-now.com/sonow/article/th/th25090718/th25090718.png",
@@ -89976,7 +89998,7 @@
   },
   {
     "article_id": "ta25090646",
-    "title": "알고리즘은 '감정'을 읽는다? 콘텐츠 감성 전략",
+    "title": "알고리즘은 '감정'을 읽는다? 콘텐츠 감성 ���략",
     "description": "현대 알고리즘이 콘텐츠의 감정적 요소를 어떻게 분석하고 평가하는지 탐구한다. 감정 인식 기술의 현황과 감성 마케팅을 통한 알고리즘 최적화 방법, 감정별 콘텐츠 전략을 제시한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090646/ta25090646-알고리즘감정인식-감성마케팅.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090646/ta25090646.png",
@@ -90249,7 +90271,7 @@
   {
     "article_id": "ta25090612",
     "title": "외부링크 10개보다 강력한 내부링크 전략은?",
-    "description": "외부 백링크보다 효과적인 내부링크 전략을 분석한다. 링크 주스 분산, 주제 클러스터 구축, 앵커 텍스트 최적화 등을 통해 사이트 전체 SEO 성과를 극대화하는 실전 기법을 제시한다.",
+    "description": "외부 백링크보다 효과적인 내부링크 전략을 분석한다. 링크 주스 분산, 주제 클러스터 구축, 앵커 텍스트 최적화 등�� 통해 사이트 전체 SEO 성과를 극대화하는 실전 기법을 제시한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090612/ta25090612-내부링크-링크주스.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090612/ta25090612.png",
     "image_alt": "외부링크 10개보다 강력한 내부링크 전략은? - SONOW 관련 이미지",
@@ -90281,7 +90303,7 @@
   {
     "article_id": "ta25090614",
     "title": "3개월 만에 검색 1위 달성한 구조는 무엇이었을까?",
-    "description": "3개월이라는 단기간에 검색 1위를 달성한 실제 사례와 전략을 분석��다. 키워드 선택, 콘텐츠 구조, 기술적 최적화, 백링크 구축 등 단계별 실행 방법과 핵심 성공 요인을 제시한다.",
+    "description": "3개월이라는 단기간에 검색 1위를 달성한 실제 사례와 전략을 분석한다. 키워드 선택, 콘텐츠 구조, 기술적 최적화, 백링크 구축 등 단계별 실행 방법과 핵심 성공 요인을 제시한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090614/ta25090614-검색1위달성-단기SEO.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090614/ta25090614.png",
     "image_alt": "3개월 만에 검색 1위 달성한 구조는 무엇이었을까? - SONOW 관련 이미지",
@@ -91111,7 +91133,7 @@
     "description": "카카오페이가 3일 10%대 급락하며 6월 고점 대비 반토막 수준까지 떨어졌다. 2대 주주 알리페이의 교환사채(EB) 발행으로 인한 물량 우려와 김범수 카카오 경영쇄신위원장의 사법적 위험이 매도 압력으로 작용하고 있다.",
     "url": "https://www.society-now.com/sonow/article/st/st25090309/st25090309-카카오페이-알리페이.html",
     "image_url": "https://www.society-now.com/sonow/article/st/st25090309/st25090309.png",
-    "image_alt": "\"두달 만에 주가 반토막\" 개미들 패닉 카카오페이 또 악재 터졌다 - SONOW 관련 이미���",
+    "image_alt": "\"두달 만에 주가 반토막\" 개미들 패닉 카카오페이 또 악재 터졌다 - SONOW 관련 이미지",
     "keywords": [],
     "category": "st",
     "date": "2025-09-03",
@@ -91659,7 +91681,7 @@
   },
   {
     "article_id": "ta25090232",
-    "title": "AI 기반 유저 피드백 자동화, 제품 개발 혁신의 �� 물결",
+    "title": "AI 기반 유저 피드백 자동화, 제품 개발 혁신의 새 물결",
     "description": "기업들이 AI를 활용해 유저 피드백을 자동으로 수집·분류하고 제품 로드맵에 반영하는 시스템을 도입하고 있다. 이는 개발 주기를 단축하고 사용자 중심 제품 개발을 가속화하는 핵심 경쟁력으로 부상하고 있다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090232/ta25090232-유저-피드백-AI-자동화.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090232/ta25090232.png",
@@ -92156,13 +92178,13 @@
   {
     "article_id": "ta25090280",
     "title": "금융 컴플라이언스 안전지대 구축, PII 마스킹·감사 추적 필수 금융컴플 – SO,NOW",
-    "description": "금융권의 PII 유출 사고 증가에 대응하기 위해 금융기관들이 데이터 마스킹과 감사 추적 시스템을 도입하고 있습니다. AI 기반 컴플라이언스 자동화는 규제 대응 비용을 절감하면서 데이터 보안과 내부 통제를 강화하는 핵심 전략으로 주목받고 있습니다.",
+    "description": "금융권의 PII 유출 사고 증가에 대응하기 위해 금융기관들이 데이터 마스킹과 감사 추적 시스템을 도입하고 있습니다. AI 기반 컴플라이언스 자동화는 규제 대응 비용을 절감하면서 데이터 보안과 내부 통제를 강화��는 핵심 전략으로 주목받고 있습니다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090280/ta25090280-금융컴플라이언스-PII마스킹.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090280/ta25090280.png",
     "image_alt": "금융 컴플라이언스 안전지대 구축, PII 마스킹·감사 추적 필수 SONOW·금융컴플 – SO,NOW 관련 이미지",
     "keywords": [
       "금융 컴플라이언스",
-      "PII 마스킹",
+      "PII 마스���",
       "감사 추적",
       "개인정보 보호",
       "AI 자동화",
@@ -92196,7 +92218,7 @@
   {
     "article_id": "ta25090282",
     "title": "물류 현장 혁신, AI 배송 예측 에이전트로 고객 문의 응대 자동화",
-    "description": "물류 기업들이 AI 기반 배송 예측 에이전트를 도입해 ��객 문의 응대와 배송 지연 관리를 자동화하고 있다. 이러한 시스템은 배송 지연을 사전에 감지하고 고객에게 선제적으로 정보를 제공함으로써 콜센터 부하를 줄이고 고객 경험을 개선한다.",
+    "description": "물류 기업들이 AI 기반 배송 예측 에이전트를 도입해 고객 문의 응대와 배송 지연 관리를 자동화하고 있다. 이러한 시스템은 배송 지연을 사전에 감지하고 고객에게 선제적으로 정보를 제공함으로써 콜센터 부하를 줄이고 고객 경험을 개선한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090282/ta25090282-로지스틱스-배송-예측.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090282/ta25090282.png",
     "image_alt": "물류 현장 혁신, AI 배송 예측 에이전트로 고객 문의 응대 자동화 - SONOW 관련 이미지",
@@ -92436,7 +92458,7 @@
   },
   {
     "article_id": "ta25090296",
-    "title": "앱 내 AI 어시스턴트, 사용자 경험 혁신의 핵심으로 부상",
+    "title": "앱 �� AI 어시스턴트, 사용자 경험 혁신의 핵심으로 부상",
     "description": "모바일 앱 내 AI 어시스턴트가 단순 대화형 인터페이스를 넘어 앱 기능과 유기적으로 연결되는 지능형 시스템으로 진화하고 있다. 인앱 이벤트와 서버 액션의 효과적인 연결 설계가 앱 생태계의 새로운 경쟁력으로 부상하는 가운데, 개발자들의 설계 방식도 변화하고 있다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090296/ta25090296-인앱-어시스턴트-서버-액션.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090296/ta25090296.png",
@@ -92700,7 +92722,7 @@
   {
     "article_id": "td25090000",
     "title": "'마x게이트' 수사외압 의혹 타임라인, 백해룡 경정과 필로폰 74kg의 진실",
-    "description": "필로폰 74kg 밀반입부터 국수본 압수수색까지, '마x게이트' 수사외압 의혹의 핵심 타임라인을 정리한다. 백해룡 경정의 폭로, 국회 청문회, 합동수사팀 출범 등 마약수사 외압 사건의 전말과 수사기관 간 갈등 구조를 분석한다.",
+    "description": "필로폰 74kg 밀반입부터 국수본 ��수수색까지, '마x게이트' 수사외압 의혹의 핵심 타임라인을 정리한다. 백해룡 경정의 폭로, 국회 청문회, 합동수사팀 출범 등 마약수사 외압 사건의 전말과 수사기관 간 갈등 구조를 분석한다.",
     "url": "https://sonow.kr/article/td/td25090000/td25090000-마x게이트-백해룡경정.html",
     "image_url": "https://www.society-now.com/sonow/article/td/td25090000/td25090000.png",
     "image_alt": "&#039;마x게이트&#039; 수사외압 의혹 타임라인, 백해룡 경정과 필로폰 74kg의 진실 관련 이미지",
@@ -92724,7 +92746,7 @@
   {
     "article_id": "ta25090154",
     "title": "데이터 거버넌스와 프롬프트 리포지토리 운영 표준, 기업 AI 도입 성패 가른다",
-    "description": "기업 AI 시스템 도입에서 데이터 거버넌스와 프롬프트 리포지토리의 체계적 운영이 성패를 좌우하는 핵심 요소로 부상했다. 표준화된 프롬프트 관리 체계와 데이터 품질 통제 프로세스를 구축한 기업들은 AI 성능 일관성을 75% 향상시키며 운영 안정성을 ���보하고 있다.",
+    "description": "기업 AI 시스템 도입에서 데이터 거버넌스와 프롬프트 리포지토리의 체계적 운영이 성패를 좌우하는 핵심 요소로 부상했다. 표준화된 프롬프트 관리 체계와 데이터 품질 통제 프로세스를 구축한 기업들은 AI 성능 일관성을 75% 향상시키며 운영 안정성을 확보하고 있다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25090154/ta25090154-데이터거버넌스-프롬프트리포지토리.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25090154/ta25090154.png",
     "image_alt": "데이터 거버넌스와 프롬프트 리포지토리 운영 표준, 기업 AI 도입 성패 가른다 - SONOW 관련 이미지",
@@ -93012,7 +93034,7 @@
   {
     "article_id": "an25083127",
     "title": "AI 중견국의 부상과 한국의 전략적 선택",
-    "description": "미중 AI 패권 경쟁이 심화되는 가운데 한국을 비롯한 AI 중견국들이 독자적 전략을 수립하고 있다. 랭킹 경쟁이 아닌 실력 기반 질적 3강을 목표로 AI 기본사회 ���현과 중견국 연대 외교를 통한 새로운 길을 모색해야 한다.",
+    "description": "미중 AI 패권 경쟁이 심화되는 가운데 한국을 비롯한 AI 중견국들이 독자적 전략을 수립하고 있다. 랭킹 경쟁이 아닌 실력 기반 질적 3강을 목표로 AI 기본사회 실현과 중견국 연대 외교를 통한 새로운 길을 모색해야 한다.",
     "url": "https://www.society-now.com/sonow/article/an/an25083127/an25083127-AI중견국-미중경쟁.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25083127/an25083127.png",
     "image_alt": "AI 중견국의 부상과 한국의 전략적 선택 - SONOW 관련 이미지",
@@ -93546,7 +93568,7 @@
     "article_id": "ta25083053",
     "title": "美, 삼성·SK 中공장 장비반출 불허 결정",
     "description": "미국이 삼성전자와 SK하이닉스의 중국 공장 장비 반출을 건별 허가 방식으로 전환한다고 발표했다. VEU 지위 철회로 내년 1월부터 미국산 첨단 반도체 장비를 중국으로 보내려면 매번 허가를 받아야 한다. 정부는 우리 기업 영향 최소화를 위해 미국과 긴밀히 협의하겠다고 밝",
-    "url": "https://www.society-now.com/sonow/article/ta/ta25083053/ta25083053-삼성전자-SK하이닉스.html",
+    "url": "https://www.society-now.com/sonow/article/ta/ta25083053/ta25083053-삼성전���-SK하이닉스.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25083053/ta25083053.png",
     "image_alt": "美, 삼성·SK 中공장 장비반출 불허 결정 관련 이미지",
     "keywords": [],
@@ -93854,7 +93876,7 @@
   {
     "article_id": "ta25082901",
     "title": "TECH & AI | 장수 단백질 '클로토', 인지기능 개선부터 신장질환 예방까지 차세대 안티에이징 치료제…",
-    "description": "원숭이 실험서 2주간 기억력 향상 효과 확인…���간 대상 임상시험 단계 진입 임박",
+    "description": "원숭이 실험서 2주간 기억력 향상 효과 확인…인간 대상 임상시험 단계 진입 임박",
     "url": "https://www.society-now.com/sonow/article/ta/ta25082901/ta25082901-클로토-단백질.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25082901/ta25082901.png",
     "image_alt": "TECH & AI | 장수 단백질 &#039;클로토&#039;, 인지기능 개선부터 신장질환 예방까지 차세대 안티에이징 치료제… 관련 이미지",
@@ -94137,7 +94159,7 @@
   {
     "article_id": "pe25082942",
     "title": "ECB 레인, 트럼프 연준 공격 '글로벌 리스크' 경고…중앙은행 독립성 강조",
-    "description": "ECB 정책위원 올리 레인은 트럼프 대통령의 연준 공격과 인사 개입이 세계 금융시장 안정성을 위협한다고 경고했다. 레인은 트럼프 행정의 경험에 기반한 국제적인 주장을 뒷받침하며 유럽도 통화당국의 독립성을 강화해야 한다고 주장했다.",
+    "description": "ECB 정책위원 올리 레인은 트럼프 대통령의 연준 공격과 인사 개입이 ��계 금융시장 안정성을 위협한다고 경고했다. 레인은 트럼프 행정의 경험에 기반한 국제적인 주장을 뒷받침하며 유럽도 통화당국의 독립성을 강화해야 한다고 주장했다.",
     "url": "https://www.society-now.com/sonow/article/pe/pe25082942/pe25082942-ECB-연준독립성.html",
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25082942/pe25082942.png",
     "image_alt": "ECB 본부 외벽과 유로 조형물",
@@ -95437,7 +95459,7 @@
     "image_url": "https://www.society-now.com/sonow/article/kh/kh25082748/kh25082748.png",
     "image_alt": "국내 제약사 연구실에서 비만 치료제를 개발하는 연구진",
     "keywords": [
-      "비��약",
+      "비만약",
       "신약개발",
       "GLP-1",
       "오젬픽",
@@ -95745,7 +95767,7 @@
   },
   {
     "article_id": "pe25082640",
-    "title": "인천공항 철거사고, 안전 소홀 탓?",
+    "title": "인천공항 철거���고, 안전 소홀 탓?",
     "description": "인천공항 제1여객터미널 철거 공사 현장에서 70대 작업자가 추락 사망했다. 현장소장은 안전조치 및 교육 미흡 혐의로 검찰에 송치되었고, 중대재해처벌법 위반 여부 조사가 진행 중이다. 이 사건은 산업 현장 안전 및 책임 소재에 대한 논란을 불러일으키고 있다.",
     "url": "https://www.society-now.com/sonow/article/pe/pe25082640/pe25082640-인천공항-작업자추락.html",
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25082640/pe25082640.png",
@@ -95770,7 +95792,7 @@
   },
   {
     "article_id": "pe25082641",
-    "title": "대기업 집단의 변화: 계열사 축소, 시���지 추구 시대",
+    "title": "대기업 집단의 변화: 계열사 축소, 시너지 추구 시대",
     "description": "최근 3개월간 대기업 집단의 계열사 규모가 12개 감소했는데, 이는 신규 사업 확장보다는 기존 사업과 시너지를 추구하는 인수·편입 증가와 합병·매각·청산을 통한 계열 제외가 활발해졌기 때문입니다. 이러한 변화는 대기업 집단이 효율성을 높이고 경쟁력을 강화하기 위해 노력하는 과정을 보여줍니다.",
     "url": "https://www.society-now.com/sonow/article/pe/pe25082641/pe25082641-대기업집단-계열사감소.html",
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25082641/pe25082641.png",
@@ -97619,7 +97641,7 @@
   {
     "article_id": "th25082540",
     "title": "돈은 마법이 아니다: '부의 인문학'이 보여주는 삶의 지혜",
-    "description": "브라운스톤의 '부의 인문학'은 돈을 획득하는 방법을 제시하는 경제서가 아닌, 돈과 부의 본질을 인문학적 시각으로 탐구하는 책입니다. 무의식적인 신념, 욕망의 통제, 자기 책임을 강조하며, 진정한 부는 내면의 변화에서 시작된다는 메시지를 전달합니다.",
+    "description": "브라운스톤의 '부의 인문학'은 돈을 획득하는 방법을 제시하는 경제서가 아닌, ���과 부의 본질을 인문학적 시각으로 탐구하는 책입니다. 무의식적인 신념, 욕망의 통제, 자기 책임을 강조하며, 진정한 부는 내면의 변화에서 시작된다는 메시지를 전달합니다.",
     "url": "https://www.society-now.com/sonow/article/th/th25082540/th25082540-부의-인문학-브라운스톤.html",
     "image_url": "https://www.society-now.com/sonow/article/th/th25082540/th25082540.png",
     "image_alt": "브라운스톤 저서 부의 인문학 표지와 돈을 상징하는 이미지",
@@ -98640,7 +98662,7 @@
   {
     "article_id": "st25082451",
     "title": "10억 클럽, 1만명 돌파…가상자산 시장, 20대 주도의 거세?",
-    "description": "국내 원화 거래소에서 10억원 이상 가상자산을 보유한 투자자가 1만명을 넘어섰습니다. 특히 20대의 평균 보유액이 26억8,871만원으로 가장 높았으며, 비트코인 가격 상승과 함께 가상자산 시장의 활황이 두드러지고 있습니다. 하지만 2027년 과세 유예 논란과 같이 가상자산 시장의 미래 전망에 대한 불확실성도 존재합니다.",
+    "description": "국내 원화 거래소에서 10억원 이상 가상자산을 보유한 투자자가 1만명을 넘어섰습니다. 특히 20대의 평균 보유액이 26억8,871만원으로 가장 높았으며, 비트코인 가격 상승과 함께 가상자산 시장의 활황이 두드러지고 있습니다. 하��만 2027년 과세 유예 논란과 같이 가상자산 시장의 미래 전망에 대한 불확실성도 존재합니다.",
     "url": "https://www.society-now.com/sonow/article/st/st25082451/st25082451-가상자산-비트코인.html",
     "image_url": "https://www.society-now.com/sonow/article/st/st25082451/st25082451.png",
     "image_alt": "비트코인 관련 이미지와 차트가 표시된 모습",
@@ -98667,7 +98689,7 @@
   },
   {
     "article_id": "st25082403",
-    "title": "���지코인 급등, 고래 투자자와 제도권 수용의 신호",
+    "title": "도지코인 급등, 고래 투자자와 제도권 수용의 신호",
     "description": "도지코인이 6월 이후 최고 가격을 기록하며 암호화폐 시장 주목받고 있습니다. 고래 투자자들의 대규모 매집과 제도권 수용 확산이 상승 동력으로 작용하고 있습니다. 하지만 투자자들은 암호화폐 시장의 높은 변동성을 항상 염두에 두어야 합니다.",
     "url": "https://www.society-now.com/sonow/article/st/st25082403/st25082403-도지코인-DOGE.html",
     "image_url": "https://www.society-now.com/sonow/article/st/st25082403/st25082403.png",
@@ -99911,7 +99933,7 @@
   {
     "article_id": "it25082101",
     "title": "데이터와 인간 사이: 메타 해고 사건을 통해 본 성과평가의 한계",
-    "description": "메타의 '저성과자 해고' 사건은 기업들이 데이터 기반 성과평가 시스템을 활용하는 과정에서 발생할 수 있는 위험성을 보여줍니다. 이 글에서는 메타 사건을 통해 데이터 중심 성과평가의 한계와 조직���화에 미칠 영향을 심층적으로 분석하고, 기업 인사관리 시스템 개선을 위한 제언을 제시합니다.",
+    "description": "메타의 '저성과자 해고' 사건은 기업들이 데이터 기반 성과평가 시스템을 활용하는 과정에서 발생할 수 있는 위험성을 보여줍니다. 이 글에서는 메타 사건을 통해 데이터 중심 성과평가의 한계와 조직문화에 미칠 영향을 심층적으로 분석하고, 기업 인사관리 시스템 개선을 위한 제언을 제시합니다.",
     "url": "https://www.society-now.com/sonow/article/it/it25082101/it25082101-메타-저성과자.html",
     "image_url": "https://www.society-now.com/sonow/article/it/it25082101/it25082101.png",
     "image_alt": "메타 본사 건물과 성과평가 차트가 겹쳐진 이미지",
@@ -99991,7 +100013,7 @@
   {
     "article_id": "re25082101",
     "title": "외국인 토허제, 수도권 부동산 시장의 새로운 지형",
-    "description": "정부가 수도권 전역에 외국인 토허제를 도입, 2년 실거주 의무와 강제금 부과로 외국인 부동산 투기를 차단한다. 6·27 대출규제 이후 제기된 외국인 역차별 논란 해소를 목표로 한다.",
+    "description": "정부가 수도권 전역에 외국인 토허제를 도입, 2년 실거주 의무와 강제금 부과로 외국인 부동산 투기를 차단한다. 6·27 대출규제 이후 제기된 외국인 역차별 논란 해소�� 목표로 한다.",
     "url": "https://www.society-now.com/sonow/article/re/re25082101/re25082101-외국인토허제-부동산규제.html",
     "image_url": "https://www.society-now.com/sonow/article/re/re25082101/re25082101.png",
     "image_alt": "서울 수도권 외국인 토지거래허가제 도입 지역 현황과 정책 효과",
@@ -100645,7 +100667,7 @@
       "고온조리",
       "항염증식단",
       "건강식습관",
-      "��성질환",
+      "만성질환",
       "면역체계",
       "항산화식품",
       "혈당지수"
@@ -100736,7 +100758,7 @@
       "TSMC",
       "트럼프",
       "미국투자",
-      "차세대칩",
+      "차세대��",
       "협업"
     ],
     "category": "ta",
@@ -102327,7 +102349,7 @@
   {
     "article_id": "kc25081907",
     "title": "K-팝 글로벌 성공 비밀 분석: 시장, 팬덤 구조, 문화적 요인",
-    "description": "K-팝이 세계적인 문화현상이 되었고, 그 ��정에서 시장과 팬덤의 상호 작용이 중요한 역할을 한다. 이 글에서는 K-팝 산업의 구조와 전략, 그리고 팬덤 문화의 변화를 분석하여 K-팝의 글로벌 성공 요인을 탐구한다.",
+    "description": "K-팝이 세계적인 문화현상이 되었고, 그 과정에서 시장과 팬덤의 상호 작용이 중요한 역할을 한다. 이 글에서는 K-팝 산업의 구조와 전략, 그리고 팬덤 문화의 변화를 분석하여 K-팝의 글로벌 성공 요인을 탐구한다.",
     "url": "https://www.society-now.com/sonow/article/kc/kc25081907/kc25081907-문화누리카드-합산.html",
     "image_url": "https://www.society-now.com/sonow/article/kc/kc25081907/kc25081907.png",
     "image_alt": "문화누리카드 세대 내 합산 신청 안내 이미지",
@@ -102504,7 +102526,7 @@
   },
   {
     "article_id": "kt25081901",
-    "title": "케이팝 데몬 헌터스, 서울 관광 재정의… 남산타워, 국립중앙박물관 뜨겁게!",
+    "title": "케이팝 데몬 헌��스, 서울 관광 재정의… 남산타워, 국립중앙박물관 뜨겁게!",
     "description": "소니 픽처스 애니메이션 '케이팝 데몬 헌터스'가 서울을 배경으로 한 작품으로, 광복 80주년을 맞이하며 한국 도시의 이미지와 관광 흐름을 변화시키고 있다. 남산타워 관광 열풍과 국립중앙박물관 굿즈의 품절 현상을 통해 문화상품이 실제 도시 공간과 기념 방식을 어떻게 재편하는지 심층 분석한다.",
     "url": "https://www.society-now.com/sonow/article/kt/kt25081901/kt25081901-케데헌-광복80주년.html",
     "image_url": "https://www.society-now.com/sonow/article/kt/kt25081901/kt25081901.png",
@@ -102640,7 +102662,7 @@
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25081804/pe25081804.png",
     "image_alt": "카카오헬스케어와 차병원의 과천 개발사업 업무협약",
     "keywords": [
-      "카카오헬스��어",
+      "카카오헬스케어",
       "차병원",
       "과천 개발사업",
       "바이오헬스",
@@ -102770,7 +102792,7 @@
   },
   {
     "article_id": "an25081805",
-    "title": "AI ��용 생산성 1%↑, 한국은행 조사…10년 내 실업 대응 시급",
+    "title": "AI 활용 생산성 1%↑, 한국은행 조사…10년 내 실업 대응 시급",
     "description": "한은 보고서, 업무시간 3.8% 단축 효과 확인...근로자 48.3% '실업 우려' 표명",
     "url": "https://www.society-now.com/sonow/article/an/an25081805/an25081805-생성형AI-생산성향상.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25081805/an25081805.png",
@@ -103132,7 +103154,7 @@
       "테슬라",
       "타이니하우스",
       "스마트홈",
-      "스타링크",
+      "스���링크",
       "지속가능 주택"
     ],
     "category": "sn",
@@ -104773,7 +104795,7 @@
   {
     "article_id": "pe25080604",
     "title": "네이버 출신 장관·차관, 이재명 정부 '네이버 마피아' 논란 확산",
-    "description": "이재명 정부의 파격적인 인선 결정, 네이버 출신 인사를 장관 및 차관 수준으로 동시에 기용하면서 '네이버 마피아' 논란이 확산되고 있습니다. 이번 인선은 민간 전문성 활용과 정책 포획 우려 사이에서 갈등을 야기하고 있습니다. 이러한 상황 속에서 이해충돌 방지 장치와 투명한 검증 과정이 향후 정책 신뢰의 분기점이 될 것으로 예상됩니다.",
+    "description": "이재명 정부의 파격적인 인선 결정, 네이버 출신 인사를 장관 및 차관 수준으로 동시에 기용하면서 '네이버 마피아' 논란이 확산되고 있습니다. 이번 인선은 민간 전문성 활용과 정책 포획 우려 사이에서 갈등을 야기하고 있습니다. 이러한 상황 속에서 ��해충돌 방지 장치와 투명한 검증 과정이 향후 정책 신뢰의 분기점이 될 것으로 예상됩니다.",
     "url": "https://www.society-now.com/sonow/article/pe/pe25080604/pe25080604-네이버마피아-이재명-겹치기.html",
     "image_url": "https://www.society-now.com/sonow/article/pe/pe25080604/pe25080604.png",
     "image_alt": "네이버 출신 요직 인선 발표 장면",
@@ -105093,7 +105115,7 @@
   {
     "article_id": "ta25081506",
     "title": "아이폰 17 시리즈: 에어 모델로 초슬림 전략, '역대급' 사양 향상?",
-    "description": "애플이 9월 초 아이폰 17 시리즈 발표를 예고하며 흥미를 자극한다. 120Hz 프로모션 디스플레이, 48MP 망원 카메라, 그리고 특히 초슬림 디자인을 갖춘 '아이폰 17 에어' 모델은 새로운 시대를 열 수 있을까? 하지만 과거의 '역대급' 주장들과 달리, 이번 발표의 진정한 의미를 분석하는 것이 중요하다.",
+    "description": "애플이 9월 초 아이폰 17 시리즈 발표를 예고하며 흥미를 자극��다. 120Hz 프로모션 디스플레이, 48MP 망원 카메라, 그리고 특히 초슬림 디자인을 갖춘 '아이폰 17 에어' 모델은 새로운 시대를 열 수 있을까? 하지만 과거의 '역대급' 주장들과 달리, 이번 발표의 ���정한 의미를 분석하는 것이 중요하다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25081506/ta25081506-아이폰17-에어-출시전망.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25081506/ta25081506.png",
     "image_alt": "아이폰 17 시리즈: 에어 모델로 초슬림 전략, &#039;역대급&#039; 사양 향상? 관련 이미지",
@@ -105691,7 +105713,7 @@
     "description": "울산시가 울산AI위원회를 출범하며 제조업을 중심으로 한 AI 전략을 본격 추진한다. SK-AWS AI데이터센터를 중심으로 민관 협력을 강화하고, 7조 원 규모 데이터센터를 활용하여 국가 제조AI 선도 도시를 목표로 한다.",
     "url": "https://www.society-now.com/sonow/article/ta/ta25081201/ta25081201-울산-AI위원회.html",
     "image_url": "https://www.society-now.com/sonow/article/ta/ta25081201/ta25081201.png",
-    "image_alt": "울산, 제조AI 선도 ��시를 향해: SK-AWS 거점으로 민관협력 전략 가동 관련 이미지",
+    "image_alt": "울산, 제조AI 선도 도시를 향해: SK-AWS 거점으로 민관협력 전략 가동 관련 이미지",
     "keywords": [
       "울산AI위원회",
       "제조AI",
@@ -105744,7 +105766,7 @@
       "김건희",
       "구속심사",
       "특검",
-      "도이치모터스",
+      "도이치���터스",
       "주가조작",
       "서희건설",
       "목걸이"
@@ -106303,7 +106325,7 @@
   {
     "article_id": "an25080301",
     "title": "SK하이닉스, 엔비디아의 선택을 받은 이유는 무엇이었나",
-    "description": "AI 중심 산업구조로의 전환이 가속화되는 가운데, SK하이닉스가 엔비디아와 협력할 수 있었던 배경에는 차세대 반도체 기술력과 미·중 ���술 패권 속 전략적 선택이 작용했다. 신창환 고려대 교수와의 인터뷰를 통해 한국 반도체가 나아갈 방향을 조망한다.",
+    "description": "AI 중심 산업구조로의 전환이 가속화되는 가운데, SK하이닉스가 엔비디아와 협력할 수 있었던 배경에는 차세대 반도체 기술력과 미·중 기술 패권 속 전략적 선택이 작용했다. 신창환 고려대 교수와의 인터뷰를 통해 한국 반도체가 나아갈 방향을 조망한다.",
     "url": "https://www.society-now.com/sonow/article/an/an25080301/an25080301-sk하이닉스-엔비디아-ai.html",
     "image_url": "https://www.society-now.com/sonow/article/an/an25080301/an25080301.png",
     "image_alt": "SK하이닉스, 엔비디아의 선택을 받은 이유는 무엇이었나 - SONOW 관련 이미지",
@@ -106576,7 +106598,7 @@
   },
   {
     "article_id": "pb25080305",
-    "title": "이재명 대통령 \"균형발전은 국가 생존전략\" 지방 지원 강��� 천명",
+    "title": "이재명 대통령 \"균형발전은 국가 생존전략\" 지방 지원 강화 천명",
     "description": "이재명 대통령이 전국 시도지사들과의 첫 간담회에서 균형발전을 단순한 지역 배려가 아닌 국가 생존전략으로 규정하며 지방에 대한 예산 및 정책적 인센티브 확대 방침을 밝혔다.",
     "url": "https://www.society-now.com/sonow/article/pb/pb25080305/pb25080305-균형발전-지방지원-간담회.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb25080305/pb25080305.png",
@@ -106917,7 +106939,7 @@
   {
     "article_id": "pb25080101",
     "title": "기초수급 생계급여 첫 200만 원 돌파",
-    "description": "2025년 기초생활수급자 생계급여가 4인 가구 기준 207만 원을 넘어서며 역대 최대폭 인상이 이뤄졌다. 기준 중위소득 인상은 다양한 복지사업의 확대와 대상자 증가로 이어질 전망이다.",
+    "description": "2025년 기초생활수급자 생계급��가 4인 가구 기준 207만 원을 넘어서며 역대 최대폭 인상이 이뤄졌다. 기준 중위소득 인상은 다양한 복지사업의 확대와 대상자 증가로 이어질 전망이다.",
     "url": "https://www.society-now.com/sonow/article/pb/pb25080101/pb25080101-기초수급-중위소득.html",
     "image_url": "https://www.society-now.com/sonow/article/pb/pb25080101/pb25080101.png",
     "image_alt": "기초수급 생계급여 첫 200만 원 돌파 - SONOW 관련 이미지",
