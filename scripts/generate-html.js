@@ -317,19 +317,16 @@ function buildHubIndexHtml(articles) {
     const today     = new Date().toISOString().slice(0, 10);
     const totalCnt  = articles.length;
 
-    // 최신 날짜 기준 정렬
-    const sorted = articles.slice().sort((a, b) => {
-        const da = a.published_date || a.created_at || '';
-        const db = b.published_date || b.created_at || '';
-        return db.localeCompare(da);
-    });
+    // 최신 날짜 기준 정렬 (hub-articles.php API는 'date' 필드 사용)
+    const getDate = (x) => x.date || x.published_date || x.created_at || '';
+    const sorted = articles.slice().sort((a, b) => getDate(b).localeCompare(getDate(a)));
 
     const lastDate = sorted.length
-        ? (sorted[0].published_date || sorted[0].created_at || '').slice(0, 10).replace(/-/g, '.')
+        ? getDate(sorted[0]).slice(0, 10).replace(/-/g, '.')
         : '-';
 
     // 날짜 목록 (최근 7일)
-    const dates = [...new Set(sorted.map(a => (a.published_date || a.created_at || '').slice(0, 10)))].slice(0, 7);
+    const dates = [...new Set(sorted.map(a => getDate(a).slice(0, 10)))].filter(Boolean).slice(0, 7);
     // 카테고리 목록
     const cats  = [...new Set(sorted.map(a => a.category).filter(Boolean))];
 
@@ -338,8 +335,8 @@ function buildHubIndexHtml(articles) {
         const url   = esc(a.url || '#');
         const title = esc(a.title || '제목 없음');
         const cat   = a.category || '';
-        const date  = (a.published_date || a.created_at || '').slice(0, 10).replace(/-/g, '.');
-        const dateKey = (a.published_date || a.created_at || '').slice(0, 10);
+        const date  = getDate(a).slice(0, 10).replace(/-/g, '.');
+        const dateKey = getDate(a).slice(0, 10);
         const cname = getCatName(cat);
         return '<tr data-date="' + dateKey + '" data-cat="' + esc(cat) + '">' +
             '<td class="ni">' + String(i + 1).padStart(2, '0') + '</td>' +

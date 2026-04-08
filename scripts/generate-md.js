@@ -117,6 +117,53 @@ function makeFilename(article) {
     return `${date}-${title}.md`;
 }
 
+// ─── README.md AUTO-UPDATE 마커 갱신 ───
+// 각 카테고리 README.md의 <!-- AUTO-UPDATE:KEY --> ... <!-- /AUTO-UPDATE:KEY --> 사이
+// "최신 기사" 테이블을 최신 N개로 교체
+function updateReadmeLatest(group, markerKey, groupArticles, idToFilename, topN = 15) {
+    const readmePath = path.join(HUB_ROOT, group, 'README.md');
+    if (!fs.existsSync(readmePath)) return false;
+
+    const sorted = groupArticles.slice().sort((a, b) => {
+        return (b.date || '').localeCompare(a.date || '');
+    });
+    const top = sorted.slice(0, topN);
+
+    const rows = top.map(a => {
+        const filename = idToFilename.get(a.article_id) || makeFilename(a);
+        const title = (a.title || 'Untitled').replace(/\|/g, '\\|').replace(/\n/g, ' ');
+        const date = (a.date || '').replace(/-/g, '.');
+        return `| [${title}](./articles/${filename}) | ${date} |`;
+    }).join('\n');
+
+    const newBlock =
+`<!-- AUTO-UPDATE:${markerKey} -->
+| 제목 | 날짜 |
+|------|------|
+${rows}
+
+<!-- /AUTO-UPDATE:${markerKey} -->`;
+
+    const readme = fs.readFileSync(readmePath, 'utf-8');
+    const re = new RegExp('<!-- AUTO-UPDATE:' + markerKey + ' -->[\\s\\S]*?<!-- /AUTO-UPDATE:' + markerKey + ' -->');
+    if (!re.test(readme)) return false;
+
+    const newReadme = readme.replace(re, newBlock);
+    if (newReadme === readme) return false;
+
+    fs.writeFileSync(readmePath, newReadme, 'utf-8');
+    return true;
+}
+
+// 그룹명 → 마커 키
+const README_MARKER_KEYS = {
+    'headlines': 'HEADLINES_LATEST',
+    'tech-ai':   'TECH_LATEST',
+    'economy':   'ECONOMY_LATEST',
+    'education': 'EDUCATION_LATEST',
+    'k-culture': 'KCULTURE_LATEST'
+};
+
 // ─── description 정제 ───
 function cleanDescription(raw) {
     if (!raw) return '';
@@ -330,6 +377,20 @@ async function main() {
             created++;
         }
         console.log(`  Created: ${created}, Skipped: ${skipped}`);
+
+        // 4-B. 카테고리 README.md "최신 기사" 테이블 갱신 (ko만)
+        if (lang === 'ko') {
+            let readmeUpdated = 0;
+            for (const [group, arts] of Object.entries(groupedArticles)) {
+                const key = README_MARKER_KEYS[group];
+                if (!key) continue;
+                if (updateReadmeLatest(group, key, arts, idToFilename)) {
+                    console.log(`  README updated: ${group}/README.md (latest ${Math.min(15, arts.length)})`);
+                    readmeUpdated++;
+                }
+            }
+            console.log(`  READMEs updated: ${readmeUpdated}`);
+        }
 
         // 5. data/ 에 JSON 저장
         const dataDir = path.join(HUB_ROOT, langPrefix + 'data');
