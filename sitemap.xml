@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/education/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/k-culture/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9578,6 +9578,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2026-01-09-%EC%9D%B4%EC%9E%AC%EB%AA%85-%EB%8C%80%ED%86%B5%EB%A0%B9-AI%EC%99%80-%EC%97%90%EB%84%88%EC%A7%80-%EB%8C%80%EC%A0%84%ED%99%98%EC%9C%BC%EB%A1%9C-%EA%B5%AD%EA%B0%80-%EA%B2%BD%EC%9F%81%EB%A0%A5-%EA%B0%95%ED%99%94-%EC%B2%9C%EB%AA%85.html</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2026-01-09-%EC%BD%98%ED%81%AC%EB%A6%AC%ED%8A%B8-%EB%91%94-%EC%B0%B8%ED%98%B9%ED%95%9C-%EC%9D%B4%EC%9C%A0-%EC%8A%B9%EA%B0%9D-%EC%83%9D%EC%A1%B4-%EA%B0%80%EB%8A%A5.html</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -24752,6 +24758,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2026-04-14-%EB%B0%A9%EC%B2%A9%EC%82%AC-%EB%B8%94%EB%9E%99%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%9D%98%ED%98%B9-%EC%88%98%EC%82%AC-%EC%B5%9C%EA%B0%95%EC%9A%B1-%EC%A0%84-%EC%9D%98%EC%9B%90-14%EC%9D%BC-%EC%B0%B8%EA%B3%A0%EC%9D%B8%EC%9C%BC%EB%A1%9C-%EC%B6%9C%EC%84%9D.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/headlines/articles/2026-04-14-%EB%B2%95%EC%99%9C%EA%B3%A1%EC%A3%84-%EC%B2%AB-%EA%B3%B5%EC%88%98%EC%B2%98-%EC%9D%B4%EC%B2%A9-%EC%82%AC%EA%B1%B4%EC%9D%80-%EA%B9%80%EC%A0%95%EC%88%99-%EC%98%B7%EA%B0%92-%EC%9D%98%ED%98%B9-%EB%AC%B4%ED%98%90%EC%9D%98-%EC%B2%98-%EA%B4%80%EB%A0%A8-%EA%B3%A0%EB%B0%9C.html</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -45217,6 +45229,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-16-Anthropic-AI-%EB%A0%A5%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-Cowork-%EC%B6%9C%EC%8B%9C.html</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/tech-ai/articles/2026-02-16-ChatGPT%EC%99%80%EC%9D%98-%EC%9D%B4%EB%B3%84-AI-%EC%95%A0%EC%A0%95-%EA%B4%80%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8.html</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>monthly</changefreq>
@@ -61327,6 +61345,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-03-%EB%91%90%EB%8B%AC-%EB%A7%8C%EC%97%90-%EC%A3%BC%EA%B0%80-%EB%B0%98%ED%86%A0%EB%A7%89-%EA%B0%9C%EB%AF%B8%EB%93%A4-%ED%8C%A8%EB%8B%89-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4-%EC%95%85%EC%9E%AC-%ED%84%B0%EC%A1%8C%EB%8B%A4.html</loc>
+    <lastmod>2025-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2025-09-03-%EC%A4%91%EA%B5%AD-%EC%A6%9D%EC%8B%9C-10%EB%85%84-%EB%A7%8C%EC%9D%98-%EB%B0%98%EB%93%B1-AI-%EA%B8%B0%EC%88%A0-%EC%9E%90%EB%A6%BD-%EA%B0%80%EC%86%8D%ED%99%94%EB%A1%9C-%ED%88%AC%EC%9E%90-%EB%A7%A4%EB%A0%A5-%EA%B8%89%EC%83%81%EC%8A%B9.html</loc>
     <lastmod>2025-09-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -63883,6 +63907,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2026-01-20-%EC%9D%B4%ED%98%9C%ED%9B%88-%EC%9E%A5%EA%B4%80-%ED%9B%84%EB%B3%B4%EC%9D%98%ED%98%B9-%EB%B0%B1%ED%99%94%EC%A0%90-%EB%85%BC%EB%9E%80%EB%AC%B8%ED%9A%8C-%EB%B6%88%ED%88%AC%EB%AA%85.html</loc>
+    <lastmod>2026-01-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2026-01-20-%EC%9D%B4%ED%98%9C%ED%9B%88-%EC%9E%A5%EA%B4%80-%ED%9B%84%EB%B3%B4%EC%9D%98%ED%98%B9-%EB%B0%B1%ED%99%94%EC%A0%90-%EB%85%BC%EB%9E%80%EC%B2%AD%EB%AC%B8%ED%9A%8C-%EB%B6%88%ED%88%AC%EB%AA%85.html</loc>
     <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -65534,6 +65564,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2026-03-04-%EC%BD%94%EC%8A%A4%ED%94%BC%EC%BD%94%EC%8A%A4%EB%8B%A5-%EC%82%AC%EC%83%81-%EC%B5%9C%EC%95%85-%EC%A4%91%EB%8F%99-%EC%B6%A9%EB%8F%8C%EC%97%90-%EC%9E%A5%EA%B8%B0%ED%99%94-%EC%9A%B0%EB%A0%A4.html</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/economy/articles/2026-03-04-%EC%BD%94%EC%8A%A4%ED%94%BC%EC%BD%94%EC%8A%A4%EB%8B%A5-%EC%82%AC%EC%83%81-%EC%B5%9C%EC%95%85-%EC%A4%91%EB%8F%99-%EC%B6%A9%EC%97%90-%EC%9E%A5%EA%B8%B0%ED%99%94-%EC%9A%B0%EB%A0%A4.html</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -82598,6 +82634,12 @@
   </url>
   <url>
     <loc>https://societynowcom.github.io/sonow-hub/k-culture/articles/2026-04-18-%EA%B9%80%EC%B0%BD%EB%AF%BC-%EA%B0%90%EB%8F%85-%ED%8F%AD%ED%96%89-%EC%82%AC%EB%A7%9D-%EC%82%AC%EA%B1%B4-%ED%95%B5%EC%8B%AC-%ED%94%BC%EC%9D%98-%EC%9D%B4%EB%AA%A8-%EC%94%A8-%EB%8B%A8%EB%8F%85-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%B3%B5%EA%B0%9C.html</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://societynowcom.github.io/sonow-hub/k-culture/articles/2026-04-18-%EA%B9%80%EC%B0%BD%EB%AF%BC-%EA%B0%90%EB%8F%85-%ED%8F%AD%ED%96%89-%EC%82%AC%EB%A7%9D-%EC%82%AC%EA%B1%B4-%ED%95%B5%EC%8B%AC-%ED%94%BC%EC%9D%98%EC%9E%90-%EC%9D%B4-%EC%94%A8-%EB%8B%A8%EB%8F%85-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%B3%B5%EA%B0%9C.html</loc>
     <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
