@@ -1,0 +1,36 @@
+---
+title: "Datadog Stock Surges 20% as AI Complexity Drives Demand for Cloud Monitoring"
+description: "Datadog's stock soared 20% after reporting Q4 2025 revenue of $738 million, up 31% year-over-year, as AI-driven system complexity boosts demand for its cloud mo..."
+date: "2026-05-09"
+category: "NEWS"
+image: "https://justnow.kr/en/article/kn/en-kn26050806/en-kn26050806.png"
+keywords: "Datadog, AI monitoring, cloud software, stock surge, enterprise tech"
+source: "JustNow"
+url: "https://justnow.kr/en/article/kn/en-kn26050806/en-kn26050806-datadog-stock-surge-ai-monitoring.html"
+lang: "en"
+---
+
+# Datadog Stock Surges 20% as AI Complexity Drives Demand for Cloud Monitoring
+
+**NEWS** | 2026.05.09 | JustNow
+
+Datadog's stock soared 20% after reporting Q4 2025 revenue of $738 million, up 31% year-over-year, as AI-driven system complexity boosts demand for its cloud monitoring software.
+
+> **[Read full article on JustNow](https://justnow.kr/en/article/kn/en-kn26050806/en-kn26050806-datadog-stock-surge-ai-monitoring.html)**
+
+**Keywords:** Datadog · AI monitoring · cloud software · stock surge · enterprise tech
+
+## Related
+
+- [Iran accuses US of 'reckless military adventure' amid Strait of Hormuz clashes](./2026-05-09-Iran-accuses-US-of-reckless-military-adventure-amid-Strait-o.md) (2026.05.09)
+- [Russia and Ukraine trade accusations of ceasefire violations on Victory Day](./2026-05-09-Russia-and-Ukraine-trade-accusations-of-ceasefire-violations.md) (2026.05.09)
+- [Global Race to Trace Passengers From Hantavirus-Hit Cruise Ship](./2026-05-09-Global-Race-to-Trace-Passengers-From-Hantavirus-Hit-Cruise-S.md) (2026.05.09)
+
+## More
+
+- 🤖 [Railway Secures $100M to Redefine Cloud for AI Era](../tech-ai/articles/2026-05-09-Railway-Secures-100M-to-Redefine-Cloud-for-AI-Era.md)
+- 💰 [Korea's Tax Chief Signals No Change to Financial Investment Tax](../economy/articles/2026-03-23-Koreas-Tax-Chief-Signals-No-Change-to-Financial-Investment-T.md)
+
+---
+
+**[Full Article → JustNow](https://justnow.kr/en/article/kn/en-kn26050806/en-kn26050806-datadog-stock-surge-ai-monitoring.html)** | *[Home](../../README.md) | [📰 HEADLINES](../README.md)*
