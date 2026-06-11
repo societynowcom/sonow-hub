@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>제로GPU, 기존 연산 자원 재활용해 AI 추론 비용 50% 절감 | SO,NOW</title>
+  <meta name="description" content="AI 인프라 스타트업 제로GPU가 기존 연산 자원을 재활용하는 하이브리드 엣지 네트워크 기반 추론 레이어를 출시했다. 소형 언어 모델로 대형 모델 대비 10배 빠른 속도와 50% 저렴한 비용을 구현하며, 생산 추론 작업의 70~80%를 최첨단 정확도로 대체할 수 있��고 주장한다.">
+  <meta name="keywords" content="제로GPU, AI 추론, 소형 언어 모델, 엣지 컴퓨팅, 추론 비용 절감">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="제로GPU, 기존 연산 자원 재활용해 AI 추론 비용 50% 절감">
+  <meta property="og:description" content="AI 인프라 스타트업 제로GPU가 기존 연산 자원을 재활용하는 하이브리드 엣지 네트워크 기반 추론 레이어를 출시했다. 소형 언어 모델로 대형 모델 대비 10배 빠른 속도와 50% 저렴한 비용을 구현하며, 생산 추론 작업의 70~80%를 최첨단 정확도로 대체할 수 있��고 주장한다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="제로GPU, 기존 연산 자원 재활용해 AI 추론 비용 50% 절감">
+  <meta name="twitter:description" content="AI 인프라 스타트업 제로GPU가 기존 연산 자원을 재활용하는 하이브리드 엣지 네트워크 기반 추론 레이어를 출시했다. 소형 언어 모델로 대형 모델 대비 10배 빠른 속도와 50% 저렴한 비용을 구현하며, 생산 추론 작업의 70~80%를 최첨단 정확도로 대체할 수 있��고 주장한다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html">
+  <link rel="alternate" hreflang="ko" href="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"제로GPU, 기존 연산 자원 재활용해 AI 추론 비용 50% 절감","description":"AI 인프라 스타트업 제로GPU가 기존 연산 자원을 재활용하는 하이브리드 엣지 네트워크 기반 추론 레이어를 출시했다. 소형 언어 모델로 대형 모델 대비 10배 빠른 속도와 50% 저렴한 비용을 구현하며, 생산 추론 작업의 70~80%를 최첨단 정확도로 대체할 수 있��고 주장한다.","datePublished":"2026-06-11","dateModified":"2026-06-11","image":["https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html","articleSection":"AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>제로GPU, 기존 연산 자원 재활용해 AI 추론 비용 50% 절감</h1>
+
+<p><strong>AI</strong> | 2026.06.11 | SO,NOW</p>
+
+<p>AI 인프라 스타트업 제로GPU가 기존 연산 자원을 재활용하는 하이브리드 엣지 네트워크 기반 추론 레이어를 출시했다. 소형 언어 모델로 대형 모델 대비 10배 빠른 속도와 50% 저렴한 비용을 구현하며, 생산 추론 작업의 70~80%를 최첨단 정확도로 대체할 수 있��고 주장한다.</p>
+
+<blockquote><strong><a href="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html">Read full article on SO,NOW</a></strong></blockquote>
+
+<p><strong>Keywords:</strong> 제로GPU · AI 추론 · 소형 언어 모델 · 엣지 컴퓨팅 · 추론 비용 절감</p>
+
+<h2>Related</h2>
+
+<ul><li><a href="./2026-06-11-2026년-AI-일자리와-딥페이크-그리고-과학-혁명까지-5가지-키워드로-읽다.html">2026년 AI, 일자리와 딥페이크 그리고 과학 혁명까지 5가지 키워드로 읽다</a> (2026.06.11)</li><li><a href="./2026-06-11-법원-AI-생성-소송-폭증에-대응-나서변호사-없는-당사자-2배-증가.html"> 법원, AI 생성 소송 폭증에 대응 나서…변호사 없는 당사자 2배 증가</a> (2026.06.11)</li><li><a href="./2026-06-11-2026년-의료-현장-에이전트-AI가-보험-청구-처리-시간-45분에서-5분으로-단축.html">2026년 의료 현장, 에이전트 AI가 보험 청구 처리 시간 45분에서 5분으로 단축</a> (2026.06.11)</li></ul>
+
+<h2>More</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-06-11-미-5월-CPI-4237개월-만에-최고-근원-물가는-29.html">미 5월 CPI 4.2%…37개월 만에 최고, 근원 물가는 2.9%</a></li><li>🎭 <a href="../k-culture/articles/2026-06-11-23기-영숙-프로포즈-반지-이어-결혼반지까지-공개나는-솔로-커플-결실.html">23기 영숙, 프로포즈 반지 이어 결혼반지까지 공개…'나는 솔로' 커플 결실</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai260611000025/ai260611000025-zerogpu-ai-inference-efficiency-layer.html">Full Article → SO,NOW</a></strong> | <em><a href="../../index.html">Home</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>
