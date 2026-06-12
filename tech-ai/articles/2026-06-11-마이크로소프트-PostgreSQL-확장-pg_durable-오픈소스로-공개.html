@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>마이크로소프트, PostgreSQL 확장 'pg_durable' 오픈소스로 공개 | SO,NOW</title>
+  <meta name="description" content="마이크로소프트가 PostgreSQL 확장 'pg_durable'을 오픈소스로 공개했다. 이 확장은 데이터베이스 내부에서 내구성 있는 워크플로우를 실행할 수 있게 해준다. 크론 작업, 메시지 큐, 외부 오케스트레이터 없이 SQL만으로 재시도, 팬아웃, 복구를 처리한다.">
+  <meta name="keywords" content="pg_durable, PostgreSQL, 마이크로소프트, 오픈소스, 데이터베이스 워크플로우">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="마이크로소프트, PostgreSQL 확장 'pg_durable' 오픈소스로 공개">
+  <meta property="og:description" content="마이크로소프트가 PostgreSQL 확장 'pg_durable'을 오픈소스로 공개했다. 이 확장은 데이터베이스 내부에서 내구성 있는 워크플로우를 실행할 수 있게 해준다. 크론 작업, 메시지 큐, 외부 오케스트레이터 없이 SQL만으로 재시도, 팬아웃, 복구를 처리한다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="마이크로소프트, PostgreSQL 확장 'pg_durable' 오픈소스로 공개">
+  <meta name="twitter:description" content="마이크로소프트가 PostgreSQL 확장 'pg_durable'을 오픈소스로 공개했다. 이 확장은 데이터베이스 내부에서 내구성 있는 워크플로우를 실행할 수 있게 해준다. 크론 작업, 메시지 큐, 외부 오케스트레이터 없이 SQL만으로 재시도, 팬아웃, 복구를 처리한다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html">
+  <link rel="alternate" hreflang="ko" href="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"마이크로소프트, PostgreSQL 확장 'pg_durable' 오픈소스로 공개","description":"마이크로소프트가 PostgreSQL 확장 'pg_durable'을 오픈소스로 공개했다. 이 확장은 데이터베이스 내부에서 내구성 있는 워크플로우를 실행할 수 있게 해준다. 크론 작업, 메시지 큐, 외부 오케스트레이터 없이 SQL만으로 재시도, 팬아웃, 복구를 처리한다.","datePublished":"2026-06-11","dateModified":"2026-06-11","image":["https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html","articleSection":"TECH & AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>마이크로소프트, PostgreSQL 확장 'pg_durable' 오픈소스로 공개</h1>
+
+<p><strong>TECH & AI</strong> | 2026.06.11 | SO,NOW</p>
+
+<p>마이크로소프트가 PostgreSQL 확장 'pg_durable'을 오픈소스로 공개했다. 이 확장은 데이터베이스 내부에서 내구성 있는 워크플로우를 실행할 수 있게 해준다. 크론 작업, 메시지 큐, 외부 오케스트레이터 없이 SQL만으로 재시도, 팬아웃, 복구를 처리한다. 2026년 6월 10일 공개.</p>
+
+<blockquote><strong><a href="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html">Read full article on SO,NOW</a></strong></blockquote>
+
+<p><strong>Keywords:</strong> pg_durable · PostgreSQL · 마이크로소프트 · 오픈소스 · 데이터베이스 워크플로우</p>
+
+<h2>Related</h2>
+
+<ul><li><a href="./2026-06-11-93-안면인식-일치율이-만든-억울한-체포-미국-경찰-시스템의-오류-드러내.html">93% 안면인식 일치율이 만든 억울한 체포, 미국 경찰 시스템의 오류 드러내</a> (2026.06.11)</li><li><a href="./2026-06-11-중국-세계-최초-해상풍력-수중-데이터센터-가동PUE-115-달성.html">중국, 세계 최초 해상풍력 수중 데이터센터 가동...PUE 1.15 달성</a> (2026.06.11)</li><li><a href="./2026-06-11-AI-기억-시스템이-오히려-모델-성능을-떨어뜨린다.html">AI 기억 시스템이 오히려 모델 성능을 떨어뜨린다</a> (2026.06.11)</li></ul>
+
+<h2>More</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-06-12-합수본-선관위-7곳-13시간-압수수색전자정보-제외-모두-종료.html">합수본, 선관위 7곳 13시간 압수수색…전자정보 제외 모두 종료</a></li><li>🎭 <a href="../k-culture/articles/2026-06-12-예술위번역원-2026년-6월-손잡고-한국문학-세계화-3대-과제-추진.html">예술위·번역원, 2026년 6월 손잡고 한국문학 세계화 3대 과제 추진</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ta/ta26061107/ta26061107-microsoft-opensources-postgresql-extension-pgdurable.html">Full Article → SO,NOW</a></strong> | <em><a href="../../index.html">Home</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>
