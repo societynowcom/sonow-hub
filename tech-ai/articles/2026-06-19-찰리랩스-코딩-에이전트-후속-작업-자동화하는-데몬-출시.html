@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>찰리랩스, 코딩 에이전트 후속 작업 자동화하는 '데몬' 출시 | SO,NOW</title>
+  <meta name="description" content="찰리랩스가 엔지니어링 팀을 위한 상시 가동 AI 데몬을 공개했다. 깃허브, 리니어, 슬랙, 센트리와 연동해 PR·이슈·CI·문서·오류를 모니터링하며 코딩 에이전트가 생성한 작업 후속 단계를 자동 처리한다. 팀은 마크다운으로 역할을 정의하면 데몬이 반��적인 운영 부채를 해소한다.">
+  <meta name="keywords" content="찰리랩스, AI 데몬, 코딩 에이전트, 운영 자동화, 깃허브">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="찰리랩스, 코딩 에이전트 후속 작업 자동화하는 '데몬' 출시">
+  <meta property="og:description" content="찰리랩스가 엔지니어링 팀을 위한 상시 가동 AI 데몬을 공개했다. 깃허브, 리니어, 슬랙, 센트리와 연동해 PR·이슈·CI·문서·오류를 모니터링하며 코딩 에이전트가 생성한 작업 후속 단계를 자동 처리한다. 팀은 마크다운으로 역할을 정의하면 데몬이 반��적인 운영 부채를 해소한다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="찰리랩스, 코딩 에이전트 후속 작업 자동화하는 '데몬' 출시">
+  <meta name="twitter:description" content="찰리랩스가 엔지니어링 팀을 위한 상시 가동 AI 데몬을 공개했다. 깃허브, 리니어, 슬랙, 센트리와 연동해 PR·이슈·CI·문서·오류를 모니터링하며 코딩 에이전트가 생성한 작업 후속 단계를 자동 처리한다. 팀은 마크다운으로 역할을 정의하면 데몬이 반��적인 운영 부채를 해소한다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html">
+  <link rel="alternate" hreflang="ko" href="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"찰리랩스, 코딩 에이전트 후속 작업 자동화하는 '데몬' 출시","description":"찰리랩스가 엔지니어링 팀을 위한 상시 가동 AI 데몬을 공개했다. 깃허브, 리니어, 슬랙, 센트리와 연동해 PR·이슈·CI·문서·오류를 모니터링하며 코딩 에이전트가 생성한 작업 후속 단계를 자동 처리한다. 팀은 마크다운으로 역할을 정의하면 데몬이 반��적인 운영 부채를 해소한다.","datePublished":"2026-06-19","dateModified":"2026-06-19","image":["https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html","articleSection":"AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>찰리랩스, 코딩 에이전트 후속 작업 자동화하는 '데몬' 출시</h1>
+
+<p><strong>AI</strong> | 2026.06.19 | SO,NOW</p>
+
+<p>찰리랩스가 엔지니어링 팀을 위한 상시 가동 AI 데몬을 공개했다. 깃허브, 리니어, 슬랙, 센트리와 연동해 PR·이슈·CI·문서·오류를 모니터링하며 코딩 에이전트가 생성한 작업 후속 단계를 자동 처리한다. 팀은 마크다운으로 역할을 정의하면 데몬이 반��적인 운영 부채를 해소한다.</p>
+
+<blockquote><strong><a href="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html">Read full article on SO,NOW</a></strong></blockquote>
+
+<p><strong>Keywords:</strong> 찰리랩스 · AI 데몬 · 코딩 에이전트 · 운영 자동화 · 깃허브</p>
+
+<h2>Related</h2>
+
+<ul><li><a href="./2026-06-19-한국인이-AI를-열광하는-이유는-국가-성장-전략-때문이다.html">한국인이 AI를 열광하는 이유는 국가 성장 전략 때문이다</a> (2026.06.19)</li><li><a href="./2026-06-19-2026년-기업-리더십-인간-AI-에이전트-하이브리드-조직으로-급전환.html">2026년 기업 리더십, 인간-AI 에이전트 하이브리드 조직으로 급전환</a> (2026.06.19)</li><li><a href="./2026-06-19-데이터센터-전력-수요-폭증-천연가스-발전소-건설-비용-2년-만에-66-급등.html">데이터센터 전력 수요 폭증, 천연가스 발전소 건설 비용 2년 만에 66% 급등</a> (2026.06.19)</li></ul>
+
+<h2>More</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-06-19-객실-문-열자-BTS-굿즈파라다이스-호텔-부산-아미-성지로-떠오르다.html">객실 문 열자 BTS 굿즈…파라다이스 호텔 부산, 아미 성지로 떠오르다</a></li><li>🎭 <a href="../k-culture/articles/2026-06-19-고준희-밤길-납치-시도에-주저앉기로-버텼다가슴-쳐서-비명-질러.html">고준희, 밤길 납치 시도에 '주저앉기'로 버텼다…가슴 쳐서 비명 질러</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai260619000020/ai260619000020-charlie-labs-daemons-ai-agent.html">Full Article → SO,NOW</a></strong> | <em><a href="../../index.html">Home</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>
