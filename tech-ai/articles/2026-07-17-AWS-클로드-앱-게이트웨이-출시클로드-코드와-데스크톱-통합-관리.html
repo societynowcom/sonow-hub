@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AWS, 클로드 앱 게이트웨이 출시…클로드 코드와 데스크톱 통합 관리 | SO,NOW</title>
+  <meta name="description" content="AWS와 앤트로픽이 클로드 앱 게이트웨이를 공개했다. 이는 자체 호스팅 방식의 컨트롤 플레인으로, 클로드 코드와 클로드 데스크톱의 접근 권한·비용·정책을 중앙에서 관리한다. 단일 상태 비저장 컨테이너로 실행되며, 추론 요청을 아마존 베드록이나 AWS 내 클로드 플랫폼으로 라우팅한다.">
+  <meta name="keywords" content="AWS, 클로드 앱 게이트웨이, 앤트로픽, 컨트롤 플레인, 아마존 베드록">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="AWS, 클로드 앱 게이트웨이 출시…클로드 코드와 데스크톱 통합 관리">
+  <meta property="og:description" content="AWS와 앤트로픽이 클로드 앱 게이트웨이를 공개했다. 이는 자체 호스팅 방식의 컨트롤 플레인으로, 클로드 코드와 클로드 데스크톱의 접근 권한·비용·정책을 중앙에서 관리한다. 단일 상태 비저장 컨테이너로 실행되며, 추론 요청을 아마존 베드록이나 AWS 내 클로드 플랫폼으로 라우팅한다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="AWS, 클로드 앱 게이트웨이 출시…클로드 코드와 데스크톱 통합 관리">
+  <meta name="twitter:description" content="AWS와 앤트로픽이 클로드 앱 게이트웨이를 공개했다. 이는 자체 호스팅 방식의 컨트롤 플레인으로, 클로드 코드와 클로드 데스크톱의 접근 권한·비용·정책을 중앙에서 관리한다. 단일 상태 비저장 컨테이너로 실행되며, 추론 요청을 아마존 베드록이나 AWS 내 클로드 플랫폼으로 라우팅한다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html">
+  <link rel="alternate" hreflang="ko" href="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"AWS, 클로드 앱 게이트웨이 출시…클로드 코드와 데스크톱 통합 관리","description":"AWS와 앤트로픽이 클로드 앱 게이트웨이를 공개했다. 이는 자체 호스팅 방식의 컨트롤 플레인으로, 클로드 코드와 클로드 데스크톱의 접근 권한·비용·정책을 중앙에서 관리한다. 단일 상태 비저장 컨테이너로 실행되며, 추론 요청을 아마존 베드록이나 AWS 내 클로드 플랫폼으로 라우팅한다.","datePublished":"2026-07-17","dateModified":"2026-07-17","image":["https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html","articleSection":"TECH & AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>AWS, 클로드 앱 게이트웨이 출시…클로드 코드와 데스크톱 통합 관리</h1>
+
+<p><strong>TECH & AI</strong> | 2026.07.17 | SO,NOW</p>
+
+<p>AWS와 앤트로픽이 클로드 앱 게이트웨이를 공개했다. 이는 자체 호스팅 방식의 컨트롤 플레인으로, 클로드 코드와 클로드 데스크톱의 접근 권한·비용·정책을 중앙에서 관리한다. 단일 상태 비저장 컨테이너로 실행되며, 추론 요청을 아마존 베드록이나 AWS 내 클로드 플랫폼으로 라우팅한다.</p>
+
+<blockquote><strong><a href="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html">Read full article on SO,NOW</a></strong></blockquote>
+
+<p><strong>Keywords:</strong> AWS · 클로드 앱 게이트웨이 · 앤트로픽 · 컨트롤 플레인 · 아마존 베드록</p>
+
+<h2>Related</h2>
+
+<ul><li><a href="./2026-07-17-삼성전자-40조-성과급-소액주주-424명이-국민연금에-주주권-행사-촉구.html">삼성전자 40조 성과급, 소액주주 424명이 국민연금에 주주권 행사 촉구</a> (2026.07.17)</li><li><a href="./2026-07-17-러시아-최정예-해커조직-샌드웜-클릭픽스-공격-채택.html">러시아 최정예 해커조직 샌드웜, 클릭픽스 공격 채택</a> (2026.07.17)</li><li><a href="./2026-07-17-네이버-통합-물류-솔루션-N배송-FBN-출시커머스-경쟁력-강화.html">네이버, 통합 물류 솔루션 'N배송 FBN' 출시…커머스 경쟁력 강화</a> (2026.07.17)</li></ul>
+
+<h2>More</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-07-18-매일경제-강민욱-교수-인터뷰-제목-오류-정정원시인-발언-없었다.html">매일경제, 강민욱 교수 인터뷰 제목 오류 정정…'원시인' 발언 없었다</a></li><li>🎭 <a href="../k-culture/articles/2026-07-18-구혜선-개당-1만3000원-헤어롤-논란-해명4차-가공-수작업이라-비쌀-수밖에.html">구혜선, 개당 1만3000원 헤어롤 논란 해명…"4차 가공 수작업이라 비쌀 수밖에"</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ta/ta26071710/ta26071710-aws-claude-apps-gateway-control.html">Full Article → SO,NOW</a></strong> | <em><a href="../../index.html">Home</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>
