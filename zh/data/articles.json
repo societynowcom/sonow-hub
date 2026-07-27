@@ -1,5 +1,416 @@
 [
   {
+    "article_id": "zh-kn26072801",
+    "title": "电信业务疲软拖累业绩 亚信科技转向AI与卫星赛道",
+    "description": "亚信科技预警2026年上半年收入下滑19.2%，第二季度跌幅或达30%，公司将向AI、卫星通信等新业务转型以对冲电信行业下行风险。",
+    "url": "https://justnow.kr/zh/article/kn/zh-kn26072801/zh-kn26072801-asiainfo-tech-revenue-decline-ai.html",
+    "image_url": "https://justnow.kr/zh/article/kn/zh-kn26072801/zh-kn26072801.png",
+    "image_alt": "亚信科技公司大楼外景，标识蓝色背景上的企业名称",
+    "keywords": [
+      "亚信科技",
+      "电信业务",
+      "收入下滑",
+      "AI转型",
+      "卫星通信"
+    ],
+    "category": "kn",
+    "date": "2026-07-28",
+    "source": "FT中文网",
+    "source_url": "https://www.ftchinese.com/story/001110444",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-kn26072802",
+    "title": "工业企业利润增速放缓至年内低点 复苏结构分化加剧",
+    "description": "国家统计局数据显示，6月中国规模以上工业企业利润同比增长3.8%，创年内新低，主因需求疲软与价格回落。上游采矿业利润增速仍高于制造业，中下游企业成本压力凸显，政策加码预期升温。",
+    "url": "https://justnow.kr/zh/article/kn/zh-kn26072802/zh-kn26072802-china-industrial-profit-slows.html",
+    "image_url": "https://justnow.kr/zh/article/kn/zh-kn26072802/zh-kn26072802.png",
+    "image_alt": "中国规模以上工业企业利润走势图及行业分化对比图表",
+    "keywords": [
+      "工业企业利润",
+      "经济数据",
+      "行业分化",
+      "政策刺激",
+      "中国制造业"
+    ],
+    "category": "kn",
+    "date": "2026-07-28",
+    "source": "FT中文网",
+    "source_url": "https://www.ftchinese.com/story/001110442",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-kn26072803",
+    "title": "景德镇申遗背后的经济账：旧文明与新技术如何催生百亿产业",
+    "description": "景德镇启动申报世界文化遗产，2025年陶瓷产业产值达612亿元，旅游收入同比增长34%。专家指出，新技术与古法工艺融合将重塑文化经济生态，但需警惕过度商业化风险。",
+    "url": "https://justnow.kr/zh/article/kn/zh-kn26072803/zh-kn26072803-jingdezhen-heritage-economy-tech.html",
+    "image_url": "https://justnow.kr/zh/article/kn/zh-kn26072803/zh-kn26072803.png",
+    "image_alt": "景德镇古窑遗址与现代陶瓷生产线融合场景",
+    "keywords": [
+      "景德镇申遗",
+      "陶瓷产业",
+      "数字经济",
+      "文旅融合",
+      "传统文化经济"
+    ],
+    "category": "kn",
+    "date": "2026-07-28",
+    "source": "FT中文网",
+    "source_url": "https://www.ftchinese.com/story/001110440",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-kn26072804",
+    "title": "德国经济困局：默茨改革方案能否扭转颓势？",
+    "description": "德国经济连续两年萎缩，失业率升至6.2%。默茨政府7月推出34项改革方案，涉及减税、养老金和劳动力市场，但民调显示仅30%受访者认可。专家认为方案是“重要一步”，但各方争议激烈。",
+    "url": "https://justnow.kr/zh/article/kn/zh-kn26072804/zh-kn26072804-germany-economy-merz-reform.html",
+    "image_url": "https://justnow.kr/zh/article/kn/zh-kn26072804/zh-kn26072804.png",
+    "image_alt": "德国总理默茨在总理府花园宣布改革方案，背景是德国国旗和柏林天际线",
+    "keywords": [
+      "德国经济",
+      "默茨",
+      "改革方案",
+      "减税",
+      "劳动力市场"
+    ],
+    "category": "kn",
+    "date": "2026-07-28",
+    "source": "FT中文网",
+    "source_url": "https://www.ftchinese.com/story/001110441",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-kn26072805",
+    "title": "俄罗斯对朝核政策转向：地缘变局下的东北亚经济风险",
+    "description": "俄罗斯宣布放弃半岛无核化立场，地缘风险推高国际油价并冲击中朝贸易通道。数据显示2025年中朝贸易额同比下降8.2%，当前政策转向或进一步削弱制裁效力，影响中国东北边境经济及区域能源安全。",
+    "url": "https://justnow.kr/zh/article/kn/zh-kn26072805/zh-kn26072805-russia-north-korea-policy-shift.html",
+    "image_url": "https://justnow.kr/zh/article/kn/zh-kn26072805/zh-kn26072805.png",
+    "image_alt": "金正恩与普京握手的历史资料照片，背景为朝鲜地图和俄朝边境贸易示意图",
+    "keywords": [
+      "俄罗斯朝核政策",
+      "朝鲜半岛无核化",
+      "东北亚经济",
+      "中朝贸易",
+      "地缘政治风险"
+    ],
+    "category": "kn",
+    "date": "2026-07-28",
+    "source": "FT中文网",
+    "source_url": "https://www.ftchinese.com/story/001110439",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072811",
+    "title": "中日外长马尼拉“简短交流”双方各执一词",
+    "description": "上周东盟会议期间，日本外相称与中国外长王毅简短交流，中方强硬否认。双方就“台湾有事”言论分歧加深，关系持续紧张。本文梳理事件经过与背景影响。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072811/zh-hl26072811-china-japan-foreign-ministers-dispute.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072811/zh-hl26072811.png",
+    "image_alt": "日本外相茂木敏充与中国外长王毅在东盟会议场景",
+    "keywords": [
+      "中日关系",
+      "茂木敏充",
+      "王毅",
+      "东盟会议",
+      "台湾问题"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "DW中文",
+    "source_url": "https://www.dw.com/zh/中日外长究竟在马尼拉有无简短交流？/a-78132975?maca=chi-rss-chi-all-1127-xml-mrss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072812",
+    "title": "德语媒体：中国经济增速放缓但科技崛起，“未来是中国的”",
+    "description": "《新苏黎世报》评论认为中国经济增速放缓但科技实力增强，中产阶级信心下降不意味走下坡路；《图片报》报道比亚迪在德建厂、建充电站，目标成为欧洲制造商。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072812/zh-hl26072812-china-economy-tech-rise-future.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072812/zh-hl26072812.png",
+    "image_alt": "中国科技企业标识与比亚迪汽车在德国街头",
+    "keywords": [
+      "中国经济",
+      "中产阶级",
+      "科技崛起",
+      "比亚迪欧洲攻势",
+      "新苏黎世报"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "DW中文",
+    "source_url": "https://www.dw.com/zh/德语媒体：-未来是中国的/a-78132574?maca=chi-rss-chi-all-1127-xml-mrss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072813",
+    "title": "孟加拉国正式启动中国经济产业园 项目此前因印方争夺久拖不决",
+    "description": "孟加拉国2026年7月27日正式启动位于吉大港附近的中国经济产业园，该项目占地约800英亩，计划吸引高端芯片、电动汽车等领域投资，创造约10万个就业岗位，助力孟加拉国实现2034年成为万亿美元经济体的目标。此前一个月，孟方拒绝印度对蒙格拉港经济区的开发权，将此项目转交中国，凸显中印在南亚地区的经济影响力竞争。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072813/zh-hl26072813-bangladesh-china-economic-zone.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072813/zh-hl26072813.png",
+    "image_alt": "孟加拉国吉大港中国经济产业园启动仪式现场",
+    "keywords": [
+      "孟加拉国",
+      "中国经济产业园",
+      "中印竞争",
+      "南亚投资",
+      "一带一路"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "DW中文",
+    "source_url": "https://www.dw.com/zh/拒绝印度后-孟加拉国与中国启动经济产业园项目/a-78131130?maca=chi-rss-chi-all-1127-xml-mrss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072804",
+    "title": "德国柏林骄傲游行遭汽车冲撞袭击致1死29伤",
+    "description": "2026年7月22日晚，德国柏林骄傲游行活动遭一名21岁黎巴嫩裔男子驾车冲撞，造成1名女性死亡、至少29人受伤。嫌疑人因持刀袭警被击毙，警方初步认定为伊斯兰恐怖主义袭击。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072804/zh-hl26072804-berlin-pride-attack-2026-1.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072804/zh-hl26072804.png",
+    "image_alt": "柏林骄傲游行袭击现场，警车和救护车在蒂尔加滕公园附近，人群疏散",
+    "keywords": [
+      "德国",
+      "柏林",
+      "骄傲游行",
+      "汽车冲撞",
+      "恐怖袭击",
+      "伊斯兰国",
+      "默茨"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/ce34qp6zdryo/trad?at_medium=RSS&at_campaign=rss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072805",
+    "title": "韩国“极速隔夜送货”便利背后：工人过劳死亡引发社会反思",
+    "description": "韩国电商极速隔夜配送背后，46名仓库及配送工人被认定为过劳死亡。张德俊27岁心脏病发离世，其母持续抗争，国会调查酷澎，总统李在明面临考验。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072805/zh-hl26072805-south-korea-overnight-delivery-worker.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072805/zh-hl26072805.png",
+    "image_alt": "韩国酷澎物流仓库内工人驾驶电动搬运车运送货板，夜间作业场景",
+    "keywords": [
+      "韩国",
+      "隔夜送货",
+      "过劳死",
+      "酷澎",
+      "工人权益",
+      "劳动安全",
+      "张德俊"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c1l1m290yl3o/trad?at_medium=RSS&at_campaign=rss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072806",
+    "title": "中国开源AI模型快速进步加剧硅谷分歧",
+    "description": "2026年7月，中国智谱AI与月之暗面发布媲美美国实验室的新模型，加剧硅谷开源与闭源路线之争。Anthropic、OpenAI游说华盛顿限制中国模型，微软、英伟达等力挺开源。美国官员考虑逐案监管，中国则全面拥抱开源，习近平公开支持。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072806/zh-hl26072806-china-ai-open-source-divide.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072806/zh-hl26072806.png",
+    "image_alt": "中国人工智能公司智谱AI和月之暗面发布新模型，性能媲美美国实验室产品",
+    "keywords": [
+      "中国开源AI",
+      "硅谷分歧",
+      "人工智能",
+      "中美科技竞争",
+      "模型蒸馏"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "纽约时报中文",
+    "source_url": "https://cn.nytimes.com/technology/20260727/open-source-silicon-valley-china/?utm_source=RSS",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072807",
+    "title": "人工智能聊天机器人隐私风险引关注 试验显示可推测用户敏感信息",
+    "description": "《纽约时报》记者试验发现，ChatGPT与Gemini能从未明确透露的对话中推断用户年龄、收入、健康状况等隐私信息。研究人员称这一能力加剧监视风险，科技公司或将其用于广告。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072807/zh-hl26072807-ai-chatbot-privacy-inferences.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072807/zh-hl26072807.png",
+    "image_alt": "一位用户正在手机上与聊天机器人对话，屏幕上显示隐私设置选项",
+    "keywords": [
+      "聊天机器人",
+      "隐私",
+      "人工智能",
+      "推断",
+      "广告"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "纽约时报中文",
+    "source_url": "https://cn.nytimes.com/technology/20260727/chatgpt-gemini-prompts-privacy/?utm_source=RSS",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072808",
+    "title": "特朗普伊朗困境凸显美军战略窘境：拥有压倒性武力却进退维谷",
+    "description": "特朗普在伊朗冲突中缺乏制胜战略，当前面临军事升级、经济施压或宣布胜利撤退三种选择。据《纽约时报》报道，冲突已持续五个月，美国民调支持率仅29%，霍尔木兹海峡航运几近停滞，全球能源市场承压，中国原油进口安全受潜在威胁。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072808/zh-hl26072808-trump-iran-dilemma-analysis.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072808/zh-hl26072808.png",
+    "image_alt": "美国总统特朗普在白宫椭圆形办公室召集国家安全团队讨论伊朗局势",
+    "keywords": [
+      "特朗普",
+      "伊朗冲突",
+      "军事升级",
+      "霍尔木兹海峡",
+      "原油价格",
+      "美国民调",
+      "委内瑞拉模式",
+      "核设施轰炸",
+      "中东局势",
+      "中国能源安全"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "纽约时报中文",
+    "source_url": "https://cn.nytimes.com/world/20260727/trump-trapped-in-iran-war/?utm_source=RSS",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072809",
+    "title": "美方威胁制裁中国AI企业 中方反指美企实施“蒸馏”并警告反制",
+    "description": "2026年7月27日，美国威胁因“蒸馏”技术制裁中国AI公司月之暗面，中国商务部反指美企同样使用该技术并警告将采取反制措施。事件凸显中美在人工智能领域的竞争加剧。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072809/zh-hl26072809-us-china-ai-sanctions-dispute.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072809/zh-hl26072809.png",
+    "image_alt": "一张人工智能芯片与数据流交织的图像，象征中美AI技术竞争",
+    "keywords": [
+      "中美AI竞争",
+      "蒸馏技术",
+      "月之暗面",
+      "Anthropic",
+      "制裁",
+      "实体清单"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "DW中文",
+    "source_url": "https://www.dw.com/zh/美国警告制裁中国ai公司-北京反控美企蒸馏模型并威胁反制/a-78133474?maca=chi-rss-chi-all-1127-xml-mrss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072810",
+    "title": "习近平同巴西总统卢拉通电话 强调支持巴西反对外来干涉",
+    "description": "中国国家主席习近平7月27日应约同巴西总统卢拉通电话，表示支持巴西反对外来干涉、维护主权独立。双方同意加快南方共同市场与中国自贸协定谈判，并加强金砖等多边平台合作。通话正值巴西10月大选前夕，前总统博索纳罗之子弗拉维奥将挑战卢拉。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072810/zh-hl26072810-xi-lula-phone-call-brazil.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072810/zh-hl26072810.png",
+    "image_alt": "习近平与巴西总统卢拉在2024年11月国事访问中握手的资料照片",
+    "keywords": [
+      "习近平",
+      "卢拉",
+      "巴西大选",
+      "反对外来干涉",
+      "中美关系"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "DW中文",
+    "source_url": "https://www.dw.com/zh/习近平与巴西总统卢拉通电话：反对外来干涉/a-78132320?maca=chi-rss-chi-all-1127-xml-mrss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072801",
+    "title": "香港前议员胡志伟入境英国风波平息 内政部改准其逗留",
+    "description": "前香港立法会议员胡志伟7月22日持BNO护照飞抵伦敦希斯罗机场，被英国边境部队扣留近10小时并一度拒绝入境。经交涉，英国内政部7月27日改变决定，准许其以一般访客身份逗留。胡志伟否认寻求政治庇护，称此行仅为探亲。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072801/zh-hl26072801-hong-kong-ex-lawmaker-wu.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072801/zh-hl26072801.png",
+    "image_alt": "胡志伟在伦敦希斯罗机场被扣留后获释，手持文件离开边境管制区",
+    "keywords": [
+      "胡志伟",
+      "香港",
+      "英国",
+      "BNO护照",
+      "入境风波",
+      "香港国安法",
+      "47人案",
+      "政治庇护"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/c70gzyjnj44o/trad?at_medium=RSS&at_campaign=rss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072802",
+    "title": "中国女童基因编辑治疗死亡事件引发科研伦理与监管争议",
+    "description": "2025年3月，中国一名6岁女童在交大附属新华医院接受实验性碱基编辑治疗后一周死亡。2026年7月《科学》杂志与撤稿观察披露事件，涉及动物实验安全信号隐瞒、知情同意书未列致命风险、论文未提死亡、家属承担86万美元费用未披露等多项争议。上海交通大学医学院已成立专项工作组调查，杨浦卫健委介入。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072802/zh-hl26072802-gene-editing-child-death.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072802/zh-hl26072802.png",
+    "image_alt": "基因编辑治疗争议示意图，显示DNA双螺旋和实验仪器",
+    "keywords": [
+      "基因编辑",
+      "伦理争议",
+      "儿童死亡",
+      "科研监管",
+      "碱基编辑",
+      "知情同意",
+      "贺建奎"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cjrv7vp8p53o/trad?at_medium=RSS&at_campaign=rss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
+    "article_id": "zh-hl26072803",
+    "title": "所罗门群岛中资金矿坍塌致多人死亡 凸显“淘金热”治理困境",
+    "description": "所罗门群岛中资控股的金岭金矿27日凌晨发生坍塌，当地媒体称至少10人死亡。中资公司否认人员伤亡。事故暴露非法采矿泛滥与资源治理短板。",
+    "url": "https://justnow.kr/zh/article/hl/zh-hl26072803/zh-hl26072803-solomon-gold-mine-collapse.html",
+    "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072803/zh-hl26072803.png",
+    "image_alt": "所罗门群岛金岭金矿全景资料图，中资企业运营，曾是该国经济命脉",
+    "keywords": [
+      "所罗门群岛",
+      "金矿坍塌",
+      "中资企业",
+      "非法采矿",
+      "资源治理"
+    ],
+    "category": "hl",
+    "date": "2026-07-28",
+    "source": "BBC中文",
+    "source_url": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad?at_medium=RSS&at_campaign=rss",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "zh"
+  },
+  {
     "article_id": "zh-kn26072701",
     "title": "AI经济学：技术富足不会终结人类 权力分配才是核心命题",
     "description": "面对AI带来的物质富足前景，经济学家徐瑾指出技术不会消除稀缺，只会将矛盾转向符号与地位竞争。权力分配、制度设计而非末日预言，才是决定未来的关键变量。",
@@ -299,7 +710,7 @@
   {
     "article_id": "zh-hl26072702",
     "title": "香港警方依法搜查独立书店 涉案书籍作者冯哲芸接受采访表震惊",
-    "description": "2026年7月15日，香港警方依法搜查“留下书舍”等独立书店，检走涉嫌煽动书籍《唯紅花綻放》等，拘捕5人。作者美国华裔记者冯哲芸在BBC专访中表示震惊，看到店员戴��手铐、身穿“我是书店店员”上衣的照片落泪。她称书籍内容温和，但承认议题敏感，并指出香港出版“灰色地带”已不存在。事件引发各界关注香港国安法实施后的出版环境。",
+    "description": "2026年7月15日，香港警方依法搜查“留下书舍”等独立书店，检走涉嫌煽动书籍《唯紅花綻放》等，拘捕5人。作者美国华裔记者冯哲芸在BBC专访中表示震惊，看到店员戴着手铐、身穿“我是书店店员”上衣的照片落泪。她称书籍内容温和，但承认议题敏感，并指出香港出版“灰色地带”已不存在。事件引发各界关注香港国安法实施后的出版环境。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072702/zh-hl26072702-hong-kong-bookstore-raid-author.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072702/zh-hl26072702.png",
     "image_alt": "冯哲芸女士与她的著作《唯紅花綻放：习近平时代的认同与归属》",
@@ -717,7 +1128,7 @@
   {
     "article_id": "zh-hl26072607",
     "title": "美沙核协议引发韩国不满：美国核政策双重标准凸显",
-    "description": "美沙核协议允许沙特未来进行铀浓缩，引发韩国强烈不满。韩方认为美国在核不扩散问题上长期实行双重标准：禁止盟国韩国铀浓缩，却对沙特松绑。此举可能动摇美韩同盟根基，并对朝鲜半岛无核化进程及中东核竞赛产生深远影响。中国作为核不扩散重要力量，需评估其对国际核秩序及自身利益的影响。",
+    "description": "美沙核协议允许沙特未来进行铀浓缩，引发韩国强烈不满。韩方认为美国在核不扩散问题上长期实行双重标准：禁止盟国韩国铀浓缩，却对沙特松绑。此举可能动摇美���同盟根基，并对朝鲜半岛无核化进程及中东核竞赛产生深远影响。中国作为核不扩散重要力量，需评估其对国际核秩序及自身利益的影响。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072607/zh-hl26072607-us-saudi-nuclear-deal-double.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072607/zh-hl26072607.png",
     "image_alt": "韩国庆州月城核电站附近海滩，摄于2022年。韩国核电产业规模位居世界前列。",
@@ -1047,7 +1458,7 @@
   },
   {
     "article_id": "zh-hl26072402",
-    "title": "香港前立法会议员胡志伟在伦敦希斯罗机场险遭遣返 经十余小时盘查后获准入境",
+    "title": "香港前立法会议员胡志���在伦敦希斯罗机场险遭遣返 经十余小时盘查后获准入境",
     "description": "香港前立法会议员胡志伟在伦敦希斯罗机场被英国边境部队扣留十余小时，拟遣返香港，后获准临时入境。事件发生在新任英国首相贝安德上任之际，引发对英对华政策的关注。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072402/zh-hl26072402-hu-zhiwei-uk-airport-detained.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072402/zh-hl26072402.png",
@@ -1791,7 +2202,7 @@
   {
     "article_id": "zh-hl26072204",
     "title": "亚洲年轻人热衷科技股投资 高回报伴随高风险",
-    "description": "受人工智能���潮推动，亚洲多国年轻人积极投资科技股，部分收益可观。但市场波动剧烈，韩国股市多次触发熔断。专家警告，散户需警惕估值重置风险，避免盲目跟风。",
+    "description": "受人工智能热潮推动，亚洲多国年轻人积极投资科技股，部分收益可观。但市场波动剧烈，韩国股市多次触发熔断。专家警告，散户需警惕估值重置风险，避免盲目跟风。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072204/zh-hl26072204-asian-youth-tech-stock-investment.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072204/zh-hl26072204.png",
     "image_alt": "亚洲年轻人通过手机应用查看科技股行情",
@@ -2288,7 +2699,7 @@
   {
     "article_id": "zh-hl26072110",
     "title": "欧盟以销售非法商品为由对全球速卖通处以5.5亿欧元罚款",
-    "description": "欧盟委员会7月20日宣布，因全球速卖通未能有效移除平台上的仿冒服装、不安全玩具及危险化妆品等非法商品，对其处以5.5亿欧元罚款。这是《数字服务法案》生效以来金额最高的罚单。欧委会指出，该平台行为危害消费者权益，并对合规商家构成不公平竞争。全球速卖通表示罚款“不合比例”，正考虑所有应对选项。",
+    "description": "欧盟委员会7月20日宣布，因全球速卖通未能有效移除平台上的仿冒服装、不安全玩具及危险化妆品等非法商品，对其处以5.5亿欧元罚款。这是《数字服务法案》生效以来金额最高的罚单。欧委会指出，该平台行为危害消费者权益，并��合规商家构成不公平竞争。全球速卖通表示罚款“不合比例”，正考虑所有应对选项。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072110/zh-hl26072110-eu-fines-aliexpress-550-million.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072110/zh-hl26072110.png",
     "image_alt": "全球速卖通（AliExpress）受到欧盟5.5亿欧元罚款",
@@ -2401,7 +2812,7 @@
   {
     "article_id": "zh-hl26072104",
     "title": "2026年美加墨世界杯落幕：扩军、争议与政治干预交织的足球盛宴",
-    "description": "2026年美加墨世界杯落幕，西班牙决赛击败阿根廷夺冠。本届赛事首次扩军至48队，总入场人数达652.7万人次创历史新高，但补水暂停、VAR判罚不统一及政治干预等争议持续发酵，引发对赛事未来走向的广��讨论。",
+    "description": "2026年美加墨世界杯落幕，西班牙决赛击败阿根廷夺冠。本届赛事首次扩军至48队，总入场人数达652.7万人次创历史新高，但补水暂停、VAR判罚不统一及政治干预等争议持续发酵，引发对赛事未来走向的广泛讨论。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072104/zh-hl26072104-2026-fifa-world-cup-review.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072104/zh-hl26072104.png",
     "image_alt": "2026年世界杯决赛现场，西班牙球员庆祝夺冠，背景为纽约新泽西体育场",
@@ -2426,7 +2837,7 @@
   {
     "article_id": "zh-kn26072001",
     "title": "中国市场失守，德国汽车业面临全盘危机",
-    "description": "2026年上半年，德国三���汽车集团在华销量跌至140万辆，创2017年以来新低。宝马、奔驰、大众二季度中国市场销量均下滑超30%，全球战略面临重塑。",
+    "description": "2026年上半年，德国三大汽车集团在华销量跌至140万辆，创2017年以来新低。宝马、奔驰、大众二季度中国市场销量均下滑超30%，全球战略面临重塑。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26072001/zh-kn26072001-german-auto-china-crisis.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26072001/zh-kn26072001.png",
     "image_alt": "德国汽车制造商在中国市场的销量数据图表",
@@ -2604,7 +3015,7 @@
   {
     "article_id": "zh-hl26072010",
     "title": "香港书展首日两书店遭搜查5人被捕 《唯红花绽放》意外热销引发身份认同讨论",
-    "description": "香港书展首日，两家独立书店遭搜查，5人涉煽动罪被捕。涉事图书《唯红花绽放：习近平时代的认同与归属》意外爆红，在台湾登上畅销榜首位，引发全球华人身份与归属议题讨论。",
+    "description": "香港书展首日，两家独立书店遭搜查，5人涉煽动罪被捕。涉事图书《唯红花绽放：习近平时代的认同与归属》意外爆红，在台湾登���畅销榜首位，引发全球华人身份与归属议题讨论。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072010/zh-hl26072010-hong-kong-book-fair-arrests.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072010/zh-hl26072010.png",
     "image_alt": "香港两家独立书店共5名员工7月15日被港警逮捕",
@@ -2739,7 +3150,7 @@
   {
     "article_id": "zh-hl26072003",
     "title": "厄瓜多尔罕见病群体为癌症预防提供关键线索",
-    "description": "厄瓜多尔一对身高不足1.2米的双胞胎姐妹患有莱伦氏症。长达22年的研究发现，约100名患者中仅出现一例非致命性癌症，而1600名正常身高亲���的癌症发病率高达17%，为癌症预防研究提供新方向。",
+    "description": "厄瓜多尔一对身高不足1.2米的双胞胎姐妹患有莱伦氏症。长达22年的研究发现，约100名患者中仅出现一例非致命性癌症，而1600名正常身高亲属的癌症发病率高达17%，为癌症预防研究提供新方向。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26072003/zh-hl26072003-rare-disease-cancer-prevention-clues.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26072003/zh-hl26072003.png",
     "image_alt": "厄瓜多尔莱伦氏症双胞胎姐妹玛丽亚·路易莎和玛丽亚·德尔·西斯内坐在沙发上",
@@ -3279,7 +3690,7 @@
   },
   {
     "article_id": "zh-kn26071801",
-    "title": "人工智能大会揭幕，中国宣布成立全球AI治理新机构",
+    "title": "人工智能大会揭���，中国宣布成立全球AI治理新机构",
     "description": "2026年人工智能大会在上海开幕，中国宣布成立世界人工智能合作组织，旨在提升在国际标准制定中的影响力。大会发布多项数据，显示中国AI产业规模突破万亿元。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26071801/zh-kn26071801-china-ai-governance-new-body.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26071801/zh-kn26071801.png",
@@ -3302,7 +3713,7 @@
   {
     "article_id": "zh-kn26071802",
     "title": "特朗普重提大选干预论 中期选举前加剧政治紧张",
-    "description": "特朗普在2026年中期选举前重提2020年大选干预论，加剧民众对选举公正性的怀疑，市场关注政治不确定性对经济政策稳定性的潜在影响。",
+    "description": "特朗普在2026年中期选举前重提2020年大选干预论，加剧民众对选举公正���的怀疑，市场关注政治不确定性对经济政策稳定性的潜在影响。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26071802/zh-kn26071802-trump-election-claims-2026.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26071802/zh-kn26071802.png",
     "image_alt": "特朗普在集会上发表讲话，背景是美国国旗",
@@ -3914,7 +4325,7 @@
     "description": "皮尤研究中心2026年调查显示，36国中25国对华好感度高于美国，为20多年来首次。受访者对习近平信心高于特朗普，中国被视为较少干涉他国内政。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26071702/zh-hl26071702-pew-china-favorability-surpasses-us.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26071702/zh-hl26071702.png",
-    "image_alt": "皮尤研究中心全球对华好感度调查图表",
+    "image_alt": "皮尤研究中心全��对华好感度调查图表",
     "keywords": [
       "皮尤研究中心",
       "中国好感度",
@@ -4226,7 +4637,7 @@
   {
     "article_id": "zh-hl26071307",
     "title": "“天问二号”成功抵达地球“准卫星”振荡天星 将实施采样返回任务",
-    "description": "中国国家航天局宣布，“天问二号”探测器经过400天航行，成功抵达距离地球约20公里的“准卫星”振荡天星，并拍摄首张详细照片。该小行星长约18米，形似岩石碎屑，将实施采样返回任务，有望成为全球第三个实现小行星采样的国家。",
+    "description": "中国国家航天局宣布，“天问二号”探测器经过400天航行，成功抵达距离地���约20公里的“准卫星”振荡天星，并拍摄首张详细照片。该小行星长约18米，形似岩石碎屑，将实施采样返回任务，有望成为全球第三个实现小行星采样的国家。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26071307/zh-hl26071307-tianwen-2-asteroid-kamo-oalewa.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26071307/zh-hl26071307.png",
     "image_alt": "“天问二号”探测器拍摄的小行星振荡天星首张详细照片，显示其尖锐不对称的岩石状结构",
@@ -4982,7 +5393,7 @@
   {
     "article_id": "zh-hl26071010",
     "title": "争议说唱歌手“侃爷”欧洲巡演遭多国封杀 阿尔巴尼亚仍执意邀演",
-    "description": "尽管因��犹和纳粹言论遭英法等多国封杀，阿尔巴尼亚仍坚持邀请美国说唱歌手Ye（曾用名侃爷）于2026年7月11日举办演唱会。总理拉马称此举将带来1亿欧元收入，但国内抗议浪潮不断。",
+    "description": "尽管因反犹和纳粹言论遭英法等多国封杀，阿尔巴尼亚仍坚持邀请美国说唱歌手Ye（曾用名侃爷）于2026年7月11日举办演唱会。总理拉马称此举将带来1亿欧元收入，但国内抗议浪潮不断。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26071010/zh-hl26071010-albania-welcomes-kanye-west-concert.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26071010/zh-hl26071010.png",
     "image_alt": "美国争议说唱歌手坎耶·韦斯特在舞台上表演",
@@ -5213,7 +5624,7 @@
   },
   {
     "article_id": "zh-hl26071005",
-    "title": "台湾拟收紧事后避孕药管制 引发女性焦虑与争议",
+    "title": "台湾拟收紧事后避孕药管制 引发女性���虑与争议",
     "description": "台湾食药署拟将部分事后避孕药纳入处方管理，引发女性对紧急避孕资源可及性的担忧。卫生官员相关言论及政策被批污名化女性，影响年轻、偏远地区及弱势群体。全球约90国已放宽限制，台湾政策走向备受关注。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26071005/zh-hl26071005-taiwan-emergency-contraception-restrictions.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26071005/zh-hl26071005.png",
@@ -6752,7 +7163,7 @@
   },
   {
     "article_id": "zh-hl26070610",
-    "title": "台军方恢复军校毕业生“反共爱国教育”课程 国防部称应对大陆威胁",
+    "title": "台军方恢复军校毕业生“反共爱国教育”课程 国防���称应对大陆威胁",
     "description": "台湾国防部7月5日宣布，自2026年起恢复军校毕业生“反共爱国教育”课程。该课程中断约24年后恢复，旨在应对中国大陆日益增长的军事威胁。课程涵盖两岸政策、中共对台军事威胁及认知作战等内容。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26070610/zh-hl26070610-taiwan-restores-anti-communist-education.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26070610/zh-hl26070610.png",
@@ -6844,7 +7255,7 @@
   {
     "article_id": "zh-hl26070603",
     "title": "美國舉行250週年慶典 特朗普稱「僅是黃金時代序幕」",
-    "description": "美國7月4日舉行建國250週年慶典，總統特��普在華盛頓國家廣場發表演講，稱「這僅是美國黃金時代的序幕」。活動因雷暴延遲，全美多地遭遇熱浪與大規模停電，約400名白人民族主義者現身首都遊行。",
+    "description": "美國7月4日舉行建國250週年慶典，總統特朗普在華盛頓國家廣場發表演講，稱「這僅是美國黃金時代的序幕」。活動因雷暴延遲，全美多地遭遇熱浪與大規模停電，約400名白人民族主義者現身首都遊行。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26070603/zh-hl26070603-us-250th-anniversary-trump-speech.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26070603/zh-hl26070603.png",
     "image_alt": "美國總統特朗普在華盛頓國家廣場出席建國250週年慶典並發表演講，現場煙花表演照亮夜空",
@@ -7052,7 +7463,7 @@
     "image_alt": "印度德里简塔曼塔天文台抗议现场，数百名青年在高温下扎营示威，高举“蟑螂人民党”旗帜",
     "keywords": [
       "印度抗议",
-      "蟑螂人民党",
+      "蟑���人民党",
       "NEET-UG泄题",
       "教育部长普拉丹",
       "青年运动"
@@ -7710,7 +8121,7 @@
   },
   {
     "article_id": "zh-kn26070301",
-    "title": "默克尔获颁欧洲功绩勋章后婉拒调解欧俄谈判 背后逻辑何在",
+    "title": "默克尔获颁欧洲功绩勋章后婉拒���解欧俄谈判 背后逻辑何在",
     "description": "2026年5月，德国前总理默克尔获颁首届欧洲功绩勋章。随后，她婉拒出任欧盟与俄罗斯谈判调解人。本文分析其执政16年应对欧债、乌克兰、难民及新冠危机的数据与影响，揭示其决策背后的政治逻辑。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26070301/zh-kn26070301-merkel-european-merit-medal-russia.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26070301/zh-kn26070301.png",
@@ -9002,7 +9413,7 @@
   {
     "article_id": "zh-kn26063003",
     "title": "科技牛市分化加剧：七成A股跑输3000点 投资者面临“卖出”终极考验",
-    "description": "中美科技牛市分化加���，A股近七成个股股价低于3000点水平，资金集中涌向光模块等AI赛道。投资者面临的最大考验并非买入时机，而是何时卖出。行为金融学分析揭示，卖出决策比买入更孤独，需克服损失厌恶与落袋为安双重心理陷阱。",
+    "description": "中美科技牛市分化加剧，A股近七成个股股价低于3000点水平，资金集中涌向光模块等AI赛道。投资者面临的最大考验并非买入时机，而是何时卖出。行为金融学分析揭示，卖出决策比买入更孤独，需克服损失厌恶与落袋为安双重心理陷阱。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26063003/zh-kn26063003-tech-bull-market-divergence-sell.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26063003/zh-kn26063003.png",
     "image_alt": "科技牛市分化趋势下A股与美股对比图",
@@ -10319,7 +10730,7 @@
   {
     "article_id": "zh-hl26062703",
     "title": "英王查尔斯与王后为何放弃迁入白金汉宫",
-    "description": "白金汉宫耗资3.69亿英镑翻修工程将于2027年完工，但英王查尔斯三世与王后卡米拉决定不入��，继续居住克拉伦斯宫。此举旨在让白金汉宫向公众更全面开放，并避免年近八旬的国王夫妇搬迁带来的变动。",
+    "description": "白金汉宫耗资3.69亿英镑翻修工程将于2027年完工，但英王查尔斯三世与王后卡米拉决定不入住，继续居住克拉伦斯宫。此举旨在让白金汉宫向公众更全面开放，并避免年近八旬的国王夫妇搬迁带来的变动。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26062703/zh-hl26062703-king-charles-avoids-buckingham-palace.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26062703/zh-hl26062703.png",
     "image_alt": "英王查尔斯三世与王后卡米拉在白金汉宫前合影",
@@ -10635,7 +11046,7 @@
   {
     "article_id": "zh-hl26062612",
     "title": "委内瑞拉连续发生两次强震 死亡人数恐超万人",
-    "description": "委内瑞拉6月24��发生连续两次强烈地震，规模分别为7.2级和7.5级，造成至少164人死亡、近千人受伤，全国进入紧急状态，死亡人数恐超万人。",
+    "description": "委内瑞拉6月24日发生连续两次强烈地震，规模分别为7.2级和7.5级，造成至少164人死亡、近千人受伤，全国进入紧急状态，死亡人数恐超万人。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26062612/zh-hl26062612-venezuela-earthquake-casualties-rise.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26062612/zh-hl26062612.png",
     "image_alt": "委内瑞拉地震后救援人员在废墟中搜寻幸存者",
@@ -10821,7 +11232,7 @@
     "description": "美国牵头的“硅和平”倡议新增欧盟、荷兰、德国、希腊等成员，旨在应对中国竞争，强化AI供应链安全。目前成员总数达24个，涵盖芯片、矿产、能源等领域。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26062505/zh-kn26062505-silicon-peace-initiative-expands.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26062505/zh-kn26062505.png",
-    "image_alt": "“硅和平”倡议峰会现场，多国代表合影，背景显示AI芯片与供应链安全标志",
+    "image_alt": "“硅和平”倡议峰会现场，��国代表合影，背景显示AI芯片与供应链安全标志",
     "keywords": [
       "硅和平倡议",
       "人工智能供应链",
@@ -10950,7 +11361,7 @@
   {
     "article_id": "zh-hl26062510",
     "title": "德国信息安全研究中心涉华合作遭调查 科研安全引发关注",
-    "description": "德国CISPA信息安全研究中心因涉嫌在人工智能与网络安全领域与中国开展合作，正接受独立调查。该机构负责人被��职，中德合作项目全面叫停。事件引发德国社会对科研安全与学术自由边界的广泛讨论。",
+    "description": "德国CISPA信息安全研究中心因涉嫌在人工智能与网络安全领域与中国开展合作，正接受独立调查。该机构负责人被停职，中德合作项目全面叫停。事件引发德国社会对科研安全与学术自由边界的广泛讨论。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26062510/zh-hl26062510-germany-cispa-china-research-investigation.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26062510/zh-hl26062510.png",
     "image_alt": "德国CISPA信息安全研究中心大楼外观",
@@ -14601,7 +15012,7 @@
   },
   {
     "article_id": "zh-hl26061601",
-    "title": "国民党主席郑丽文15天访美行程遭美方冷遇 未能进入白宫会晤国安会官员",
+    "title": "国民党主席郑丽文15天���美行程遭美方冷遇 未能进入白宫会晤国安会官员",
     "description": "国民党主席郑丽文结束15天访美行程，据台媒报道未能进入白宫会晤美国国家安全会议官员，仅获国务院科室官员接待，较以往惯例连降三级。分析人士指出，其政治资历不足及在美提出“第一岛链可为和平岛链”论述引发疑虑，导致美方采取冷处理。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26061601/zh-hl26061601-kuomintang-chairman-us-visit-snub.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26061601/zh-hl26061601.png",
@@ -14988,7 +15399,7 @@
   },
   {
     "article_id": "zh-hl26061506",
-    "title": "北爱尔兰爆发反移民暴力骚乱 当局呼吁保持克制",
+    "title": "北爱尔兰爆发反移民��力骚乱 当局呼吁保持克制",
     "description": "北爱尔兰贝尔法斯特近日爆发反移民暴力骚乱，起因于一名苏丹难民涉嫌持刀袭击当地男子。极右翼势力借机煽动反移民情绪，引发纵火、抢劫等暴力事件。当局已增派警力维持秩序，政治领导人呼吁民众保持克制。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26061506/zh-hl26061506-northern-ireland-anti-immigration-riots.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26061506/zh-hl26061506.png",
@@ -15059,7 +15470,7 @@
   },
   {
     "article_id": "zh-kn26061402",
-    "title": "巴���学者：中巴合作引领全球南方可持续发展新秩序",
+    "title": "巴西学者：中巴合作引领全球南方可持续发展新秩序",
     "description": "巴西学者卢卡斯·莫拉·维埃拉接受专访指出，中巴关系持续深化，不仅促进两国经济协同增长，更在全球南方共同发展中发挥引领作用，助力构建公平可持续的国际秩序。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26061402/zh-kn26061402-brazil-china-cooperation-global-south.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26061402/zh-kn26061402.png",
@@ -15674,7 +16085,7 @@
     "keywords": [
       "2026世界杯",
       "经济分析",
-      "���态定价",
+      "动态定价",
       "美加墨",
       "国际足联"
     ],
@@ -15914,7 +16325,7 @@
     "description": "瑞士《新苏黎世报》客座评论指出，伊朗战争为中国塑造“负责任大国”形象提供机遇，但经济风险犹存。德国《法兰克福汇报》则呼吁汽车业面对中国电动车竞争应“踩油门”而非“踩刹车”。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26061210/zh-hl26061210-iran-war-china-role-germany.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26061210/zh-hl26061210.png",
-    "image_alt": "伊朗战争背景下，中国国旗与伊朗国旗的象征性画面",
+    "image_alt": "伊朗战争背景下，中国国旗与伊���国旗的象征性画面",
     "keywords": [
       "伊朗战争",
       "中国",
@@ -16852,7 +17263,7 @@
   {
     "article_id": "zh-kn26060804",
     "title": "秘鲁学者纳雷亚：中拉港口合作应构建港口-内陆走廊一体化体系",
-    "description": "秘鲁学者奥马尔·纳雷亚接受专访，分析中美在拉美矿产与港口领域的竞争格局。他指出，中拉核心合作方向是共建港口-内陆走廊一体化体系，打通海运门户与内陆产业基地。钱凯港正整合智利、厄瓜多尔、秘鲁货运，构建区域航运走廊。",
+    "description": "秘鲁学者奥马尔·纳雷亚接受专访，分析中美在拉美矿产与港口领域的竞争格局。他指出，中拉核心合作方向是共建港口-内陆走廊一体化体系，打通海运门户与内陆产业基地。钱凯港正整合智利、厄瓜多尔、秘鲁货运，构��区域航运走廊。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26060804/zh-kn26060804-china-latin-america-port-cooperation.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26060804/zh-kn26060804.png",
     "image_alt": "秘鲁学者奥马尔·纳雷亚在中拉港口合作研讨会上发言",
@@ -17892,7 +18303,7 @@
     "keywords": [
       "贾樟柯",
       "女性角色",
-      "���涛",
+      "赵涛",
       "中国电影",
       "时代变迁"
     ],
@@ -18206,7 +18617,7 @@
   {
     "article_id": "zh-hl26060406",
     "title": "硅谷初创公司以“精子竞赛”应对男性生育力下降引关注",
-    "description": "美国旧金山一家生物科技初创公司“精子竞速”通过让人类精子在人工生殖系统中赛跑，宣称旨在提高对男性不育症的认识。该公司估值达5000万美元，其创始人��为青少年，但商业模式多次转型，引发对科技行业文化转型的思考。",
+    "description": "美国旧金山一家生物科技初创公司“精子竞速”通过让人类精子在人工生殖系统中赛跑，宣称旨在提高对男性不育症的认识。该公司估值达5000万美元，其创始人多为青少年，但商业模式多次转型，引发对科技行业文化转型的思考。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26060406/zh-hl26060406-silicon-valley-sperm-race-startup.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26060406/zh-hl26060406.png",
     "image_alt": "精子竞速公司办公室内，参赛者穿过的比赛服成为装饰",
@@ -18464,7 +18875,7 @@
     "description": "2026年6月3日，美军对伊朗格什姆岛发动自卫打击，伊朗随即用导弹和无人机攻击科威特与巴林目标，导致科威特机场受损、多人受伤，停火谈判陷入僵局。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26060404/zh-hl26060404-us-iran-strike-ceasefire-stalemate.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26060404/zh-hl26060404.png",
-    "image_alt": "美军公布悬博茨瓦纳国旗的M/T型油轮遭击中的影片截图",
+    "image_alt": "美军公布悬博茨瓦纳国旗的M/T型油轮遭击中的影片��图",
     "keywords": [
       "美伊冲突",
       "停火谈判",
@@ -18821,10 +19232,10 @@
   {
     "article_id": "zh-hl26060303",
     "title": "47摄氏度高温下“早晨和夜晚已不复存在”：印度最炎热地区的一天纪实",
-    "description": "印度北方邦班达地区连续8天遭遇47至48摄氏度极端高温，居民被迫调整作息，清晨开工、中午躲避、夜晚难眠。气候变化与生态破坏加剧生存危机，户外工作者面临严峻考验。",
+    "description": "印度北方邦班达地区连续8天遭遇47至48摄氏度极端高温，居民被迫调整作息，清晨开工、中午躲避、夜晚难眠。气候变化与生态破坏加剧生存危机，户外工作者面临严���考验。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26060303/zh-hl26060303-india-heatwave-banda-47-degrees.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26060303/zh-hl26060303.png",
-    "image_alt": "印度班达地区高温下，道路工人蹲在运水车下躲��烈日",
+    "image_alt": "印度班达地区高温下，道路工人蹲在运水车下躲避烈日",
     "keywords": [
       "印度高温",
       "极端天气",
@@ -19128,7 +19539,7 @@
   {
     "article_id": "zh-hl26060301",
     "title": "分析：美伊停火僵局持续 特朗普深陷战争泥潭 伊朗拒绝让步",
-    "description": "美伊自4月8日停火以来谈判陷入僵局。特朗普政府面临国内反战压力及以色列单边行动掣肘，伊朗拒绝在核心利益上让步，霍爾木茲海峽持续封锁致全球约20%油气供应中断。分析指双方误判形势，战争后果正外溢至全球。",
+    "description": "美伊自4月8日停火以来谈判陷入僵局。特朗普政府面临国内反战压力及以色列单边行动掣肘，伊朗拒绝在核心利益上让步，霍爾木茲海峽持续封锁致全球约20%油气供应中断。分析指双方误判形势，战争后��正外溢至全球。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26060301/zh-hl26060301-us-iran-ceasefire-stalemate-analysis.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26060301/zh-hl26060301.png",
     "image_alt": "霍爾木茲海峽航運幾乎完全停滯，油輪稀疏停泊在港口",
@@ -19448,7 +19859,7 @@
   {
     "article_id": "zh-kn26053101",
     "title": "《给阿嬷的情书》票房与情感共鸣：为何观众泪洒影院？",
-    "description": "截至2026年5月底，《给阿嬷的情书》票房突破8.2亿元，观影人次超2500万。分析显示，影片通过潮汕文化、侨批历史与真挚情感，激发观众对家庭、爱情和乡愁的集体共鸣，成为年度情感类电影标杆。",
+    "description": "截至2026年5月底，《给阿嬷的情书》票房突破8.2亿元，观影人次超2500万。分析显示，影片��过潮汕文化、侨批历史与真挚情感，激发观众对家庭、爱情和乡愁的集体共鸣，成为年度情感类电影标杆。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26053101/zh-kn26053101-letter-to-grandma-emotional-box.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26053101/zh-kn26053101.png",
     "image_alt": "《给阿嬷的情书》剧照，展现潮汕阿嬷与年轻时代的爱情故事",
@@ -19996,7 +20407,7 @@
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26053108/zh-hl26053108.png",
     "image_alt": "美联储大楼外景，象征美国货币政策决策中心",
     "keywords": [
-      "美国通胀",
+      "美��通胀",
       "美联储加息",
       "个人消费支出指数",
       "核心通胀",
@@ -20621,7 +21032,7 @@
   },
   {
     "article_id": "zh-kn26052904",
-    "title": "先正达CEO驳斥美方审查：在华资背景下无“险恶”意图",
+    "title": "先正达CEO驳斥美方审查：在华资背景下无��险恶”意图",
     "description": "先正达首席执行官洛文杰表示，公司在美国无“险恶”意图，呼吁农业超脱政治。该公司因中资背景遭美审查，2023年被迫剥离阿肯色州农田。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26052904/zh-kn26052904-syngenta-ceo-rejects-us-scrutiny.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26052904/zh-kn26052904.png",
@@ -20955,7 +21366,7 @@
   {
     "article_id": "zh-kn26052803",
     "title": "地球工程能否避免气候灾难？科学家提出白令海峡筑坝方案",
-    "description": "荷兰科学家提出在白令海峡修建85公里水坝以稳定洋流，这一地球工程方案引发气候学界争议，凸显应对气候变化极端措施的迫切性与潜在风险。",
+    "description": "荷兰科学家提出在白令海峡修建85公里��坝以稳定洋流，这一地球工程方案引发气候学界争议，凸显应对气候变化极端措施的迫切性与潜在风险。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26052803/zh-kn26052803-geoengineering-climate-disaster-bering-strait.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26052803/zh-kn26052803.png",
     "image_alt": "白令海峡地图与筑坝方案示意图",
@@ -21598,7 +22009,7 @@
     "image_alt": "美国宪法签署场景画作，展现制宪会议历史时刻",
     "keywords": [
       "美国宪法",
-      "���朗普",
+      "特朗普",
       "制宪者",
       "总统权力",
       "弹劾机制"
@@ -22233,7 +22644,7 @@
   {
     "article_id": "zh-kn26052302",
     "title": "AI投资热潮暗藏风险：风险转嫁散户与养老基金",
-    "description": "本文分析当前AI投资热潮，指出其规模远超1990年代互联网泡沫。专家警告，AI巨头IPO可能将风险转嫁给散户和养老基金，市场存���非理性繁荣迹象。2025年美国IT投资达1.5万亿美元。",
+    "description": "本文分析当前AI投资热潮，指出其规模远超1990年代互联网泡沫。专家警告，AI巨头IPO可能将风险转嫁给散户和养老基金，市场存在非理性繁荣迹象。2025年美国IT投资达1.5万亿美元。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26052302/zh-kn26052302-ai-investment-boom-risk-analysis.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26052302/zh-kn26052302.png",
     "image_alt": "人工智能投资热潮图表显示市场增长与风险警示",
@@ -22545,7 +22956,7 @@
     "description": "据FT中文网报道，AI聊天机器人如ChatGPT能以假乱真欺骗人类。分析其机制：缺乏真实意图但善于模仿可信语言，2026年已引发信任危机与监管讨论。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26051803/zh-kn26051803-ai-chatbot-deception-analysis.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26051803/zh-kn26051803.png",
-    "image_alt": "AI聊天机器人界面与人类用户交互的示���图",
+    "image_alt": "AI聊天机器人界面与人类用户交互的示意图",
     "keywords": [
       "AI聊天机器人",
       "欺骗",
@@ -22567,7 +22978,7 @@
     "description": "据外交人士透露，沙特正探讨与伊朗签署互不侵犯条约，以应对美以打击伊朗后美国可能缩减军事存在带来的安全真空。该构想借鉴1970年代缓和欧洲紧张的赫尔辛基进程，目前仍处于初步磋商阶段。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26051804/zh-kn26051804-saudi-iran-non-aggression-treaty.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26051804/zh-kn26051804.png",
-    "image_alt": "沙特阿拉���和伊朗国旗并排摆放，象征两国关系缓和",
+    "image_alt": "沙特阿拉伯和伊朗国旗并排摆放，象征两国关系缓和",
     "keywords": [
       "沙特阿拉伯",
       "伊朗",
@@ -23185,7 +23596,7 @@
   {
     "article_id": "zh-hl26052609",
     "title": "德语媒体：特朗普绕不开中国 普京离不开中国 北京加速构建全球权力新格局",
-    "description": "2026年5月25日，德国《日报》与《法兰克福汇报》评论称，美国总统特朗普与俄罗斯总统普京近期相继访华，凸显中国正快速崛起为全球权力中心。评论指出，特朗普的反复无常与欧洲的被动观望加速了这一进程，中俄联手与美国混乱的局势下，北京正积极构建有利于自身的世界格局。",
+    "description": "2026年5月25日，德国《日报》与《法兰克福汇报》评论称，美国总统特朗普与俄罗斯总统普京近期相继访华，凸显��国正快速崛起为全球权力中心。评论指出，特朗普的反复无常与欧洲的被动观望加速了这一进程，中俄联手与美国混乱的局势下，北京正积极构建有利于自身的世界格局。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26052609/zh-hl26052609-german-media-china-power-center.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26052609/zh-hl26052609.png",
     "image_alt": "美国总统特朗普与俄罗斯总统普京先后访问北京，中国国家主席习近平出席欢迎仪式",
@@ -23804,7 +24215,7 @@
     "description": "距2026年世界杯开幕仅数周，美国多地主办城市酒店入住率远低于预期。美国酒店与住宿协会报告指出，FIFA大规模预订后又取消客房，人为制造需求假象，导致市场供过于求。高昂门票、交通成本及政治环境等因素令海外球迷却步，盛事经济面临泡汤风险。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26052402/zh-hl26052402-2026-world-cup-us-hotel.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26052402/zh-hl26052402.png",
-    "image_alt": "2026年世界杯足球赛场���外景，美国主办城市之一，Getty Images图片",
+    "image_alt": "2026年世界杯足球赛场馆外景，美国主办城市之一，Getty Images图片",
     "keywords": [
       "2026年世界杯",
       "美国酒店业",
@@ -23940,7 +24351,7 @@
   {
     "article_id": "zh-hl26052309",
     "title": "德语媒体：昔日“老大哥”沦为“乞讨小弟” 中俄关系深度失衡",
-    "description": "2026年5月22日，德国《日报》等媒体评论指出，受乌克兰战争和西方制裁影响，俄罗斯在经济、外交和军事上深度��赖中国，昔日“老大哥”沦为“乞讨小弟”。中俄平等伙伴关系被指为“神话”，北京已成为莫斯科不可或缺的后盾。",
+    "description": "2026年5月22日，德国《日报》等媒体评论指出，受乌克兰战争和西方制裁影响，俄罗斯在经济、外交和军事上深度依赖中国，昔日“老大哥”沦为“乞讨小弟”。中俄平等伙伴关系被指为“神话”，北京已成为莫斯科不可或缺的后盾。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26052309/zh-hl26052309-german-media-russia-china-dependence.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26052309/zh-hl26052309.png",
     "image_alt": "俄罗斯总统普京与中国国家主席习近平在北京会晤的新闻图片",
@@ -24140,7 +24551,7 @@
     ],
     "category": "hl",
     "date": "2026-05-27",
-    "source": "纽约时报中文",
+    "source": "纽约时报��文",
     "source_url": "https://cn.nytimes.com/health/20260522/mangoes-health-benefits-recipes/?utm_source=RSS",
     "quality_score": 70,
     "translate_of": null,
@@ -24251,7 +24662,7 @@
     "category": "hl",
     "date": "2026-05-27",
     "source": "DW中文",
-    "source_url": "https://www.dw.com/zh/德国警方逮���一对涉嫌为中国从事间谍活动的夫妻/a-77229948?maca=chi-rss-chi-all-1127-xml-mrss",
+    "source_url": "https://www.dw.com/zh/德国警方逮捕一对涉嫌为中国从事间谍活动的夫妻/a-77229948?maca=chi-rss-chi-all-1127-xml-mrss",
     "quality_score": 70,
     "translate_of": null,
     "lang": "zh"
@@ -24553,7 +24964,7 @@
   {
     "article_id": "zh-hl26052103",
     "title": "特朗普普京一周内先后访华 北京外交展现双重姿态",
-    "description": "2026年5月13日至20日，美国总统特朗普与俄罗斯总统普京先后访问北京。中国���不同规格接待两位领导人，展现其在美俄之间的平衡外交策略。特朗普访华强调仪式感，普京访华则突出战略伙伴关系。",
+    "description": "2026年5月13日至20日，美国总统特朗普与俄罗斯总统普京先后访问北京。中国以不同规格接待两位领导人，展现其在美俄之间的平衡外交策略。特朗普访华强调仪式感，普京访华则突出战略伙伴关系。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26052103/zh-hl26052103-trump-putin-china-visit-diplomacy.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26052103/zh-hl26052103.png",
     "image_alt": "中国国家主席习近平在北京人民大会堂与俄罗斯总统普京握手",
@@ -24806,7 +25217,7 @@
   {
     "article_id": "zh-hl26052007",
     "title": "研究揭示威权统治“平庸之恶”：基层打工人成权力巩固关键力量",
-    "description": "新研究揭示，威权统治者依赖受挫的平庸基层人员执行巩固权力的肮脏工作。以阿根廷“肮脏战争”为例，职业压力与晋升渴望驱使普通官员违背道德。该发现对全球民主稳定性具有警示意义，包括美国。",
+    "description": "新研究揭示，威权统治者依赖受挫的平庸基层人员执行巩固权力的肮脏工作。以阿根廷“肮脏战争”为例，职业压力与晋升渴��驱使普通官员违背道德。该发现对全球民主稳定性具有警示意义，包括美国。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26052007/zh-hl26052007-mediocrity-and-authoritarian-rule.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26052007/zh-hl26052007.png",
     "image_alt": "1982年阿根廷“肮脏战争”期间，安全部队在布宜诺斯艾利斯街头抓捕一名青年",
@@ -24850,7 +25261,7 @@
   {
     "article_id": "zh-hl26051911",
     "title": "台湾地区外事部门负责人现身世卫大会场边 中方批“蹭会”刷存在感",
-    "description": "2026年5月17日，台湾地区外事部门负责人林佳龙及卫福部门负责人石崇良抵达瑞士日内瓦，试图参与世界卫生大会场边活动。中方外交部发言人郭嘉昆18日明确表示反对，批评其为“蹭会���刷存在感，强调一个中国原则是国际社会普遍共识。",
+    "description": "2026年5月17日，台湾地区外事部门负责人林佳龙及卫福部门负责人石崇良抵达瑞士日内瓦，试图参与世界卫生大会场边活动。中方外交部发言人郭嘉昆18日明确表示反对，批评其为“蹭会”刷存在感，强调一个中国原则是国际社会普遍共识。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26051911/zh-hl26051911-taiwan-wha-geneva-china-response.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26051911/zh-hl26051911.png",
     "image_alt": "世界卫生组织日内瓦总部外景，2026年世界卫生大会会场",
@@ -25582,7 +25993,7 @@
   {
     "article_id": "zh-hl26051711",
     "title": "特朗普明确表态“不希望台湾独立” 台当局重申“主权独立”立场",
-    "description": "中美峰会结束后，美国总统特朗普5月15日明确表示不希望看到台湾走向独立，并将对台军售称��“很好的谈判筹码”。台湾当局迅速回应，重申“中华民国主权独立”立场。分析人士指出，此举表明美方在台湾问题上的模糊空间正被压缩。",
+    "description": "中美峰会结束后，美国总统特朗普5月15日明确表示不希望看到台湾走向独立，并将对台军售称为“很好的谈判筹码”。台湾当局迅速回应，重申“中华民国主权独立”立场。分析人士指出，此举表明美方在台湾问题上的模糊空间正被压缩。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26051711/zh-hl26051711-trump-taiwan-independence-arms-sales.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26051711/zh-hl26051711.png",
     "image_alt": "美国总统特朗普结束访华行程，在专机舷梯上挥手告别",
@@ -26187,7 +26598,7 @@
   {
     "article_id": "zh-hl26051509",
     "title": "德媒评特朗普访华：华盛顿掌舵人成中国最佳帮手",
-    "description": "德国《商报》与《时代》周报发表评论指出，美国总统��朗普对内打击异己、对外无视国际法，其政策削弱了美国全球影响力，客观上成为中国在地缘政治博弈中的“最佳助手”。",
+    "description": "德国《商报》与《时代》周报发表评论指出，美国总统特朗普对内打击异己、对外无视国际法，其政策削弱了美国全球影响力，客观上成为中国在地缘政治博弈中的“最佳助手”。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26051509/zh-hl26051509-trump-china-best-helper-german.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26051509/zh-hl26051509.png",
     "image_alt": "美国总统特朗普与中国国家主席习近平在人民大会堂会晤",
@@ -26490,7 +26901,7 @@
   {
     "article_id": "zh-hl26051401",
     "title": "特朗普再度访华：直面更强势崛起的中国 专家称北京为美史上最强对手",
-    "description": "美国总统特朗普于2026年5月13日再次访华，与习近平主席会晤。此行面临贸易、科技、台湾及伊朗等多重议题。分析称���中国已今非昔比，成为美国历史上遭遇的最强大竞争对手。",
+    "description": "美国总统特朗普于2026年5月13日再次访华，与习近平主席会晤。此行面临贸易、科技、台湾及伊朗等多重议题。分析称，中国已今非昔比，成为美国历史上遭遇的最强大竞争对手。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26051401/zh-hl26051401-trump-visits-china-2026.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26051401/zh-hl26051401.png",
     "image_alt": "美国总统特朗普与习近平主席在人民大会堂会晤的档案照片",
@@ -26514,7 +26925,7 @@
   {
     "article_id": "zh-hl26051402",
     "title": "特朗普抵京开启国事访问 黄仁勋马斯克等十余位美企高管随行",
-    "description": "美国总统一行于5月13日抵达北京，英伟达、苹果、特斯拉等十余家美企高管随行。英伟达CEO黄仁勋在专机经停阿拉斯加时临时受邀登机。此行将聚焦贸易、科技、伊朗等议题，是近九年来美国总统首次访华。",
+    "description": "美国总统一行于5月13日抵达北京，���伟达、苹果、特斯拉等十余家美企高管随行。英伟达CEO黄仁勋在专机经停阿拉斯加时临时受邀登机。此行将聚焦贸易、科技、伊朗等议题，是近九年来美国总统首次访华。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26051402/zh-hl26051402-trump-visits-china-with-business.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26051402/zh-hl26051402.png",
     "image_alt": "美国总统特朗普与中国国家主席习近平握手，背景为北京人民大会堂",
@@ -27117,7 +27528,7 @@
   {
     "article_id": "zh-kn26051201",
     "title": "特朗普访华在即：中美科技关系进入“分层停火”新阶段",
-    "description": "特朗普访华前���，FT中文网专栏作家陈亮分析称，中美科技竞争已从全面失控转向精细化管控的分层停火阶段，双方在敏感领域维持高压，在非敏感领域寻求有限流动。",
+    "description": "特朗普访华前夕，FT中文网专栏作家陈亮分析称，中美科技竞争已从全面失控转向精细化管控的分层停火阶段，双方在敏感领域维持高压，在非敏感领域寻求有限流动。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26051201/zh-kn26051201-us-china-tech-truce-layered.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26051201/zh-kn26051201.png",
     "image_alt": "中美科技关系分层停火概念图",
@@ -28170,7 +28581,7 @@
   {
     "article_id": "zh-hl26051002",
     "title": "BBC调查：约2300名朝鲜士兵在俄乌战争中阵亡",
-    "description": "BBC调查发现，约2300名朝鲜士兵在库尔斯克地区为俄军作战时阵亡。平壤新建纪念墙刻有2304个名字，韩国情报机构估计伤亡总数已超6000人。",
+    "description": "BBC调查发现，约2300名朝鲜士兵在库���斯克地区为俄军作战时阵亡。平壤新建纪念墙刻有2304个名字，韩国情报机构估计伤亡总数已超6000人。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26051002/zh-hl26051002-bbc-investigation-north-korea-casualties.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26051002/zh-hl26051002.png",
     "image_alt": "朝鲜平壤新建的海外军事行动战斗功勋纪念馆纪念墙，刻有阵亡士兵姓名",
@@ -28839,7 +29250,7 @@
   {
     "article_id": "zh-hl26050701",
     "title": "伊朗外长阿拉格齐访华 王毅呼吁“尽快”重开霍尔木兹海峡",
-    "description": "中国外长王毅5月6日在北京会见伊朗外长阿拉格齐，呼吁尽快重开霍尔木兹海峡。这是美伊战争爆发以来伊朗外长首次访华，双方就地区局势、能源安全及双边合作深入交换意见。",
+    "description": "中国外长王毅5月6日在北京会见伊朗外长阿拉格齐，呼吁尽快重开霍尔木兹海峡。这是美伊战争爆发以来伊朗外长���次访华，双方就地区局势、能源安全及双边合作深入交换意见。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26050701/zh-hl26050701-iran-foreign-minister-visits-china.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26050701/zh-hl26050701.png",
     "image_alt": "中国外长王毅在北京会见伊朗外长阿巴斯·阿拉格齐，双方举行会谈",
@@ -28956,7 +29367,7 @@
     "description": "英国威雅公学宣布关闭南京分校，反映国际教育机构在华扩张遇阻。政策监管加强与本土教育崛起导致生源不足，标志外资教育品牌黄金时代落幕。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26050102/zh-kn26050102-uk-school-closes-china-campus.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26050102/zh-kn26050102.png",
-    "image_alt": "南京���雅学校空荡校园全景图",
+    "image_alt": "南京威雅学校空荡校园全景图",
     "keywords": [
       "国际学校",
       "威雅公学",
@@ -29591,7 +30002,7 @@
   {
     "article_id": "zh-hl26043006",
     "title": "马斯克起诉OpenAI违反创始协议 硅谷人工智能伦理之争进入法庭阶段",
-    "description": "2026年4月，特斯���CEO埃隆·马斯克在加州奥克兰联邦法院起诉OpenAI及其CEO山姆·奥尔特曼，指控其违背开源承诺不当获利数十亿美元。此案揭示了人工智能行业发展与伦理监管的深层矛盾。",
+    "description": "2026年4月，特斯拉CEO埃隆·马斯克在加州奥克兰联邦法院起诉OpenAI及其CEO山姆·奥尔特曼，指控其违背开源承诺不当获利数十亿美元。此案揭示了人工智能行业发展与伦理监管的深层矛盾。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26043006/zh-hl26043006-musk-sues-openai-profit.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26043006/zh-hl26043006.png",
     "image_alt": "埃隆·马斯克和山姆·奥尔特曼在法庭外的资料照片",
@@ -30537,7 +30948,7 @@
   },
   {
     "article_id": "zh-hl26050913",
-    "title": "前《光明日��》记者董郁玉被曝健康恶化 家属呼吁保外就医",
+    "title": "前《光明日报》记者董郁玉被曝健康恶化 家属呼吁保外就医",
     "description": "前《光明日报》评论部副主任董郁玉被曝在狱中健康恶化，家属称其面临死亡判决，呼吁当局允许其保外就医。董郁玉2022年因间谍罪被捕，2024年被判7年监禁。其家人希望美国总统特朗普下周访华时与中方讨论此案。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26050913/zh-hl26050913-dong-yu-yu-health-deterioration.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26050913/zh-hl26050913.png",
@@ -31741,7 +32152,7 @@
   {
     "article_id": "zh-hl26042302",
     "title": "中国消费品牌全球化浪潮：火锅奶茶运动服引领新出海时代",
-    "description": "2026��中国消费品牌加速出海，海底捞、蜜雪冰城、安踏等企业在全球100多个国家设立门店，展现从“制造出海”到“品牌出海”的战略转型。",
+    "description": "2026年中国消费品牌加速出海，海底捞、蜜雪冰城、安踏等企业在全球100多个国家设立门店，展现从“制造出海”到“品牌出海”的战略转型。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26042302/zh-hl26042302-chinese-brands-global-expansion.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26042302/zh-hl26042302.png",
     "image_alt": "中国品牌海外门店顾客排队场景",
@@ -32380,7 +32791,7 @@
   {
     "article_id": "zh-hl26042112",
     "title": "巴西总统卢拉在德国批评美国单边主义 呼吁联合国安理会改革",
-    "description": "巴西总统卢拉2026年4月20日在德国汉诺威工业博览会开幕���批评美国前总统特朗普的战争威胁政策，质疑联合国安理会未能维护世界和平，并指出全球军费开支达2.7万亿美元而数十亿人仍面临基本生存危机。",
+    "description": "巴西总统卢拉2026年4月20日在德国汉诺威工业博览会开幕式批评美国前总统特朗普的战争威胁政策，质疑联合国安理会未能维护世界和平，并指出全球军费开支达2.7万亿美元而数十亿人仍面临基本生存危机。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26042112/zh-hl26042112-lula-criticizes-us-policy-un.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26042112/zh-hl26042112.png",
     "image_alt": "巴西总统卢拉与德国总理默茨在汉诺威工业博览会开幕式上共同出席活动",
@@ -32468,7 +32879,7 @@
   {
     "article_id": "zh-hl26042105",
     "title": "伊朗强硬派议员宣称永不放弃霍尔木兹海峡控制权",
-    "description": "伊朗国会国家安全委员会主席阿齐兹表示，德黑兰将通过立法形式永久掌控霍尔木兹海峡通行权。该战略水道每日承担全球21%石油运输，新法案可能加剧地区紧张局势。",
+    "description": "伊朗国会国家安全委员会主席阿齐兹表示，德黑兰���通过立法形式永久掌控霍尔木兹海峡通行权。该战略水道每日承担全球21%石油运输，新法案可能加剧地区紧张局势。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26042105/zh-hl26042105-iran-strait-control-claim.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26042105/zh-hl26042105.png",
     "image_alt": "伊朗议员在德黑兰接受采访谈论霍尔木兹海峡控制权",
@@ -32781,7 +33192,7 @@
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26042008/zh-hl26042008.png",
     "image_alt": "伊朗霍尔木兹海峡地理位置示意图及油轮通航情况",
     "keywords": [
-      "美伊关系",
+      "美��关系",
       "霍尔木兹海峡",
       "石油贸易",
       "伊朗核问题",
@@ -33615,7 +34026,7 @@
     "description": "国际人权组织2026年报告显示，中国天主教徒在梵中协议签署后面临更大压力。该组织呼吁教宗审视协议，中方表示始终坚持宗教信仰自由政策。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26041812/zh-hl26041812-china-vatican-agreement-religious-freedom.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26041812/zh-hl26041812.png",
-    "image_alt": "中国天主教教堂内部宗教活动场景",
+    "image_alt": "中国天主���教堂内部宗教活动场景",
     "keywords": [
       "人权观察",
       "中国天主教",
@@ -34252,7 +34663,7 @@
   {
     "article_id": "zh-hl26041702",
     "title": "美军封锁霍尔木兹海峡首日 中方货轮尝试通过后折返",
-    "description": "2026年4月13日美军对伊朗实施海上封锁后，中国公司拥有的\"富星号\"货轮尝试通过霍尔木兹海峡时被美军拦截折返。事件引发中方对美方封锁行动的批评，地区紧张局势持续升温。",
+    "description": "2026年4月13日美军对伊朗实施海上封锁后，中国公司拥有的\"富星号\"货轮尝试通过霍尔木��海峡时被美军拦截折返。事件引发中方对美方封锁行动的批评，地区紧张局势持续升温。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26041702/zh-hl26041702-us-blockade-hormuz-china-ship.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26041702/zh-hl26041702.png",
     "image_alt": "霍尔木兹海峡地理位置示意图及货轮通航画面",
@@ -35242,7 +35653,7 @@
   {
     "article_id": "zh-hl26041011",
     "title": "以色列对黎巴嫩发动大规模空袭 伊朗关闭霍尔木兹海峡反制",
-    "description": "以色列4月8日对黎巴嫩发动百处目标空袭，造成254人死亡。伊朗随即关闭霍尔木兹海峡，美伊停火协议濒临破裂，国际社会呼吁克制。",
+    "description": "以色列4月8日对黎巴嫩发动百处目标空袭，造成254人死亡。伊朗随���关闭霍尔木兹海峡，美伊停火协议濒临破裂，国际社会呼吁克制。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26041011/zh-hl26041011-israel-lebanon-iran-strait-closure.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26041011/zh-hl26041011.png",
     "image_alt": "黎巴嫩救援人员在空袭废墟中搜寻幸存者",
@@ -35747,7 +36158,7 @@
   },
   {
     "article_id": "zh-kn26040801",
-    "title": "中国竞逐《公海条约》主办权，争夺全球海洋治理话语权",
+    "title": "中国竞逐《公海条约》主办权，争���全球海洋治理话语权",
     "description": "中国正加紧在联合国游说争取主办《公海条约》机构，拟成为首个主办该机构的亚太国家。此举将增强中国在全球海洋治理领域的话语权，并对海洋保护与资源开发产生深远影响。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26040801/zh-kn26040801-china-high-seas-treaty-bid.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26040801/zh-kn26040801.png",
@@ -35770,7 +36181,7 @@
   {
     "article_id": "zh-kn26040802",
     "title": "逸文科技以隐私保护策略挑战Meta，智能眼镜市场迎来分水岭时刻",
-    "description": "深圳逸文科技推出不配备摄像头的智能眼镜，仅收集最低限度数据，直接回应Meta此前涉及用户隐私争议的事件，预示消费级智能穿戴设备市场将迎来隐私保护与数据收集的路线分野。",
+    "description": "深圳逸文科技推出不配备摄像头的智能眼镜，仅收集最低限度数据，直接回应Meta此前涉及用户隐私争议的事件，预示消费级智能穿戴设备市场将迎来隐私保护与���据收集的路线分野。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26040802/zh-kn26040802-smart-glasses-privacy-market-shift.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26040802/zh-kn26040802.png",
     "image_alt": "逸文科技智能眼镜产品展示与隐私保护技术示意图",
@@ -36210,7 +36621,7 @@
   {
     "article_id": "zh-hl26040708",
     "title": "霍尔木兹海峡航运恢复面临多重挑战 全球供应链修复需历时数月",
-    "description": "2026年伊朗战争导致霍尔木兹海峡关闭对全球供应链造成严重冲击。专家预计航运���全恢复需要数周至数月，能源和化肥生产重启面临技术挑战，将对全球经济产生持续影响。",
+    "description": "2026年伊朗战争导致霍尔木兹海峡关闭对全球供应链造成严重冲击。专家预计航运完全恢复需要数周至数月，能源和化肥生产重启面临技术挑战，将对全球经济产生持续影响。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26040708/zh-hl26040708-hormuz-strait-supply-chain-recovery.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26040708/zh-hl26040708.png",
     "image_alt": "霍尔木兹海峡海域船舶通行情况示意图",
@@ -36848,7 +37259,7 @@
   },
   {
     "article_id": "zh-hl26040402",
-    "title": "马克龙严辞批评特朗普伊朗政策 强��战争决策需严肃审慎",
+    "title": "马克龙严辞批评特朗普伊朗政策 强调战争决策需严肃审慎",
     "description": "法国总统马克龙2026年4月3日批评特朗普政府对伊朗战争处理方式，指出每日矛盾言论加剧地区不稳定，强调战争与和平问题需要严肃对待而非表演。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26040402/zh-hl26040402-macron-criticizes-trump-iran-policy.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26040402/zh-hl26040402.png",
@@ -37033,7 +37444,7 @@
       "马克龙",
       "李在明",
       "防务合作",
-      "能源安全",
+      "能���安全",
       "霍尔木兹海峡"
     ],
     "category": "hl",
@@ -37157,7 +37568,7 @@
   {
     "article_id": "zh-kn26040302",
     "title": "全球贸易2025年逆势增长3.2%，人工智能出口成新引擎",
-    "description": "2025年全球贸���额增长3.2%超越全球经济增速，人工智能相关出口同比激增40%，中美贸易流向重构，印度对美智能手机出口爆发式增长。",
+    "description": "2025年全球贸易额增长3.2%超越全球经济增速，人工智能相关出口同比激增40%，中美贸易流向重构，印度对美智能手机出口爆发式增长。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26040302/zh-kn26040302-global-trade-2025-ai-exports.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26040302/zh-kn26040302.png",
     "image_alt": "2025年全球贸易数据可视化图表显示人工智能出口增长趋势",
@@ -37468,7 +37879,7 @@
     "description": "央视发布AI生成武侠风格动画短片，将中东地缘政治重构为传统武侠故事，展现美国战略困境与中国和平崛起理念，视频获近百万点赞引发热议。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26040311/zh-hl26040311-cctv-ai-animation-geopolitics.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26040311/zh-hl26040311.png",
-    "image_alt": "央视AI生成的武侠风格动画短片画面展���",
+    "image_alt": "央视AI生成的武侠风格动画短片画面展示",
     "keywords": [
       "央视",
       "AI动画",
@@ -38413,7 +38824,7 @@
   {
     "article_id": "zh-kn26033105",
     "title": "硅谷风投教父提议免税革命：AI时代年收入10万美元以下美国人或免所得税",
-    "description": "OpenAI早期投资者维诺德·科斯拉提议通过提高资本利得税率，免除年收入低于10万美元的1.25亿美国人所得税，以应对AI技术导致的财富分配失衡问题。该计划旨在缓解自动化对就业市场的冲击。",
+    "description": "OpenAI早期投资者维诺德·科斯拉提议通过提高资本利得税率，免除年收入低于10万美元的1.25亿美国���所得税，以应对AI技术导致的财富分配失衡问题。该计划旨在缓解自动化对就业市场的冲击。",
     "url": "https://justnow.kr/zh/article/kn/zh-kn26033105/zh-kn26033105-ai-tax-reform-proposal-america.html",
     "image_url": "https://justnow.kr/zh/article/kn/zh-kn26033105/zh-kn26033105.png",
     "image_alt": "硅谷投资者维诺德·科斯拉在会议上阐述AI时代税收改革方案",
@@ -39044,7 +39455,7 @@
   {
     "article_id": "zh-hl26033009",
     "title": "伊朗危机持续发酵 特朗普非传统外交模式面临严峻考验",
-    "description": "2026年3月，伊朗危机��续考验特朗普政府外交能力。由副总统万斯、国务卿鲁比奥及特使组成的多元团队开展对伊谈判，但缺乏明确领导核心。分析指出美国外交机制效能受损，多国尝试斡旋缓解局势。",
+    "description": "2026年3月，伊朗危机持续考验特朗普政府外交能力。由副总统万斯、国务卿鲁比奥及特使组成的多元团队开展对伊谈判，但缺乏明确领导核心。分析指出美国外交机制效能受损，多国尝试斡旋缓解局势。",
     "url": "https://justnow.kr/zh/article/hl/zh-hl26033009/zh-hl26033009-iran-crisis-trump-diplomacy-challenge.html",
     "image_url": "https://justnow.kr/zh/article/hl/zh-hl26033009/zh-hl26033009.png",
     "image_alt": "美国总统特朗普与外交团队讨论伊朗局势",
@@ -39309,7 +39720,7 @@
   {
     "article_id": "ai260324001509-zh",
     "title": "哈佛辍学创业者打造AI智能眼镜，引百万美元投资及隐私争议",
-    "description": "两位哈佛大学辍学创业者创立的Halo公司推出了一款名为Halo X的AI智能眼镜，该眼镜能够实时收听、记录并转录所有对话。虽然该公司已获得100万美元投资并开始预售，但其未经授权录音和侵犯隐私的风险引发了广泛关注。这款眼镜旨在提供“超智能”体验，但其隐私保护措施和数据安全问题仍有待验证。",
+    "description": "两位哈佛大学辍学创业者创立的Halo公司推出了一款名为Halo X的AI智能眼镜，该眼镜能够实时收听、记录并转录所有对话。虽然该公司已获得100万美元投资并开始预售，但其未经授权录音和��犯隐私的风险引发了广泛关注。这款眼镜旨在提供“超智能”体验，但其隐私保护措施和数据安全问题仍有待验证。",
     "url": "https://justnow.kr/zh/article/ai/ai260324001509-zh/ai260324001509-zh-ai-100.html",
     "image_url": "https://justnow.kr/zh/article/ai/ai260324001509-zh/ai260324001509-zh.png",
     "image_alt": "하버드 중퇴생 창업한 헤일로, 항상 켜진 AI 스마트 글라스로 100만 달러 투자 유치",
@@ -40564,7 +40975,7 @@
   },
   {
     "article_id": "hl26031901-zh",
-    "title": "特朗普曾探讨美军入驻乌克兰，并可能策划夺取核物质，局势引全球高度关注",
+    "title": "特朗普曾探讨美军入���乌克兰，并可能策划夺取核物质，局势引全球高度关注",
     "description": "据消息人士透露，美国前总统特朗普及其团队正在探讨向乌克兰派遣美军地面部队的可能性，并可能策划在俄占领区夺取核物质。这一举动可能标志着美国对乌克兰政策的重大转变，并引发全球对地区局势的担忧。",
     "url": "https://justnow.kr/zh/article/hl/hl26031901-zh/hl26031901-zh-hl26031901.html",
     "image_url": "https://justnow.kr/zh/article/hl/hl26031901-zh/hl26031901-zh.png",
@@ -41118,7 +41529,7 @@
     "description": "韩国在线家具零售商Wayfair通过引入OpenAI的GPT模型，显著提升了数百万件产品信息的准确性，并加快了客户支持票处理速度。人工智能自动校正产品信息、精准分类客户咨询，有望提升电商运营效率和客户满意度。",
     "url": "https://justnow.kr/zh/article/ai/ai260317094551-zh/ai260317094551-zh-wayfair-ai-90.html",
     "image_url": "https://justnow.kr/zh/article/ai/ai260317094551-zh/ai260317094551-zh.png",
-    "image_alt": "Wayfair, 오픈AI 모델로 제품 카탈로그 정확도 90% 향상 및 고객 지원 속도 개선",
+    "image_alt": "Wayfair, 오픈AI 모델로 제품 카탈로그 정확도 90% 향상 및 고객 ��원 속도 개선",
     "keywords": [
       "人工智能",
       "OpenAI",
@@ -41972,7 +42383,7 @@
   {
     "article_id": "hl260317035-zh",
     "title": "全球企业竞相推出“AI 自由”认证标识，内容创作者面临新挑战",
-    "description": "随着人工智能生成内容日益普及，全球多家企业和非营利组织正争相开发“非人工智能创作”认证标识，以应对AI对就业和创意产业的潜在威胁。目前已有超过八家��构在进行相关尝试，旨在建立通用的认证标准，保障创作者权益并提升消费者透明度。",
+    "description": "随着人工智能生成内容日益普及���全球多家企业和非营利组织正争相开发“非人工智能创作”认证标识，以应对AI对就业和创意产业的潜在威胁。目前已有超过八家机构在进行相关尝试，旨在建立通用的认证标准，保障创作者权益并提升消费者透明度。",
     "url": "https://justnow.kr/zh/article/hl/hl260317035-zh/hl260317035-zh-ai.html",
     "image_url": "https://justnow.kr/zh/article/hl/hl260317035-zh/hl260317035-zh.png",
     "image_alt": "전 세계 기업들 'AI 프리' 인증 로고 경쟁 시작",
