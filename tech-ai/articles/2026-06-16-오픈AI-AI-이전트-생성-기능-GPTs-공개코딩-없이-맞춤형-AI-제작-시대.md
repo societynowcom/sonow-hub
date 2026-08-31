@@ -1,0 +1,36 @@
+---
+title: "오픈AI, AI ��이전트 생성 기능 'GPTs' 공개…코딩 없이 맞춤형 AI 제작 시대"
+description: "오픈AI가 2026년 2월, 챗GPT 내에서 코딩 없이 맞춤형 AI 에이전트를 생성하는 기능 'GPTs'를 발표했다. 사용자는 자연어 대화만으로 특정 업무에 특화된 AI를 만들고 공유할 수 있다. 이는 AI 민주화를 가속화할 혁신이지만, 악용 및 윤리적 통제 문제도 제기된다."
+date: "2026-06-16"
+category: "AI"
+image: "https://www.society-now.com/sonow/article/ai/ai260616000038/ai260616000038.png"
+keywords: "오픈AI, GPTs, AI 에이전트, 맞춤형 AI, 챗GPT"
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/ai/ai260616000038/ai260616000038-openai-gpts-custom-ai-agent.html"
+lang: "ko"
+---
+
+# 오픈AI, AI ��이전트 생성 기능 'GPTs' 공개…코딩 없이 맞춤형 AI 제작 시대
+
+**AI** | 2026.06.16 | SO,NOW
+
+오픈AI가 2026년 2월, 챗GPT 내에서 코딩 없이 맞춤형 AI 에이전트를 생성하는 기능 'GPTs'를 발표했다. 사용자는 자연어 대화만으로 특정 업무에 특화된 AI를 만들고 공유할 수 있다. 이는 AI 민주화를 가속화할 혁신이지만, 악용 및 윤리적 통제 문제도 제기된다.
+
+> **[Read full article on SO,NOW](https://www.society-now.com/sonow/article/ai/ai260616000038/ai260616000038-openai-gpts-custom-ai-agent.html)**
+
+**Keywords:** 오픈AI · GPTs · AI 에이전트 · 맞춤형 AI · 챗GPT
+
+## Related
+
+- [SK하이닉스 47만6000달러 성과급, 삼성전자 칩 인력 이탈 부추긴다](./2026-08-04-SK하이닉스-47만6000달러-성과급-삼성전자-칩-인력-이탈-부추긴다.md) (2026.08.04)
+- [데이터센터 수요에 가스발전소 건설비 2년 만에 66% 급등](./2026-08-04-데이터센터-수요에-가스발전소-건설비-2년-만에-66-급등.md) (2026.08.04)
+- [메타, 이번 주 태양광 1기가와트 계약으로 연간 누적 3기가와트 돌파](./2026-08-04-메타-이번-주-태양광-1기가와트-계약으로-연간-누적-3기가와트-돌파.md) (2026.08.04)
+
+## More
+
+- 💰 [인도 7월 제조업 피엠아이 53.5, 약 5년 만에 최저 둔화](../economy/articles/2026-08-04-인도-7월-제조업-피엠아이-535-약-5년-만에-최저-둔화.md)
+- 🎭 [윤이상국제음악콩쿠르, 21개국 215명 지원하며 2003년 이후 최다 기록](../k-culture/articles/2026-08-04-윤이상국제음악콩쿠르-21개국-215명-지원하며-2003년-이후-최다-기록.md)
+
+---
+
+**[Full Article → SO,NOW](https://www.society-now.com/sonow/article/ai/ai260616000038/ai260616000038-openai-gpts-custom-ai-agent.html)** | *[Home](../../README.md) | [🤖 TECH & AI](../README.md)*
