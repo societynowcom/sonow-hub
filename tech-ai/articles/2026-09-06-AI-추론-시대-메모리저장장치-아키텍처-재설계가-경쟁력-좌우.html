@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 추론 시대, 메모리·저장장치 아키텍처 재설계가 경쟁력 좌우 | SO,NOW</title>
+  <meta name="description" content="2026년 9월 MIT 테크놀로지 리뷰가 AI 추론 시대의 메모리·저장장치 아키텍처 재설계 필요성을 분석했다. 추론 워크로드가 수십억 개로 다양해지면서 병목 해소와 효율성이 경쟁력의 핵심이 되고, 데이터 이동이 새로운 제약 조건으로 부상한다는 내용이다.">
+  <meta name="keywords" content="AI 추론, 메모리 아키텍처, 데이터 이동, 마이크론, 성능 효율">
+  <meta property="og:type"        content="article">
+  <meta property="og:title"       content="AI 추론 시대, 메모리·저장장치 아키텍처 재설계가 경쟁력 좌우">
+  <meta property="og:description" content="2026년 9월 MIT 테크놀로지 리뷰가 AI 추론 시대의 메모리·저장장치 아키텍처 재설계 필요성을 분석했다. 추론 워크로드가 수십억 개로 다양해지면서 병목 해소와 효율성이 경쟁력의 핵심이 되고, 데이터 이동이 새로운 제약 조건으로 부상한다는 내용이다.">
+  <meta property="og:image" content="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011.png">
+  <meta property="og:url"         content="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html">
+  <meta property="og:locale"      content="ko_KR">
+  <meta property="og:site_name"   content="SO,NOW">
+  <meta name="twitter:card"        content="summary_large_image">
+  <meta name="twitter:title"       content="AI 추론 시대, 메모리·저장장치 아키텍처 재설계가 경쟁력 좌우">
+  <meta name="twitter:description" content="2026년 9월 MIT 테크놀로지 리뷰가 AI 추론 시대의 메모리·저장장치 아키텍처 재설계 필요성을 분석했다. 추론 워크로드가 수십억 개로 다양해지면서 병목 해소와 효율성이 경쟁력의 핵심이 되고, 데이터 이동이 새로운 제약 조건으로 부상한다는 내용이다.">
+  <meta name="twitter:image" content="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011.png">
+  <link rel="canonical" href="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html">
+  <link rel="alternate" hreflang="ko" href="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html">
+  <link rel="alternate" hreflang="x-default" href="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"NewsArticle","headline":"AI 추론 시대, 메모리·저장장치 아키텍처 재설계가 경쟁력 좌우","description":"2026년 9월 MIT 테크놀로지 리뷰가 AI 추론 시대의 메모리·저장장치 아키텍처 재설계 필요성을 분석했다. 추론 워크로드가 수십억 개로 다양해지면서 병목 해소와 효율성이 경쟁력의 핵심이 되고, 데이터 이동이 새로운 제약 조건으로 부상한다는 내용이다.","datePublished":"2026-09-06","dateModified":"2026-09-06","image":["https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011.png"],"author":{"@type":"Organization","name":"SO,NOW"},"publisher":{"@type":"Organization","name":"SO,NOW","url":"https://society-now.com"},"url":"https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html","mainEntityOfPage":"https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html","articleSection":"AI"}</script>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:800px;margin:0 auto;padding:1.2rem 1.5rem;color:#222;line-height:1.75;font-size:1rem}
+h1{font-size:1.55rem;line-height:1.3;margin-bottom:.4rem}
+h2{font-size:1.15rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-top:2rem}
+h3{font-size:1rem;margin-top:1.5rem}
+a{color:#1a6eb0;text-decoration:none}a:hover{text-decoration:underline}
+blockquote{border-left:4px solid #1a6eb0;margin:1rem 0;padding:.6rem 1rem;background:#f0f5ff;border-radius:0 4px 4px 0}
+blockquote p{margin:0}
+ul{padding-left:1.4rem}li{margin:.3rem 0}
+hr{border:none;border-top:1px solid #e5e5e5;margin:1.5rem 0}
+table{border-collapse:collapse;width:100%;margin:1rem 0;font-size:.92rem}
+th,td{border:1px solid #e5e5e5;padding:.45rem .7rem;text-align:left}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even) td{background:#fafafa}
+footer{margin-top:2.5rem;padding-top:1rem;border-top:1px solid #e5e5e5;font-size:.85rem;color:#666}
+</style>
+</head>
+<body>
+  <article>
+<h1>AI 추론 시대, 메모리·저장장치 아키텍처 재설계가 경쟁력 좌우</h1>
+
+<p><strong>AI</strong> | 2026.09.06 | SO,NOW</p>
+
+<p>2026년 9월 MIT 테크놀로지 리뷰가 AI 추론 시대의 메모리·저장장치 아키텍처 재설계 필요성을 분석했다. 추론 워크로드가 수십억 개로 다양해지면서 병목 해소와 효율성이 경쟁력의 핵심이 되고, 데이터 이동이 새로운 제약 조건으로 부상한다는 내용이다.</p>
+
+<blockquote><strong><a href="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html">Read full article on SO,NOW</a></strong></blockquote>
+
+<p><strong>Keywords:</strong> AI 추론 · 메모리 아키텍처 · 데이터 이동 · 마이크론 · 성능 효율</p>
+
+<h2>Related</h2>
+
+<ul><li><a href="./2026-09-06-사업장-100곳-넘는-제이빌-인공지능보다-단순화-먼저-택했다.html">사업장 100곳 넘는 제이빌, 인공지능보다 단순화 먼저 택했다</a> (2026.09.06)</li><li><a href="./2026-09-06-오픈AI-에이전트의-허깅페이스-해킹은-훈련-중-보상-강화가-부른-결과였다.html">오픈AI 에이전트의 허깅페이스 해킹은 훈련 중 보상 강화가 부른 결과였다</a> (2026.09.06)</li><li><a href="./2026-09-06-데이터센터-수요에-천연가스-발전소-건설비-2년-새-66-급등.html">데이터센터 수요에 천연가스 발전소 건설비 2년 새 66% 급등</a> (2026.09.06)</li></ul>
+
+<h2>More</h2>
+
+<ul><li>💰 <a href="../economy/articles/2026-09-06-갤럭시-S26-FE-104만5000원-출시-삼성전자-가성비-전략-다시-꺼내다.html">갤럭시 S26 FE 104만5000원 출시, 삼성전자 가성비 전략 다시 꺼내다</a></li><li>🎭 <a href="../k-culture/articles/2026-09-06-이수근의-재혼-질문에-황재균-진땀-강호동이-받아친-한마디.html">이수근의 재혼 질문에 황재균 진땀, 강호동이 받아친 한마디</a></li></ul>
+
+<hr>
+
+<p><strong><a href="https://www.society-now.com/sonow/article/ai/ai260906000011/ai260906000011-ai-inference-memory-storage-architecture.html">Full Article → SO,NOW</a></strong> | <em><a href="../../index.html">Home</a> | <a href="../index.html">🤖 TECH & AI</a></em></p>
+  </article>
+</body>
+</html>
