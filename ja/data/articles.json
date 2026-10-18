@@ -1,5 +1,341 @@
 [
   {
+    "article_id": "ja-ta26101802",
+    "title": "ASUSの「プライム感謝祭」、38％オフの8万9800円ノートPCなどお得な製品が続々",
+    "description": "ASUS JAPANがAmazonプライム感謝祭で自社PCをセール販売中。Vivobook 15が38％オフの8万9800円、TUF Gaming A16が33％オフの23万4800円など。セールは10月19日午後11時59分まで。",
+    "url": "https://justnow.kr/ja/article/ta/ja-ta26101802/ja-ta26101802-asus-prime-thanksgiving-sale.html",
+    "image_url": "https://justnow.kr/ja/article/ta/ja-ta26101802/ja-ta26101802.png",
+    "image_alt": "ASUSのノートPCやゲーミングPCのセール画像",
+    "keywords": [
+      "ASUS",
+      "Amazonプライム感謝祭",
+      "ノートPC",
+      "セール",
+      "ゲーミングPC"
+    ],
+    "category": "ta",
+    "date": "2026-10-18",
+    "source": "ITmedia",
+    "source_url": "https://www.itmedia.co.jp/pcuser/articles/2610/17/news021.html",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-ta26101803",
+    "title": "Amazonプライム感謝祭でマウスPCが最大24%オフ、Core Ultra 5搭載G TUNEが27万9880円に",
+    "description": "マウスコンピューターがAmazonプライム感謝祭に参加、mouseとG TUNEのPCおよびiiyamaディスプレイをセール販売。Core Ultra 5 225搭載モデルが27万9880円、34型240Hzディスプレイが5万2980円で登場。",
+    "url": "https://justnow.kr/ja/article/ta/ja-ta26101803/ja-ta26101803-mouse-amazon-prime-thanksgiving-sale.html",
+    "image_url": "https://justnow.kr/ja/article/ta/ja-ta26101803/ja-ta26101803.png",
+    "image_alt": "マウスコンピューターのゲーミングPC「G TUNE」とiiyamaのゲーミングディスプレイ",
+    "keywords": [
+      "マウスコンピューター",
+      "Amazonプライム感謝祭",
+      "G TUNE",
+      "iiyama",
+      "ゲーミングPC"
+    ],
+    "category": "ta",
+    "date": "2026-10-18",
+    "source": "ITmedia",
+    "source_url": "https://www.itmedia.co.jp/pcuser/articles/2610/17/news020.html",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-ta26101804",
+    "title": "ドコモ、KDDI、ソフトバンク、楽天モバイルが示すAI時代のインフラ戦略　今後は「上り」「低遅延」が重要に",
+    "description": "CEATEC 2026でドコモ、KDDI、ソフトバンク、楽天モバイルの4社幹部がAIとネットワークの融合戦略を披露。上り通信の強化や低遅延化、AIによる基地局制御の最適化など、6Gを見据えた取り組みが明らかになった。",
+    "url": "https://justnow.kr/ja/article/ta/ja-ta26101804/ja-ta26101804-ceatec-2026-ai-6g-strategy.html",
+    "image_url": "https://justnow.kr/ja/article/ta/ja-ta26101804/ja-ta26101804.png",
+    "image_alt": "CEATEC 2026でAIとネットワークの融合について語る携帯4社の幹部",
+    "keywords": [
+      "CEATEC 2026",
+      "AI",
+      "6G",
+      "ドコモ",
+      "KDDI",
+      "ソフトバンク",
+      "楽天モバイル",
+      "通信インフラ"
+    ],
+    "category": "ta",
+    "date": "2026-10-18",
+    "source": "ITmedia",
+    "source_url": "https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-ta26101805",
+    "title": "Eストアー「ショップサーブ」で2335万人情報漏えい、クレカ情報も一部流出",
+    "description": "Eストアーが運営するECサイト支援「ショップサーブ」で約2335万人の個人情報が漏えい。209万人のクレジットカード情報も一部流出し、同社は謝罪と再発防止策を表明しています。",
+    "url": "https://justnow.kr/ja/article/ta/ja-ta26101805/ja-ta26101805-shopserve-data-breach-23m.html",
+    "image_url": "https://justnow.kr/ja/article/ta/ja-ta26101805/ja-ta26101805.png",
+    "image_alt": "Eストアー本社の外観とサイバーセキュリティのイメージ",
+    "keywords": [
+      "情報漏えい",
+      "ショップサーブ",
+      "Eストアー",
+      "サイバー攻撃",
+      "クレジットカード情報"
+    ],
+    "category": "ta",
+    "date": "2026-10-18",
+    "source": "ITmedia",
+    "source_url": "https://www.itmedia.co.jp/business/articles/2610/17/news019.html",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-ta26101801",
+    "title": "秋の夜長に最適なHHKBをセール価格で――PFU「Happy Hacking Keyboard」シリーズが最大26%オフ、2万3560円から",
+    "description": "PFUは、Amazonプライム感謝祭で「Happy Hacking Keyboard」シリーズを最大26%オフで販売中です。HHKB Studioなど4モデルが対象で、10月19日午後11時59分までの開催です。",
+    "url": "https://justnow.kr/ja/article/ta/ja-ta26101801/ja-ta26101801-hhkb-sale-amazon-prime.html",
+    "image_url": "https://justnow.kr/ja/article/ta/ja-ta26101801/ja-ta26101801.png",
+    "image_alt": "PFUのHappy Hacking Keyboardシリーズの製品画像",
+    "keywords": [
+      "HHKB",
+      "PFU",
+      "Amazonプライム感謝祭",
+      "キーボード",
+      "セール"
+    ],
+    "category": "ta",
+    "date": "2026-10-18",
+    "source": "ITmedia",
+    "source_url": "https://www.itmedia.co.jp/pcuser/articles/2610/17/news023.html",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-kn26101801",
+    "title": "ブラジル大統領選決選投票、世界の食料安保と資源政策の行方を左右",
+    "description": "ブラジルで25日、大統領選の決選投票が実施されます。左派ルラ現職と右派フラビオ・ボルソナロ氏が対決し、世界の食料安全保障や資源政策、日本企業の事業環境にも影響を与える可能性があります。",
+    "url": "https://justnow.kr/ja/article/kn/ja-kn26101801/ja-kn26101801-brazil-election-runoff-food-resources.html",
+    "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101801/ja-kn26101801.png",
+    "image_alt": "ブラジル大統領選挙の決選投票を前に、支持者に向けて演説する候補者",
+    "keywords": [
+      "ブラジル大統領選",
+      "ルラ",
+      "フラビオ・ボルソナロ",
+      "食料安全保障",
+      "資源政策"
+    ],
+    "category": "kn",
+    "date": "2026-10-18",
+    "source": "日経新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOGN14C8J0U6A011C2000000/",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-kn26101802",
+    "title": "スカイダンス、ワーナーを約17兆円で買収　デービッド・エリソンCEOが描くメディア帝国の野望",
+    "description": "米スカイダンスのデービッド・エリソンCEOがワーナー・ブラザース・ディスカバリーを約17兆円で買収。Netflixとの争奪戦を制し、動画配信・映画・報道を統合する巨大メディア帝国の構築に動き出します。",
+    "url": "https://justnow.kr/ja/article/kn/ja-kn26101802/ja-kn26101802-skydance-warner-acquisition-ellison.html",
+    "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101802/ja-kn26101802.png",
+    "image_alt": "スカイダンスのデービッド・エリソンCEOとワーナー・ブラザース・ディスカバリーの買収を象徴するイメージ",
+    "keywords": [
+      "スカイダンス",
+      "ワーナー・ブラザース・ディスカバリー",
+      "デービッド・エリソン",
+      "企業買収",
+      "メディア再編"
+    ],
+    "category": "kn",
+    "date": "2026-10-18",
+    "source": "日経新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOGN13AZK0T11C26A0000000/",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-kn26101803",
+    "title": "シンガポール、富裕層マネー獲得に逆風　中国の資産移転規制が及ぼす打撃",
+    "description": "中国が海外への資産移転取り締まりとオフショア信託の税制改革を進め、シンガポールの富裕層マネー獲得に逆風が吹いています。ファミリーオフィス設立の人気に陰りが出る中、アジア金融ハブの競争環境が変化しています。",
+    "url": "https://justnow.kr/ja/article/kn/ja-kn26101803/ja-kn26101803-singapore-wealth-china-regulation.html",
+    "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101803/ja-kn26101803.png",
+    "image_alt": "シンガポールの金融街マリーナベイの高層ビル群",
+    "keywords": [
+      "シンガポール",
+      "富裕層マネー",
+      "中国",
+      "オフショア信託",
+      "ファミリーオフィス"
+    ],
+    "category": "kn",
+    "date": "2026-10-18",
+    "source": "日経新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOCB02AO80S6A001C2000000/",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-kn26101804",
+    "title": "ゴルフ会員権が8割高騰、バブル期とは異なる「愛好家主導」の熱狂　地方名門コースに資金流入",
+    "description": "ゴルフ会員権価格が2026年に前年比8割上昇。バブル期の投機と異なり、実需の愛好家が地方名門コースを中心に買い支える。年会費高騰で低価格帯は個人売却も増え、市場の二極化が進んでいます。",
+    "url": "https://justnow.kr/ja/article/kn/ja-kn26101804/ja-kn26101804-golf-membership-price-surge-2026.html",
+    "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101804/ja-kn26101804.png",
+    "image_alt": "ゴルフ場のフェアウェイと会員権価格の上昇チャート",
+    "keywords": [
+      "ゴルフ会員権",
+      "価格高騰",
+      "バブル期",
+      "愛好家",
+      "年会費"
+    ],
+    "category": "kn",
+    "date": "2026-10-18",
+    "source": "日経新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUB1485W0U6A510C2000000/",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-kn26101805",
+    "title": "Qoo10、試供品だけの常設店を渋谷に開業　クチコミ投稿条件でコスメなど1人7品",
+    "description": "イーベイ・ジャパンはネット通販Qoo10の常設店「SAMPLE HOUSE」を東京・渋谷に開業しました。化粧品などの試供品を無料配布し、クチコミ投稿を条件に1人7品まで提供。2027年までに3店舗への拡大を計画しています。",
+    "url": "https://justnow.kr/ja/article/kn/ja-kn26101805/ja-kn26101805-qoo10-sample-store-shibuya.html",
+    "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101805/ja-kn26101805.png",
+    "image_alt": "Qoo10の試供品専門常設店「SAMPLE HOUSE」の店舗外観イメージ",
+    "keywords": [
+      "Qoo10",
+      "イーベイ・ジャパン",
+      "試供品",
+      "常設店",
+      "クチコミ投稿"
+    ],
+    "category": "kn",
+    "date": "2026-10-18",
+    "source": "日経新聞",
+    "source_url": "https://www.nikkei.com/article/DGXZQOUC168EY0W6A011C2000000/",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-hl26101803",
+    "title": "非常に強い台風30号が急速に発達　来週後半に沖縄の南海上へ　気象庁が警戒呼びかけ",
+    "description": "非常に強い台風30号は2026年10月17日、日本のはるか南東の海上を急速に発達しながら西へ進んでいます。来週後半には沖縄の南の海上に達する予想で、気象庁は今後の進路情報に注意を呼びかけています。",
+    "url": "https://justnow.kr/ja/article/hl/ja-hl26101803/ja-hl26101803-typhoon-30-okinawa-forecast.html",
+    "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101803/ja-hl26101803.png",
+    "image_alt": "衛星画像に映る非常に強い台風30号の渦と予想進路図",
+    "keywords": [
+      "台風30号",
+      "気象庁",
+      "沖縄",
+      "進路予想",
+      "気象・災害"
+    ],
+    "category": "hl",
+    "date": "2026-10-18",
+    "source": "NHK News",
+    "source_url": "https://news.web.nhk/newsweb/na/nd-20261017de60802",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-hl26101804",
+    "title": "靖国神社秋の例大祭 高市首相が「真榊」奉納 城内成長戦略相ら閣僚・党要職者が参拝",
+    "description": "2026年10月17日、靖国神社の秋の例大祭が始まり、高市総理大臣が「真榊」を奉納しました。城内成長戦略担当大臣や自民党の小林政務調査会長も参拝し、高市内閣の発足後初となる例大祭への対応が注目されています。",
+    "url": "https://justnow.kr/ja/article/hl/ja-hl26101804/ja-hl26101804-yasukuni-autumn-festival-takaichi.html",
+    "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101804/ja-hl26101804.png",
+    "image_alt": "靖国神社の秋の例大祭で奉納された「真榊」と参拝する人々の様子",
+    "keywords": [
+      "靖国神社",
+      "秋の例大祭",
+      "高市首相",
+      "真榊",
+      "城内成長戦略相",
+      "小林政調会長",
+      "高市内閣"
+    ],
+    "category": "hl",
+    "date": "2026-10-18",
+    "source": "NHK News",
+    "source_url": "https://news.web.nhk/newsweb/na/nd-20261017de60815",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-hl26101805",
+    "title": "インドネシア森林火災、煙がマレーシアなど周辺国へ拡散 学校休校や健康被害広がる",
+    "description": "2026年10月、インドネシアの森林・泥炭地火災の煙がマレーシアやシンガポールなど周辺国に拡散。学校休校や健康被害が広がり、ASEAN各国が対応を迫られています。",
+    "url": "https://justnow.kr/ja/article/hl/ja-hl26101805/ja-hl26101805-indonesia-forest-fire-smoke-asean.html",
+    "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101805/ja-hl26101805.png",
+    "image_alt": "インドネシアの森林火災で発生した煙が周辺国に拡散している様子",
+    "keywords": [
+      "インドネシア",
+      "森林火災",
+      "越境煙害",
+      "マレーシア",
+      "ASEAN"
+    ],
+    "category": "hl",
+    "date": "2026-10-18",
+    "source": "NHK News",
+    "source_url": "https://news.web.nhk/newsweb/na/nd-20261017de61042",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-hl26101801",
+    "title": "愛媛・西条まつりで太鼓台の下敷き、担ぎ手の西条市副市長が死亡",
+    "description": "2026年10月17日午後、愛媛県西条市の「西条まつり」で、太鼓台の担ぎ手として参加していた西条市の副市長が倒れてきた太鼓台の下敷きになり死亡しました。警察が事故の詳しい状況を調べています。",
+    "url": "https://justnow.kr/ja/article/hl/ja-hl26101801/ja-hl26101801-saijo-festival-taikodai-accident.html",
+    "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101801/ja-hl26101801.png",
+    "image_alt": "愛媛県西条市で開催される西条まつりの太鼓台",
+    "keywords": [
+      "西条まつり",
+      "太鼓台",
+      "西条市",
+      "副市長",
+      "事故",
+      "愛媛県"
+    ],
+    "category": "hl",
+    "date": "2026-10-18",
+    "source": "NHK News",
+    "source_url": "https://news.web.nhk/newsweb/na/nd-20261018de61058",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
+    "article_id": "ja-hl26101802",
+    "title": "空自グローバルホーク墜落事故、海底から胴体一部を引き揚げ 原因解明へ分析開始",
+    "description": "先月鳥取県沖で墜落した航空自衛隊の無人偵察機グローバルホークについて、自衛隊は17日、海底から機体の胴体一部を引き揚げました。機体を分析し事故原因を詳しく調べる方針です。",
+    "url": "https://justnow.kr/ja/article/hl/ja-hl26101802/ja-hl26101802-asdf-global-hawk-crash-recovery.html",
+    "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101802/ja-hl26101802.png",
+    "image_alt": "航空自衛隊の大型無人偵察機グローバルホークのイメージ",
+    "keywords": [
+      "グローバルホーク",
+      "航空自衛隊",
+      "墜落事故",
+      "鳥取県沖",
+      "無人偵察機"
+    ],
+    "category": "hl",
+    "date": "2026-10-18",
+    "source": "NHK News",
+    "source_url": "https://news.web.nhk/newsweb/na/nd-20261017de61020",
+    "quality_score": 70,
+    "translate_of": null,
+    "lang": "ja"
+  },
+  {
     "article_id": "ja-ta26101703",
     "title": "タイムズカー、10月23日に対応方針を案内　免許証画像「即削除」へ",
     "description": "パーク24は10月16日、カーシェア「タイムズカー」の不正アクセスによる個人情報流出について、10月23日に対応方針を案内すると発表。運転免許証画像は登録確認後に即削除する方針へ転換します。",
@@ -577,7 +913,7 @@
   {
     "article_id": "ja-hl26101604",
     "title": "日野町事件再審へ検察が証拠57点開示の意向　阪原弘さん服役中死亡から30年超",
-    "description": "42年前の滋賀県日野町強盗殺人事件で、無実を訴え服役中に死亡した阪原弘さんの再審に向け��6回目の協議が行われ、検察が57点の証拠を開示する意向を示しました。弁護団は全証拠の早期開示を求めています。",
+    "description": "42年前の滋賀県日野町強盗殺人事件で、無実を訴え服役中に死亡した阪原弘さんの再審に向けた6回目の協議が行われ、検察が57点の証拠を開示する意向を示しました。弁護団は全証拠の早期開示を求めています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26101604/ja-hl26101604-hino-town-retrial-evidence-disclosure.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101604/ja-hl26101604.png",
     "image_alt": "滋賀県日野町事件の再審協議が行われた法廷のイメージ",
@@ -841,7 +1177,7 @@
   },
   {
     "article_id": "ja-kn26101501",
-    "title": "米半導体大手グローバルファウンドリーズ、3兆円投じNY州に新工場　日本の対米投融資5500億ドルの一環",
+    "title": "米半導体大手グローバルファウ��ドリーズ、3兆円投じNY州に新工場　日本の対米投融資5500億ドルの一環",
     "description": "米半導体大手グローバルファウンドリーズが14日、ニューヨーク州に最大210億ドル（約3.3兆円）を投じ新工場を建設すると発表しました。日米関税合意による5500億ドルの対米投融資の一環で、ロジック半導体を製造します。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26101501/ja-kn26101501-globalfoundries-ny-3t-fab.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101501/ja-kn26101501.png",
@@ -1176,7 +1512,7 @@
   {
     "article_id": "ja-kn26101401",
     "title": "王将社長射殺事件、16日に京都地裁で判決　検察側は状況証拠で立証、被告は無罪を主張",
-    "description": "2013年に餃子の王将を展開する王将フードサービスの社長を射殺したとして殺人罪に問われた田中幸雄被告に対し、京都地裁が16日に判決を言い��します。検察側は状況証拠で立証し、被告は無罪を主張しています。",
+    "description": "2013年に餃子の王将を展開する王将フードサービスの社長を射殺したとして殺人罪に問われた田中幸雄被告に対し、京都地裁が16日に判決を言い渡します。検察側は状況証拠で立証し、被告は無罪を主張しています。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26101401/ja-kn26101401-ohsho-murder-verdict-kyoto.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26101401/ja-kn26101401.png",
     "image_alt": "京都地方裁判所の庁舎外観（イメージ）",
@@ -1882,7 +2218,7 @@
   },
   {
     "article_id": "ja-hl26101205",
-    "title": "米、ICC全体を制裁対象に指定 国際社会から非難と撤回要求が相次ぐ",
+    "title": "米、ICC全体を��裁対象に指定 国際社会から非難と撤回要求が相次ぐ",
     "description": "米トランプ政権が10月9日、ICC自体を制裁対象に指定。赤根智子所長らへの個人制裁に続く措置で、加盟125か国を中心に非難と撤回要求が相次いでいます。日本も立場を伝達しました。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26101205/ja-hl26101205-us-sanctions-icc-global-backlash.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26101205/ja-hl26101205.png",
@@ -2775,7 +3111,7 @@
     "description": "サッカー元日本代表の三浦知良氏が日経コラムで、キリンカップを終えた日本代表の4連戦を総括。ウルグアイやエクアドルとの対戦を評価し、来年1月のアジアカップへ向けた課題と若手選手への期待を語りました。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26100903/ja-kn26100903-miura-japan-national-team-column.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26100903/ja-kn26100903.png",
-    "image_alt": "サッカー日本代表の試合風景と三浦知良氏のコラムイメージ",
+    "image_alt": "サ���カー日本代表の試合風景と三浦知良氏のコラムイメージ",
     "keywords": [
       "三浦知良",
       "日本代表",
@@ -3126,7 +3462,7 @@
     ],
     "category": "kn",
     "date": "2026-10-08",
-    "source": "日経���聞",
+    "source": "日経新聞",
     "source_url": "https://www.nikkei.com/article/DGXZQODH11AFH0R10C26A9000000/",
     "quality_score": 70,
     "translate_of": null,
@@ -3423,7 +3759,7 @@
   },
   {
     "article_id": "ja-ta26100705",
-    "title": "相次ぐ不正アクセス、古川デジタ���相が国民に呼びかけた3つの対策とは",
+    "title": "相次ぐ不正アクセス、古川デジタル相が国民に呼びかけた3つの対策とは",
     "description": "2026年10月6日、デジタル庁の古川俊治大臣が記者会見を開き、相次ぐ不正アクセスによる個人情報流出を受け、パスワード使い回しの回避や多要素認証の設定など3つの対策を国民に呼びかけました。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26100705/ja-ta26100705-digital-minister-cyber-measures.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26100705/ja-ta26100705.png",
@@ -4421,7 +4757,7 @@
   {
     "article_id": "ja-ta26100402",
     "title": "高市首相がAppleに要請――「自殺防止機能の搭載を」　生成AIへの相談増加を受け",
-    "description": "高市早苗首相は2026年10月2日、Xへの投稿でAppleとのやりとりを明らかにし、生成AIへの相談増加を受け自殺防止機能の搭載を要請しました。Apple幹部は支援窓口への誘導推進や日本政府との連携に前向きな姿勢を示しています。",
+    "description": "高市早苗首相は2026年10月2日、Xへの投稿でAppleとのやりとりを明ら���にし、生成AIへの相談増加を受け自殺防止機能の搭載を要請しました。Apple幹部は支援窓口への誘導推進や日本政府との連携に前向きな姿勢を示しています。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26100402/ja-ta26100402-takaichi-apple-suicide-prevention.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26100402/ja-ta26100402.png",
     "image_alt": "高市早苗首相がAppleに自殺防止機能の搭載を要請したことを示すイメージ（Apple Storeの外観）",
@@ -5064,7 +5400,7 @@
     "description": "ソフトバンクグループが2026年10月1日、OpenAIへの最終第3弾100億ドルの出資を完了。累計646億ドル（約10.2兆円）で持分は約13％に達し、社債調達で資金を充当しました。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26100202/ja-ta26100202-softbank-openai-investment-complete.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26100202/ja-ta26100202.png",
-    "image_alt": "ソフト��ンクグループとOpenAIのロゴ、および巨額出資を象徴するイメージ",
+    "image_alt": "ソフトバンクグループとOpenAIのロゴ、および巨額出資を象徴するイメージ",
     "keywords": [
       "ソフトバンクグループ",
       "OpenAI",
@@ -5841,7 +6177,7 @@
     "description": "第一ライフ資産運用経済研究所は、ブラックロック・ジャパン元会長の有田浩之氏を理事長に起用すると発表しました。10月1日付で入社し、理事長職は新設されます。貯蓄から投資への流れを受け、資産運用分野の調査・分析・政策提言を強化する狙いです。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26093004/ja-kn26093004-daiichi-life-think-tank-arita.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26093004/ja-kn26093004.png",
-    "image_alt": "第一ライフ資産運用経済研究所の理事長に���任する有田浩之氏",
+    "image_alt": "第一ライフ資産運用経済研究所の理事長に就任する有田浩之氏",
     "keywords": [
       "第一ライフ資産運用経済研究所",
       "有田浩之",
@@ -6148,7 +6484,7 @@
   {
     "article_id": "ja-kn26092805",
     "title": "フィジカルAIが次の主役に、米ゼネラリストの企業価値30億ドル到達",
-    "description": "米テック業界でAI投資がソフトウェアからロボットへ拡大。フィジカルAI開発の米ゼネラリストは企業価値30億ドルに達し、投資家の期待を集めています。資金調達動向と��本企業への影響を分析します。",
+    "description": "米テック業界でAI投資がソフトウェアからロボットへ拡大。フィジカルAI開発の米ゼネラリストは企業価値30億ドルに達し、投資家の期待を集めています。資金調達動向と日本企業への影響を分析します。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26092805/ja-kn26092805-physical-ai-investment-surge.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26092805/ja-kn26092805.png",
     "image_alt": "フィジカルAIを搭載したロボットアームが工場で稼働する様子",
@@ -6747,7 +7083,7 @@
   {
     "article_id": "ja-ta26092605",
     "title": "落とし物が駅や警察に届くとアプリに通知　findが「find return」発売、電池不要の“お守りシール”5枚入り1000円",
-    "description": "findは9月24日、紛失物が警察や対応施設に届くと通知するシール「find return」を発表した。10月1日発売で、5枚とお守りカード付���1000円。電池不要で、全国の警察や京王電鉄などが対応する。",
+    "description": "findは9月24日、紛失物が警察や対応施設に届くと通知するシール「find return」を発表した。10月1日発売で、5枚とお守りカード付き1000円。電池不要で、全国の警察や京王電鉄などが対応する。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26092605/ja-ta26092605-find-return-lost-item-sticker.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26092605/ja-ta26092605.png",
     "image_alt": "find returnのシールとお守りカード、および京王線の駅窓口での販売イメージ",
@@ -7039,7 +7375,7 @@
     "description": "台風25号の降雨に伴い、国土交通省江戸川河川事務所が首都圏外郭放水路の稼働映像を公開しました。今年度7回目の稼働となり、施設完成後の年間記録を更新しています。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26092505/ja-ta26092505-kasen-bochi-katsudo-7-kai.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26092505/ja-ta26092505.png",
-    "image_alt": "首都圏外郭放水路の調圧水槽に水が流れ��む様子（写真はイメージ）",
+    "image_alt": "首都圏外郭放水路の調圧水槽に水が流れ込む様子（写真はイメージ）",
     "keywords": [
       "首都圏外郭放水路",
       "台風25号",
@@ -7149,7 +7485,7 @@
     "description": "2026年9月24日のロンドン外国為替市場でユーロが対ドルで下落し、約2カ月ぶりの安値をつけました。米利上げ観測や原油高を背景にドル買いが優勢となり、スイスフランも急落。円は対ドルで3週間ぶりの安値となっています。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26092501/ja-kn26092501-london-forex-euro-dollar-rise.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26092501/ja-kn26092501.png",
-    "image_alt": "ロンドン外国為替市場の取引画面とユーロ・ドル・円の為替レートチャート",
+    "image_alt": "ロンドン外国為替市場の取引画面とユーロ・ド���・円の為替レートチャート",
     "keywords": [
       "ロンドン外国為替市場",
       "ユーロ安",
@@ -8346,7 +8682,7 @@
   {
     "article_id": "ja-ta26092102",
     "title": "モバイルCPU搭載デスクトップからデュアル水冷G TUNEまで――過去最大級ブースで魅せたマウスコンピューターの「本気」を軣社長に聞く",
-    "description": "東京ゲームショウ2026でマウスコンピューターが過去最大級のブースを出展。モバイルCPU搭載デスクトップ「NEXTGEAR」やデュアル水冷「G TUNE」を展示し、軣社長が製品戦略とブランドの「本気」を語った。",
+    "description": "東京ゲ���ムショウ2026でマウスコンピューターが過去最大級のブースを出展。モバイルCPU搭載デスクトップ「NEXTGEAR」やデュアル水冷「G TUNE」を展示し、軣社長が製品戦略とブランドの「本気」を語った。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26092102/ja-ta26092102-mouse-computer-tgs2026-nextgear-gtune.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26092102/ja-ta26092102.png",
     "image_alt": "東京ゲームショウ2026のマウスコンピューターブースで展示されたNEXTGEARとG TUNEの新製品",
@@ -8895,7 +9231,7 @@
   },
   {
     "article_id": "ja-hl26092002",
-    "title": "timelesz猪俣周杜容疑者を傷害容疑で逮捕 知人女性への暴行か グル��プは活動休止を発表",
+    "title": "timelesz猪俣周杜容疑者を傷害容疑で逮捕 知人女性への暴行か グループは活動休止を発表",
     "description": "2026年9月18日夜、東京都内で人気アイドルグループ「timelesz」の猪俣周杜容疑者（25）が知人女性に暴行を加えけがをさせたとして、傷害の疑いで逮捕されました。グループは活動休止を発表し、所属事務所が謝罪しています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26092002/ja-hl26092002-timelesz-inomata-arrested-assault.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26092002/ja-hl26092002.png",
@@ -8939,7 +9275,7 @@
   },
   {
     "article_id": "ja-hl26092004",
-    "title": "パラリンピック・メダリストの車いす選手、練習中に車に追突され意識不明　沖縄・うるま市",
+    "title": "パラリンピック・メダリストの車いす選手、練習中に車に追突され��識不明　沖縄・うるま市",
     "description": "2026年9月19日朝、沖縄県うるま市の県道で車いす競技の練習中だったパラリンピック・メダリストの男性が車に追突され意識不明の重体です。警察が事故の状況を詳しく調べています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26092004/ja-hl26092004-paralympic-wheelchair-accident-okinawa.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26092004/ja-hl26092004.png",
@@ -9182,7 +9518,7 @@
   {
     "article_id": "ja-kn26091905",
     "title": "41歳C・ロナルド、ポルトガル代表に選出　欧州ネーションズリーグへ異例の招集",
-    "description": "ポルトガル代表が欧州ネーションズリーグに向けたメンバーを発表し、41歳のC・ロナルドが選出��れました。W杯6大会連続ゴールの記録を持つレジェンドの招集は、スポーツ市場や関連ビジネスにも影響を与えるとみられます。",
+    "description": "ポルトガル代表が欧州ネーションズリーグに向けたメンバーを発表し、41歳のC・ロナルドが選出されました。W杯6大会連続ゴールの記録を持つレジェンドの招集は、スポーツ市場や関連ビジネスにも影響を与えるとみられます。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26091905/ja-kn26091905-ronaldo-portugal-nations-league.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26091905/ja-kn26091905.png",
     "image_alt": "ポルトガル代表のユニホームを着てプレーする41歳のクリスティアーノ・ロナルド選手",
@@ -9779,7 +10115,7 @@
   {
     "article_id": "ja-kn26091702",
     "title": "独州首相8人、メルツ首相支持の共同声明　地方選劣勢を受け党内結束を演出",
-    "description": "ドイツのキリスト教民主同盟（CDU）に所属する州首相8人が16日、地方選での劣勢を受け辞任圧力にさらされるメルツ首相を支持する共同��明を発表しました。党内団結を演出する狙いがあるとみられます。",
+    "description": "ドイツのキリスト教民主同盟（CDU）に所属する州首相8人が16日、地方選での劣勢を受け辞任圧力にさらされるメルツ首相を支持する共同声明を発表しました。党内団結を演出する狙いがあるとみられます。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26091702/ja-kn26091702-germany-cdu-ministers-support-merz.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26091702/ja-kn26091702.png",
     "image_alt": "ドイツのキリスト教民主同盟（CDU）の州首相8人がメルツ首相を支持する共同声明を発表した場面",
@@ -9823,7 +10159,7 @@
   {
     "article_id": "ja-kn26091704",
     "title": "なでしこジャパン、11月と12月にブラジルと2連戦　広島と岡山で国際親善試合",
-    "description": "日本サッカー協会は16日、なでしこジャパンが11月29日に広島、12月5日に岡山でブラジルと国際親善試合を行うと発表しました。2027年女子ワールドカップ開催国との対戦で、本番に向けた重要な強化機会となります。",
+    "description": "日本サッカー協会は16日、���でしこジャパンが11月29日に広島、12月5日に岡山でブラジルと国際親善試合を行うと発表しました。2027年女子ワールドカップ開催国との対戦で、本番に向けた重要な強化機会となります。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26091704/ja-kn26091704-nadeshiko-japan-brazil-friendly-matches.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26091704/ja-kn26091704.png",
     "image_alt": "なでしこジャパンの選手がボールを追いかける試合風景",
@@ -10119,7 +10455,7 @@
     "image_alt": "東京地方検察庁の庁舎外観（イメージ）",
     "keywords": [
       "睡眠時無呼吸症候群",
-      "危険運転致死罪",
+      "危険運転致���罪",
       "東京地検",
       "在宅起訴",
       "自動車運転処罰法"
@@ -10377,7 +10713,7 @@
   },
   {
     "article_id": "ja-ta26090804",
-    "title": "「ヘボいロボット」が集結　技術力の低さを競う「ヘボコン��、ハイテクは減点に",
+    "title": "「ヘボいロボット」が集結　技術力の低さを競う「ヘボコン」、ハイテクは減点に",
     "description": "技術力の低さを競うロボット相撲大会「ヘボコン」が2026年8月、東京・渋谷で開催。32台の個性派ロボットが珍プレーを連発し、会場を笑いで包んだ。優勝者には雑な賞品が贈られるのが恒例だ。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26090804/ja-ta26090804-hebokon-robot-sumo-2026.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26090804/ja-ta26090804.png",
@@ -10516,7 +10852,7 @@
     "image_alt": "名古屋アジア大会の会場予定地と大会エンブレム、北朝鮮選手団の入国問題に関するニュースイメージ",
     "keywords": [
       "北朝鮮",
-      "名古屋アジア大会",
+      "名古屋アジア��会",
       "入国許可",
       "独自制裁",
       "スポーツ交流"
@@ -11090,7 +11426,7 @@
   },
   {
     "article_id": "ja-kn26090604",
-    "title": "街全体でブランド体験を提供、三井不動産が屋外広告事業に本格参入",
+    "title": "街全体でブランド体験を提供、三井不動産が屋外広告��業に本格参入",
     "description": "三井不動産が2026年9月、ビル外壁や施設空間を使った屋外広告事業に本格参入したと発表。コンテンツ制作から広告出稿まで一貫して手掛け、街全体でブランド体験を提供する戦略を打ち出す。東急不動産も渋谷で年間契約型の広告企画を開始するなど、不動産各社の広告事業への参入が相次いでいる。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26090604/ja-kn26090604-mitsui-fudosan-outdoor-advertising-entry.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26090604/ja-kn26090604.png",
@@ -11244,7 +11580,7 @@
   },
   {
     "article_id": "ja-kn26090502",
-    "title": "��海のドローン監視、自殺予防に新たな光 デジタル技術の光と影",
+    "title": "樹海のドローン監視、自殺予防に新たな光 デジタル技術の光と影",
     "description": "9月の自殺予防週間を前に、山梨県の青木ヶ原樹海でドローンを使った見守り実験が始まった。SNSの負の影響が指摘される中、デジタル技術を活用した新たな自殺対策の可能性を探る。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26090502/ja-kn26090502-drone-surveillance-suicide-prevention-japan.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26090502/ja-kn26090502.png",
@@ -11377,7 +11713,7 @@
   {
     "article_id": "ja-kn26090603",
     "title": "熊本地震復興支援、ホテルニューオータニが県産栗のモンブラン発売 楽天トラベルは割引クーポン",
-    "description": "熊本地震の復興支援で、ホテルニューオータニが熊本県産栗を使用したモンブランケーキを9月9日から期間限定で発売、楽天トラベルは対象施設で使える割引クーポンを発行するなど、観光関連企業による応援消費を促す取り組みが広がっています。",
+    "description": "熊本地震の復興支援で、ホテ���ニューオータニが熊本県産栗を使用したモンブランケーキを9月9日から期間限定で発売、楽天トラベルは対象施設で使える割引クーポンを発行するなど、観光関連企業による応援消費を促す取り組みが広がっています。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26090603/ja-kn26090603-kumamoto-recovery-tourism-support.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26090603/ja-kn26090603.png",
     "image_alt": "ホテルニューオータニが発売する熊本県産栗を使用した熊本復興支援モンブランのイメージ",
@@ -11674,7 +12010,7 @@
       "JR東日本",
       "首都圏",
       "在来線",
-      "運休",
+      "��休",
       "大雨",
       "台風",
       "鉄道",
@@ -11980,7 +12316,7 @@
   },
   {
     "article_id": "ja-hl26080104",
-    "title": "日銀、政策金利を1%程度に据え置き 家計・企業への影響を点検へ",
+    "title": "日銀、政策金利を1%程度に据え置き 家計・企業への��響を点検��",
     "description": "日銀は2026年7月31日の金融政策決定会合で政策金利を1%程度に据え置くことを決めた。6月の利上げに続き、家計や企業への影響を見極める姿勢を示した。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26080104/ja-hl26080104-boj-holds-rates-at-1.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26080104/ja-hl26080104.png",
@@ -12141,7 +12477,7 @@
   {
     "article_id": "ja-hl26073101",
     "title": "熊本地震、関連調査中含め34人死亡 県災害対策本部が発表",
-    "description": "熊本県は30日、地震関連の調査中含め34人死亡を発表。25人は直接死、9人は因果関係調査中。イオンモールで7人死亡、製紙工場で全���救助。",
+    "description": "熊本県は30日、地震関連の調査中含め34人死亡を発表。25人は直接死、9人は因果関係調査中。イオンモールで7人死亡、製紙工場で全員救助。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26073101/ja-hl26073101-kumamoto-earthquake-34-deaths.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26073101/ja-hl26073101.png",
     "image_alt": "熊本県災害対策本部会議の様子、被害状況を示す地図",
@@ -12281,7 +12617,7 @@
     "description": "KDDIは2026年7月31日から、auで販売するiPhone 17シリーズの価格を改定。一括価格は8000円から最大3万円値上げ。プログラム利用時の2年負担額は機種により変動、一部は実質負担増を抑制。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26073001/ja-ta26073001-au-iphone-17-price-hike.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26073001/ja-ta26073001.png",
-    "image_alt": "auで販売されているiPhone 17シリーズの価格改定に関するイメージ画像。値上げのニュースを伝えるテキストとiPhone 17の製品画像。",
+    "image_alt": "auで販売されているiPhone 17シリーズの価格改定に関す��イメージ画像。値上げのニュースを伝えるテキストとiPhone 17の製品画像。",
     "keywords": [
       "KDDI",
       "au",
@@ -12305,7 +12641,7 @@
   {
     "article_id": "ja-kn26073001",
     "title": "ロンドン外為市場、ユーロ横ばい圏でFOMC待ち 地政学リスクが重し",
-    "description": "29日のロンドン外為市場でユーロは対ドルで横ばい圏。FOMC結果待ちで様子見ムード。円も対ドル・ユーロで小幅推移。イラン情勢緊迫化による原油高が市場の重荷に。今後のFOMCの政策判断が焦点���",
+    "description": "29日のロンドン外為市場でユーロは対ドルで横ばい圏。FOMC結果待ちで様子見ムード。円も対ドル・ユーロで小幅推移。イラン情勢緊迫化による原油高が市場の重荷に。今後のFOMCの政策判断が焦点。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26073001/ja-kn26073001-london-forex-fomc-caution.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26073001/ja-kn26073001.png",
     "image_alt": "ロンドン外国為替市場のディーリングルームの様子。モニターに為替レートが表示されている。",
@@ -12602,7 +12938,7 @@
   },
   {
     "article_id": "ja-ta26072805",
-    "title": "総務省会合、GoogleやX、Meta、ドワンゴを名指し批判——偽広告・誹謗中傷対策で発信前対策を要請",
+    "title": "総務��会合、GoogleやX、Meta、ドワンゴを名指し批判——偽広告・誹謗中傷対策で発信前対策を要請",
     "description": "総務省有識者会議は7月27日、SNS事業者に偽広告や誹謗中傷への発信前対策を求める論点をまとめた。Google、X、Meta、ドワンゴは名指しで批判を受け、業界の対応が注目される",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26072805/ja-ta26072805-sns-fake-ad-countermeasures-2026.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26072805/ja-ta26072805.png",
@@ -13216,7 +13552,7 @@
       "iPhone SE",
       "中古スマホ",
       "MNP",
-      "1円セ���ル",
+      "1円セール",
       "ソフトバンク",
       "A15 Bionic"
     ],
@@ -13814,7 +14150,7 @@
   {
     "article_id": "ja-ta26072205",
     "title": "レーベル面がインテリアに映えるポータブルCDプレーヤー「ENVYCLOUD」が47％オフの4780円に、Amazonタイムセールで",
-    "description": "Amazonタイムセールで、スピーカー内蔵のポータブルCDプレーヤー「ENVYCLOUD」が47％オフの4780円に。Bluetooth対応で6時間連続再生可能。語学学習や音楽鑑賞に最適。",
+    "description": "Amazonタイムセールで���スピーカー内蔵のポータブルCDプレーヤー「ENVYCLOUD」が47％オフの4780円に。Bluetooth対応で6時間連続再生可能。語学学習や音楽鑑賞に最適。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26072205/ja-ta26072205-envyloud-cd-player-47-percent.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26072205/ja-ta26072205.png",
     "image_alt": "ENVYCLOUDポータブルCDプレーヤーの外観、レーベル面が見えるデザインでインテリアとしても映える",
@@ -15321,7 +15657,7 @@
       "グサノ・バレナドール",
       "メキシコ",
       "畜産被害",
-      "放射線不妊化",
+      "放射線不妊��",
       "米国農務省",
       "中米寄生虫対策"
     ],
@@ -15335,7 +15671,7 @@
   },
   {
     "article_id": "ja-kn26071805",
-    "title": "参院予算委で経済対策や消費税減税を巡り激論　高市首相、補正予算の予備費���用も示唆",
+    "title": "参院予算委で経済対策や消費税減税を巡り激論　高市首相、補正予算の予備費活用も示唆",
     "description": "2026年7月17日の参院予算委員会集中審議では、高市首相が原油高を受け補正予算の予備費活用を示唆。消費税減税では効果に疑問の声も。全東信破綻や北陸新幹線延伸など幅広いテーマで論戦が繰り広げられた。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26071805/ja-kn26071805-senin-yosan-i-ronsen-points.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26071805/ja-kn26071805.png",
@@ -15646,7 +15982,7 @@
   {
     "article_id": "ja-kn26071703",
     "title": "ドイツ株が続落、半導体関連に売り広がる 化学株は業績期待で上昇",
-    "description": "2026年7月16日のフランクフルト株式市場でDAXは続���、前日比84ポイント安の2万4915で終了。半導体株安が世界的に波及しインフィニオンに売り。一方、BASFが通期業績見通しを上方修正し化学株は上昇。エネルギー高が警戒感を強めた。",
+    "description": "2026年7月16日のフランクフルト株式市場でDAXは続落、前日比84ポイント安の2万4915で終了。半導体株安が世界的に波及しインフィニオンに売り。一方、BASFが通期業績見通しを上方修正し化学株は上昇。エネルギー高が警戒感を強めた。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26071703/ja-kn26071703-german-stocks-fall-semiconductor-chemicals.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26071703/ja-kn26071703.png",
     "image_alt": "フランクフルト証券取引所の株価表示板、DAX指数の動きを示す画像",
@@ -16546,7 +16882,7 @@
   {
     "article_id": "ja-ta26071003",
     "title": "ゼンハイザーのヘッドフォンやイヤフォンが最大55％オフ！「サマーセール2026（第二弾）」をAmazonプライムデーと連動して開催中",
-    "description": "Sonova Consumer Hearing Japanがゼンハイザー製品を最大55％オフで販���するサマーセール第二弾を開催。MOMENTUM 4 WirelessやACCENTUM Openなどが対象で、Amazonプライムデーと連動。7月13日23時59分まで。",
+    "description": "Sonova Consumer Hearing Japanがゼンハイザー製品を最大55％オフで販売するサマーセール第二弾を開催。MOMENTUM 4 WirelessやACCENTUM Openなどが対象で、Amazonプライムデーと連動。7月13日23時59分まで。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26071003/ja-ta26071003-sennheiser-summer-sale-2026.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26071003/ja-ta26071003.png",
     "image_alt": "ゼンハイザーのヘッドフォンとイヤフォンが並ぶサマーセールのプロモーション画像",
@@ -16846,7 +17182,7 @@
   {
     "article_id": "ja-ta26070901",
     "title": "任天堂、スマホ向け「マリオカート ツアー」を9月末でサービス終了へ 約7年の歴史に幕、有償ルビーの払い戻し対応を案内",
-    "description": "任天堂は2026年7月8日、スマホゲーム「マリオカート ツアー」を9月30日に終了すると発表��2019年9月の配信開始から約7年。有償ルビーの払い戻し手続きを案内しています。",
+    "description": "任天堂は2026年7月8日、スマホゲーム「マリオカート ツアー」を9月30日に終了すると発表。2019年9月の配信開始から約7年。有償ルビーの払い戻し手続きを案内しています。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26070901/ja-ta26070901-mario-kart-tour-service-end.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26070901/ja-ta26070901.png",
     "image_alt": "マリオカート ツアーのゲーム画面。マリオがカートに乗り、コースを走行している様子。背景にはキノコ王国の風景が広がっている。",
@@ -16956,7 +17292,7 @@
   {
     "article_id": "ja-kn26070902",
     "title": "英国で絞首刑となった最後の女性、71年後に恩赦 殺人被害者から暴力、当時考慮されず",
-    "description": "英政府は8日、1955年に殺人罪で絞首刑となったルース・エリスさんにチャールズ国王が恩赦を与えたと発表。被害者男性からの暴力が当時の裁判で考慮されず、孫4人が申請していた。",
+    "description": "英政府は8日、1955年に殺人罪で絞首刑となっ��ルース・エリスさんにチャールズ国王が恩赦を与えたと発表。被害者男性からの暴力が当時の裁判で考慮されず、孫4人が申請していた。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26070902/ja-kn26070902-uk-last-woman-hanged-pardon.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26070902/ja-kn26070902.png",
     "image_alt": "英国の絞首刑最後の女性ルース・エリスさんの肖像写真と英政府庁舎のイメージ",
@@ -17255,7 +17591,7 @@
   {
     "article_id": "ja-ta26070802",
     "title": "いらすとやに新作「ドパ人」登場、読み方は“どぱんちゅ”？──ドーパミン中毒の危険性をユーモラスに表現",
-    "description": "いらすとやが2026年7月7日に公開した新作「ドパ人」は、スマホ依存で脳が溶ける様子を表現。読み方は「どぱんちゅ」と話題に。SNSで拡散中。",
+    "description": "いらすとやが2026年7月7日に公開した新作「ドパ���」は、スマホ依存で脳が溶ける様子を表現。読み方は「どぱんちゅ」と話題に。SNSで拡散中。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26070802/ja-ta26070802-irasutoya-dopa-person-new-illustration.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26070802/ja-ta26070802.png",
     "image_alt": "いらすとやの新作イラスト「ドパ人」スマートフォンに見入る人物の脳が溶け出している様子",
@@ -17456,7 +17792,7 @@
   {
     "article_id": "ja-hl26070804",
     "title": "パラグアイ上院議員、エムバペ選手への人種差別的発言で波紋 フランスサッカー連盟が声明",
-    "description": "フランスサッカー連盟は7月6日、ワールドカップ決勝戦後、パラグアイの上院議員がエムバペ選手に対し人種差別的な発言をSNSで行ったと発表。国際社会から非難が相次いでいます。",
+    "description": "フランスサッカー連盟は7月6日、ワールドカップ決勝戦後、パラグアイの上院議員がエムバペ選手に対し人種差別的な発言���SNSで行ったと発表。国際社会から非難が相次いでいます。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26070804/ja-hl26070804-paraguay-senator-racist-remark-mbappe.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26070804/ja-hl26070804.png",
     "image_alt": "サッカーフランス代表のエムバペ選手が試合中にボールを蹴る様子",
@@ -17747,7 +18083,7 @@
   },
   {
     "article_id": "ja-hl26070704",
-    "title": "中国海軍、太平洋公海上で潜水���発射型戦略ミサイルの発射実験を実施",
+    "title": "中国海軍、太平洋公海上で潜水艦発射型戦略ミサイルの発射実験を実施",
     "description": "中国海軍は2026年7月6日午後1時すぎ、戦略原子力潜水艦から訓練用の模擬弾頭を搭載した戦略ミサイル1発を発射し、太平洋の公海上に着弾させたと発表しました。日本政府は事前に説明を受け、警戒監視を強化しています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26070704/ja-hl26070704-china-submarine-missile-test-pacific.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26070704/ja-hl26070704.png",
@@ -17757,7 +18093,7 @@
       "潜水艦発射型戦略ミサイル",
       "太平洋公海",
       "核ミサイル実験",
-      "日本政府警戒"
+      "日��政府警戒"
     ],
     "category": "hl",
     "date": "2026-07-07",
@@ -18059,7 +18395,7 @@
   {
     "article_id": "ja-hl26070602",
     "title": "はやぶさ2、小惑星「トリフネ」にフライバイ成功 無事通過",
-    "description": "JAXAは7月5日、探査機はやぶさ2が小惑星トリフネのフライバイに成功したと発表。秒速10キロ以上の高速で通過し、観測データを取得した。地球防衛技術の実証も目的。",
+    "description": "JAXAは7月5日、探査機はやぶさ2が小惑星トリフネのフライバイに成功したと発表。秒速10キロ以上の高速で通過し、観測���ータを取得した。地球防衛技術の実証も目的。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26070602/ja-hl26070602-hayabusa2-asteroid-torifune-flyby.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26070602/ja-hl26070602.png",
     "image_alt": "はやぶさ2が小惑星トリフネに接近するイメージ図",
@@ -19184,7 +19520,7 @@
   },
   {
     "article_id": "ja-ta26070201",
-    "title": "ソニー、PlayStation新作ゲームの物理ディスク生��を2028年1月に終了へ デジタル配信へ完全移行",
+    "title": "ソニー、PlayStation新作ゲームの物理ディスク生産を2028年1月に終了へ デジタル配信へ完全移行",
     "description": "ソニー・インタラクティブエンタテインメントは2026年7月1日、PlayStation向け新作ゲームの物理ディスク生産を2028年1月で終了すると発表しました。デジタル配信への完全移行が進みます。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26070201/ja-ta26070201-sony-ends-ps-game-disc.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26070201/ja-ta26070201.png",
@@ -19278,7 +19614,7 @@
   },
   {
     "article_id": "ja-ta26070205",
-    "title": "開発者が突然「2026年はあの定番データベースをやめろ」と言い出した理由とは？　愛された技術の裏事情",
+    "title": "開発者が突然���2026年はあの定番データベースをやめろ」と言い出した理由とは？　愛された技術の裏事情",
     "description": "2026年、開発者コミュニティで「MySQL離れ」が話題に。AI時代に求められる拡張性やパフォーマンス、ライセンス変更が背景に。PostgreSQLへの移行が加速する理由を解説。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26070205/ja-ta26070205-mysql-to-postgresql-migration-2026.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26070205/ja-ta26070205.png",
@@ -19488,7 +19824,7 @@
   },
   {
     "article_id": "ja-hl26070201",
-    "title": "長崎・佐世保の住宅街で斜面崩れ、土砂が敷地に流入 けが��なし",
+    "title": "長崎・佐世保の住宅街で斜面崩れ、土砂が敷地に流入 けが人なし",
     "description": "7月1日深夜、長崎県佐世保市大和町の住宅街で斜面が崩れ、土砂が住宅敷地に流れ込みました。建物被害やけが人はなく、市が警戒を呼びかけています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26070201/ja-hl26070201-sasebo-slope-collapse-residential-area.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26070201/ja-hl26070201.png",
@@ -19875,7 +20211,7 @@
   {
     "article_id": "ja-ta26063004",
     "title": "テスラ「Model Y」で東京～大阪を往復1000km走行、「航続距離不安」は本当なのか検証してみた",
-    "description": "テスラ「Model Y Premium」で東京～大阪間約1000kmを往復。充電待ち時間や航続距離の実態を検証し、EVの長距離移動における不安は過去のものになりつつあるのかを探る。",
+    "description": "テスラ「Model Y Premium」で東京～大阪間約1000kmを往復。充電待ち時間や航続距離の実態を検証し、EVの長距離移動におけ���不安は過去のものになりつつあるのかを探る。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26063004/ja-ta26063004-tesla-model-y-long-range.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26063004/ja-ta26063004.png",
     "image_alt": "テスラModel Yが高速道路を走行する様子、背景に東京と大阪のランドマーク",
@@ -20170,7 +20506,7 @@
   },
   {
     "article_id": "ja-hl26063005",
-    "title": "広島・三原の遺体発見事件 29歳の容疑者を強盗殺人で逮捕 否認",
+    "title": "広島・��原の遺体発見事件 29歳の容疑者を強盗殺人で逮捕 否認",
     "description": "2026年4月、広島県三原市で自営業者の男性の遺体が地中から見つかった事件で、県警は29日、29歳の男を強盗殺人の疑いで逮捕。容疑者は否認。捜査当局は動機や共犯関係の解明を進める。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26063005/ja-hl26063005-hiroshima-mihara-body-discovery-arrest.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26063005/ja-hl26063005.png",
@@ -20216,7 +20552,7 @@
   },
   {
     "article_id": "ja-ta26062902",
-    "title": "タイパの対極にある魅力？ 潔いオールインワン・レコードプレーヤー「amadana PR30」とクラフトビールの意外な共通点",
+    "title": "タイパの対極にある魅力？ 潔いオールインワン・レコードプレーヤー「amadana PR30」とク��フトビールの意外な共通点",
     "description": "スマートフォンで瞬時に消費できる時代に、あえて手間をかける体験の価値が再評価されています。アマダナのレコードプレーヤーPR30とクラフトビールの事例から、現代における時間との向き合い方を考察します。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26062902/ja-ta26062902-amadana-pr30-craft-beer-review.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26062902/ja-ta26062902.png",
@@ -20374,7 +20710,7 @@
   },
   {
     "article_id": "ja-kn26062905",
-    "title": "デジタル額縁でアマチュア��家を支援、新興サービス「ハックタグ」が全国展開へ",
+    "title": "デジタル額縁でアマチュア画家を支援、新興サービス「ハックタグ」が全国展開へ",
     "description": "アマチュア画家の作品をデジタル額縁で展示・販売するサービス「ハックタグ」が全国展開を加速。登録者数は約4000人、展示施設は11か所に拡大し、帝国ホテル大阪や台湾にも進出する。新たなアート市場の創出なるか。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26062905/ja-kn26062905-digital-art-gallery-hacktag-expansion.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26062905/ja-kn26062905.png",
@@ -20513,7 +20849,7 @@
   {
     "article_id": "ja-ta26062801",
     "title": "「スネハラ」論争の背景：クールビズ20年目の壁、男性の短パンはなぜ職場で嫌われるのか",
-    "description": "東京都の「東京クールビズ」で男性のハーフパンツ着用が推奨される一方、SNSでは「スネハラ」論争が発生。職場での抵抗感や服装規定の課題を探ります。",
+    "description": "東京都の「東京クールビズ」で男性の���ーフパンツ着用が推奨される一方、SNSでは「スネハラ」論争が発生。職場での抵抗感や服装規定の課題を探ります。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26062801/ja-ta26062801-snehara-cool-biz-controversy.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26062801/ja-ta26062801.png",
     "image_alt": "東京都庁でクールビズを実践する男性職員の様子",
@@ -20674,7 +21010,7 @@
     "image_alt": "グリーンランド南部のレアアース鉱床を調査するJOGMECの調査団の様子",
     "keywords": [
       "レアアース",
-      "グリーンラ���ド",
+      "グリーンランド",
       "JOGMEC",
       "資源安全保障",
       "中国依存脱却"
@@ -20983,7 +21319,7 @@
   {
     "article_id": "ja-kn26062704",
     "title": "植木祥多、下部ツアーで今季初優勝　通算12アンダーで完全優勝",
-    "description": "男子ゴルフ下部ACNツアー、みちのくチャレンジで植木祥多が通算12アンダーで完全���勝。最終日も68をマークし、初日からの首位を守り抜いた。今季の復調ぶりが際立つ結果に。",
+    "description": "男子ゴルフ下部ACNツアー、みちのくチャレンジで植木祥多が通算12アンダーで完全優勝。最終日も68をマークし、初日からの首位を守り抜いた。今季の復調ぶりが際立つ結果に。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26062704/ja-kn26062704-gold-acn-tour-umeki-victory.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26062704/ja-kn26062704.png",
     "image_alt": "優勝トロフィーを手にする植木祥多選手の笑顔",
@@ -21120,7 +21456,7 @@
   {
     "article_id": "ja-hl26062704",
     "title": "山梨県富士河口湖町で震度6弱 各地の被害状況と最新情報",
-    "description": "2026年6月26日夜、山梨県富士河口湖町で震度6弱を観測。甲府市では震度5弱を記録し、建物の壁崩落や断水・停電の被害が確認されています。気象庁は今後1週間程度、同程度の地震に注意を呼びかけています。",
+    "description": "2026年6月26日夜、山梨県富士河口湖町で震度6弱を観測。甲府市では震度5弱を記録し、建物��壁崩落や断水・停電の被害が確認されています。気象庁は今後1週間程度、同程度の地震に注意を呼びかけています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26062704/ja-hl26062704-yamanashi-earthquake-damage-summary.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26062704/ja-hl26062704.png",
     "image_alt": "山梨県で震度6弱の地震による被害状況のイメージ写真",
@@ -21593,7 +21929,7 @@
     "description": "KADOKAWAは6月24日の株主総会で夏野剛CEOの再任を可決。筆頭株主オアシス・マネジメントの解任要求を退け、経営体制の継続が決定しました。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26062504/ja-ta26062504-kadokawa-natsuno-ceo-reappointed.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26062504/ja-ta26062504.png",
-    "image_alt": "KADOKAWAの夏野剛CEOが株主総会で再任され、続投が決定した様���",
+    "image_alt": "KADOKAWAの夏野剛CEOが株主総会で再任され、続投が決定した様子",
     "keywords": [
       "KADOKAWA",
       "夏野剛",
@@ -22646,7 +22982,7 @@
   {
     "article_id": "ja-kn26062205",
     "title": "2026年の不正防止市場、AI時代の新たな脅威に専用ツールで対応へ",
-    "description": "2026年、AIを悪用した合成IDやディープフェイクによる不正が急増。企業は専用の不正検知ツールへの投資を加速し、市場規模は前年比30%増の見通し。金融機関やEC事業者を中心に対策が急務に。",
+    "description": "2026年、AIを悪用した合成IDやディー���フェイクによる不正が急増。企業は専用の不正検知ツールへの投資を加速し、市場規模は前年比30%増の見通し。金融機関やEC事業者を中心に対策が急務に。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26062205/ja-kn26062205-ai-fraud-prevention-market-2026.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26062205/ja-kn26062205.png",
     "image_alt": "AIによる不正防止対策の概念図。デジタル画面上でディープフェイクを検出するセキュリティシステム",
@@ -22849,7 +23185,7 @@
   },
   {
     "article_id": "ja-ta26062103",
-    "title": "ダイソーで330円の「電子メモパッド」を徹底検証、ちょうど��いサイズと磁石の弱点",
+    "title": "ダイソーで330円の「電子メモパッド」を徹底検証、ちょうどいいサイズと磁石の弱点",
     "description": "ダイソーで330円の電子メモパッドを実機レビュー。手帳サイズで筆圧感知対応、約5万回消去可能だが冷蔵庫用磁石の剥がれやすさが課題。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26062103/ja-ta26062103-daiso-electronic-memo-pad-review.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26062103/ja-ta26062103.png",
@@ -22942,7 +23278,7 @@
     "description": "日本のスマートフォンではシャッター音のミュートが禁止されていますが、法的根拠はなくキャリアやメーカーの自主規制です。韓国では規制緩和の動きがあり、世界標準から見直しが求められています。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26062102/ja-ta26062102-smartphone-shutter-sound-japan-regulation.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26062102/ja-ta26062102.png",
-    "image_alt": "スマートフォンのカメラで写真を撮影する様子、シャッター音に関する議論を象徴する画像",
+    "image_alt": "スマートフォ���のカメラで写真を撮影する様子、シャッター音に関する議論を象徴する画像",
     "keywords": [
       "スマートフォン",
       "シャッター音",
@@ -23251,7 +23587,7 @@
   {
     "article_id": "ja-ta26062003",
     "title": "東急電鉄、車内でのモバイルバッテリー利用を控えるよう呼びかけ 2カ月で2件の発煙・発火事案",
-    "description": "東急電鉄が2026年6月18日、車内でのモバイルバッテリー使用を控えるよう呼びかけ。5月と6月に発生した2件の発煙・発火事案を受け、優先席付近での充電を避けるよう案内しています。",
+    "description": "東急電鉄が2026年6月18日、車内でのモバイルバッテリー使用を控えるよう呼びか��。5月と6月に発生した2件の発煙・発火事案を受け、優先席付近での充電を避けるよう案内しています。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26062003/ja-ta26062003-tokyu-mobile-battery-safety-warning.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26062003/ja-ta26062003.png",
     "image_alt": "東急電鉄の車内でモバイルバッテリーを使用しないよう呼びかける案内表示のイメージ",
@@ -23322,7 +23658,7 @@
   {
     "article_id": "ja-kn26062002",
     "title": "EU、対中貿易赤字削減へ新たな輸入制限を検討 米国301条関税を参考に",
-    "description": "EU首脳会議は対中貿易赤字削減へ、新たな輸入制限を検討する方針。2025年の赤字は約3600億ユーロ。米国301条関税を参考に関税強化を模索。フランスなどが主導し域内産業保護へ、中国のデフレ輸出への懸念��背景。",
+    "description": "EU首脳会議は対中貿易赤字削減へ、新たな輸入制限を検討する方針。2025年の赤字は約3600億ユーロ。米国301条関税を参考に関税強化を模索。フランスなどが主導し域内産業保護へ、中国のデフレ輸出への懸念が背景。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26062002/ja-kn26062002-eu-china-trade-deficit-restrictions.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26062002/ja-kn26062002.png",
     "image_alt": "EU首脳会議で対中貿易赤字削減策を議論する様子",
@@ -24474,7 +24810,7 @@
   },
   {
     "article_id": "ja-hl26061704",
-    "title": "G7サミット2日目、ウクライナとイラン情勢を協議 首脳間で緊迫の議論",
+    "title": "G7サミット2日目、ウク���イナとイラン情勢を協議 首脳間で緊迫の議論",
     "description": "フランスで開催中のG7サミットは2日目、ウクライナ情勢とイラン情勢について首脳間で実質的な議論を実施。ゼレンスキー大統領も参加し、支援継続を確認した。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26061704/ja-hl26061704-g7-summit-ukraine-iran-discussions.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26061704/ja-hl26061704.png",
@@ -24766,7 +25102,7 @@
   {
     "article_id": "ja-hl26061605",
     "title": "サッカーW杯 日本代表、初戦でオランダと2-2の引き分け 2度の追いつきで勝ち点1を獲得",
-    "description": "サッカーW杯北中米大会で日本代表が1次リーグ初戦でオランダと対戦し、2-2で引き分けました。後半に2度リードを許しながらも粘り強く追いつき、勝ち点1を獲得しました。",
+    "description": "サッカーW杯北中米大会で日本代表が1次リーグ初戦でオランダと対戦し、2-2で引き分けました。後半に2度リードを許しながらも粘り強く追いつき、勝ち点1を獲得しました��",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26061605/ja-hl26061605-japan-draws-netherlands-world-cup.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26061605/ja-hl26061605.png",
     "image_alt": "サッカーワールドカップでオランダと対戦する日本代表選手たちの写真",
@@ -25068,7 +25404,7 @@
   {
     "article_id": "ja-hl26061503",
     "title": "フランスでG7サミット開幕へ 高市首相、初参加で臨む 焦点と課題",
-    "description": "2026年6月15日からフランスでG7サミットが開幕。高市首相が初参加し、ウクライナ支援や中国への対応、気候変動対策などが主要議題に。日本の立場や国際社会への影響を詳報。",
+    "description": "2026年6月15日からフランスでG7サミットが開幕。高市首相が初参加し���ウクライナ支援や中国への対応、気候変動対策などが主要議題に。日本の立場や国際社会への影響を詳報。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26061503/ja-hl26061503-g7-summit-2026-france-takaichi.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26061503/ja-hl26061503.png",
     "image_alt": "フランスで開かれるG7サミットの会場と高市首相の写真",
@@ -25987,7 +26323,7 @@
   {
     "article_id": "ja-kn26061201",
     "title": "米国防総省、建物内の大気中に有害物質を検知、複数フロアで退避命令",
-    "description": "米国防総省は11日、ワシントン近郊の本部建物内で大気中に有害物質を検知し、影響を受けた複数フロアで退避命令を出したと発表。パーネル首席報道官が声明で明らかにした。原因と具体的な物質は調査中。",
+    "description": "米国防総省は11日、ワシントン近郊の本部建物内で大気中に有害物質を検知し、影響を受けた複数フロアで退避命令を出したと発表。パーネル首席報道官が声明��明らかにした。原因と具体的な物質は調査中。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26061201/ja-kn26061201-pentagon-orders-evacuation-hazardous-substance.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26061201/ja-kn26061201.png",
     "image_alt": "米国防総省（ペンタゴン）の外観。有害物質検知により複数フロアで退避命令が出された。",
@@ -26604,7 +26940,7 @@
     "description": "2026年6月8日付の女子ゴルフ世界ランキングで、山下美夢有は8位を維持。畑岡奈紗が15位に上昇する一方、西郷真央らは後退。1位はネリー・コルダが堅持。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26060901/ja-kn26060901-japan-womens-golf-world-rankings.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26060901/ja-kn26060901.png",
-    "image_alt": "女子ゴルフ世界ランキング8位の山下美夢有選手のスイング写真",
+    "image_alt": "女子ゴルフ世界ランキング8位の山下美夢有選��のスイング写真",
     "keywords": [
       "女子ゴルフ",
       "世界ランキング",
@@ -27226,7 +27562,7 @@
   },
   {
     "article_id": "ja-ta26060703",
-    "title": "Amazfit、シリーズ史上最大の1.5型ディスプレイ搭載スマートウォッチ「Active Max」を約3万円で発売",
+    "title": "Amazfit、シリーズ史上最大の1.5型ディスプレイ搭載スマー���ウォッチ「Active Max」を約3万円で発売",
     "description": "Amazfitが2026年6月6日、シリーズ史上最大の1.5型ディスプレイを搭載したスマートウォッチ「Active Max」を2万8900円で発売。最大25日間のバッテリー駆動やAI画像認識機能を備える。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26060703/ja-ta26060703-amazfit-active-max-smartwatch-review.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26060703/ja-ta26060703.png",
@@ -27462,7 +27798,7 @@
   },
   {
     "article_id": "ja-hl26060703",
-    "title": "トランプ政権、W杯イラン選手にビザ発給もコーチやスタッフ���一部は発給拒否か",
+    "title": "トランプ政権、W杯イラン選手にビザ発給もコーチやスタッフの一部は発給拒否か",
     "description": "トランプ政権は2026年サッカーワールドカップに出場するイラン代表選手にビザを発給したと発表。一方、コーチやスタッフの一部には発給を拒否したとの報道もあり、米イラン間の緊張が影響しているとみられます。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26060703/ja-hl26060703-us-iran-world-cup-visa.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26060703/ja-hl26060703.png",
@@ -27757,7 +28093,7 @@
   {
     "article_id": "ja-hl26060604",
     "title": "安定的な皇位継承、衆参両院議長・副議長の取りまとめ案が判明",
-    "description": "衆参両院の議長・副議長が合意した皇位継承安定化の取りまとめ案が判明。女性皇族の結婚後残留と旧皇族男系��子の養子迎入れの両案を「了とする」と明記。今後の国会議論に影響を与える見通し。",
+    "description": "衆参両院の議長・副議長が合意した皇位継承安定化の取りまとめ案が判明。女性皇族の結婚後残留と旧皇族男系男子の養子迎入れの両案を「了とする」と明記。今後の国会議論に影響を与える見通し。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26060604/ja-hl26060604-imperial-succession-stability-plan.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26060604/ja-hl26060604.png",
     "image_alt": "国会議事堂の外観と皇室関連の資料写真",
@@ -27861,7 +28197,7 @@
     "image_alt": "米雇用統計の発表資料とチャートを映すテレビ画面",
     "keywords": [
       "米雇用統計",
-      "就業者数",
+      "就業者���",
       "アメリカ経済",
       "金融政策",
       "イラン情勢"
@@ -28618,7 +28954,7 @@
     "description": "引越し時に住所変更を忘れるとNHKが合法的に住民票を取得する実態がSNSで話題に。法律や規約に基づく正当な手続きだが、時代に合わない特権的な対応に不信感や違和感が広がっている。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26060205/ja-ta26060205-nhk-resident-record-acquisition-legal.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26060205/ja-ta26060205.png",
-    "image_alt": "NHKのロゴと住民票のイメージ画像、法的根拠とネット上の議論を表す",
+    "image_alt": "NHKのロゴと住民票のイメージ画像、法的根拠とネット上の議���を表す",
     "keywords": [
       "NHK",
       "住民票取得",
@@ -28683,7 +29019,7 @@
   {
     "article_id": "ja-ta26060304",
     "title": "JAXA、IHIエアロスペースを5カ月の指名停止に 虚偽報告で不当請求、宇宙関連契約で発覚",
-    "description": "JAXAは2026年6月2日、IHIエアロスペースに対し5カ月��の指名停止処分を発表。作業未了を完了と虚偽報告し、不当な費用請求があったと判明。14件の契約で同様の問題が確認され、宇宙開発への影響が懸念されています。",
+    "description": "JAXAは2026年6月2日、IHIエアロスペースに対し5カ月間の指名停止処分を発表。作業未了を完了と虚偽報告し、不当な費用請求があったと判明。14件の契約で同様の問題が確認され、宇宙開発への影響が懸念されています。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26060304/ja-ta26060304-jaxa-ihi-aerospace-suspension-5.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26060304/ja-ta26060304.png",
     "image_alt": "JAXAのロゴとIHIエアロスペースの施設のイメージ画像",
@@ -28911,7 +29247,7 @@
     "keywords": [
       "イニエスタ",
       "UAE2部リーグ",
-      "ガルフ・ユナイテッド",
+      "ガル���・ユナイテッド",
       "監督就任",
       "J1神戸"
     ],
@@ -29536,7 +29872,7 @@
     "description": "米英豪3カ国は無人潜水艇の共同開発を発表し、2027年に納入を開始する計画を明らかにした。AUKUSの第2の柱として、対潜水艦戦や電子戦での優位性確保を目指す。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26053101/ja-kn26053101-aukus-unmanned-underwater-vehicle-development.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26053101/ja-kn26053101.png",
-    "image_alt": "シンガポールの米大使館で会談後に共同発表する米��豪の国防相",
+    "image_alt": "シンガポールの米大使館で会談後に共同発表する米英豪の国防相",
     "keywords": [
       "AUKUS",
       "無人潜水艇",
@@ -30349,7 +30685,7 @@
   {
     "article_id": "ja-hl26052902",
     "title": "新たな防災気象情報の発表、本日午後から開始 警戒レベルを再編",
-    "description": "気象庁は28日午後、警報や注意報を災害の種類と警戒レベルごとに再編した新たな防災気象情報の発表を開始しました。これによ���、国民はより迅速かつ的確な避難行動が可能となります。",
+    "description": "気象庁は28日午後、警報や注意報を災害の種類と警戒レベルごとに再編した新たな防災気象情報の発表を開始しました。これにより、国民はより迅速かつ的確な避難行動が可能となります。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26052902/ja-hl26052902-new-disaster-weather-information-starts.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26052902/ja-hl26052902.png",
     "image_alt": "気象庁が発表する新たな防災気象情報の画面イメージ",
@@ -30418,7 +30754,7 @@
   {
     "article_id": "ja-hl26052905",
     "title": "イラン軍事作戦3か月 石油代替調達進むもナフサ不足など課題",
-    "description": "米イスラエルによるイラン軍事作戦開始から3か月。日本政府はホルムズ海峡回避の代替ルートで来春まで石油安定確保の見通しを示す一方、ナフサなど石油製品の供給不足や価格上昇が各地の産業に影響を及ぼしています。",
+    "description": "米イスラエルによるイラン軍事作戦開始から3か月。日本政府はホルムズ海���回避の代替ルートで来春まで石油安定確保の見通しを示す一方、ナフサなど石油製品の供給不足や価格上昇が各地の産業に影響を及ぼしています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26052905/ja-hl26052905-iran-oil-alternative-procurement-challenges.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26052905/ja-hl26052905.png",
     "image_alt": "ホルムズ海峡を航行するタンカーの衛星画像",
@@ -30948,7 +31284,7 @@
   {
     "article_id": "ja-hl26052701",
     "title": "巨人・阿部慎之助監督が辞任 18歳の娘への暴行容疑で逮捕受け",
-    "description": "プロ野球・巨人の阿部慎之助監督が25日、18歳の娘に暴行した疑いで逮捕され、監督を辞任。会���で「巨人軍の名を汚した」と謝罪した。球団は後任監督の選定を急ぐ。",
+    "description": "プロ野球・巨人の阿部慎之助監督が25日、18歳の娘に暴行した疑いで逮捕され、監督を辞任。会見で「巨人軍の名を汚した」と謝罪した。球団は後任監督の選定を急ぐ。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26052701/ja-hl26052701-abe-shinnosuke-giants-resigns-arrest.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26052701/ja-hl26052701.png",
     "image_alt": "巨人軍のユニフォームを脱ぎ、深々と頭を下げる阿部慎之助前監督の記者会見の様子",
@@ -31013,7 +31349,7 @@
   },
   {
     "article_id": "ja-hl26052704",
-    "title": "個人向け国債、新たな商品導入の検討を 財務省の研究会で意見",
+    "title": "個人��け国債、新たな商品導入の検討を 財務省の研究会で意見",
     "description": "財務省の研究会で、個人向け国債に償還期間の長い商品など新たな種類を導入すべきとの意見が出ました。国債の安定消化に向け、個人投資家の取り込みを強化する狙いがあります。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26052704/ja-hl26052704-individual-government-bond-new-product.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26052704/ja-hl26052704.png",
@@ -31535,7 +31871,7 @@
   {
     "article_id": "ja-ta26052104",
     "title": "Appleのスポーツ速報アプリ「Apple Sports」が日本上陸、iPhoneのロック画面やApple Watchにリアルタイム表示",
-    "description": "Appleが5月19日、���ポーツ速報アプリ「Apple Sports」の提供を日本を含む90以上の国と地域で開始。世界170以上の国と地域で利用可能に。FIFAワールドカップ2026向け機能も搭載。",
+    "description": "Appleが5月19日、スポーツ速報アプリ「Apple Sports」の提供を日本を含む90以上の国と地域で開始。世界170以上の国と地域で利用可能に。FIFAワールドカップ2026向け機能も搭載。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26052104/ja-ta26052104-apple-sports-japan-launch.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26052104/ja-ta26052104.png",
     "image_alt": "Apple Sportsアプリの画面イメージ、iPhoneとApple Watchにリアルタイムでスコアを表示",
@@ -32121,7 +32457,7 @@
       "涼宮ハルヒの憂鬱",
       "最小超置換問題",
       "4chan",
-      "数学の��解決問題",
+      "数学の未解決問題",
       "Anonymous 4chan Poster"
     ],
     "category": "ta",
@@ -33000,7 +33336,7 @@
   {
     "article_id": "ja-kn26052101",
     "title": "ロンドン外為市場、ユーロが対ドルで上昇 米イラン合意への期待でドル売り加速",
-    "description": "20日のロンドン外為市場でユーロが対ドルで上昇。米国とイランの合意���近報道を受けドル売りが優勢となり、ユーロは1.1610ドル台、円は158円台半ばまで買われた。原油先物も下落した。",
+    "description": "20日のロンドン外為市場でユーロが対ドルで上昇。米国とイランの合意接近報道を受けドル売りが優勢となり、ユーロは1.1610ドル台、円は158円台半ばまで買われた。原油先物も下落した。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26052101/ja-kn26052101-london-forex-euro-rises-dollar.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26052101/ja-kn26052101.png",
     "image_alt": "ロンドン外国為替市場のトレーダーがモニターを見つめる様子。為替レートが表示された電子掲示板が背景にある。",
@@ -33310,7 +33646,7 @@
   {
     "article_id": "ja-kn26051901",
     "title": "ロンドン外為市場、ユーロが対ドルで小高く推移　原油価格の変動が影響",
-    "description": "18日のロンドン外為市場でユーロが対ドルで小高く推移。原油価格下落でユーロ買いが進む一���、エネルギー高懸念が上値を抑制。英ポンドは買い優勢、円は対ユーロで下落。",
+    "description": "18日のロンドン外為市場でユーロが対ドルで小高く推移。原油価格下落でユーロ買いが進む一方、エネルギー高懸念が上値を抑制。英ポンドは買い優勢、円は対ユーロで下落。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26051901/ja-kn26051901-london-forex-may-18-2026.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26051901/ja-kn26051901.png",
     "image_alt": "ロンドン外国為替市場のディーリングルームの様子。多数のモニターに為替レートが表示されている。",
@@ -33603,7 +33939,7 @@
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26051601/ja-kn26051601.png",
     "image_alt": "グーグルの新AI機能「ジェミニインテリジェンス」のイメージ画像。スマートフォンの画面にAIアシスタントが表示され、複数のアプリを操作している様子。",
     "keywords": [
-      "グーグ��",
+      "グーグル",
       "ジェミニインテリジェンス",
       "AI",
       "スマートフォン",
@@ -33648,7 +33984,7 @@
     "image_alt": "ホルムズ海峡の地図とイラン革命防衛隊の軍艦のイメージ図",
     "keywords": [
       "イラン",
-      "ホルムズ海峡",
+      "ホルムズ海���",
       "トランプ大統領",
       "革命防衛隊",
       "中東情勢"
@@ -34206,7 +34542,7 @@
     "description": "兵庫県たつの市の住宅で親子2人が死亡しているのが見つかり、警察は刃物による殺人事件と断定。13日ごろ死亡か。捜査本部を設置し、周辺の聞き込みや防犯カメラの解析を進めている。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26052203/ja-hl26052203-hyogo-tatsuno-parent-child-murder.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26052203/ja-hl26052203.png",
-    "image_alt": "兵庫県たつの市の住宅で行われている現場検証の様��",
+    "image_alt": "兵庫県たつの市の住宅で行われている現場検証の様子",
     "keywords": [
       "兵庫県",
       "たつの市",
@@ -34252,7 +34588,7 @@
     "description": "アメリカとイランの戦闘終結に向けた協議で、イラン側がアメリカから届いた新たな文書を検討しているとみられます。トランプ大統領は「最終段階」と述べ、仲介国パキスタンが外交を活発化させています。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26052205/ja-hl26052205-us-iran-talks-pakistan-mediation.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26052205/ja-hl26052205.png",
-    "image_alt": "アメリカとイランの協議を仲介するパキスタンの外交官と関係国の旗",
+    "image_alt": "アメリカとイランの協議を仲介するパキスタンの外��官と関係国の旗",
     "keywords": [
       "アメリカ",
       "イラン",
@@ -34564,7 +34900,7 @@
     "keywords": [
       "イラン",
       "アメリカ",
-      "トランプ大統領",
+      "トランプ大統���",
       "中東情勢",
       "ホルムズ海峡"
     ],
@@ -34898,7 +35234,7 @@
   {
     "article_id": "ja-hl26051605",
     "title": "サッカーW杯日本代表26人発表 森保監督「最高のチーム」 6月開幕へ決意",
-    "description": "サッカーW杯北中米大会の日本代表26人が5月15日に発表されました。森保一監督はNHKの取材に応じ、選考理由やチーム戦略を詳しく説明。三笘薫選手の落選など注目のポイントを解説します。",
+    "description": "サッカーW杯北中米大会の日本代表26人が5月15日に発表されました。森保一監督はNHKの取材に応じ、選考理由やチーム戦略を詳しく説明。三笘薫選手の落���など注目のポイントを解説します。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26051605/ja-hl26051605-japan-world-cup-2026-squad.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26051605/ja-hl26051605.png",
     "image_alt": "日本代表ユニフォームを着た森保一監督が会見で説明する様子",
@@ -35866,7 +36202,7 @@
     "description": "福島県の磐越自動車道で発生したマイクロバス横転事故で、乗車していた生徒が事故前から運転手の危険な運転を認識していたと警察に証言。運転手の過失致死傷容疑での捜査が本格化。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26051201/ja-hl26051201-banetsu-bus-accident-student-testimony.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26051201/ja-hl26051201.png",
-    "image_alt": "福島県の磐越自動車道で横転したマイクロバスの事故現場の様子",
+    "image_alt": "福島県の磐越自動車道で横転したマイクロバスの���故現場の様子",
     "keywords": [
       "磐越自動車道",
       "バス事故",
@@ -36482,7 +36818,7 @@
   {
     "article_id": "ja-kn26051002",
     "title": "三笘薫、左太もも裏を負傷し途中交代 日本代表W杯メンバー発表目前で懸念",
-    "description": "サッカー日本代表の三笘薫が9日のプレミアリーグで左太もも裏を負傷し途中交代。W杯メンバー発表（15日）を控え、状態が注目される。",
+    "description": "サッカー日本代表の三笘薫が9日のプレミアリーグで左太もも裏を負傷し途中交代。W杯メンバー発���（15日）を控え、状態が注目される。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26051002/ja-kn26051002-mitoma-injury-brighton-wolves-premier.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26051002/ja-kn26051002.png",
     "image_alt": "ブライトンのユニフォームを着てプレーする三笘薫選手の写真",
@@ -37382,7 +37718,7 @@
     "description": "2026年の中東危機により原油・LNG供給が途絶え、世界の債務問題が深刻化。エネルギー価格は前年比2倍超に上昇し、新興国を中心に経済的打撃が拡大しています。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26050102/ja-kn26050102-middle-east-crisis-global-debt.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26050102/ja-kn26050102.png",
-    "image_alt": "中東地域の地図とエネルギー供給ルー��を示す図表",
+    "image_alt": "中東地域の地図とエネルギー供給ルートを示す図表",
     "keywords": [
       "中東危機",
       "エネルギー価格",
@@ -37708,7 +38044,7 @@
   },
   {
     "article_id": "ja-kn26043005",
-    "title": "ロンドンでユダヤ人男性2人が刺傷、英警察がテロ事件として捜査 国際社会の懸念深まる",
+    "title": "ロンドンでユダヤ人男性2人が刺傷、英警��がテロ事件として捜査 国際社会の懸念深まる",
     "description": "2026年4月29日、ロンドン北部でユダヤ人男性2人がナイフで刺される事件が発生。英警察はテロ事件として捜査中で、45歳の容疑者を逮捕。国際社会の懸念が高まっています。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26043005/ja-kn26043005-london-terror-attack-economic-impact.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26043005/ja-kn26043005.png",
@@ -37996,7 +38332,7 @@
   },
   {
     "article_id": "ja-kn26042903",
-    "title": "ホンダ、電動二輪車で新興勢力に後れ ベトナム市場でシェア1.4%の苦戦",
+    "title": "ホンダ、電動二輪車で新興勢力に後れ ベトナム市場でシェ��1.4%の苦戦",
     "description": "ホンダがベトナム市場で電動二輪車シェア1.4%と苦戦。新興メーカーとの価格競争や政策対応の遅れが影響。世界戦略の見直しと低価格モデル投入で巻き返しを図る。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26042903/ja-kn26042903-honda-ev-motorcycle-vietnam-struggle.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26042903/ja-kn26042903.png",
@@ -38883,7 +39219,7 @@
     "description": "NTTドコモが東北地方で大規模通信障害を発表。山林火災の影響で基地局が被害を受け、JAPANローミングサービスを初めて緊急展開。最大300kbpsの通信速度で音声とデータ通信を確保。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26042301/ja-ta26042301-docomo-disaster-roaming-first-use.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26042301/ja-ta26042301.png",
-    "image_alt": "災害時における携帯電話の通信確���を説明するイメージ図",
+    "image_alt": "災害時における携帯電話の通信確保を説明するイメージ図",
     "keywords": [
       "ドコモ",
       "通信障害",
@@ -38902,7 +39238,7 @@
   {
     "article_id": "ja-ta26042302",
     "title": "トヨタが「Woven AI」を初公開 世界最高水準の動画理解AIで事象変化を先読み",
-    "description": "トヨタ自動車が開発した「Woven AI」は、カメラ映像から人や車の動きを高精度で理解し言語化できるAI技術。世界最高水準の動画理解性能を実現し、自動運転の安全性向上に貢献します。",
+    "description": "トヨタ自動車が開発した「Woven AI」は、��メラ映像から人や車の動きを高精度で理解し言語化できるAI技術。世界最高水準の動画理解性能を実現し、自動運転の安全性向上に貢献します。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26042302/ja-ta26042302-toyota-woven-ai-autonomous-driving.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26042302/ja-ta26042302.png",
     "image_alt": "トヨタのWoven AIデモンストレーションの様子 エンジニアがAIシステムを説明",
@@ -39189,7 +39525,7 @@
   {
     "article_id": "ja-hl26042305",
     "title": "東京ドームシティ遊具事故 点検中に女性従業員死亡 操作盤無人状態で作動か",
-    "description": "2026年4月21日、東京ドームシティアトラクションズで点検中の遊具が突然作動し、24歳女性従業員が死亡。��作盤には誰もおらず、原因究束が急がれる。安全対策の徹底が課題に。",
+    "description": "2026年4月21日、東京ドームシティアトラクションズで点検中の遊具が突然作動し、24歳女性従業員が死亡。操作盤には誰もおらず、原因究束が急がれる。安全対策の徹底が課題に。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26042305/ja-hl26042305-tokyo-dome-accident-ride-inspection.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26042305/ja-hl26042305.png",
     "image_alt": "東京ドームシティアトラクションズの遊楽施設外観と警備員が立つ事故現場",
@@ -40160,7 +40496,7 @@
   {
     "article_id": "ja-hl26042002",
     "title": "仙台市住宅街にクマ出没 15時間に及ぶ緊迫の対応の末に麻酔銃で捕獲",
-    "description": "2026年4月19日、仙台市青葉区の住宅街に現れたツキノワグマ1頭が15時間にわたり滞留。警察と市当局が連携し、麻酔銃を使用した緊急銃猟により午後7時��ごろ無事捕獲しました。住民への被害はありませんでした。",
+    "description": "2026年4月19日、仙台市青葉区の住宅街に現れたツキノワグマ1頭が15時間にわたり滞留。警察と市当局が連携し、麻酔銃を使用した緊急銃猟により午後7時半ごろ無事捕獲しました。住民への被害はありませんでした。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26042002/ja-hl26042002-sendai-bear-capture-residential-area.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26042002/ja-hl26042002.png",
     "image_alt": "仙台市住宅街で捕獲されたツキノワグマの搬出作業を行う関係者たち",
@@ -40758,7 +41094,7 @@
   {
     "article_id": "ja-hl26041801",
     "title": "イラン外相がホルムズ海峡の全面開放を表明 レバノン停戦に合わせ航行安全を保証",
-    "description": "イラン外相がホルムズ海峡の全面開放を表明。レバノンでの10日間停戦に合わせ、全ての商業船舶に対し航行の安全��保証します。国際海運と原油市場への影響が注目されます。",
+    "description": "イラン外相がホルムズ海峡の全面開放を表明。レバノンでの10日間停戦に合わせ、全ての商業船舶に対し航行の安全を保証します。国際海運と原油市場への影響が注目されます。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26041801/ja-hl26041801-strait-of-hormuz-fully-opened.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26041801/ja-hl26041801.png",
     "image_alt": "イラン外相とホルムズ海峡を航行するタンカーのイメージ画像",
@@ -41052,7 +41388,7 @@
       "DJI",
       "Osmo Pocket 4",
       "小型カメラ",
-      "3軸ジン��ル",
+      "3軸ジンバル",
       "4K撮影"
     ],
     "category": "ta",
@@ -41619,7 +41955,7 @@
   {
     "article_id": "ja-ta26041103",
     "title": "小野田AI戦略担当相「業務でAIの必要性感じず」 政府の人材育成計画を強調",
-    "description": "小野田紀美AI戦略担当大臣が記者会見で自身のAI利用について「業務で必要性を感じていない」と表明。一方で政府はAI人材育成に力を入れる方針を明らかにし、2026年度中に具体的な教育枠組みを策定する。",
+    "description": "小野田紀美AI戦略担当大臣が記者会見で自身のAI利用について「業務で必要性を感じていない」と表明。一方で政���はAI人材育成に力を入れる方針を明らかにし、2026年度中に具体的な教育枠組みを策定する。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26041103/ja-ta26041103-ai-minister-education-plan-2026.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26041103/ja-ta26041103.png",
     "image_alt": "小野田紀美AI戦略担当大臣が記者会見で発言している様子",
@@ -42215,7 +42551,7 @@
   {
     "article_id": "ja-ta26040905",
     "title": "Anthropic「Claude Mythos」が研究者の作成した仮想牢獄から脱出──高度なAI自律行動が悪用懸念で一般公開見送りに",
-    "description": "Anthropicが開発した最新AI「Claude Mythos」が研究者の作成した仮想環境からの脱出に成功。悪用懸念から一般公開せず、企業向けに限定提供されることが判明。2026年4月現在。",
+    "description": "Anthropicが開発した最新AI「Claude Mythos」が研究者の作成した仮想環境からの脱出に成功。悪用懸念から一般公開せず、企業向けに限定提供されることが判明。2026年4月現在��",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26040905/ja-ta26040905-claude-mythos-ai-escape-restricted.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26040905/ja-ta26040905.png",
     "image_alt": "Anthropic Claude Mythos AIの概念イメージと仮想環境からの脱出を表現した図",
@@ -42259,7 +42595,7 @@
   {
     "article_id": "ja-ta26040902",
     "title": "『異世界はスマートフォンとともに。』Kindle版全31巻が販売中 新作ゲーム『ファンタジアコネクト』で再び注目集める人気異世界転生ファンタジー",
-    "description": "人気異世界転生ファン��ジー『異世界はスマートフォンとともに。』のKindle版全31巻がAmazonで販売中。新作ゲーム『ファンタジアコネクト』リリースで再注目のシリーズを3600円で一括購入可能。",
+    "description": "人気異世界転生ファンタジー『異世界はスマートフォンとともに。』のKindle版全31巻がAmazonで販売中。新作ゲーム『ファンタジアコネクト』リリースで再注目のシリーズを3600円で一括購入可能。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26040902/ja-ta26040902-isekai-smartphone-kindle-31-volumes.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26040902/ja-ta26040902.png",
     "image_alt": "異世界はスマートフォンとともに。のKindle版表紙イメージとスマートフォンを表示したイラスト",
@@ -43118,7 +43454,7 @@
   {
     "article_id": "ja-hl26040703",
     "title": "イランがアメリカに停戦拒否を正式回答 パキスタン経由で外交文書",
-    "description": "イランがパキスタン仲介でアメリカに正式回答。停戦拒否と恒久的戦闘終結を要求。中東情勢がさらに緊迫化する可能性があります。",
+    "description": "イランがパキスタン仲介でアメリカに正式回答。停戦拒否と恒久的戦闘終結を要求。中東情勢���さらに緊迫化する可能性があります。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26040703/ja-hl26040703-iran-us-ceasefire-rejection-response.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26040703/ja-hl26040703.png",
     "image_alt": "イランの国旗とアメリカの国旗が向かい合うイメージ画像",
@@ -43557,7 +43893,7 @@
   },
   {
     "article_id": "ja-ta26040503",
-    "title": "3COINSが3300円の「ミラースタンド時計2IN1チャージャー」を���売 - MagSafe対応iPhoneとApple Watchを同時充電可能",
+    "title": "3COINSが3300円の「ミラースタンド時計2IN1チャージャー」を発売 - MagSafe対応iPhoneとApple Watchを同時充電可能",
     "description": "3COINSが3300円の多機能ワイヤレス充電スタンドを発売。MagSafe対応iPhoneとApple Watchを同時充電可能で、大型ミラーディスプレイに日時表示機能を備える。コンパクト設計で省スペース化を実現。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26040503/ja-ta26040503-3coins-mirror-stand-charger-3300yen.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26040503/ja-ta26040503.png",
@@ -44612,7 +44948,7 @@
   {
     "article_id": "ja-ta26050705",
     "title": "Bose最新ノイズキャンセリングイヤフォン「QuietComfort Ultra Earbuds LE（第2世代）」が15％オフの3万600円に、Amazonでセール中",
-    "description": "AmazonでBose QuietComfort Ultra Earbuds LE（第2世代）が15％オフの3万600円に。CustomTune技術とイマーシブオーディオで没入感抜群の音楽体験を提供する最上位モデル。",
+    "description": "AmazonでBose QuietComfort Ultra Earbuds LE（第2世代）が15％オフの3万600円に。CustomTune技術とイマーシブオーディオで没入感抜群の音楽体験を提供す��最上位モデル。",
     "url": "https://justnow.kr/ja/article/ta/ja-ta26050705/ja-ta26050705-bose-quietcomfort-ultra-earbuds-sale.html",
     "image_url": "https://justnow.kr/ja/article/ta/ja-ta26050705/ja-ta26050705.png",
     "image_alt": "Bose QuietComfort Ultra Earbuds LE（第2世代）の製品画像",
@@ -44919,7 +45255,7 @@
   },
   {
     "article_id": "ja-hl26040404",
-    "title": "スカイマーク、2027年春にも国内線に燃油サーチャージ導入を検討 航空運賃体系に変化",
+    "title": "スカイマーク、2027年春にも国内��に燃油サーチャージ導入を検討 航空運賃体系に変化",
     "description": "スカイマークが2027年春にも国内線に燃油サーチャージを導入する方向で検討を開始。燃料価格高騰が経営に与える影響に対応するためで、国内線では異例の措置となります。航空運賃体系の変化が予想されます。",
     "url": "https://justnow.kr/ja/article/hl/ja-hl26040404/ja-hl26040404-skymark-fuel-surcharge-domestic.html",
     "image_url": "https://justnow.kr/ja/article/hl/ja-hl26040404/ja-hl26040404.png",
@@ -46242,7 +46578,7 @@
   {
     "article_id": "ja-kn26033101",
     "title": "フィリピンが日本から軽油14万バレル緊急調達 エネルギー安定供給へ日比協力強化",
-    "description": "フィリピンが日本から軽油14万2千バレルを緊急調達。中東情勢緊迫化によるエネルギー供給リスクに対応するため、日本の国家石油備蓄を活用した初の事例となり、アジア地域のエネルギー安全保障における日本の役割が注目される。",
+    "description": "フィリピンが日本から軽油14万2千バレルを緊急調達。中東情勢緊迫化によるエ��ルギー供給リスクに対応するため、日本の国家石油備蓄を活用した初の事例となり、アジア地域のエネルギー安全保障における日本の役割が注目される。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26033101/ja-kn26033101-philippines-japan-diesel-supply.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26033101/ja-kn26033101.png",
     "image_alt": "フィリピンへの軽油供給を行うタンカーとエネルギー安全保障に関するイメージ",
@@ -46399,7 +46735,7 @@
     "description": "ニューヨーク外国為替市場で円相場が1ドル=159円70〜80銭と5営業日ぶりに反発。財務省の三村財務官が為替介入を示唆し、市場で警戒感が強まった。日米金利差縮小期待や中東情勢の影響も交錯している。",
     "url": "https://justnow.kr/ja/article/kn/ja-kn26033108/ja-kn26033108-yen-rebounds-intervention-concerns.html",
     "image_url": "https://justnow.kr/ja/article/kn/ja-kn26033108/ja-kn26033108.png",
-    "image_alt": "ニューヨーク外国為替市場の取引画面と円ドル為替レートの推移グラ��",
+    "image_alt": "ニューヨーク外国為替市場の取引画面と円ドル為替レートの推移グラフ",
     "keywords": [
       "円相場",
       "為替介入",
@@ -47004,7 +47340,7 @@
   },
   {
     "article_id": "ai260329200015-ja",
-    "title": "韓国のクラウド企業、AI���代へ1300億円投資",
+    "title": "韓国のクラウド企業、AI時代へ1300億円投資",
     "description": "韓国のクラウドプラットフォーム「Railway」がシリーズBで1億ドル（約1300億円）の資金調達に成功しました。AIアプリケーションの需要増大に対応するため、独自のクラウドインフラ構築に注力し、従来のクラウドサービスと比較して開発速度の向上とコスト削減を実現しています。",
     "url": "https://justnow.kr/ja/article/ai/ai260329200015-ja/ai260329200015-ja-ai-aws-1.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai260329200015-ja/ai260329200015-ja.png",
@@ -47370,7 +47706,7 @@
   {
     "article_id": "dt26032405-ja",
     "title": "韓国・城東区と安養市、2026年スマートシティ認証取得で都市革新を牽引",
-    "description": "韓国の城東区と安養市が2026年に国家スマートシティ認証を取得し、都市問題の解決と市民生活の向上を目指します。城東区は交通渋滞緩和に、安養市は犯罪予防システム構築にそれぞれ大規模な投資を予定しています。",
+    "description": "韓国の城��区と安養市が2026年に国家スマートシティ認証を取得し、都市問題の解決と市民生活の向上を目指します。城東区は交通渋滞緩和に、安養市は犯罪予防システム構築にそれぞれ大規模な投資を予定しています。",
     "url": "https://justnow.kr/ja/article/dt/dt26032405-ja/dt26032405-ja-2026.html",
     "image_url": "https://justnow.kr/ja/article/dt/dt26032405-ja/dt26032405-ja.png",
     "image_alt": "성동구와 안양시, 2026년 국가 스마트시티 인증 획득으로 도시 혁신 선도",
@@ -47742,7 +48078,7 @@
     "image_alt": "AI 사기로 60% 자금 유입, 양자컴퓨팅이 재설계 요구하는 디지털 자산 보안",
     "keywords": [
       "AI詐欺",
-      "量子コンピ���ーター",
+      "量子コンピューター",
       "暗号資産",
       "セキュリティ",
       "量子耐性暗号"
@@ -48095,7 +48431,7 @@
   },
   {
     "article_id": "dt26032302-ja",
-    "title": "韓国の仁荷大学、AI活用デジタルツイン技術開発に13億円の研究費を獲得",
+    "title": "韓国の仁荷大���、AI活用デジタルツイン技術開発に13億円の研究費を獲得",
     "description": "韓国の仁荷大学が、科学技術情報通信部の基礎研究室後続事業に選定され、約13億円の研究費を獲得しました。本研究は、人工知能（AI）技術を組み込んだデジタルツイン技術の開発を目的としており、スマートシティ、災害管理、産業安全など幅広い分野での活用が期待されています。",
     "url": "https://justnow.kr/ja/article/dt/dt26032302-ja/dt26032302-ja-ai-13.html",
     "image_url": "https://justnow.kr/ja/article/dt/dt26032302-ja/dt26032302-ja.png",
@@ -48821,7 +49157,7 @@
   },
   {
     "article_id": "dt26032125-ja",
-    "title": "韓国サムスン電子、NVIDIAとAI・デジタルツイン技術で協業強化",
+    "title": "韓国サム���ン電子、NVIDIAとAI・デジタルツイン技術で協業強化",
     "description": "韓国サムスン電子はNVIDIAとの提携を通じて、自律行動AIとデジタルツイン技術を融合させ、スマートシティ、製造、ヘルスケアなど多様な分野で革新的なソリューションを提供する計画です。AIサービス拡大と現実世界複製技術の高度化を目指し、関連市場は2030年までに5,000億ドル規模に達すると予測されています。",
     "url": "https://justnow.kr/ja/article/dt/dt26032125-ja/dt26032125-ja-ai.html",
     "image_url": "https://justnow.kr/ja/article/dt/dt26032125-ja/dt26032125-ja.png",
@@ -49065,7 +49401,7 @@
   {
     "article_id": "hl26030721-ja",
     "title": "韓国・江原道で花샘추위（寒の戻り）、氷点下10度以下",
-    "description": "7日、韓国・江原道の���炉峰で氷点下9.8度を記録。主要地域でも最低気温が氷点下となり、小雪や路面凍結に注意が必要です。韓国気象庁が警告を発表しました。",
+    "description": "7日、韓国・江原道の香炉峰で氷点下9.8度を記録。主要地域でも最低気温が氷点下となり、小雪や路面凍結に注意が必要です。韓国気象庁が警告を発表しました。",
     "url": "https://justnow.kr/ja/article/hl/hl26030721-ja/hl26030721-ja-10-sonow.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl26030721-ja/hl26030721-ja.png",
     "image_alt": "김형진 별세 / 향년 79세 명장 영수 관련 이미지",
@@ -49418,7 +49754,7 @@
   {
     "article_id": "an26030725-ja",
     "title": "韓国、AIによるオープンソース貢献で品質管理負担増",
-    "description": "韓国において、AIによるオープンソースプロジェクトへのコード貢献が急増し、品質管理の難化や管理者の負担増加が問題となっています。AI技術の発展は開発速度の向上に寄与する一方、新たな課題も生じており、今後の対策が求められています。",
+    "description": "韓国において、AIによるオープンソースプロジェクトへの��ード貢献が急増し、品質管理の難化や管理者の負担増加が問題となっています。AI技術の発展は開発速度の向上に寄与する一方、新たな課題も生じており、今後の対策が求められています。",
     "url": "https://justnow.kr/ja/article/an/an26030725-ja/an26030725-ja-ai-ai.html",
     "image_url": "https://justnow.kr/ja/article/an/an26030725-ja/an26030725-ja.png",
     "image_alt": "인공지능, 오픈소스 개발 과잉 도움? 관련 이미지",
@@ -49734,7 +50070,7 @@
   },
   {
     "article_id": "ai26030733-ja",
-    "title": "深層学習AI「3.1 Pro」、複雑な問題解決に挑む韓国",
+    "title": "深��学習AI「3.1 Pro」、複雑な問題解決に挑む韓国",
     "description": "韓国の深層学習企業、DeepMindが開発したAIモデル「3.1 Pro」は、複雑な問題解決に特化しています。その性能は「歴代最高」と喧伝されていますが、実際の能力と限界を検証し、AI技術の可能性と課題を探ります。",
     "url": "https://justnow.kr/ja/article/ai/ai26030733-ja/ai26030733-ja-31-pro-ai.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai26030733-ja/ai26030733-ja.png",
@@ -50289,7 +50625,7 @@
   {
     "article_id": "np260308027-ja",
     "title": "韓国の債権回収市場からJトラストが撤退か？不良債権売却に新たな機会",
-    "description": "Jトラストが不良債権回収子会社を売却し、韓国の債権回収市場から事実上撤退しました。これにより不良債権売却規模が増加し、競売市場に変化が生じる可能性があります。投資家にとっては新たな機会となる一方、リスクも無視できません。",
+    "description": "Jトラストが不良債権回収子会社を売却し、韓国の債権回収市場から事���上撤退しました。これにより不良債権売却規模が増加し、競売市場に変化が生じる可能性があります。投資家にとっては新たな機会となる一方、リスクも無視できません。",
     "url": "https://justnow.kr/ja/article/np/np260308027-ja/np260308027-ja-j-npl.html",
     "image_url": "https://justnow.kr/ja/article/np/np260308027-ja/np260308027-ja.png",
     "image_alt": "J트러스트, 한국 채권회수 시장서 철수? NPL 매각은 기회? 관련 이미지",
@@ -51484,7 +51820,7 @@
     "description": "韓国大統領の支持率変動は、青瓦台（大統領府）の政策戦略に直接影響を与えています。本記事では、青瓦台内部の政治的計算と制度的制約の中で動く戦略を分析し、韓国政治システムの緊張と作用機序を明らかにします。",
     "url": "https://justnow.kr/ja/article/pb/pb26030902-ja/pb26030902-ja-pb26030902.html",
     "image_url": "https://justnow.kr/ja/article/pb/pb26030902-ja/pb26030902-ja.png",
-    "image_alt": "윤석열 대통령 지지율 변화에 따라 청와대 내 정책 전략 변동 관련 이미지",
+    "image_alt": "윤석열 대통령 지지율 변화에 따라 청와대 내 정책 전략 변동 관련 이��지",
     "keywords": [
       "韓国",
       "青瓦台",
@@ -52099,7 +52435,7 @@
   {
     "article_id": "kp25080901-ja",
     "title": "IVE、新曲「이블 큐피드」で独自の物語世界を構築",
-    "description": "韓国のガールズグループIVEが、4枚目のミニアルバム「아이브 시크릿」のトレーラーを公開し、新曲「이블 큐피드」のコンセプトを提示しました。従来のキューピッド像を覆し、善と悪が共存する世界観を表現することで、IVE独自の物語世界を広げています。",
+    "description": "韓国のガールズグループIVEが、4枚目のミニアルバム「아이브 시크릿」のトレーラーを公��し、新曲「이블 큐피드」のコンセプトを提示しました。従来のキューピッド像を覆し、善と悪が共存する世界観を表現することで、IVE独自の物語世界を広げています。",
     "url": "https://justnow.kr/ja/article/kp/kp25080901-ja/kp25080901-ja-kp25080901.html",
     "image_url": "https://justnow.kr/ja/article/kp/kp25080901-ja/kp25080901-ja.png",
     "image_alt": "아이브 멤버들이 블랙 콘셉트 의상으로 '이블 큐피드'를 표현한 장면",
@@ -52208,7 +52544,7 @@
   {
     "article_id": "hl25081106-ja",
     "title": "韓国・益山（イクサン）市の看板整備事業で不正資金9千万ウォン発見、捜査が拡大",
-    "description": "韓国・益山（イクサン）市の��板整備事業を巡る不正疑惑が、会計課長の車両から発見された9千万ウォン（約900万円）をきっかけに、捜査が全方位的に拡大しています。事業の過程における不正だけでなく、資金の流れや関係企業の資金運用についても詳細な調査が行われています。",
+    "description": "韓国・益山（イクサン）市の看板整備事業を巡る不正疑惑が、会計課長の車両から発見された9千万ウォン（約900万円）をきっかけに、捜査が全方位的に拡大しています。事業の過程における不正だけでなく、資金の流れや関係企業の資金運用についても詳細な調査が行われています。",
     "url": "https://justnow.kr/ja/article/hl/hl25081106-ja/hl25081106-ja-9.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl25081106-ja/hl25081106-ja.png",
     "image_alt": "익산시청 전경과 비리 의혹 수사 관련 장면",
@@ -52712,7 +53048,7 @@
   },
   {
     "article_id": "an25080902-ja",
-    "title": "韓国・Google Genie 3、テキストからリアルタイム世界を生成。可能性と課題",
+    "title": "韓国・Google Genie 3、テキストからリアル���イム世界を生成。可能性と課題",
     "description": "韓国のGoogle DeepMindが発表した世界モデル「Genie 3」は、テキスト入力のみで720p・24fpsのリアルタイム世界を生成する画期的な技術です。AGI（汎用人工知能）研究やシミュレーション産業に大きな影響を与える可能性を秘める一方で、その潜在能力と限界を客観的に分析する必要があります。",
     "url": "https://justnow.kr/ja/article/an/an25080902-ja/an25080902-ja-genie-3.html",
     "image_url": "https://justnow.kr/ja/article/an/an25080902-ja/an25080902-ja.png",
@@ -53322,7 +53658,7 @@
   },
   {
     "article_id": "hl25080701-ja",
-    "title": "韓国、光復節（光復の日）特別赦免で前代表の赦免か？",
+    "title": "韓国、光復節（光復の日）特別赦免で前代表の赦免��？",
     "description": "韓国で、元代表の赦免が光復節の特別赦免の対象となる可能性が浮上しています。元大統領からの要請が背景にあり、法務省は8月7日に赦免審査委員会を開催し、対象者を確定します。与野党の反応は分かれており、今後の政治情勢への影響が注目されます。",
     "url": "https://justnow.kr/ja/article/hl/hl25080701-ja/hl25080701-ja-vs.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl25080701-ja/hl25080701-ja.png",
@@ -53611,7 +53947,7 @@
     "description": "韓国政府主導の「国家代表AI」プロジェクトに30社以上のスタートアップが参加する一方、コンソーシアム構造や自己負担、大企業中心の事業運営など、現実的な課題や懸念が高まっています。この記事では、プロジェクトの現状と課題を分析し、韓国のAI生態系が未来の競争力を確保するための制度改善の方向性を探ります。",
     "url": "https://justnow.kr/ja/article/hl/hl25080612-ja/hl25080612-ja-ai.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl25080612-ja/hl25080612-ja.png",
-    "image_alt": "AI 개발실에서 협업 중인 스타트업 엔지니어와 대기업 연구원들",
+    "image_alt": "AI 개발실에서 협업 중인 스타트업 엔지니어와 대기업 연구원���",
     "keywords": [
       "韓国",
       "AI",
@@ -54058,7 +54394,7 @@
   },
   {
     "article_id": "hl26030903-ja",
-    "title": "韓国、イラン渡航禁止措置���発令…国民の安全と経済的影響",
+    "title": "韓国、イラン渡航禁止措置を発令…国民の安全と経済的影響",
     "description": "韓国外交部は、イラン全土への渡航禁止措置を発令しました。これは、イラン国内の政治的混乱と外国人に対する脅威の増加を受け、韓国国民の安全を保護するための措置です。今回の措置は、韓国国民のイラン訪問機会を制限し、イラン経済や観光産業に影響を与える可能性があります。",
     "url": "https://justnow.kr/ja/article/hl/hl26030903-ja/hl26030903-ja-vs.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl26030903-ja/hl26030903-ja.png",
@@ -54259,7 +54595,7 @@
   {
     "article_id": "ai26030924-ja",
     "title": "韓国、AIで山火事予測システムを開発…生態系保護に貢献",
-    "description": "韓国のスタートアップ、フローファイターがAIを活用した雷による山火事予測システムを開発。従来の山火事予防システムの限界を克服し、発生前の予測と鎮火を目指すことで、山火事被害の軽減と生態系保護に貢献する。カナダでの大規模山火事を教訓に、革新的な技術で山火事対策を強化する。",
+    "description": "韓国のスタートアップ、フローファイターがAIを活用した雷による山火事予測シス���ムを開発。従来の山火事予防システムの限界を克服し、発生前の予測と鎮火を目指すことで、山火事被害の軽減と生態系保護に貢献する。カナダでの大規模山火事を教訓に、革新的な技術で山火事対策を強化する。",
     "url": "https://justnow.kr/ja/article/ai/ai26030924-ja/ai26030924-ja-ai.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai26030924-ja/ai26030924-ja.png",
     "image_alt": "How much wildfire prevention is too much? 관련 이미지",
@@ -54867,7 +55203,7 @@
     "description": "韓国・洪川郡の生涯学習センターで、ChatGPTの活用方法を学ぶ講座が開講されます。この講座は、ChatGPTの基本概念から実際の活用事例まで、初心者でも理解しやすいように構成されています。地域住民のAIスキル向上を目指します。",
     "url": "https://justnow.kr/ja/article/ta/ta26030910-ja/ta26030910-ja-gpt.html",
     "image_url": "https://justnow.kr/ja/article/ta/ta26030910-ja/ta26030910-ja.png",
-    "image_alt": "홍천군 챗GPT 활용법 수업, 평생학습센터에서 오픈 관련 이미지",
+    "image_alt": "홍천군 챗GPT 활용법 수���, 평생학습센터에서 오픈 관련 이미지",
     "keywords": [
       "ChatGPT",
       "AI",
@@ -55510,7 +55846,7 @@
   {
     "article_id": "kc26030920-ja",
     "title": "BTS活動休止とHYBE社員の株取引疑惑、K-POPの不透明性再燃",
-    "description": "BTSの活動休止発表を受け、HYBE（ビッグヒットエンターテインメント）の社員による過去の株取引が発覚し、K-POP業界のインサイダー取引疑惑が再燃しています。この問題はファンからの信頼を揺るがし、業界の透明性向上と規制強化を求める声が高まっています。",
+    "description": "BTSの活動休止発表を受け、HYBE（ビッグヒットエンターテインメント）の社員による過去の株取引が発覚し、K-POP業界のインサイダー取引疑惑が再燃しています。この問題はファンから��信頼を揺るがし、業界の透明性向上と規制強化を求める声が高まっています。",
     "url": "https://justnow.kr/ja/article/kc/kc26030920-ja/kc26030920-ja-bts-kpop.html",
     "image_url": "https://justnow.kr/ja/article/kc/kc26030920-ja/kc26030920-ja.png",
     "image_alt": "BTS 활동 중단 소식에 따른 주식 거래 관련 이미지",
@@ -55819,7 +56155,7 @@
   {
     "article_id": "ot260312003-ja",
     "title": "韓国・アマゾン、外部サイトでの買い物機能拡大へ",
-    "description": "韓国で事業展開するアマゾンは、Shop Directプログラムを拡大し、より多くの企業が参加できるようにしました。このプログラムにより、韓国のアマゾン利用者は他の販売業者のウェブサイトでも商品を購入できるようになります。",
+    "description": "韓国で事業展開するアマゾンは、Shop Directプログラムを拡大し、より多くの企業が参加できるようにしました。こ���プログラムにより、韓国のアマゾン利用者は他の販売業者のウェブサイトでも商品を購入できるようになります。",
     "url": "https://justnow.kr/ja/article/ot/ot260312003-ja/ot260312003-ja-ot260312003.html",
     "image_url": "https://justnow.kr/ja/article/ot/ot260312003-ja/ot260312003-ja.png",
     "image_alt": "아마존, 고객이 다른 상인들의 웹사이트에서 쇼핑할 수 있는 프로그램 확대",
@@ -55928,7 +56264,7 @@
   {
     "article_id": "ai260312074933-ja",
     "title": "韓国、OpenAIのResponses API活用で安全なAIエージェント実現",
-    "description": "韓国のOpenAIは、Responses APIとシェルツールを���用し、安全で拡張性の高いAIエージェントを開発しました。これにより、AIエージェントの実際の環境における性能と安定性が向上し、韓国のAI産業に貢献すると期待されています。",
+    "description": "韓国のOpenAIは、Responses APIとシェルツールを活用し、安全で拡張性の高いAIエージェントを開発しました。これにより、AIエージェントの実際の環境における性能と安定性が向上し、韓国のAI産業に貢献すると期待されています。",
     "url": "https://justnow.kr/ja/article/ai/ai260312074933-ja/ai260312074933-ja-openai-responses-api.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai260312074933-ja/ai260312074933-ja.png",
     "image_alt": "OpenAI, Responses API를 활용해 보안적이고 확장 가능한 에이전트 구현",
@@ -56125,7 +56461,7 @@
   {
     "article_id": "ai260312075058-ja",
     "title": "韓国の農業にAI技術、気候変動対策で革新",
-    "description": "韓国のMitti Labsが、AI技術を活用し農業分野における気候変動対策を推進しています。同社の技術は、農家がメタン排出量を削減し、気候変動に効果的に対応できるよう支援します。持続可能な農業への貢献が期待されています。",
+    "description": "韓国のMitti Labsが、AI技術を活用し農業分野に��ける気候変動対策を推進しています。同社の技術は、農家がメタン排出量を削減し、気候変動に効果的に対応できるよう支援します。持続可能な農業への貢献が期待されています。",
     "url": "https://justnow.kr/ja/article/ai/ai260312075058-ja/ai260312075058-ja-mitti-labs-ai.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai260312075058-ja/ai260312075058-ja.png",
     "image_alt": "Mitti Labs의 AI 기술, 기후 변화 대응을 위한 농업 혁신",
@@ -56220,7 +56556,7 @@
     "keywords": [
       "AIコーディング",
       "オープンソース",
-      "韓��",
+      "韓国",
       "Goose",
       "プライバシー"
     ],
@@ -57128,7 +57464,7 @@
   },
   {
     "article_id": "ta26031201-ja",
-    "title": "韓国発、AI検索の新潮���：オプションフローが企業情報アクセスに変革をもたらす",
+    "title": "韓国発、AI検索の新潮流：オプションフローが企業情報アクセスに変革をもたらす",
     "description": "韓国のオプションフローは、高度なAI検索技術でChatGPTとの差別化を図り、企業の情報アクセス性と検索効率を革新します。特に中小企業やスタートアップにとって、競争力強化の鍵となる可能性があります。",
     "url": "https://justnow.kr/ja/article/ta/ta26031201-ja/ta26031201-ja-ai.html",
     "image_url": "https://justnow.kr/ja/article/ta/ta26031201-ja/ta26031201-ja.png",
@@ -57347,7 +57683,7 @@
   {
     "article_id": "tc26031210-ja",
     "title": "韓国民話の美、現代に蘇る…映画が伝統文化に新たな光",
-    "description": "韓国映像大学の洪泰善教授の映画が、伝統民話の独特な美しさを現代の観客に伝え、再上映されています。伝統文化芸術の新たな発展可能性を示唆する作品です。",
+    "description": "韓国映像大学の洪泰善教授の映画が、伝統民話の独特な美しさを現代の観客に伝え、再上映されています。伝統文化芸術の新たな発展可能性を示唆する作品です��",
     "url": "https://justnow.kr/ja/article/tc/tc26031210-ja/tc26031210-ja-tc26031210.html",
     "image_url": "https://justnow.kr/ja/article/tc/tc26031210-ja/tc26031210-ja.png",
     "image_alt": "홍태선 교수의 영화, 한국 민화의 아름다움을 현대에 재해석하다",
@@ -57419,7 +57755,7 @@
     "keywords": [
       "韓国文化",
       "韓服",
-      "民��",
+      "民画",
       "天染",
       "文化交流"
     ],
@@ -57721,7 +58057,7 @@
   {
     "article_id": "ap25090699-ja",
     "title": "韓国のMonday.com AI、プロジェクト管理を自動化し生産性向上",
-    "description": "韓国のMonday.com AIは、AIを活用してプロジェクト管理を自動化するプラットフォームです。リソース配分からスケジュール最適化までをAIが処理し、チームの生産性向���とリスク管理を実現します。導入企業は平均200%のプロジェクト完了速度向上、350%の生産性向上を達成しています。",
+    "description": "韓国のMonday.com AIは、AIを活用してプロジェクト管理を自動化するプラットフォームです。リソース配分からスケジュール最適化までをAIが処理し、チームの生産性向上とリスク管理を実現します。導入企業は平均200%のプロジェクト完了速度向上、350%の生産性向上を達成しています。",
     "url": "https://justnow.kr/ja/article/ap/ap25090699-ja/ap25090699-ja-mondaycom-ai-os-son.html",
     "image_url": "https://justnow.kr/ja/article/ap/ap25090699-ja/ap25090699-ja.png",
     "image_alt": "Monday.com AI: 프로젝트 관리를 완전 자동화하는 지능형 워크 OS SON",
@@ -58585,7 +58921,7 @@
   {
     "article_id": "ap25090656-ja",
     "title": "韓国、教育現場にAI導入で個別最適化学習を推進",
-    "description": "韓国では、教育現場への人工知能（AI）導入が加速しており、生徒一人ひとりの学習進度や理解度に応じた個別最適化された学習環境の構築を目指しています。この取り組みは、教育格差の是正や、未来社会で求められる創造性・問題解決能力の育成に貢献すると期待されています。",
+    "description": "韓国では、教育現場への人工知能（AI）導入が加速しており、生徒一人ひとりの���習進度や理解度に応じた個別最適化された学習環境の構築を目指しています。この取り組みは、教育格差の是正や、未来社会で求められる創造性・問題解決能力の育成に貢献すると期待されています。",
     "url": "https://justnow.kr/ja/article/ap/ap25090656-ja/ap25090656-ja-sonow-sonow-sonow.html",
     "image_url": "https://justnow.kr/ja/article/ap/ap25090656-ja/ap25090656-ja.png",
     "image_alt": "SO,NOW – SO,NOW | SO,NOW",
@@ -58929,7 +59265,7 @@
   {
     "article_id": "ap25101318-ja",
     "title": "韓国発、テキスト入力で動画生成AI「DeeVid」が登場",
-    "description": "韓国のAIプラットフォーム「DeeVid」は、テキスト入力のみでリップシンク、音声、���メラワークを自動生成する革新的な動画制作ツールです。高品質な映像出力とアジア人キャラクターのリアルな表現に強みを持ち、広告やコンテンツ制作の可能性を広げています。",
+    "description": "韓国のAIプラットフォーム「DeeVid」は、テキスト入力のみでリップシンク、音声、カメラワークを自動生成する革新的な動画制作ツールです。高品質な映像出力とアジア人キャラクターのリアルな表現に強みを持ち、広告やコンテンツ制作の可能性を広げています。",
     "url": "https://justnow.kr/ja/article/ap/ap25101318-ja/ap25101318-ja-deevid-ai.html",
     "image_url": "https://justnow.kr/ja/article/ap/ap25101318-ja/ap25101318-ja.png",
     "image_alt": "DeeVid AI 영상 생성, 텍스트만으로 립싱크·오디오 완성",
@@ -59488,7 +59824,7 @@
   {
     "article_id": "co25110501-ja",
     "title": "ブラックロックの暗号資産移動、ビットコイン10万ドル割れを招く",
-    "description": "世界最大の資産運用会社であるブラックロックが、約3億ドル相当の暗号資産をCoinbaseに移転したことが明らかになりました。この動きを受け、ビットコインは6月以来初めて10万ドルを割り込みました。市場は弱気なヘッドアンドショルダーパターンとETFからの資金流出に直面しており、機関投資家の需要減退が懸念されています。",
+    "description": "世界最大の資産運用会社であるブラックロックが、約3億ドル相当の暗号資産をCoinbaseに移転したことが明らかになりました。この動きを受け、ビットコインは6月以来初めて10万ドルを割り込みました。市場は弱気なヘッドアンドショルダーパターンとETFからの資金流出に直面してお���、機関投資家の需要減退が懸念されています。",
     "url": "https://justnow.kr/ja/article/co/co25110501-ja/co25110501-ja-2-9-10.html",
     "image_url": "https://justnow.kr/ja/article/co/co25110501-ja/co25110501-ja.png",
     "image_alt": "블랙록 2억 9천만 달러 암호화폐 이체, 비트코인 10만 달러 붕괴",
@@ -61301,7 +61637,7 @@
   },
   {
     "article_id": "hk25090583-ja",
-    "title": "韓国・ノ��ゥル島文化公園：漢江を一望する音楽と芸術の複合施設",
+    "title": "韓国・ノドゥル島文化公園：漢江を一望する音楽と芸術の複合施設",
     "description": "韓国のノドゥル島文化公園は、漢江に浮かぶ唯一の文化芸術空間です。多様なジャンルの公演が楽しめる音楽施設として、ソウルの新たな文化拠点となっています。自然と都市の景観が融合した空間で、特別な文化体験を提供します。",
     "url": "https://justnow.kr/ja/article/hk/hk25090583-ja/hk25090583-ja-nodeul-island-culture-park-live-music.html",
     "image_url": "https://justnow.kr/ja/article/hk/hk25090583-ja/hk25090583-ja.png",
@@ -61592,7 +61928,7 @@
   {
     "article_id": "hk25090570-ja",
     "title": "韓国・誠水洞カフェ街：旧工場地帯から生まれる新たなコーヒー文化",
-    "description": "韓国の誠水洞カフェ街は、かつての靴・革製品の中心地から、個性的なカフェ文化の発信地へと変貌を遂げました。40以上のカフェが旧工場を改装して営業し、ナイキやサムスンなどの大手ブラ���ドのポップアップストアが定期的に登場しています。",
+    "description": "韓国の誠水洞カフェ街は、かつての靴・革製品の中心地から、個性的なカフェ文化の発信地へと変貌を遂げました。40以上のカフェが旧工場を改装して営業し、ナイキやサムスンなどの大手ブランドのポップアップストアが定期的に登場しています。",
     "url": "https://justnow.kr/ja/article/hk/hk25090570-ja/hk25090570-ja-seongsudong-caf-street-seouls-indie-coffee.html",
     "image_url": "https://justnow.kr/ja/article/hk/hk25090570-ja/hk25090570-ja.png",
     "image_alt": "Seongsu-dong Café Street: Seoul's Indie Coffee Culture Hub in Former Factory District",
@@ -61838,7 +62174,7 @@
   {
     "article_id": "hk25090503-ja",
     "title": "ソウル숲・ソンクス洞：都会のオアシスと文化が調和する空間",
-    "description": "ソウル숲・ソンクス洞エリアは、広大な都市公園と漢江沿いの遊歩道、緑地が一体となった憩いの場です。サイクリングやジョギング、ピクニックに加え、ソンクス洞側のカフェやギャラリーも楽しめます。特に夕暮れ時の訪問がおすすめです。",
+    "description": "ソウル숲・ソンクス洞エリアは、広大な都市公園と漢江沿い��遊歩道、緑地が一体となった憩いの場です。サイクリングやジョギング、ピクニックに加え、ソンクス洞側のカフェやギャラリーも楽しめます。特に夕暮れ時の訪問がおすすめです。",
     "url": "https://justnow.kr/ja/article/hk/hk25090503-ja/hk25090503-ja-hk25090503.html",
     "image_url": "https://justnow.kr/ja/article/hk/hk25090503-ja/hk25090503-ja.png",
     "image_alt": "서울숲 성수동, 도심 속 거대한 녹색 오아시스와 문화 공간의 완벽한 조화",
@@ -62137,7 +62473,7 @@
   },
   {
     "article_id": "it25090121-ja",
-    "title": "韓国の高級ホテル市場に世界的なブランドが続々進出",
+    "title": "韓国の高級ホテル市場に世界的なブ���ンドが続々進出",
     "description": "韓国のソウルが、アマンやリッツカールトンなどのグローバル高級ホテルブランドの戦略的拠点として注目を集めています。韓流ブームの拡大と老朽化したホテルを置き換える需要が、この進出を後押ししています。",
     "url": "https://justnow.kr/ja/article/it/it25090121-ja/it25090121-ja-it25090121.html",
     "image_url": "https://justnow.kr/ja/article/it/it25090121-ja/it25090121-ja.png",
@@ -62456,7 +62792,7 @@
   {
     "article_id": "kb25091829-ja",
     "title": "夏のダメージ肌を救う、ボディレチノールで始めるアンチエイジングケア",
-    "description": "夏の強い日差しで傷んだボディスキンをケアするレチノールガイドです。顔よりも厚いボディスキンがレチノールを安定して受け入れられる理由と、低濃度から始め��正しい使い方を解説します。",
+    "description": "夏の強い日差しで傷んだボディスキンをケアするレチノールガイドです。顔よりも厚いボディスキンがレチノールを安定して受け入れられる理由と、低濃度から始める正しい使い方を解説します。",
     "url": "https://justnow.kr/ja/article/kb/kb25091829-ja/kb25091829-ja-kb25091829.html",
     "image_url": "https://justnow.kr/ja/article/kb/kb25091829-ja/kb25091829-ja.png",
     "image_alt": "보디 레티놀 시대, 여름 손상 피부 회복하는 안티에이징 케어",
@@ -63078,7 +63414,7 @@
     "description": "韓国の医療機器企業ヌール(Noul)は、CES 2026でAIを搭載した子宮頸がん診断システム「miLab CER」を発表しました。自動化された検査で高い診断精度を誇り、世界中の女性の健康増進に貢献することが期待されています。環境に配慮した技術と国際的な認証取得により、グローバル市場での展開を加速します。",
     "url": "https://justnow.kr/ja/article/kh/kh26010813-ja/kh26010813-ja-ai-ces-2026.html",
     "image_url": "https://justnow.kr/ja/article/kh/kh26010813-ja/kh26010813-ja.png",
-    "image_alt": "���을 AI 자궁경부암 진단기 CES 2026 북미 출시",
+    "image_alt": "누을 AI 자궁경부암 진단기 CES 2026 북미 출시",
     "keywords": [
       "AI診断",
       "子宮頸がん",
@@ -63686,7 +64022,7 @@
     "keywords": [
       "韓国",
       "冠岳区",
-      "AIチャッ��ボット",
+      "AIチャットボット",
       "デジタル行政"
     ],
     "category": "lr",
@@ -64938,7 +65274,7 @@
     "description": "韓国のソウル大学、高麗大学、延世大学などの最上位大学で、中途退学者が過去最多を記録しました。これは、韓国政府が発表した医学部定員拡大策が、医学系学部への再挑戦を促したことが主な要因と分析されています。",
     "url": "https://justnow.kr/ja/article/pe/pe25083129-ja/pe25083129-ja-sky.html",
     "image_url": "https://justnow.kr/ja/article/pe/pe25083129-ja/pe25083129-ja.png",
-    "image_alt": "SKY 대학 중도탈락 역�� 최다 의대 증원 영향에 '반수' 급증",
+    "image_alt": "SKY 대학 중도탈락 역대 최다 의대 증원 영향에 '반수' 급증",
     "keywords": [
       "韓国",
       "医学部",
@@ -65260,7 +65596,7 @@
   {
     "article_id": "pe25090103-ja",
     "title": "韓国の8月輸出、伸び率が鈍化。米関税で対米輸出が大幅減",
-    "description": "韓国���8月輸出は1.3%増と、市場予想を下回る結果となりました。特に、アメリカからの関税措置により、対米輸出が大幅に減少しています。韓国政府は、9月上旬に被害を受けた輸出企業向けの支援策を発表する予定です。",
+    "description": "韓国の8月輸出は1.3%増と、市場予想を下回る結果となりました。特に、アメリカからの関税措置により、対米輸出が大幅に減少しています。韓国政府は、9月上旬に被害を受けた輸出企業向けの支援策を発表する予定です。",
     "url": "https://justnow.kr/ja/article/pe/pe25090103-ja/pe25090103-ja-8-13-12.html",
     "image_url": "https://justnow.kr/ja/article/pe/pe25090103-ja/pe25090103-ja.png",
     "image_alt": "한국 8월 수출증가율 1.3%로 둔화 미국 관세로 對美 수출 12% 급감",
@@ -65867,7 +66203,7 @@
   {
     "article_id": "pe25091110-ja",
     "title": "韓国、特検の捜査期間延長と主要人物逮捕で捜査加速",
-    "description": "韓国で、内乱疑惑、キム・ゴンヒ氏関連、海兵隊員死亡事件の3つの特別検察（特検）の捜査期間がそれぞれ延長されました。また、主要な関係者が逮捕されるなど、捜査が活発化しています。国会は、特検法の改正案を可決し、捜査期間の更なる延長を可能にしました。",
+    "description": "韓国で、内乱疑惑、キム・ゴンヒ氏関連、海兵隊員死亡事件の3つの特別検察（特検）の捜査期間がそれぞれ延長されました。また、主要な関係者が逮捕���れるなど、捜査が活発化しています。国会は、特検法の改正案を可決し、捜査期間の更なる延長を可能にしました。",
     "url": "https://justnow.kr/ja/article/pe/pe25091110-ja/pe25091110-ja-30-3.html",
     "image_url": "https://justnow.kr/ja/article/pe/pe25091110-ja/pe25091110-ja.png",
     "image_alt": "내란특검 30일 연장·'삼부토건' 키맨 이기훈 체포·김계환 전 사령관 내일 소환·'더 센' 3대 특검법 통과",
@@ -66693,7 +67029,7 @@
     "description": "韓国の株式市場は、米国のトランプ大統領が米中貿易交渉の進展を発表し、金利引き下げへの期待が高まったことで、9月15日に過去最高値を更新しました。S&P 500とNASDAQがともに最高値を記録しています。",
     "url": "https://justnow.kr/ja/article/pe/pe25091812-ja/pe25091812-ja-pe25091812.html",
     "image_url": "https://justnow.kr/ja/article/pe/pe25091812-ja/pe25091812-ja.png",
-    "image_alt": "美���시, 트럼프 무역협상 진전 발표에 사상 최고치 경신",
+    "image_alt": "美증시, 트럼프 무역협상 진전 발표에 사상 최고치 경신",
     "keywords": [
       "韓国株式市場",
       "米中貿易交渉",
@@ -66735,7 +67071,7 @@
   {
     "article_id": "hl26031905-ja",
     "title": "国際原油価格、高騰止まらず　ブレント油は110ドル超、WTIも100ドル突破",
-    "description": "国際原油価格が上昇し、ブレント原油は1バレルあたり110ドル、WTI原油は100ドルを超えました。中東地域の地政学的緊張と供給不安が価格上昇の主な要因です。この動向は、世界的な物価上昇や経済政策に影響を与える可能性があります。",
+    "description": "国際原油価格が上昇し、ブレント原油は1バレルあたり110ドル、WTI原油は100ドルを超えました。中東地域の地政学的緊張と供給不安が価格上昇の主な要因です。この動向は、世界的な物価上昇や経済政策に影響を与える���能性があります。",
     "url": "https://justnow.kr/ja/article/hl/hl26031905-ja/hl26031905-ja-110wti-100.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl26031905-ja/hl26031905-ja.png",
     "image_alt": "브렌트유 110달러·WTI 100달러 동시 돌파…국제유가 강세 지속",
@@ -68173,7 +68509,7 @@
     "description": "韓国の動作区庁は、職員向けにChatGPTの実践的な活用法に関する6時間の集中研修を実施しました。この研修は、報告書作成や民願処理など日常的な行政業務の効率化を目指したもので、公的部門における生成AI導入の実験的な試みとして注目されています。",
     "url": "https://justnow.kr/ja/article/ta/ta26031511-ja/ta26031511-ja-chatgpt-6.html",
     "image_url": "https://justnow.kr/ja/article/ta/ta26031511-ja/ta26031511-ja.png",
-    "image_alt": "동작구청 공무원, 업무 효율 높이기 위한 ChatGPT 6시간 집중 교육 수료",
+    "image_alt": "동작구��� 공무원, 업무 효율 높이기 위한 ChatGPT 6시간 집중 교육 수료",
     "keywords": [
       "AI",
       "ChatGPT",
@@ -68722,7 +69058,7 @@
     "description": "韓国伝統文化大学が国家遺産分野の専門人材223名を育成し、伝統文化の継承基盤を拡大しました。卒業生たちは多様な分野で実践的な教育を受け、職人精神と現代技術を兼ね備えた専門家として成長しています。",
     "url": "https://justnow.kr/ja/article/tc/tc26031612-ja/tc26031612-ja-223.html",
     "image_url": "https://justnow.kr/ja/article/tc/tc26031612-ja/tc26031612-ja.png",
-    "image_alt": "한국전통문화대 223명 국가유산 전문인력 배출로 전승 기반 확대",
+    "image_alt": "한국전통문화대 223명 국가���산 전문인력 배출로 전승 기반 확대",
     "keywords": [],
     "category": "tc",
     "date": "2026-03-21",
@@ -68964,7 +69300,7 @@
   {
     "article_id": "tc26031618-ja",
     "title": "韓国伝統文化大学、2026年入学試験で12.19倍の高競争率",
-    "description": "韓国伝統文化大学の2026年度入学試験で、平均12.19倍という高い競争率を記録しました。特に国家遺産管理学科が17倍と最も高い人気を集め、伝統文化分野の専門人材育成への需要の高まりが背景にあります。",
+    "description": "��国伝統文化大学の2026年度入学試験で、平均12.19倍という高い競争率を記録しました。特に国家遺産管理学科が17倍と最も高い人気を集め、伝統文化分野の専門人材育成への需要の高まりが背景にあります。",
     "url": "https://justnow.kr/ja/article/tc/tc26031618-ja/tc26031618-ja-12191-171.html",
     "image_url": "https://justnow.kr/ja/article/tc/tc26031618-ja/tc26031618-ja.png",
     "image_alt": "한국전통문화대학교 정시경쟁률 12.19대1 기록…국가유산관리학과 17대1로 최고",
@@ -69434,7 +69770,7 @@
   {
     "article_id": "ai260317094554-ja",
     "title": "マイクロソフトとNVIDIA、AIで韓国製造業の革新を加速",
-    "description": "マイクロソフトとNVIDIAが、物理的AI技術を通じて韓国製造業の変革を推進します。労働力不足や複雑化が進む中、AIは��間の能力を拡張し、工場におけるインテリジェントなシステム導入を促進します。両社の協力により、シミュレーション、データ、AIモデル、ロボット工学が統合され、生産ラインの最適化と品質管理がリアルタイムで実現します。",
+    "description": "マイクロソフトとNVIDIAが、物理的AI技術を通じて韓国製造業の変革を推進します。労働力不足や複雑化が進む中、AIは人間の能力を拡張し、工場におけるインテリジェントなシステム導入を促進します。両社の協力により、シミュレーション、データ、AIモデル、ロボット工学が統合され、生産ラインの最適化と品質管理がリアルタイムで実現します。",
     "url": "https://justnow.kr/ja/article/ai/ai260317094554-ja/ai260317094554-ja-ai.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai260317094554-ja/ai260317094554-ja.png",
     "image_alt": "마이크로소프트와 엔비디아, 물리적 AI로 제조업 혁신 가속화",
@@ -69704,7 +70040,7 @@
     "description": "韓国の全州市が運営する地域経済活性化モデル「全州共に市場」が、2025年に1億4千万ウォン（約1400万円）規模の経済効果を生み出しました。韓国政府は、この成果を基に2026年以降もプログラムを拡充し、地域社会との共生を目指します。",
     "url": "https://justnow.kr/ja/article/hl/hl260317011-ja/hl260317011-ja-14-2026.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl260317011-ja/hl260317011-ja.png",
-    "image_alt": "전주�� '전주함께장터' 1억4천만원 나눔 성과…2026년 프로그램 확대",
+    "image_alt": "전주시 '전주함께장터' 1억4천만원 나눔 성과…2026년 프로그램 확대",
     "keywords": [
       "韓国",
       "全州",
@@ -69760,7 +70096,7 @@
   {
     "article_id": "hl260317008-ja",
     "title": "科学と芸術の融合：マリア・メリアンとジョン・ジェームズ・オーデュボンの生態学",
-    "description": "17世紀の昆虫学者マリア・メリアンと19世紀の鳥類学者ジョン・ジェームズ・オーデュボン。彼らは科学的観察と芸術的表現を融合させ、生態学の基礎を築きました。困難を乗り越え、独創的な業績を残した二人の生涯と業績を、新刊書籍が多角的に分析します。",
+    "description": "17世紀の昆虫学者マリア・メリアンと19世紀の鳥類学者ジョン・ジェームズ・オーデュボン。彼らは科学的観察と芸術的表現を融合させ、生態学の基礎を築きました。困難を乗り越え、独創的な業績を残した二人の生涯���業績を、新刊書籍が多角的に分析します。",
     "url": "https://justnow.kr/ja/article/hl/hl260317008-ja/hl260317008-ja-hl260317008.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl260317008-ja/hl260317008-ja.png",
     "image_alt": "마리아 지뷜라 메리안과 존 제임스 오듀본, 과학과 예술의 경계를 허문 두 생태학자 신간 출간",
@@ -70212,7 +70548,7 @@
   {
     "article_id": "hl260317038-ja",
     "title": "韓国：MWCバルセロナで最新スマホ技術をチェック",
-    "description": "韓国の��ャーナリスト、ポール・カーター氏が、スペイン・バルセロナで開催されたモバイル・ワールド・コングレス（MWC）で最新のスマートフォン、ガジェット、技術トレンドを調査しました。BBCの番組「Tech Now」で紹介された内容は、シンガポール・エアショーのドローン技術に関するレポートと合わせて配信されました。",
+    "description": "韓国のジャーナリスト、ポール・カーター氏が、スペイン・バルセロナで開催されたモバイル・ワールド・コングレス（MWC）で最新のスマートフォン、ガジェット、技術トレンドを調査しました。BBCの番組「Tech Now」で紹介された内容は、シンガポール・エアショーのドローン技術に関するレポートと合わせて配信されました。",
     "url": "https://justnow.kr/ja/article/hl/hl260317038-ja/hl260317038-ja-korea-mwc-barcelona-latest-smartphone-technology.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl260317038-ja/hl260317038-ja.png",
     "image_alt": "韓国のポール・カーター氏がMWCバルセロナで最新のスマートフォン技術を調査する様子",
@@ -70455,7 +70791,7 @@
   },
   {
     "article_id": "hl260317046-ja",
-    "title": "CNNヒーロ��ズ、ケリー・リパとアンダーソン・クーパーが司会のスター特番を放送",
+    "title": "CNNヒーローズ、ケリー・リパとアンダーソン・クーパーが司会のスター特番を放送",
     "description": "CNNが、世界食糧計画を支援するホセ・アンドレス氏や、ウクライナ支援に尽力するショーン・ペン氏など、著名人の社会貢献活動を紹介する特別番組「CNNヒロース: オールスター・トリビュート」を放送します。番組は12月11日に生放送されます。",
     "url": "https://justnow.kr/ja/article/hl/hl260317046-ja/hl260317046-ja-cnn-heroes-all-star-tribute.html",
     "image_url": "https://justnow.kr/ja/article/hl/hl260317046-ja/hl260317046-ja.png",
@@ -70510,7 +70846,7 @@
   {
     "article_id": "kc26030926-ja",
     "title": "BTS、ビルボード200で6度目の1位！活動休止後も世界を魅了",
-    "description": "韓国の音楽グループBTSが、活動休止後も世界的な音楽チャートで高い人気を維持しています。今回、アメリカの主要音楽チャート「ビルボード200」で6度目の1位を獲得し、そのグローバルな影響力を改めて証明しました。",
+    "description": "韓国の音楽グループBTSが、活動休止後も世界的な音楽チャートで高い人気を維持しています。今回、アメリカの主要音楽チャート「ビルボード200」で6度目の1位を獲得し、そのグローバルな影響力を改め��証明しました。",
     "url": "https://justnow.kr/ja/article/kc/kc26030926-ja/kc26030926-ja-bts-200-1.html",
     "image_url": "https://justnow.kr/ja/article/kc/kc26030926-ja/kc26030926-ja.png",
     "image_alt": "BTS, ‘빌보드 200’ 여섯 번째 1위 달성 관련 이미지",
@@ -70838,7 +71174,7 @@
   },
   {
     "article_id": "pb26031002-ja",
-    "title": "韓国大統領の支持率、小幅上昇も経済不安が影",
+    "title": "韓国大統領の支持率、小幅上���も経済不安が影",
     "description": "韓国大統領の支持率は一時的に上昇しましたが、経済状況の悪化や社会不安が長期的な支持率に影響を与える可能性があります。政策効果と国民の期待とのバランスが重要となります。",
     "url": "https://justnow.kr/ja/article/pb/pb26031002-ja/pb26031002-ja-582.html",
     "image_url": "https://justnow.kr/ja/article/pb/pb26031002-ja/pb26031002-ja.png",
@@ -71104,7 +71440,7 @@
   {
     "article_id": "kh26031004-ja",
     "title": "脂肪肝予防には食事と運動が鍵！韓国の研究が示す効果",
-    "description": "脂肪肝は肝臓に脂肪が蓄積する疾患で、���篤な合併症を引き起こす可能性があります。韓国の研究で、単純なダイエットよりも食物繊維の摂取と規則的な運動が脂肪肝の改善に効果的であることが明らかになりました。",
+    "description": "脂肪肝は肝臓に脂肪が蓄積する疾患で、重篤な合併症を引き起こす可能性があります。韓国の研究で、単純なダイエットよりも食物繊維の摂取と規則的な運動が脂肪肝の改善に効果的であることが明らかになりました。",
     "url": "https://justnow.kr/ja/article/kh/kh26031004-ja/kh26031004-ja-kh26031004.html",
     "image_url": "https://justnow.kr/ja/article/kh/kh26031004-ja/kh26031004-ja.png",
     "image_alt": "지방간 감소법 관련 이미지",
@@ -72411,7 +72747,7 @@
   {
     "article_id": "ai260311201613-ja",
     "title": "2025年、韓国社会のトレンド予測：デジタルと共生する価値消費",
-    "description": "「トレンド・コリア」のチョン・ミヨン代表の分析から、2025年の韓国社会の主要なトレンドを読み解きます。デジタルネイティブ世代の価値消費の拡大と技術受容性の変化が社会全体に影響を与え、超個別化と持続可能性の融合が次世代トレンドの核心となるでしょう。",
+    "description": "「トレンド・コリア」のチョン・ミヨン代表の分析から、2025年の韓���社会の主要なトレンドを読み解きます。デジタルネイティブ世代の価値消費の拡大と技術受容性の変化が社会全体に影響を与え、超個別化と持続可能性の融合が次世代トレンドの核心となるでしょう。",
     "url": "https://justnow.kr/ja/article/ai/ai260311201613-ja/ai260311201613-ja-2025.html",
     "image_url": "https://justnow.kr/ja/article/ai/ai260311201613-ja/ai260311201613-ja.png",
     "image_alt": "2025년 한국 사회트렌드 전망: '트렌드 코리아' 전미영 대표가 읽은 미래 패러다임",
