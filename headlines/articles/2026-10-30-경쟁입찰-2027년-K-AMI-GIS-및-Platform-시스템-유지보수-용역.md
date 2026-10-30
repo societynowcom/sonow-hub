@@ -1,0 +1,34 @@
+---
+title: "[경쟁입찰] 2027년 K-AMI GIS 및 Platform 시스템 유지보수 용역"
+description: "한전KDN(주) · 마감 2026-12-09 11:00 · 4억"
+date: "2026-10-30"
+category: "NEWS"
+image: "https://www.society-now.com/sonow/article/gis/gis-R26BK01799724/gis-R26BK01799724.png"
+keywords: ""
+source: "SO,NOW"
+url: "https://www.society-now.com/sonow/article/gis/gis-R26BK01799724/gis-R26BK01799724.html"
+lang: "ko"
+---
+
+# [경쟁입찰] 2027년 K-AMI GIS 및 Platform 시스템 유지보수 용역
+
+**NEWS** | 2026.10.30 | SO,NOW
+
+한전KDN(주) · 마감 2026-12-09 11:00 · 4억
+
+> **[Read full article on SO,NOW](https://www.society-now.com/sonow/article/gis/gis-R26BK01799724/gis-R26BK01799724.html)**
+
+## Related
+
+- [2026년 하반기 소나무재선충병 방제(기타고사목) 감리용역 (수의시담)](./2026-10-30-2026년-하반기-소나무재선충병-방제기타고사목-감리용역-수의시담.md) (2026.10.30)
+- [2026년 하수관로 개량공사 GIS DB구축 용역(치수팀)](./2026-10-30-2026년-하수관로-개량공사-GIS-DB구축-용역치수팀.md) (2026.10.30)
+- [초대형 해상풍력시스템 테스트베드용 부유식 해상풍력발전기의 해저케이블 연결을 위한 고정식 GIS 플랫폼 사양설계](./2026-10-30-초대형-해상풍력시스템-테스트베드용-부유식-해상풍력발전기의-해저케이블-연결을-위한-고정식-GIS-플랫폼-사양설.md) (2026.10.30)
+
+## More
+
+- 🤖 [식품안전정보원, AI로 해외제조업소 등록 심사 3일→1일 단축](../tech-ai/articles/2026-10-27-식품안전정보원-AI로-해외제조업소-등록-심사-3일1일-단축.md)
+- 💰 [중국 증시 혼조 마감, 상하이 0.19%↑ 창업판 1.71%↓](../economy/articles/2026-10-26-중국-증시-혼조-마감-상하이-019-창업판-171.md)
+
+---
+
+**[Full Article → SO,NOW](https://www.society-now.com/sonow/article/gis/gis-R26BK01799724/gis-R26BK01799724.html)** | *[Home](../../README.md) | [📰 HEADLINES](../README.md)*
